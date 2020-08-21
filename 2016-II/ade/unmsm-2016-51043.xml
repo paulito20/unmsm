@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) La homeopatía, medicina alternativa creada en 
+1796 por Samuel Hahnemann, se basa en la doctrina 
+de que lo similar cura lo similar, es decir, una sustancia 
+que cause los sintomas de una enfermedad en personas 
+sanas curará algo parecido en personas enfermas. 
+(II) La homeopatía es considerada una pseudociencia, 
+dado que se ha descubierto que sus remedios no son 
+más efectivos que los placebos, razón por la cual los
+cientificos dudan de su eficia y la consideran como 
+una pseudoexplicación. (III) Hahnemann creía que 
+las causas subyacentes de las enfermedades eran 
+fenómenos que llamó miasmas y que los remedios 
+homeopáticos actuaban sobre ellas. (IV) Según la 
+doctrina homeopática de Hahnemann, se debe 
+considerar la totalidad de los síntomas de los pacientes, 
+rasgos de personalidad, estado físico e historia de vida. 
+(V) Originalmente, el creador de la homeopatía postuló 
+solo tres miasmas, de las cuales la más importante era la 
+psora (“picazón” en griego), descrita como relacionada 
+a cualquier enfermedad picante de la piel. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>V</a>
+		<a>I</a>
+		<a>III</a>
+		<a>II</a>
+		<a>IV</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>El tema central del texto es la homeopatía como 
+medicina alternativa, según Samuel Hahnemann. 
+En ese sentido, se elimina la oración II por el criterio 
+de contradicción, ya que cuestiona la eficacia de 
+esta medicina. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

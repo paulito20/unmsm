@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Como recuerdo de cumplea�os, Teresa obsequió a 
+sus invitados vasos decorativos elaborados por ella. 
+Para ello, empleó 50 vasos de vidrio transparentes, 
+con forma de cilindro circular recto y de 6 cm de 
+altura. En su interior, cada vaso tiene un diámetro 
+de 5 cm y contiene un gel de color, cuya cantidad 
+es la mitad de la capacidad del recipiente. Si todos 
+los vasos son de pared lisa y tienen una base de 
+1 cm de grosor, ¿cuál es el volumen de gel que 
+empleó Teresa? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

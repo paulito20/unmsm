@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Congoja, aflicción, angustia, 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>enfado</a>
+		<a>tribulación</a>
+		<a>espasmo</a>
+		<a>temor</a>
+		<a>inquietud</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>La serie está conformada por los términos congoja, 
+aflicción y angustia, cuya relación se basa en la 
+sinonimia. Por ello, la palabra que completa la 
+serie es tribulación, que significa pena, disgusto o 
+aflicción muy grande que siente una persona. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

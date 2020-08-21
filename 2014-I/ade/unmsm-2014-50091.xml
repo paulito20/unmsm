@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>En una reaccion quimica..............., el incremento de la tempuratura desplaza el equilibrio hacía la...............y la constante de equilibrio...............</q>
+	<q2></q2>
+	<as t="R" correcta="">
+		<a>endotermica-derecha-se incrementa</a>
+		<a>exotermica-izquierda-permanece constante</a>
+		<a>endotermica-izquierda-disminuye</a>
+		<a>exotermina-derecha-permanece constante</a>
+		<a></a>
+	</as>	
+	<x></x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

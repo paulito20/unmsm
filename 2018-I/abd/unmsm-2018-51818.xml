@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En relación con el poblamiento del continente 
+americano, se han propuesto teorías que postulan 
+diversas rutas por las que los seres humanos 
+pudieron arribar a América. Aunque cada teoría 
+se basa en sus propias evidencias, resulta claro que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>todas las propuestas son excluyentes entre sí.</a>
+		<a>los primeros pobladores fueron europeos.</a>
+		<a>estas rutas no se excluyen mutuamente.</a>
+		<a>el estrecho de Bering es la única ruta válida.</a>
+		<a>el poblamiento tuvo una sola ruta desde 
+	Asia.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Arián tiene 8 a�os de edad y refiere lo siguiente: 
+“Soy malo en matemática, me da miedo, pero mi 
+profesora es muy buena, ella me tiene paciencia, 
+por ejemplo ayer respondí bien cuatro problemas 
+de diez que nos había dejado y me explicó en qué 
+me habia equivocado. Ella dice que mi lectura es 
+buena, pero que me confundo en la operación... 
+A mi mamá no le preocupa mucho mi rendimiento 
+en matemática, ya que dice que mi papá tampoco 
+fue bueno con los números. Ella también me tiene 
+paciencia y yo la quiero mucho”. 
+A partir de lo expresado por Arián, se�ale la 
+información que corresponde a la descripción de 
+su autoconcepto. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Mi profesora de matemática es buena.</a>
+		<a>Respondí bien cuatro problemas de diez.</a>
+		<a>Soy malo en matemática, me da miedo.</a>
+		<a>Mi profesora dice que mi lectura es buena.</a>
+		<a>Mi papá tampoco fue bueno con los 
+	números.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

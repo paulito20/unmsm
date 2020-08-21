@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>(I) La Lima colonial era una de esas urbes que 
+sujetan y repelen, es decir, encadenan. (II) En el 
+siglo XVII, la imagen de Lima era la de una oscura
+villa sin alumbrado publico ni alcantarillado, lejos 
+del adelanto urbano europeo. (III) La Ciudad 
+de los Reyes subsistía de la explotación aurífera 
+administrada por una aristocracia muelle. (IV) Los 
+primeros vecinos lime�os temían perder sus en- 
+comiendas por las disposiciones decretadas en las 
+Nuevas Leyes de Indias. (V) La ciudad de Lima fue 
+asediada permanentemente por piratas e indios 
+durante su existencia colonial.</q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>IV</a>
+		<a>II</a>
+		<a>I</a>
+		<a>III</a>
+		<a>V</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2>El tema central del ejercicio son las penurias de La 
+Lima colonial. Por tal razón, y por disociación se 
+elimina la cuarta oración, pues esta solo plantea 
+los temores de los primeros vecinos lime�os. </x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) La sabana es una gran llanura de suelo arcilloso e 
+impermeable con temperaturas altas durante todo el 
+a�o. (II) En la sabana no hay gran variedad de árbo- 
+les, pues su enorme llanura está cubierta de hierbas. 
+(III) Los árboles tienen una enorme importancia 
+porque aportan materia orgánica y nutrientes a los 
+suelos de estructura arcillosa. (IV) Debido a la exu- 
+berante vegetación herbácea que hay en la sabana, 
+muchos animales herbívoros viven en este ecosis- 
+tema.(V)Las lluvias que se dan en ese ecosistema 
+se concentran en el tiempo de la estación húmeda. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>IV</a>
+		<a>I</a>
+		<a>V</a>
+		<a>III</a>
+		<a>II</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el Perú, de acuerdo a las leyes vigentes y al 
+criterio de circunscripción territorial, el nivel de 
+un gobierno local abarca el
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>departamento y la provincia.</a>
+		<a>departamento y el distrito.</a>
+		<a>distrito y la provincia.</a>
+		<a>caserío y el pueblo.</a>
+		<a>pueblo y el distrito.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

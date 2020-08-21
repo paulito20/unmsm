@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Determine el valor de verdad (V o F) de los 
+siguientes enunciados relativos a la clasidicacion de
+los organismos vivos. 
+I.   El Dominio es una categoría superior al Reino. 
+II.  El taxón Familia incluye varias Clases. 
+III. Los cinco reinos son Archae, Monera, Bacteria, 
+	Eukarya y Plantae. 
+IV. El taxón Clase incluye varios órdenes. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>VFVF</a>
+		<a>FVFV</a>
+		<a>VFFV</a>
+		<a>FVVF</a>
+		<a>VVFF</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

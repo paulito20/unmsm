@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Se puede deducir que el asociacionismo fue</q>
+	<q2></q2>
+	<as t="R" correcta="2">
+		<a>un enfoque sobre el pensamiento contrario al escepticismo.</a>
+		<a>el principal aporte de la filosofía naturalista aristotélica.</a>
+		<a>el sustento de la relación entre memoria y mundo.</a>
+		<a>el sustento de la relación entre memoria y mundo.</a>
+		<a>una perspectiva filosófica combatida por el empirismo.</a>
+	</as>	
+	<x>C</x>
+	<i></i>
+	<x2>Del texto se deduce que el asociacionismo fue el 
+	sustento de la explicación del pensamiento empirista.
+	John Locke recoge la propuesta asociacionista 
+	de Aristóteles, pero agrega que su influjo se da no 
+	solo en la memoria, sino en relación a todo el pensamiento.
+	Por lo tanto, se infiere que dichas ideas 
+	sirvieron de base a la propuesta empirista de Locke.</x2>
+	<i2></i2>
+	<v></v>
+</p>

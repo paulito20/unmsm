@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Con referencia a las hormonas vegetales, es inco- 
+rrecto afirmar que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>algunas de ellas inhiben el crecimiento.</a>
+		<a>se sintetizan en Ã³rganos especializados.</a>
+		<a>se producen en pequeñas cantidades.</a>
+		<a>pueden interactuar entre ellas.</a>
+		<a>regulan las funciones vitales. </a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

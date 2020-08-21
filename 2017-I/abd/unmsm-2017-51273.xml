@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si se comparan las cifras sobre el comercio 
+electrónico, se puede inferir que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>el Perú ofrece una TCAC (Tasa de Creci- 
+	miento Anual Compuesta) negativa en los 
+	últimos cuatro a�os.</a>
+		<a>el Perú posee un mayor número de con- 
+	sumidores exploradores que el promedio 
+	latinoamericano.</a>
+		<a>para el a�o 2018, el Perú mostrará un cre- 
+	cimiento insignificante en su tasa global de 
+	comercio electrónico.</a>
+		<a>en la actualidad, nuestro país ocupa el 
+	segundo lugar en el ranking del comercio 
+	electrónico latinoamericano.</a>
+		<a>al Perú le falta menos de 50 puntos por- 
+	centuales para alcanzar el porcentaje de 
+	comercio electrónico en Latinoamérica.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

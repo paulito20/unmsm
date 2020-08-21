@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Comparando los resultados de las elecciones del 
+2015 con los del 2012, la diferencia más notoria 
+reside en que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>el número de partidos que integrarán el 
+	nuevo parlamento griego es diferente.</a>
+		<a>la cantidad de diputados que ha obtenido 
+	la agrupación Aurora Dorada es mayor.</a>
+		<a>el movimiento de Papandreu, antiguo 
+	aliado del gobierno, sigue vigente.</a>
+		<a>se ha incrementado masivamente la 
+	asistencia del número de votantes griegos.</a>
+		<a>el partido Syriza ha alcanzado la mayor 
+	cantidad de votos escrutados.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>A diferencia del proceso electoral del 2012, en las 
+elecciones del 2015 el hecho más relevante radica 
+en que ha primado la postura de la izquierda sobre 
+la opción conservadora. En tal sentido, el partido 
+izquierdista Syriza se ha impuesto con la mayor 
+cantidad de votos escrutados frente al partido 
+conservador Nueva Democracia.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante el siglo xvi, en Europa, el surgimiento de 
+la burguesía, el desarrollo del capitalismo y las 
+tensiones entre los diversos sectores políticos, fueron 
+transformaciones sociales que produjeron 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>la Guerra de los Cien A�os.</a>
+		<a>la reforma religiosa protestante.</a>
+		<a>las migraciones hac�a el Asia.</a>
+		<a>el desarrollo del régimen feudal.</a>
+		<a>la disolución del Imperio bizantino.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

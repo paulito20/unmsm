@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Las áreas verdes contribuyen con el ornato de 
+las ciudades y convierten a estas en lugares pla- 
+centeros para vivir. (II) Las áreas verdes definen los 
+espacios públicos y otorgan características estéticas 
+a cada ciudad. (III) Las áreas verdes aportan al 
+mejoramiento del medio ambiente y al bienestar de 
+nuestro sistema sensorial. (IV) Las áreas verdes que 
+quedan abandonadas y descuidadas fomentan la 
+inseguridad ciudadana, la delincuencia y el mal vivir. 
+(V) Dentro de las ciudades, la disposición de áreas 
+verdes promueve la práctica de deportes al aire libre. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>IV</a>
+		<a>I</a>
+		<a>III</a>
+		<a>V</a>
+		<a>II</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

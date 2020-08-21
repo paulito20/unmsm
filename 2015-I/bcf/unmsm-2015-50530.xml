@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Uno de los siguientes enunciados es incompatible 
+con lo aseverado en el texto.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Todas las culturas han tenido simultánea-  
+mente una concepción de lo bello y de lo 
+feo.</a>
+		<a>De Aristóteles a Kant, hay un principio 
+sobre la representación de lo feo a través 
+del arte.</a>
+		<a>Lo feo era entendido como una antítesis 
+de lo bello tanto a nivel físico como moral.</a>
+		<a>El arte cristiano mantuvo una valoración 
+totalmente negativa de la concepción de 
+lo feo. </a>
+		<a>En la Antigüedad, la fealdad se enten- 
+día como desproporción y carencia de 
+simetría.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>Resulta incompatible con el texto afirmar que el 
+arte cristiano mantuvo una valoración totalmente 
+negativa de la concepción de lo feo. 
+Como parte de la tradición estética, el arte
+cristiano asumió la valoración de lo feo y no 
+desde�ó la fealdad en sus representaciones. 
+Si bien se trató de un proceso complejo, los 
+artistas cristianos supieron traducir bellamente 
+escenas de fealdad física y moral, como el dolor, 
+el sufrimiento y la muerte. 
+
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

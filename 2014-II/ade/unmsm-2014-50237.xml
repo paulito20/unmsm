@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En un evento deportivo, al que asistieron 16 000 
+personas entre niños y adultos, se recaudÃ³ 
+S/.155 000. Si la entrada de un adulto costÃ³ S/.12 
+y la de un niño S/.8, Â¿cuÃ¡ntos niños asistieron? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>8750</a>
+		<a>8000</a>
+		<a>6750</a>
+		<a>9250</a>
+		<a>7250</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

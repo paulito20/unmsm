@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>(I) Las tecnologías de la información y de la co- 
+municación están provocando profundos cambios 
+en las esferas económica, política y social. (II) Mas 
+allá de los aspectos positivos o negativos que las 
+nuevas tecnologías han brindado a nuestras vidas, 
+es innegable y definitivo que las cosas ya no son 
+como antes. (III) Desde que encendemos la com- 
+putadora por la ma�ana en el trabajo hasta que re-
+cibimos la última llamada en el celular por la noche, 
+estamos envueltos en la telara�a de la tecnología.
+(IV)Como una cárcel de información o como un medio de 
+libertad global, depende de los factores que cada 
+uno tenga en cuenta. (V) El conjunto de innova- 
+ciones tecnológicas se agrupan bajo el término 
+TIC, que implica, entre otras cosas, el estudio, 
+dise�o y desarrollo de la información por medio 
+de sistemas informáticos.</q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>II</a>
+		<a>IV</a>
+		<a>III</a>
+		<a>V</a>
+		<a>I</a>
+	</as>	
+	<x>D</x>
+	<i></i>
+	<x2>El tema principal del ejercicio es el impacto social 
+	de las tecnologías de la información y de la comu- 
+	nicación. En tal sentido, por disociación, se elimina
+	la quinta oracion, pues solo se limita a explicar la 
+	definicion a explicar la definicion del concepto TIC.</x2>
+	<i2></i2>
+	<v></v>
+</p>

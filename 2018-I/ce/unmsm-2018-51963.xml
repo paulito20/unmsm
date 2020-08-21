@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La denominación griega filosofía denota amor a 
+la sabiduría, y es a la vez indicación de la esencia 
+más íntima de la filosofía, esa esencia que durante 
+mucho tiempo no se entendió en su función central,
+a saber, en su finitud. Y esta no queda entendida 
+porque en una actitud de aparente modestia y con 
+una cierta emoción se confiese finalmente que 
+nuestro saber es al cabo fragmentario. Lo decisivo 
+no es querer recorrer hasta el fin, pese a su infinitud, 
+los caminos que supuestamente hayamos podido 
+abrirnos, sino emprender en cada caso un camino 
+nuevo y distinto. 
+Heidegger, Martin (2001). Introducción a la filosofía. 
+
+A partir de la argumentación de Heidegger, se infiere 
+que la esencia de la filosofía consiste en una 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>sabiduría finita y fragmenteria.</a>
+		<a>fragmentación del saber.</a>
+		<a>actitud de modestia ante la sabiduría.</a>
+		<a>búsqueda de la exactitud.</a>
+		<a>incesante búsqueda del saber.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

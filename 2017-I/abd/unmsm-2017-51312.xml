@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿En cuál de las siguientes alternativas hay un error 
+en el empleo de la tilde? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>El profesor se refería a mí cuando hablaba 
+	de los estudiosos.</a>
+		<a>Nos preguntan hasta cuándo nos quedare- 
+	mos en la capital.</a>
+		<a>No estoy inquieto por los resultados; más 
+	bien, estoy relajado.</a>
+		<a>En Navidad te vi caminar sólo por el male- 
+	cón de Miraflores.</a>
+		<a>Ha salido el sol, pero sabemos que aún no 
+	es primavera.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

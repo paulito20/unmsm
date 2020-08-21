@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si no existiesen numerosos fósiles que evidencien 
+la evolución de las extremidades, entonces 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>se habría fortalecido la teoría evolucionista 
+	de Darwin.</a>
+		<a>las alas del murciélago y las manos serían 
+	compatibles.</a>
+		<a>se confirmaría la relación evolutiva entre 
+	la aleta y la mano.</a>
+		<a>la teoría de un ancestro común suscitaría 
+	mayor interés.</a>
+		<a>sería muy improbable emparentar manos 
+	con aletas.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>Respecto a lo leído, los numerosos fósiles demues- 
+tran la evolución de las extremidades, es decir, 
+permiten explicar el proceso evolutivo que dio 
+origen a la mano. Si no existiesen esas “pruebas” 
+que demuestran paso a paso el desarrollo de las 
+extremidades, a partir de un ancestro común, 
+sería muy difícil establecer un parentesco entre 
+las manos y las aletas de los peces.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

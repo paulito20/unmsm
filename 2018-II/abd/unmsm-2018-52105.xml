@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Al  comparar  una  célula  de  la  epidermis  de  una 
+persona con una de sus neuronas, es correcto afir- 
+mar que estos dos tipos celulares
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>tienen los mismos ARN.</a>
+		<a>poseen el mismo genoma.</a>
+		<a>poseen ribosomas 70S.</a>
+		<a>transcriben los mismos genes.</a>
+		<a>traducen distintos códigos.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

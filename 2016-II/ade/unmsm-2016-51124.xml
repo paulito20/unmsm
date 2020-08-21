@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante el siglo xx, el crecimiento económico del Perú 
+estuvo afectado por un conjunto de acontecimientos 
+externos e internos: Crac del 29, crisis financieras, 
+subida del precio de las materias primas, descubri- 
+mientos tecnológicos, guerras mundiales, cambios 
+internos de política económica, terremotos, entre 
+otros. Todo lo anterior es sintetizado, anualmente, en 
+un indicador económico global denominado 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="">
+		<a>producto bruto interno.</a>
+		<a>balanza comercial.</a>
+		<a>inversión extranjera.</a>
+		<a>ingreso nacional.</a>
+		<a>inversión bruta.</a>
+	</as>	
+	<x>
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

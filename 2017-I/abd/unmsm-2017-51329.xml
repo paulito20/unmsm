@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El Congreso de la República promulga una ley 
+que reconoce el derecho de todos los trabajadores 
+varones de gozar una licencia remunerada de 30 
+días por paternidad en caso de alumbramiento de 
+su cónyuge o conviviente. Sin embargo, una mu- 
+nicipalidad distrital en Lima se niega a reconocer 
+el beneficio a sus empleados que se encuentran 
+incursos en los alcances de la referida norma. ¿Qué 
+garantía constitucional pueden interponer los afec- 
+tados contra la autoridad renuente? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>acción de hábeas data</a>
+		<a>acción popular</a>
+		<a>acción de amparo</a>
+		<a>acción de inconstitucionalidad</a>
+		<a>acción de cumplimiento</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

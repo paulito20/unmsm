@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Paolo tiene más de 17 kg de arroz. Tiene también 
+una balanza de dos platillos y cuatro pesas cuyos 
+pesos son de 3 kg, 4 kg, 7 kg y 11 kg. ¿Cuántas 
+pesadas,  como  mínimo,  tendrá  que  realizar  para 
+pesar 17 kg de arroz? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>3</a>
+		<a>4</a>
+		<a>5</a>
+		<a>2</a>
+		<a>1</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

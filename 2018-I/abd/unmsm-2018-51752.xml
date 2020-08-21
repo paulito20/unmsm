@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De acuerdo con el análisis desarrollado en el texto, 
+Popper considera que las revoluciones científicas 
+podrían ser ..............., mientras que Kuhn sostiene 
+que son ............... 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>discontinuas - continuas.</a>
+		<a>permanentes - esporádicas.</a>
+		<a>efímeras - duraderas.</a>
+		<a>reiterativas - espontáneas.</a>
+		<a>eventuales - persistentes.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>Popper sostiene que las revoluciones científicas po- 
+drían ser permanentes, mientras que Kuhn sostiene 
+que son esporádicas o eventuales. La discrepancia 
+entre ambos epistemólogos es cuán rápido cambia 
+la ciencia. Mientras que para Popper la revolución 
+es constante, para Kuhn el cambio es a largo plazo, 
+es decir, ocasional. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

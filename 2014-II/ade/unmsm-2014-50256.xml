@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Calcule la suma de los radios de todas las 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>41</a>
+		<a>24</a>
+		<a>25</a>
+		<a>57</a>
+		<a>42</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

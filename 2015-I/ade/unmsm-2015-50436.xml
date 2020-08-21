@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la Facultad de Ciencias Sociales de la UNMSM, 
+se realizará un campeonato de fulbito con seis 
+equipos. Si jugaran todos contra todos, ¿cuántos 
+partidos deberán programarse como mínimo? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>12</a>
+		<a>10</a>
+		<a>14</a>
+		<a>8</a>
+		<a>15</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

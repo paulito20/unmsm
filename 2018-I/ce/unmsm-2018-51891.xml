@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A una se�ora le preguntan la hora y ella responde: 
+“Dentro de 15 minutos mi reloj marcará 9 h 
+45 min”. Si el reloj de la se�ora está adelantado 
+10 minutos respecto de la hora real, ¿cuál fue la 
+hora real hace 25 minutos? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>9 h 15 min</a>
+		<a>9 h 5 min</a>
+		<a>8 h 45 min</a>
+		<a>8 h 35 min</a>
+		<a>8 h 55 min</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

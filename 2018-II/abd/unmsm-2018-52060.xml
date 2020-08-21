@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dos  jóvenes  mayores  de  18  a�os,  hijos  de  pe- 
+ruanos  y  residentes  desde  ni�os  en  Sudáfrica, 
+deciden  afincarse  en  el  Perú  para  establecer  una 
+empresa  de  turismo  de  aventura.  ¿Qué  requisito 
+se les exige para que puedan ejercer sus derechos 
+ciudadanos? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Autorización de Migraciones</a>
+		<a>Renuncia a la ciudadanía sudafricana</a>
+		<a>Permiso del Jurado Nacional de Elecciones</a>
+		<a>Inscripción electoral</a>
+		<a>Obtención de una autorización judicial</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

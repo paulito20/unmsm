@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El vocablo PRODUCTIVO se emplea en el sentido de 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>copioso.</a>
+		<a>eficaz.</a>
+		<a>competitivo.</a>
+		<a>emergente.</a>
+		<a>dinámico.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>El vocablo PRODUCTIVO adquiere el sentido de 
+COMPETITIVO. En el texto se se�ala que Cajamarca 
+es una de las regiones menos competitivas y, 
+posteriormente, se agrega que el sector agropecuario 
+es el menos productivo del país. De allí se infiere 
+que el término PRODUCTIVO asume el significado 
+de COMPETITIVO. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

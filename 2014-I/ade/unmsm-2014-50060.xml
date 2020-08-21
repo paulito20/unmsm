@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Señale la opcion donde aparecen hiato,diptongo y triptongo respectivmente.</q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>Estefania viajara a Paraguay.</a>
+		<a>Paula huyo por e huaico.</a>
+		<a>Faustino es un quia cordial.</a>
+		<a>Mi ahijado fue a esa babia.</a>
+		<a>Iremos a Huancayo en tranvia.</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

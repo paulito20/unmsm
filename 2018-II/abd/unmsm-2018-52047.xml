@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las  construcciones  causales,  ilativas  y  finales  (o 
+de finalidad) expresan relaciones de causa-efecto. 
+
+I.  Renato  se  quitó  la  chompa  porque  sentía  mu- 
+	chísimo calor. 
+II. Estudiaba todos los días para aumentar sus co- 
+	nocimientos. 
+III.Todavia sique en cassa, asi que podemos llamarlo
+	sin problemas.
+
+a.  Ilativa 
+b.  Causal 
+c.  Final  
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Ia, IIb, IIIc</a>
+		<a>Ib, IIc, IIIa</a>
+		<a>Ic, IIa, IIIb</a>
+		<a>Ib, IIa, IIIc</a>
+		<a>Ia, IIc, IIIb</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

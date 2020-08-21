@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la figura, la rueda de radio R pasa de P a Q, 
+dando cuatro vueltas completas. Si PQ=80p cm, 
+halle el valor de R. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>10p cm</a>
+		<a>8 cm</a>
+		<a>8p cm</a>
+		<a>9 cm</a>
+		<a>10 cm</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

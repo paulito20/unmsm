@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En muchos casos, en solo una ecuación química 
+balanceada se representa la suma de varias etapas 
+elementales, es decir, una serie de reacciones sen- 
+cillas que, a nivel molecular, representa el avance 
+de la reacción global. A la secuencia de etapas ele- 
+mentales que conduce a la formación de productos 
+se le denomina 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>mecanismo de reacción.</a>
+		<a>estados de transición.</a>
+		<a>molecularidad de la reacción.</a>
+		<a>complejos activados.</a>
+		<a>evolución de intermediarios.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

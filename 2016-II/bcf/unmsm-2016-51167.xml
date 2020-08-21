@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En virtud de la información proporcionada en 
+ambos cuadros, y a pesar de no estar viviendo una 
+posibilidad de enfrentamiento bélico, se puede 
+sostener que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>nuestros países vecinos han incrementado 
+	sus gastos en defensa.</a>
+		<a>los contratos con los abastecedores del sector 
+	son millonarios.</a>
+		<a>el Gobierno está muy interesado en poten- 
+	ciar el sector Defensa.</a>
+		<a>el Gobierno es inocente hasta que se pruebe 
+	lo contrario.</a>
+		<a>Defensa posee un valor intrínseco mayor 
+	que Educación.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

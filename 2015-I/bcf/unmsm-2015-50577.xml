@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El general Ollanta, personaje del drama quechua 
+Ollantay, fue tomado prisionero debido a un ardid 
+preparado por
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Pachacútec.</a>
+		<a>Piqui Chaqui.</a>
+		<a>Rumi Ñahui.</a>
+		<a>Cusi Coyllur.</a>
+		<a>Ima Súmac.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

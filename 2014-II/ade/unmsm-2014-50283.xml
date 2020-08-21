@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>	Los due�os de una galería me piden ordenar una 
+docena de cuadros que piensan exponer según el 
+criterio de superior a inferior. Ello es posible gracias 
+a la ............... de los valores. </q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>jerarquía</a>
+		<a>necesidad</a>
+		<a>gradualidad</a>
+		<a>dicotomía</a>
+		<a>diferenciación</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

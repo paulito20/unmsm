@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una idea contraria a las conclusiones de Kato y 
+Kazuya es que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>la esquizofrenia está determinada por el 
+	medio ambiente.</a>
+		<a>los experimentos realizados refuerzan las 
+	conclusiones.</a>
+		<a>la esquizofrenia se genera en el córtex cere- 
+	bral frontal.</a>
+		<a>los genes saltarines tienen un rol central en 
+	la esquizofrenia.</a>
+		<a>el entorno resulta cuestionado como eje de 
+	la esquizofrenia.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Según el texto, una idea contraria a las conclu- 
+siones de Kato y Kazuya es que la esquizofrenia 
+está determinada por el medio ambiente, ya que 
+sus investigaciones genéticas demuestran que la 
+principal causa de esta enfermedad mental son los 
+transposones o genes saltarines.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

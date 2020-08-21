@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>En la figura, aBCD es un cuadrado y AE=4cm.Halle el area de la region sombreada</q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>10cm</a>
+		<a>6cm</a>
+		<a>12cm</a>
+		<a>8cm</a>
+		<a>14cm</a>
+	</as>	
+	<x></x>
+	<i></i>
+	<x>D<x2>
+	<i2></i2>
+	<v></v>
+</p>

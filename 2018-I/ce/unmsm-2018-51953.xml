@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la actualidad, Lima Metropolitana alberga 
+casi el 30 % de la población total del país. Esta 
+concentración se debe a las migraciones internas 
+constantes de población, iniciadas con mayor 
+intensidad desde la década de los cuarenta del siglo 
+pasado. Este movimiento alcanza un máximo en 
+los setenta y se mantiene hasta el momento actual, 
+con altos flujos de población migrante cercanos al 
+20 % de la población total. Una de las consecuencias 
+directas que ha generado este proceso es 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>la arborización en las estribaciones andinas 
+	que bordean Lima.</a>
+		<a>el caos vehicular en las principales arterias 
+	de la capital.</a>
+		<a>la aparición de cinturones urbano-marginales 
+	en la capital.</a>
+		<a>el déficit de mano de obra calificada en la 
+	metrópoli.</a>
+		<a>la aparición de grandes emporios comerciales 
+	en la capital.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Sobre la propuesta de Locke de que la razón surge 
+a partir de los aprehensiones sensibles tempranas, 
+Descartes lo objetaría con su tesis de que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>todo lo que usualmente admitimos como 
+	verdadero lo recibimos vía los sentidos.</a>
+		<a>la certeza del conocimiento radica en lo 
+	inteligible antes de que en las sensaciones.</a>
+		<a>es prudente y conveniente desconfiar de las 
+	personas que dudan o nos enga�an.</a>
+		<a>la duda no debe ser resultado de ligereza o 
+	descuido, sino de cautelosa reflexión.</a>
+		<a>conviene desprender el espíritu de los 
+	sentidos con el fin de dudar cada vez menos.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

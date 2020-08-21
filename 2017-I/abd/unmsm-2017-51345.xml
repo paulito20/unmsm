@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Debido a la falta de trabajo en la región Áncash, 
+su presidente decidió otorgar un préstamo para ser 
+utilizado como capital de trabajo. De esta manera, 
+el funcionario público intenta .............. en su región. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>aumentar los precios</a>
+		<a>disminuir la productividad</a>
+		<a>reducir la ganancia</a>
+		<a>preservar la naturaleza</a>
+		<a>estimular la producción</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

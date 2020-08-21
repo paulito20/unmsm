@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el Perú, el dise�o de captación de impuestos, 
+tasas y contribuciones del sector público es res- 
+ponsabilidad del 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>Ministerio de Economía y Finanzas.</a>
+		<a>Congreso de la República.</a>
+		<a>Ministerio de la Producción.</a>
+		<a>Banco Central de Reserva del Perú.</a>
+		<a>Banco de la Nación.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

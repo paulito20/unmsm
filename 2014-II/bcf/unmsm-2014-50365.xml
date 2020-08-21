@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se�ale la alternativa que presenta coma de 
+vocativo.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>Inés va presurosa y atenta; Luis, lento y 
+	abrumado.</a>
+		<a>Hasta ahora, Raúl no ha presentado su 
+	trabajo.</a>
+		<a>Juan es un joven hosco, reservado y 
+	vanidoso.</a>
+		<a>Mónica fue a Chiclayo, pero no visitó 
+	Ferre�afe.</a>
+		<a>Gracias por tus observaciones, mi dilecto 
+	amigo.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

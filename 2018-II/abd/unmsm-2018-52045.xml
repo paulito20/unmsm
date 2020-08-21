@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La coma es un signo de puntuación que se utiliza 
+para  una  variedad  de  casos,  de  allí  sus  diversas  
+denominaciones.  En  el  enunciado  Sobre  la  base 
+de diversas investigaciones, Del Valle reconstru- 
+yó la zona donde se ubicó el último reino inca, la 
+coma utilizada es reconocida como 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>explicativa.</a>
+		<a>apositiva.</a>
+		<a>enumerativa.</a>
+		<a>elíptica.</a>
+		<a>hiperbática.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Santo Tomás de Aquino, debido a la influencia 
+de las obras de Aristóteles, se convenció del papel 
+activo del intelecto en el proceso del conocimiento 
+y acabó afirmando que el intelecto está vacío al 
+inicio, como una tabula rasa en la que hay que 
+empezar a escribir. De acuerdo con esta convicción, 
+se infiere que
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>las ideas se construyen por un método a 
+	priori.</a>
+		<a>la deducción es un proceso complejo y 
+	abstracto.</a>
+		<a>la imaginación permite la formulación de las 
+	nociones.</a>
+		<a>a partir de la deducción se formulan los 
+	conceptos.</a>
+		<a>las nociones se formulaban por proceso de 
+	inducción.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

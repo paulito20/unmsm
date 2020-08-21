@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las pinturas rupestres descubiertas, en la década 
+del 60 del siglo xx, en Toquepala y Lauricocha 
+por Miomir Bojovich y Augusto Cardich en Tacna 
+y Huánuco, respectivamente, pertenecen, según 
+John Rowe, al periodo Precerámico. Estas revelan, 
+entre otras cosas, 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>el uso de instrumentos desdentados.</a>
+		<a>una caza indiscriminada.</a>
+		<a>una caza selectiva y planificada.</a>
+		<a>el desarrollo de la ganadería.</a>
+		<a>la caza de animales gigantes.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

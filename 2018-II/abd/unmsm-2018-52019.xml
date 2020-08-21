@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El  reloj  de  una  catedral  marca  el  número  de  ho- 
+ras tocando tantas campanadas como la hora que 
+registra  en  ese  instante.  Si  el  tiempo  entre  una 
+campanada  y  otra  es  siempre  el  mismo  y  para 
+marcar  las  3  horas  emplea  6  segundos,  ¿cuántos 
+segundos empleará para marcar las 11 horas?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>33</a>
+		<a>45</a>
+		<a>25</a>
+		<a>30</a>
+		<a>50</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si todas las	lenguas estuvieran en relaci�n de
+igualdad, entonces 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>en México sobrevivirían menos lenguas 
+	que las actuales.</a>
+		<a>las lenguas indígenas del planeta se con- 
+	servarían.</a>
+		<a>las lenguas maternas no reflejarían la visión 
+	del mundo.</a>
+		<a>se incrementaría el número de lenguas 
+	moribundas.</a>
+		<a>desaparecerían los idiomas de las culturas 
+	dominantes.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una lancha recorre un tramo de 72 km de un río 
+de la selva en cuatro horas, a favor de la corriente 
+y  recorre  el  mismo  tramo  de  regreso  en  seis  ho- 
+ras,  en  contra  de  la  corriente.  Si  las  velocidades 
+de la lancha y la corriente se mantienen constan- 
+tes, calcule la velocidad de la corriente.
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>4,0 km/h</a>
+		<a>2,5 km/h</a>
+		<a>2,0 km/h</a>
+		<a>3,0 km/h</a>
+		<a>1,5 km/h</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Si las ecuaciones en x, 
+	tienen una raíz común, calcule
+	</q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>5</a>
+		<a>4</a>
+		<a>6</a>
+		<a>1</a>
+		<a>3</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>Tema: Ecuaciones cuadráticas 
+Análisis y procedimiento 
+Sea α la raíz en común de las siguientes ecuaciones 
+en x.</x2>
+	<i2></i2>
+	<v></v>
+</p>

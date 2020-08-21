@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Después  de  pasar  por  sangrientas  experiencias 
+revolucionarias,  _______  fue  el  primer  país  eu- 
+ropeo que logró organizarse mediante el régimen 
+republicano en el siglo XIX.
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Inglaterra</a>
+		<a>Francia</a>
+		<a>Alemania</a>
+		<a>Rusia</a>
+		<a>Espa�a</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

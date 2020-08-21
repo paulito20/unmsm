@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Para el autor, el organismo complejo</q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>solo es capaz de producir acciones deliberadas.</a>
+		<a>precedio temporalmente al organismo simple.</a>
+		<a>no es capaz de producir acciones espontaneas.</a>
+		<a>solo produce acciones ordenadas por un cerebro.</a>
+		<a>presenta solo reurnas de estimulo y de respuesta.</a>
+	</as>	
+	<x>D</x>
+	<i></i>
+	<x2>Segun el autor, el comportamiento(espontaneo o reactivo)de todos los organismos complejos es causado por ordenes procedentes del cerebro.Incluso, sobre este punto, el autor precisa que la mayor complejidad de los organismos implico que las acciones dictadas por el cerebro necesitaran de mayor procesamiento interno.</x2>
+	<i2></i2>
+	<v></v>
+</p>

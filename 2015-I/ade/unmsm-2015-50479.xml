@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Alex Hrdlicka, antropólogo nor teamericano 
+(1869­1943), sostuvo que los primeros pobladores 
+de América llegaron de ............... a través del 
+estrecho de Behring. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Australia</a>
+		<a>Oceanía</a>
+		<a>África</a>
+		<a>Asia</a>
+		<a>Polinesia</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

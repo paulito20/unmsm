@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante la dominación espa�ola, con la finalidad 
+de mantener indiviso el patrimonio acumulado y 
+evitar así dejar en la pobreza a los herederos, se 
+introdujo una institución llamada 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>audiencia.</a>
+		<a>capitanía.</a>
+		<a>cacicazgo.</a>
+		<a>mayorazgo.</a>
+		<a>reducción.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

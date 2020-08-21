@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Inconsistencia, discordancia, contradicción, 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>hesitación</a>
+		<a>falencia</a>
+		<a>ambigüedad</a>
+		<a>incoherencia</a>
+		<a>conflagración</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>Las palabras inconsistencia, discordancia y contra- 
+dicción son sinónimas entre sí y se refieren a una 
+falta de coherencia. 
+Por esa razón, la respuesta es incoherencia.
+Se descarta hesitación y ambigüedad porque impli- 
+can inseguridad o duda. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

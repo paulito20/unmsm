@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Marque la serie de palabras que presentan empleo 
+correcto de las reglas de acentuación gráfica o 
+tildación.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>Azúcar, tonér, sinfín</a>
+		<a>Felízmente, banál, fui</a>
+		<a>Ruín, trusa, despues</a>
+		<a>Fugáz, este, abdomen</a>
+		<a>Truhan, huésped, tórax</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

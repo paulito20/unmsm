@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>La intención principal del autor es esclarecer que la ciencia griega</q>
+	<q2></q2>
+	<as t="R" correcta="2">
+		<a>es un claro efecto cultural del enriquecimiento material y económico.</a>
+		<a>nace como una manifestación del conflicto entre los mitos y la razón.</a>
+		<a>surge de una revolución intelectual con precedentes en el saber oriental. </a>
+		<a>es un remanente del poder de las armas de hierro en el Mediterráneo.</a>
+		<a>resulta del todo inexplicable respecto de sus antecedentes históricos.</a>
+	</as>	
+	<x>C</x>
+	<i></i>
+	<x2>El autor del texto tiene como intención central dilucidar
+	que la ciencia griega surge de una revolución
+	intelectual con antecedentes en el conocimiento 
+	oriental, ya que el contacto con estas culturas
+	milenarias influyó en el desarrollo del asombroso
+	saber griego en ciencia, arte y filosofía.</x2>
+	<i2></i2>
+	<v></v>
+</p>

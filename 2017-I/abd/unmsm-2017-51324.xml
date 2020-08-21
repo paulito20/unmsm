@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Raúl es un bebé que, cuando balbucea emitiendo 
+sonidos cercanos a la sílaba “ma” en presencia de 
+su madre, logra que ella se acerque a él, luego esta 
+le sonríe y repite varias veces dicha sílaba. Rául 
+aprende que esta conducta (el balbuceo) produce 
+una consecuencia deseable (la atención amorosa 
+de su madre); luego, sigue balbuceando para llamar 
+la atención de ella. Este tipo de condicionamiento 
+se denomina 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>clásico.</a>
+		<a>moldeamiento.</a>
+		<a>reforzamiento.</a>
+		<a>castigo.</a>
+		<a>operante.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

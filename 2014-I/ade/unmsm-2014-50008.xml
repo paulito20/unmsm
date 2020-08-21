@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Segun el autor, resulta incompatible con el sentido de la obra de Vallejo la nocion de que el trabajo es una</q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>expresion de union con la tierra.</a>
+		<a>actividad vital gratificante.</a>
+		<a>fuente de realizacion humana.</a>
+		<a>forma de castigo divino.</a>
+		<a>tarea comunitaria feliz.</a>
+	</as>	
+	<x>D</x>
+	<i></i>
+	<x2>Segun el autor, resulta incompatible con el sentido de la obra de Vallejo la nocion de que el trabajo es una forma de casigo divino, porque el trabajo, en la comunidad andina de nuestro vate peruano, se realiza de manera colectiva y alegre.No se ve como un castigo, pues tiene un caracter humanizador.</x2>
+	<i2></i2>
+	<v></v>
+</p>

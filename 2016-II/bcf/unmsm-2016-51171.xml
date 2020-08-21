@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>John Locke se refiere, principalmente. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>a la imposibilidad de un conocimiento 
+	indudable por los límites de la naturaleza 
+	humana.</a>
+		<a>a la fuente original de donde proceden las 
+	verdades indiscutibles obtenidas por los 
+	sentidos.</a>
+		<a>al modo como la razón se desarrolla a partir 
+	de ideas y nombres que adquiere por los 
+	sentidos.</a>
+		<a>al cuestionamiento de todo el saber anterior 
+	surgido por medio de los sentidos y la 
+	memoria.</a>
+		<a>al malentendido que sostiene que las ideas 
+	innatas son verdades impresas en la mente.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

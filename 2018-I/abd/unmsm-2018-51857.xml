@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las proteínas que van a formar los ribosomas 
+ingresan al núcleo a través 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>del retículo endoplasmático rugoso.</a>
+		<a>de los poros en la envoltura nuclear.</a>
+		<a>de los centrosomas y microtúbulos.</a>
+		<a>de vesículas del complejo de Golgi.</a>
+		<a>de proteínas transportadoras.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

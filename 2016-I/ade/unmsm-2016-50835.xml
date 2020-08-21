@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A partir de los resultados de la investigación nipona, 
+se puede inferir que
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>los transposones generan variedad neuronal 
+	durante el desarrollo normal.</a>
+		<a>las enfermedades mentales y el cáncer 
+	preocupan a la humanidad.</a>
+		<a>la patología molecular está alcanzado un 
+	desarrollo inusitado.</a>
+		<a>la movilidad excesiva de los transposones 
+	es perjudicial en el desarrollo.</a>
+		<a>las ideas respecto al origen de las enferme- 
+	dades pueden cambiar.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>Según el texto, de los resultados de la investigación 
+nipona, se puede concluir que las ideas respecto al 
+origen de las enfermedades pueden cambiar, ya que 
+este estudio ha demostrado que la esquizofrenia 
+tiene commo causa principal la intervención de 
+transposones, genes que alteran el desarrollo y 
+funcionamiento del cerebro. Por lo tanto, se refuta la 
+idea generalizada de que las enfermedades mentales 
+se deben a factores externos o ambientales. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

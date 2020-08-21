@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Albert Camus sostenía lo siguiente: Lo que más 
+sorprende de esta obra es que los personajes no 
+se sorprenden de la transformación que sufre el 
+protagonista. En este comentario, se hace refe- 
+rencia al libro 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Crimen y castigo.</a>
+		<a>Las cuitas del joven Werther.</a>
+		<a>Las soledades.</a>
+		<a>La metamorfosis.</a>
+		<a>El ingenioso hidalgo don Quijote de la 
+	Mancha.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Las relaciones sociales de las mujeres y los hom- 
+bres andinos resaltaban el género como el armazón 
+alrededor del cual organizaban la vida.(II) Cadenas 
+de mujeres paralelas a cadenas de hombres cons- 
+tituían los canales del parentesco a lo largo de los 
+cuales fluían los derechos del uso de los recursos 
+comunales. (III) Las mujeres y los hombres actuaban 
+e interpretaban el mundo que les rodeaba como 
+si este estuviera dividido en dos esferas genéricas 
+interdependientes. (IV) Las mujeres y hombres de 
+los Andes conceptualizaban el funcionamiento de 
+la sociedad en términos de relaciones complejas 
+entre sujetos agrupados en dominios sexualmente 
+diferenciados. (V) En los pueblos andinos, los cielos 
+estaban poblados con deidades que tomaban un 
+aspecto masculino cuando se contraponían a las 
+imágenes femeninas de la regeneración terrestre. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>IV</a>
+		<a>I</a>
+		<a>V</a>
+		<a>III</a>
+		<a>II</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

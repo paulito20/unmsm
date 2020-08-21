@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El núclido del flúor se representa por
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>9</a>
+		<a>18</a>
+		<a>19</a>
+		<a>28</a>
+		<a>10</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

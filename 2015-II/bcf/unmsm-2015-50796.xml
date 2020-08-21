@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El relieve peruano se caracteriza por ser variado 
+y complejo. En la faja de territorio comprendido 
+entre el litoral y aproximadamente los 800 metros 
+de altitud, conocida como costa, encontramos 
+numerosas y, a menudo, extensas superficies 
+desÃ©rticas que, en general, son denominadas 
+............... Esta faja presenta una topografÃ­a 
+............... hacía el este, debido a la presencia de 
+las estribaciones andinas, algunas de las cuales 
+llegan al mar. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>pampas - ondulada con colinas y montañas 
+	bajas</a>
+		<a>mesetas - plana a moderada pendiente</a>
+		<a>altos - accidentada y superficie ondulada</a>
+		<a>terrazas - de muy accidentada a ondulada</a>
+		<a>lomas - de colinas altas y superficies muy 
+	planas </a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dos números naturales impares consecutivos 
+cumplen que la diferencia positiva de sus cuadrados 
+es menor que 129. Halle el mayor valor que puede 
+tomar la suma de esos dos números naturales 
+impares.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>60</a>
+		<a>56</a>
+		<a>64</a>
+		<a>52</a>
+		<a>68</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

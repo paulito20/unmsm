@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La cantidad de naranjas que tiene un negociante es 
+a la cantidad de peras como 3 es a 2; y la cantidad 
+de peras es a la cantidad de duraznos que tiene 
+como 3 es a 5. Sabiendo que las cantidades de 
+naranjas y duraznos suman 95, ¿cuántas peras tiene 
+el negociante? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>35</a>
+		<a>30</a>
+		<a>45</a>
+		<a>25</a>
+		<a>40</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

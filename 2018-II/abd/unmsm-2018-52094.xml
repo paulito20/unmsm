@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Empleando  la  segunda  ley  de  Newton,  la  solu- 
+ción de problemas puede ser difícil si las fuerzas 
+involucradas en el problema son complicadas. Un 
+método que simplifica la solución de estos proble- 
+mas es aquel que relaciona la rapidez del objeto al 
+trabajo  realizado  sobre  él  por  la  fuerza  externa. 
+Así, cuando un cuerpo de 2,0 kg de masa está en 
+movimiento  durante  un  cierto  intervalo  de  tiem- 
+po, el módulo de su velocidad pasa de 1,0 m/s a 
+4,0 m/s. En estas condiciones, ¿cuál es el trabajo 
+realizado por la fuerza resultante sobre el cuerpo 
+en este intervalo de tiempo? 
+
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

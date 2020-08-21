@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>	Cuando Helena de Troya aparece por primera vez 
+en el libro de la Ilíada, los ancianos cantan: “¡Oh, 
+qué belleza!” “¡Terrible belleza, belleza como la 
+de una diosa!”. Es decir, el tipo de presencia que 
+impulsa a los hombres a la distracción 
+En el texto anterior, el conector es decir es de tipo 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>digresivo.</a>
+		<a>explicativo.</a>
+		<a>argumentativo.</a>
+		<a>ilativo.</a>
+		<a>concesivo.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

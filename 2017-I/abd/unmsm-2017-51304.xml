@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si se establece un nuevo sistema M de medida 
+angular, en el que un ángulo de una vuelta completa 
+mide 160 M-grados y un M-grado equivale a 
+40 M-minutos, un ángulo de 14 M-grados con 
+16 M-minutos equivaldría, en grados sexagesimales, a 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>24º12’</a>
+		<a>24º30’</a>
+		<a>32º4’</a>
+		<a>32º24’</a>
+		<a>30º20’</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

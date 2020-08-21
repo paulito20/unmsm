@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>Un comerciante compra cierta cantidad de polos 
+	al mismo precio cada uno y a S/.96 la docena. 
+	Luego, vende todo a S/.24 el par y gana S/.1080,</q0>
+	<g0></g0>
+	<q>¿cuántos polos compró?</q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>275</a>
+		<a>280</a>
+		<a>260</a>
+		<a>270</a>
+		<a>265</a>
+	</as>	
+	<x>D</x>
+	<i></i>
+	<x2>Tema: Situaciones aritméticas 
+	Análisis y procedimiento 
+	Se pide el número de polos. 
+	De los datos, se deduce que compra cada polo 
+	a S/.8 y los vende a S/.12.
+	S/.8 y los vende a S/.12. 
+ 
+	96=8		24=12
+	12			2
+		P			P
+		  C			  V		
+							S/.12-S/.8
+	Entonces en 1 polo gana s/.4.
+	Por lo tanto, para ganar S/.1080
+					datos
+		N.ª polos = 1080 =270
+					  4
+					ganacia
+					de 1 polo
+	<v></v>
+</p>

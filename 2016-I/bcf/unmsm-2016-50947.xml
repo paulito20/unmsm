@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El experimento descrito se enfoca en el monitoreo, 
+a nivel neurofisiológico, de lo que serían 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>patrones de actividad cerebral característicos 
+	de los líderes. </a>
+		<a>disminuciones de los ritmos alfa y beta en 
+	la corteza cerebral.</a>
+		<a>recursos de procesamiento cortical de pla- 
+	nificación y control</a>
+		<a>formas de comportamiento cerebral en 
+	relaciones de pareja.</a>
+		<a>las actividades eléctrico-cerebrales de grupos 
+	de los seguidores.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>El experimento descrito se enfoca en el monitoreo, a 
+nivel neurofisiológico, de lo que serían patrones de 
+actividad cerebral característicos de los líderes. Según 
+el texto, mediante la actividad electroencefalográfica 
+cerebral, de un conjunto de participantes, los líderes 
+manifiestan una mayor actividad cerebral en áreas 
+relacionadas a la planificación y control de las tareas 
+del grupo.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

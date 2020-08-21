@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Las extremidades están formadas básicamen­ 
+te por unos huesos largos articulados entre sí y 
+vinculados por diversos músculos para que poda­ 
+mos realizar amplios movimientos. (II) Aunque los 
+miembros superiores y los inferiores comparten su 
+estructura elemental y guardan una gran analogía, 
+lo cierto es que sus funciones están claramente 
+diferenciadas. (III) Los miembros superiores, de 
+manera simplificada, tienen como función princi­ 
+pal la prensión, lo cual nos permite tocar, palpar, 
+reconocer las caracteristicas, agarrar y mover 
+todo tipo de cosas. (IV) Los miembros inferiores, 
+en cambio, cumplen su función principal cuando 
+adoptamos la posición bípeda que constituye la 
+base de sustentación del cuerpo, y nos permiten 
+desplazarnos. (V) En el proceso de hominización, 
+la posición bípeda fue determinante para la evo­ 
+lución posterior del cerebro humano.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>I</a>
+		<a>V</a>
+		<a>III</a>
+		<a>II</a>
+		<a>IV</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>El asunto central del ejercicio es la función de las 
+	extremidades inferiores y superiores. La referen­ 
+cia a la importancia de la posición bípeda en el 
+proceso de hominización resulta impertinente. 
+Por tal razón, por disociación, se elimina la 
+quinta oración. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

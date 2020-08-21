@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Considerando la clasificación de los bienes de 
+acuerdo con la producción, podemos ejemplificar 
+un bien intermedio con el ............... y un bien 
+con ............... 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>árbol - el algodón</a>
+		<a>escritorio - la camisa</a>
+		<a>escritorio - el algodón</a>
+		<a>árbol - la camisa</a>
+		<a>algodón - el árbol</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

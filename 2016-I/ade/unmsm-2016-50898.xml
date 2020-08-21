@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El 15 de agosto del 2007 ocurrió en la ciudad de Pis- 
+co un seísmo provocado por ondas que emergieron 
+del foco u origen y, al llegar a la superficie terrestre, 
+sacudieron las capas superficiales irradiando tridi- 
+mensionalmenteen todas las direcciones. Una	clase 
+de estas oscilaciones son las conocidas como ondas 
+superficiales Rayleigh (R), que se caracterizan por 
+estar compuestas por partículas que vibran en una 
+trayectoria ............. en un plano ............. . 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>circular - vertical</a>
+		<a>elíptica - diagonal</a>
+		<a>circular - horizontal</a>
+		<a>elíptica - vertical</a>
+		<a>elíptica - horizontal</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

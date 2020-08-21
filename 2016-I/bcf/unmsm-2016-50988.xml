@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el enunciado siguiente, ¿cuál es la serie correcta 
+de palabras escritas en mayúsculas y minúsculas que 
+llenan los espacios en blanco? 
+Para promover la cultura, el ................ de 
+Educación, el ................ de Abogados de Lima y 
+la ................ Nacional del Perú han auspiciado la 
+representación teatral de Bodas de ................, de 
+Federico García Lorca. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Ministro - Colegio - Policía - sangre</a>
+		<a>ministro - colegio - Policía - Sangre</a>
+		<a>ministro - Colegio - Policía - sangre</a>
+		<a>ministro - colegio - policía - Sangre</a>
+		<a>Ministro - colegio - Policía - sangre </a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

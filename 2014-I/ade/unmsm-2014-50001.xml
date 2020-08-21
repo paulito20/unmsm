@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Determine el par formado por antonimia.</q>
+    <q0></q0>
+    <as t="R" correcta="2">
+        <a>Amigable, serio</a>
+        <a>Indolente, impasible</a>
+        <a>Dañado, ileso</a>
+        <a>Erudito, docto</a>
+        <a>Egregio, modesto</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2>El término dañado significa perjudicado, lastimado mientras que el término ileso significa que no ha recibido
+        lesion o daño. Por tal razón, se establece una relación de antonimia. Se descarta la alternativa A debido a que
+        amigable es aquello que demuestra e invita a tener una amistad mientras que el término serio implica un
+        comportamiento formal.</x2>
+    <i2></i2>
+    <t></t>
+    <v1></v1>
+    <v2></v2>
+    <v3></v3>
+    <v4></v4>
+    <v5></v5>
+</p>

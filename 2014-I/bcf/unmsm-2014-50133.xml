@@ -1,0 +1,44 @@
+oooo<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>En una asamblea, el número de varones es al número
+	de mujeres como 3 es a 5. El promedio de las 
+	edades de los varones es 40, el de las mujeres es 30 
+	y la suma de todas las edades es 2700.</q0>
+	<g0></g0>
+	<q>¿Cuántas 
+	personas asistieron a la asamblea? </q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>80</a>
+		<a>90</a>
+		<a>60</a>
+		<a>50</a>
+		<a>70</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2>Tema: Planteo de ecuaciones 
+	Referencia 
+	
+	Sabemos: promedio  =   suma de edades
+			 de edades		N.ª de personas 
+			
+		suma de =  (promedio	x(N.ª de personas)
+		edades		de edades)
+		
+	Análisis y procedimiento 
+	Nos piden el N.º de personas asistentes. 
+	Planteamos los datos en el siguiente cuadro.
+	
+			N.º de 		Promedio		Suma de 
+			personas 					edades
+	Varones    3k  		  40			(3k)×40 =120k+
+	Mujeres    5k		  30			(5k)×30 =150k 
+	Dato: suma total de edades es 2700 		    =270k 
+	→  k=10 
+	∴  N.º de personas=3k+5k=8k=80 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

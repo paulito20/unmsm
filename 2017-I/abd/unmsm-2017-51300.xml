@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál es el promedio de especies encontradas en 
+un área de 256 m2? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>15 900</a>
+		<a>16 820</a>
+		<a>17 290</a>
+		<a>18 900</a>
+		<a>17 920</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

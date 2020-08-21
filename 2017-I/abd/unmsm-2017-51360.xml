@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los impulsos nerviosos, conocidos como poten- 
+ciales de acción, son ondas eléctricas que viajan 
+a grandes velocidades; nacen comúnmente en el 
+cuerpo celular de una neurona y se propagan rápi- 
+damente por el axón hac�a su extremo, donde por 
+medio de la sinapsis, el estímulo es transmitido a 
+otra neurona. En este contexto, una fibra nerviosa 
+(axón) se puede considerar como un cilindro de 
+1,0 m de longitud y de 20 mm de diámetro. Si su 
+resistividad es de 2,0 Ω  m, ¿cuál es su resistencia? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

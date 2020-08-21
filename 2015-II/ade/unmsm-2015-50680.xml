@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Maribel ha crecido en un contexto familiar y social 
+favorable, con buena alimentación, adecuada 
+estimulacion ambiental y ha desarrollado el hábito 
+de la lectura; sin embargo, presenta una dificultad 
+para articular fluidamente algunas palabras. 
+A partir de la situación presentada, se puede 
+pensar que Maribel tiene algun tipo de lesion o 
+disfuncion en el
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>cuerpo calloso.</a>
+		<a>bulbo raquídeo.</a>
+		<a>cerebelo.</a>
+		<a>área de Broca.</a>
+		<a>lóbulo temporal.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

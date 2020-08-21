@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El producto per cápita resulta de dividir el PBI 
+entre el número de la población de un país. Por 
+ende, el producto per cápita tiende a 
+cuando el PBI .............. a 
+la población. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>disminuir - aumenta</a>
+		<a>estancarse - aumenta</a>
+		<a>estirarse - disminuye</a>
+		<a>aumentar - crece</a>
+		<a>detenerse - decrece</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A pesar de que la ciencia contemporánea no ha 
+podido resolver las preguntas fundamentales, sus 
+jóvenes representantes 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>persisten con nuevas aproximaciones teóricas.</a>
+		<a>creen que tales problemas nunca tuvieron 
+	sentido.</a>
+		<a>discuten entre sí nuevas posibilidades de 
+	solución.</a>
+		<a>siguen descalificando a la filosofía y a la 
+	religión.</a>
+		<a>han criticado el enfoque experimental de la 
+	ciencia.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

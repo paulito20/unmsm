@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Juan desea comprar una camioneta y decidirá entre 
+los colores gris, negro, azul y guinda. Sin embargo, 
+no quiere comprar ni una camioneta azul ni guinda, 
+pues coincide con el color de los autos de sus 
+amigos, Luis y Pedro. Tampoco quiere elegir entre
+las posibilidades del color del auto que elegirá su 
+padre: negro o marrón. Entonces, se puede afirmar 
+con seguridad que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>Luis tiene un auto de color azul.</a>
+		<a>Juan se decide por el color gris.</a>
+		<a>Pedro tiene un auto de color guinda.</a>
+		<a>El padre de Juan tiene un auto de color 
+	marrón.</a>
+		<a>Juan se decide por el color negro.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

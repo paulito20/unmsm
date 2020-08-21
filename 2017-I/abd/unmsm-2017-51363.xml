@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Para llevar a cabo una reacción química en el 
+laboratorio, se debe determinar las masas de las 
+sustancias. La mol es una de las siete unidades del 
+Sistema Internacional (SI) que nos permite deter- 
+minar la cantidad de sustancia. Calcule la masa, 
+en gramos, de 2 moles de Cu metálico, si su masa 
+atómica es 63,5. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

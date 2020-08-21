@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Rosa, María, Eva y Elsa tienen las profesiones de 
+enfermera, abogada, profesora y psicóloga, no 
+necesariamente en ese orden. Si cada una tiene 
+una sola profesión y, además, se sabe que 
+ 
+- María no es psicóloga, 
+- Elsa y la abogada son amigas de María, 
+- Rosa es enfermera.
+
+¿Quienes son la profesora y la abogada respec- 
+tivamente? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>María y Elsa</a>
+		<a>Elsa y María</a>
+		<a>Eva y María</a>
+		<a>María y Eva</a>
+		<a>Elsa y Eva</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

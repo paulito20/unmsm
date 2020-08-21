@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La siguiente figura está formada por segmentos 
+horizontales y verticales, y las medidas de los tramos 
+están en centímetros. Si se empieza en el punto 
+M, ¿cuál es la menor longitud que debe recorrer 
+la punta de un lápiz, sin separarla del papel, para 
+dibujar dicha figura? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>920 cm</a>
+		<a>900 cm</a>
+		<a>880 cm</a>
+		<a>840 cm</a>
+		<a>860 cm </a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

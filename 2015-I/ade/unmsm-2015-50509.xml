@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Con respecto al método científico, indique si los 
+enunciados son verdaderos (V) o falsos (F) y 
+marque la secuencia correcta. 
+
+( )  Las observaciones deben ser registradas con 
+	exactitud. 
+( )  La hipótesis es una posible respuesta a una 
+	pregunta. 
+( )  La experimentación es la formulación de la 
+	teoría. 
+( )  Los resultados obtenidos siempre confirman 
+	la hipótesis. 
+( )  La teoría es una explicación de gran confia­ 
+	bilidad. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>VFFFV</a>
+		<a>FVFVF</a>
+		<a>VVFFV</a>
+		<a>FFVVF</a>
+		<a>VFVFV</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

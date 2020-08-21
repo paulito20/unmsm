@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el Perú se han elaborado diversas clasificaciones 
+regionales según las variables físicas, climáticas, altitu- 
+dinales, biológicas, hidrográficas, entre otras. Teniendo 
+en cuenta la clasificación de Antonio Brack, ¿cuál es la 
+ecorregión donde predominan las cactáceas, el mito, 
+el huanarpo, el huarango y los pajonales? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Sabana de palmeras</a>
+		<a>Costa desértica</a>
+		<a>Serranía esteparia</a>
+		<a>Bosque seco</a>
+		<a>Bosque tropical</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

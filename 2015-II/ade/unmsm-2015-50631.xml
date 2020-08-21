@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se infiere del texto que la mayoría de las chicas 
+decide inscribirse en letras porque 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>hay más vacantes para estudiar humani- 
+dades.</a>
+		<a>cuentan con mejores habilidades comuni- 
+cativas.</a>
+		<a>se sienten inferiores para estudiar ciencias.</a>
+		<a>utilizan la memoria y no el raz�namiento 
+lógico.</a>
+		<a>la evaluación de los temas es más compleja.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

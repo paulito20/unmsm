@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la segunda mitad del siglo XIX, un factor que 
+contribuyó al resurgimiento de las haciendas de 
+la costa fue el empleo de mano de obra 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>japonesa.</a>
+		<a>indígena.</a>
+		<a>china.</a>
+		<a>alemana.</a>
+		<a>italiana.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

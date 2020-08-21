@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál de los siguientes enunciados es incompatible 
+con lo aseverado en el texto?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>La frenología tuvo una influencia intelectual 
+	significativa a lo largo del siglo xix.</a>
+		<a>El enfoque dualista de la frenología sostuvo 
+	la separación del cerebro y la mente.</a>
+		<a>Gall afirmaba que la facultades mentales 
+	dependían del tama�o de los órganos.</a>
+		<a>Para la frenología, el cerebro es un agregado 
+	de órganos con distintas facultades.</a>
+		<a>Gall sostuvo que los órganos eran identifi- 
+	cables por protuberancias en el cráneo.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>Según el texto, el enunciado incompatible es “El 
+enfoque dualista de la frenología sostuvo la separación 
+del cerebro y la mente”. A partir de lo expuesto por el 
+autor, la frenología planteaba que partes específicas 
+del cerebro poseían facultades psicológicas precisas, es 
+decir, desde su concepción se acepta la relación entre 
+el cerebro y la mente; por lo tanto, se opuso al enfoque 
+dualista que insistía en su separación.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se tiene 12 barras de chocolate, de las cuales 4 están 
+enumeradas con el número 6; 4 con el número 5 y 
+4 con el número 1. Se distribuye las 12 barras en 
+tres bolsas, A, B y C, con igual número de barras. 
+Si la suma de los números de la bolsa A es igual 
+a 19, la de B es igual a 17 y la de C es igual a 12, 
+entonces es cierto que la bolsa C tiene 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>tres barras con el número 1.</a>
+		<a>dos barras con el número 6.</a>
+		<a>dos barras con el número 1.</a>
+		<a>ninguna barra con el número 5.</a>
+		<a>una barra con el número 6.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

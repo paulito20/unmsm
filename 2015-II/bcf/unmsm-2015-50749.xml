@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La suma de la mitad de un número par N con 12 
+es el triple de la quinta parte de dicho número. 
+Halle la suma de las cifras de N. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>5</a>
+		<a>3</a>
+		<a>4</a>
+		<a>6</a>
+		<a>8</a>
+	</as>	
+	<x>B
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

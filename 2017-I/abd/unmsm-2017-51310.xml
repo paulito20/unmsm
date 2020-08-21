@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Lea atentamente el siguiente texto. 
+“Cuando Luis volvió en si, vio la mano del ladrón 
+deslizándose sutilmente entre los pliegues de su 
+gabán. De inmediato, se reincorporó para encarar 
+al bandido y recriminarle la desfachatez del acto. 
+Aun cuando no obtuvo respuesta, sino tan solo 
+la indiferencia del tipo, dio por sentado que no lo 
+molestaría mas”. 
+¿Qué palabras monosílabas deben tildarse? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>aun - de</a>
+		<a>vio - se</a>
+		<a>si - mas</a>
+		<a>dio - que</a>
+		<a>vio - dio</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

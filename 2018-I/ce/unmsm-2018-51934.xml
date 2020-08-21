@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Jorge ha visto que si cede ante los caprichos de 
+su pequeño hijo y le compra el juguete que estÃ¡ 
+pidiendo a gritos en la tienda, el niño deja de gritar. 
+Al comprarle el juguete a su hijo, Jorge aplica el 
+principio conductual conocido como 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>reforzamiento negativo.</a>
+		<a>reforzamiento positivo.</a>
+		<a>castigo positivo.</a>
+		<a>castigo negativo.</a>
+		<a>extinciÃ³n operante.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De acuerdo con el texto, se infiere que la ansiedad
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>afecta solo a los hombres con antecedentes 
+	de enfermedad mental.</a>
+		<a>es un mecanismo que no interviene en la 
+	supervivencia de la especie.</a>
+		<a>puede convertirse, en ciertos casos, en una 
+	enfermedad mental.</a>
+		<a>es relevante solo en el fracaso de nuestras 
+	metas personales.</a>
+		<a>carece de síntomas advertibles para un 
+	observador entrenado.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>Del texto, se infiere que la ansiedad puede con- 
+vertirse, en ciertos casos, en una enfermedad 
+mental, ya que en el último párrafo se sostiene 
+que la ansiedad también puede ser una respuesta 
+patológica, que se caracteriza por una preocupa­ 
+ción o temor exagerado (pánico) ante situaciones 
+normales y sin peligro. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

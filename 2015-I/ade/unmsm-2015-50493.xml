@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un automóvil, en movimiento rectilíneo, acelera 
+uniformemente desde el reposo hasta alcanzar una 
+velocidad de 12,0 m/s y, luego, aplica los frenos
+desacelerando uniformemente hasta detenerse. Si 
+el tiempo total de recorrido fue de 15 s, determine 
+la distancia recorrida. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>90 m</a>
+		<a>180 m</a>
+		<a>120 m</a>
+		<a>150 m</a>
+		<a>80 m</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la ciudad, hay un tragamonedas donde se 
+obsequia premios a la concurrencia. Si el premio 
+mayor es una cantidad de nuevos soles y es un 
+número de tres cifras que lleva algún dígito 8 en 
+su escritura, ¿cuántos números de ese tipo existen?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>648</a>
+		<a>520</a>
+		<a>540</a>
+		<a>252</a>
+		<a>364</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La primera parte del texto gira en torno a la
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>autonomía de los pacientes.</a>
+		<a>responsabilidad en las decisiones.</a>
+		<a>despenalización del homicidio.</a>
+		<a>defensa de la eutanasia.</a>
+		<a>condición del enfermo terminal.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>El texto gira en torno a la defensa de la eutanasia. 
+En el primer párrafo, se exponen los argumentos a 
+favor de la eutanasia; entre ellos destaca la libertad de 
+la persona para elegir no solo cómo vivir sino cómo 
+morir. Esto se aplica a pacientes en estado terminal. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) El cohete VLS-1 colocará en órbita satélites 
+ligeros que estudiarán en detalle el clima terrestre. 
+(II) Este aparato forma parte del ambicioso pro- 
+grama que busca independizar a Brasil respecto 
+del resto de las agencias espaciales extranjeras. 
+(III) Asimismo, por lograr un lanzamiento exitoso, tras una serie 
+de costosos errores. (IV) La tercera prueba para 
+lanzar el VLS-1 provocó una fuerte explosión por 
+la que desafortunadamente murieron 21 personas. 
+(V) La astronomía observacional ha progresado 
+de manera espectacular con el empleo de satélites 
+artificiales. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>III</a>
+		<a>IV</a>
+		<a>V</a>
+		<a>II</a>
+		<a>I</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>El tema del ejercicio nos informa sobre el lanza- 
+miento del cohete VLS-1: proyecto ambicioso de 
+Brasil. Se elimina la quinta oración que habla del 
+avance espectacular de la astronomía observacio- 
+nal, lo cual se disocia del tema abordado por las 
+demás oraciones. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

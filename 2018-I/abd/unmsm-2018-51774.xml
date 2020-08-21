@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los amigos Ricardo, Saúl, Teodoro, Ulises y Víctor 
+viven en un edificio de cinco pisos, cada uno en un 
+piso diferente. Ricardo y Teodoro siempre usan el 
+ascensor cuando suben a visitar a sus amigos, y Saúl 
+vive en un piso adyacente a los de Ulises y Víctor. 
+¿Quién vive en el cuarto piso? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Saúl</a>
+		<a>Víctor</a>
+		<a>Ricardo</a>
+		<a>Ulises</a>
+		<a>Teodoro</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

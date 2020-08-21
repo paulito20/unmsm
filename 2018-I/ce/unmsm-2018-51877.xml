@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El sentido contextual del término REPARADO en 
+el texto es 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>restaurado. </a>
+		<a>arreglado.</a>
+		<a>compuesto.</a>
+		<a>atendido.</a>
+		<a>corregido.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>El sentido contextual del término reparado en 
+el texto es el de atendido. Este término significa 
+prestar atención, tener en cuenta. 
+En el contexto, el autor usa la palabra para referirse 
+a que si hubiesen atendido a lo manifestado por 
+Watson, no se habría perdido el tiempo acusándolo 
+de haber negado la existencia de la conciencia. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

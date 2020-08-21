@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cautivante, agradable, atractivo,
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>generoso</a>
+		<a>cortés</a>
+		<a>diligente</a>
+		<a>dadivoso</a>
+		<a>encantador</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>Los términos cautivante, agradable y atractivo 
+son sinónimos entre sí. En tal sentido, la palabra 
+que completa la serie es encantador (aquello que 
+deja una impresión agradable). 
+Ejemplo 
+Conocí en la fiesta a una chica encantadora. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

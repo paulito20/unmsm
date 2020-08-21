@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A un baile asistió igual número de hombres que de 
+mujeres; cada hombre bailó con todas las mujeres 
+y cada mujer bailó con todos los hombres. Si en 
+total se hicieron 225 parejas distintas, ¿cuántas 
+personas hubo en el baile? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>30</a>
+		<a>35</a>
+		<a>25</a>
+		<a>32</a>
+		<a>40</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

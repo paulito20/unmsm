@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En las elecciones generales de 1980, el arquitecto 
+Fernando Belaunde Terry fue elegido por segunda 
+vez presidente de la República. La primera medida 
+de su gobierno fue la 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>privatización de todas las empresas esta 
+	tales.</a>
+		<a>eliminación del control de la economía.</a>
+		<a>profundización de la reforma agraria.</a>
+		<a>devolución de los medios de prensa 
+	expropiados.</a>
+		<a>aprobación de una nueva constitución 
+	política.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

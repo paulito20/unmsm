@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) La ciudad fragmentada, resultante de la conso- 
+lidación económica moderna, tiene como carac- 
+terística la construcción y ampliación de avenidas 
+ciudad letrada,
+y autopistas.(II) La ciudad 
+altamente jerarquizada a partir del dominio del 
+idioma espa�ol. (III) La ciudad polarizada resulta el 
+desarrollo económico moderno y se caracteriza prin- 
+cipalmente por la oposición entre el cono urbano y 
+el suburbio.(IV) La ciudad compacta, que se define 
+como centro económico y administrativo, presenta
+plaza de armas. (V) La ciudad sectorial se define a 
+partir del desarrollo de la industrialización econó- 
+mica, y su particularidad radica en el surgimiento 
+de los barrios. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>I</a>
+		<a>III</a>
+		<a>V</a>
+		<a>II</a>
+		<a>IV</a>
+	</as>	
+	<x>D
+	</x>
+	<i></i>
+	<x2>El ejercicio aborda como asunto central las carac- 
+terísticas de los tipos de ciudad dentro del contexto 
+del desarrollo económico moderno. En tal sentido, 
+se elimina la segunda oración, ya que esta se refiere 
+a un tema distinto: a una ciudad colonial letrada en 
+base al dominio del idioma espa�ol. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una centrífuga cambia su rapidez angular unifor­ 
+memente de 2p rad/s a 8p rad/s en 3 s. ¿Cuál es 
+su desplazamiento angular?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>4p rad</a>
+		<a>3p rad</a>
+		<a>10p rad</a>
+		<a>15p rad</a>
+		<a>6p rad</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

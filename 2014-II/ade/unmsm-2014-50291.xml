@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un auto de 1500 kg, cuyo motor genera una 
+potencia nominal de 375 kW, acelera de 0 a 
+30 m/s en 5,0 s. ¿Cuál es la potencia, en porcentaje 
+respecto a la nominal, desarrollada en dicho 
+intervalo de tiempo?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>38%</a>
+		<a>34%</a>
+		<a>36%</a>
+		<a>32%</a>
+		<a>30%</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

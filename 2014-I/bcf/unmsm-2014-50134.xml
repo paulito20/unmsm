@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>Luis compró una bolsa con caramelos a S/.12 
+	y vendió la cuarta parte con una ganancia del 
+	40%; luego vendió la sexta parte del total con 
+	una ganancia del 50%.  </q0>
+	<g0></g0>
+	<q>¿Con qué porcentaje de  
+	ganancia debe vender el resto si busca obtener  
+	una ganancia total del 30%?</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>25</a>
+		<a>15</a>
+		<a>18</a>
+		<a>21</a>
+		<a>20</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2>Tema: Situaciones aritméticas
+	Análisis y procedimiento 
+	Se pide el porcentaje de ganancia en la venta  
+	del resto.
+	Respecto a la bolsa de caramelos (S/.12) se 
+	plantean 3 ventas. 
+				
+					1.venta 
+					de 1 de la bolsa
+					   4
+					cuyo costo 			G1 =40 %(3)=S/.1,2 
+					es S/.3 
+					con 40 % de 
+					ganancia 
+					
+					2.  venta 
+					de 1 de la bolsa
+					   6
+					cuyo costo 			G2 =50 %(2)=S/.1
+					es S/.2 
+					con 50 % de 
+ 
+					3.  venta 
+					el resto 
+					cuyo costo 			G3 =x %(7)
+					es S/.7 
+					con x % de 
+					ganancia
+		
+	Se busca una ganancia total del 30%, así 
+			G +G +G =30%(S/.12) 
+			1,2+1+x%(7)=3,6
+				x   x (7)  = 1,4
+			   100 
+	∴  x=20
+ 
+
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

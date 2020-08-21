@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la figura se muestra un cilindro en el que se han 
+colocado tres esferas iguales, siendo el volumen de 
+cada una de ellas igual a 36p cm . Halle el volumen 
+del cilindro 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

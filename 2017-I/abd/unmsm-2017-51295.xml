@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las restricciones pesqueras impuestas por el Mi- 
+nisterio de Pesquería obligan a cierta empresa a 
+pescar como máximo 2000 toneladas de bonito y 
+2000 toneladas de corvina; además, en total, las 
+capturas de estas dos especies no pueden pasar 
+de las 3000 toneladas. Si la utilidad por la venta 
+del bonito es de 1000 soles/ton y por la venta de 
+la corvina es de 1500 soles/ton, determine cuántas 
+toneladas de cada tipo debe pescar y vender la 
+empresa para obtener el máximo beneficio. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>2000 de bonito, 1000 de corvina</a>
+		<a>1500 de bonito, 1500 de corvina</a>
+		<a>1000 de bonito, 2000 de corvina</a>
+		<a>1200 de bonito, 1600 de corvina</a>
+		<a>900 de bonito, 2000 de corvina</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En los siglos xv y xvi, la cultura europea fue trans- 
+formada por el movimiento renacentista, que se 
+manifestó en las costumbres, la ciencia, la poesía 
+y las artes plásticas. El cambio cultural se inició 
+en Italia, tierra natal de Leonardo, Miguel Ángel 
+y Rafael. Si se considera las influencias, podemos 
+afirmar que el arte renacentista estuvo inspirado en 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>los valores estéticos de la Antigüedad Clásica.</a>
+		<a>la arquitectura antigua de Egipto y Mesopo- 
+	tamia.</a>
+		<a>el arte sacro romántico, gótico y bizantino.</a>
+		<a>los ideales libertarios de la filosofía francesa.</a>
+		<a>la exageración y dramatismo del gusto ba- 
+	rroco.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

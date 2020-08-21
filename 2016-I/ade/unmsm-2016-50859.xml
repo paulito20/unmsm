@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Al calificar los exámenes de matemática en un 
+salón, se obtuvieron los siguientes resultados: 
+dos estudiantes obtuvieron 08; uno obtuvo 
+09; dos estudiantes, 10; seis estudiantes, 11; 
+cinco estudiantes, 13; trece estudiantes, 14; 
+once estudiantes, 15; tres estudiantes, 17; y 
+dos estudiantes 20. Si se seleccionó al azar un 
+estudiante, determine el valor de verdad de las 
+siguientes proposiciones, en el orden que aparecen. 
+I.	Es más probable que se seleccione un estudiante 
+	que obtuvo 13 a otro que obtuvo 15. 
+II.  La probabilidad de que un estudiante haya ob- 
+	tenido 20 es la misma a que haya obtenido 08. 
+III. Es menos probable que se elija un estudiante 
+	que obtuvo 11 a otro que obtuvo 17. 
+IV.  La probabilidad de seleccionar un estudiante 
+	desaprobado es igual a 1/9. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>VFVF</a>
+		<a>FVVF</a>
+		<a>VFFV</a>
+		<a>FVFV</a>
+		<a>FFFV</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

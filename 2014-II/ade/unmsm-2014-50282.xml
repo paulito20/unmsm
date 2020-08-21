@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El indicador utilizado para medir las variaciones 
+del costo de vida mensual en Lima Metropolitana 
+es el índice de precios
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>al por mayor.</a>
+		<a>de alimentos.</a>
+		<a>al consumidor.</a>
+		<a>de salud.</a>
+		<a>de combustible.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

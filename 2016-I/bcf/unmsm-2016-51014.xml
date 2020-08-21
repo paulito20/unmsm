@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las instituciones encargadas de garantizar la libre 
+competencia y resguardar los derechos y deberes 
+de los agentes económicos son 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>Osiptel, Osinergmin e Indecopi.</a>
+		<a>Osiptel, Sunat e Indecopi.</a>
+		<a>Indecopi, Sunat y MEF.</a>
+		<a>Sunat, MEF y BCRP.</a>
+		<a>Indecopi, Cofide y BCRP.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

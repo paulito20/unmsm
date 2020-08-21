@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El texto gira en torno a
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>una investigación sobre la raíz de las grandes 
+	enfermedades.</a>
+		<a>la razón verdadera de la esquizofrenia en el 
+	mundo actual.</a>
+		<a>una nueva explicación de la causa de la 
+	esquizofrenia.</a>
+		<a>la explicación paradójica de las enfermedades 
+	mentales.</a>
+		<a>la relevancia del entorno en las enfermedades 
+	mentales.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>El texto gira en torno a una nueva explicación de 
+la causa de la esquizofrenia. Según el texto, las 
+investigaciones genéticas en Tokio demuestran 
+que la esquizofrenia tiene como causa principal 
+una alteración genética en el desarrollo y funcio- 
+namiento del cerebro provocado por transposones 
+o genes saltarines. Esta investigación refuta la idea 
+usual de que las enfermedades mentales se deben 
+al entorno o ambiente
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

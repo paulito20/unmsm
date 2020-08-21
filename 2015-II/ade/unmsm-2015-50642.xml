@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuatro hermanos tienen deudas entre sí. Juan 
+debe a Mariano S/.90, Roger debe a Pedro S/.60, 
+Mariano debe a Roger S/.40 y Pedro debe a Juan 
+S/.90. Todas estas deudas quedarían canceladas si 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>Pedro y Roger pagan a Mariano S/.30 y S/.20.</a>
+		<a>Juan paga a Roger S/.50.</a>
+		<a>Juan paga a Mariano S/.80.</a>
+		<a>Roger paga a Pedro S/.30.</a>
+		<a>Pedro y Roger pagan a Mariano S/.30 y S/.10.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La negación del enunciado “Si Inés está bien de salud,  
+entonces ella sigue las indicaciones de su médico” es 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>“Inés está bien de salud y no sigue las 
+	indicaciones de su médico”.</a>
+		<a>“ Inés está bien de salud y sigue las 
+	indicaciones de su médico”.</a>
+		<a>“Inés no está bien de salud y no sigue las 
+	indicaciones de su médico”.</a>
+		<a>“Inés no está bien de salud y sigue las 
+	indicaciones de su médico”.</a>
+		<a>“Inés sigue las indicaciones de su médico o 
+	está enferma”.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

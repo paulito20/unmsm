@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál es el principal argumento presentado en el 
+texto en contra de la eutanasia? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Los seres humanos no cambian permanen- 
+	temente ni pueden asumirse una decisión 
+	como cabal y definitiva.</a>
+		<a>La vida debe ser vivida siempre en buenas 
+	condiciones, de lo contrario no es soportable 
+	la existencia humana.</a>
+		<a>Los pacientes terminales sí tienen la posibili- 
+	dad de ejercer su autonomía y decidir sobre 
+	su propia vida.</a>
+		<a>Al encontrarse muy vulnerable, el paciente 
+	terminal no puede ejercer con lucidez su 
+	capacidad de decidir.</a>
+		<a>Los médicos pueden decidir sobre la vida de 
+	los pacientes, pues tienen un conocimiento 
+	real de su sufrimiento.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

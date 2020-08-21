@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Halle la suma de los cuadrados de las soluciones 
+de la ecuación 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>25</a>
+		<a>34</a>
+		<a>41</a>
+		<a>29</a>
+		<a>20</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

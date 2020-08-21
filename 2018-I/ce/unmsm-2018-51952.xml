@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El esquema de las ocho regiones naturales de 
+Javier Pulgar Vidal es una buena herramienta para 
+entender las diversidades del Perú; pero existen dos 
+grandes regiones olvidadas: el Mar de Grau y la ceja 
+de selva. Esta última, localizada en las vertientes 
+andinas del este y cubierta por bosques tropicales, 
+alcanza altitudes entre 3500 y 3900 m. S.n.m.; en 
+tanto, su límite inferior se sitúa a 1000 metros. 
+¿Cuáles de las siguientes características la definen? 
+	Clima subtropical con temperaturas diurnas 
+	superiores a 20 ºC todo el a�o. 
+II.  Humedad atmosférica muy baja la mayor parte 
+	del a�o y precipitaciones escasas. 
+III. Subescurrimiento por gravedad que llega al fono 
+	de los valles, ríos y quebradas. 
+IV. Relieve poco accidentado carente de ca�onees 
+	estrechos y laderas pronunciadas. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>I y II</a>
+		<a>I y III</a>
+		<a>I y IV</a>
+		<a>II y III</a>
+		<a>II y IV</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

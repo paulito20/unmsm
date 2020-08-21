@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Sergio acaba de terminar el 5.º grado de secunda- 
+ria y ahora está abocado a evaluar las diferentes 
+opciones de estudio que se le presentan. Sin em- 
+bargo, luego de un tiempo, no logra decidirse sobre 
+qué estudiar ni dónde hacerlo. Ante esta falta de 
+decisión, podemos sostener que Sergio requiere de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>atención pedagógica.</a>
+		<a>asesoría académica.</a>
+		<a>capacitación laboral.</a>
+		<a>tutoría académica.</a>
+		<a>orientación vocacional.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

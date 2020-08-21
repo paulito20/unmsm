@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El hombre es una animal raro. Biológicamente, el 
+ser humano no tendría derecho a la existencia. A 
+diferencia de otras especies animales, carece de 
+armas naturales para sobrevivir, como garras o alas. 
+Pero el hombre no solo parece tener más inteligencia 
+que los otros animales, sino también otra especie de 
+inteligencia que le ha permitido dominar su entorno 
+y el planeta entero. 
+
+Podemos deducir que Bochenski distingue al 
+hombre de los demás animales debido a que lo 
+considera, principalmente, un ser 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>natural.</a>
+		<a>carencial.</a>
+		<a>libre.</a>
+		<a>racional.</a>
+		<a>metafísico.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

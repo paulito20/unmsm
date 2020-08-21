@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Al postular las vías para demostrar la existencia de 
+Dios, Tomás de Aquino partió del hecho de que to- 
+das las cosas se mueven y de que una cosa se mueve 
+porque recibió un impulso. Concluyó que debe de 
+haber algo que sea el origen del impulso de todas 
+las cosas, sin que ello sea a su vez impulsado por 
+ninguna otra. Este impulso originario lo identificó 
+con el concepto aristotélico de 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>providencia divina.</a>
+		<a>logos universal.</a>
+		<a>motor inmóvil.</a>
+		<a>causal material.</a>
+		<a>espíritu absoluto.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

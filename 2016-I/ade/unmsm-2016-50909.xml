@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El trabajo realizado por fricción es tan importante 
+en la vida diaria que los automóviles no se despla- 
+zarían o no podrían frenar sin ella. Por ejemplo, 
+el conductor de un automóvil de 1000 kg que se 
+desplaza a 36,0 m/s repentinamente aplica los frenos 
+para evitar un accidente. Al aplicar los frenos, una 
+fuerza de fricción constante de 8000 N actúa sobre 
+las llantas. ¿A qué distancia mínima debe aplicar los 
+frenos para evitar el accidente? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>82 m</a>
+		<a>80 m</a>
+		<a>81 m</a>
+		<a>83 m</a>
+		<a>84 m</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se infiere que, para Platón, el cambio era 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>una mera apariencia.</a>
+		<a>el objetivo de la realidad.</a>
+		<a>el principio de la geometría.</a>
+		<a>un arquetipo fundamental.</a>
+		<a>la esencia de lo real.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>La ideas puras o formas arquetípicas son, para 
+Platón, la esencia de la realidad. Esto significa 
+que tienen carácter permanente e inmutable; es 
+decir, lo esencial no está sujeto al cambio. En tal 
+sentido, el cambio que observamos en la realidad 
+constituye una mera apariencia, ya que no afecta 
+el contenido esencial de la realidad.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

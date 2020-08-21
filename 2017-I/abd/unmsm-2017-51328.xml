@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Miguel Carpio es un ingeniero de sistemas egresado 
+de una reconocida universidad pública que 
+decide postular a un puesto de dirección de una 
+corporación informática multinacional. Durante la 
+consabida entrevista personal, el referido profesional 
+es conminado a revelar su filiación política, a 
+lo que él se niega. ¿Qué establecen las normas 
+constitucionales acerca de la privacidad de nuestras 
+creencias personales? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Toda empresa tiene derecho a conocer las 
+	ideas de sus futuros empleados.</a>
+		<a>L a persecución por razón de ideas o 
+	creencias, está totalmente prohibida.</a>
+		<a>El derecho a la libertad de información está 
+	garantizado por la Constitución.</a>
+		<a>Toda persona tiene derecho a mantener 
+	reserva sobre sus convicciones políticas.</a>
+		<a>Toda persona tiene derecho a solicitar la 
+	información que requiera y recibirla.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

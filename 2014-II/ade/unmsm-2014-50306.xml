@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la naturaleza, una sucesión ecológica se 
+produce por 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>las alteraciones físicas, químicas y bióticas 
+	aceleradas.</a>
+		<a>los cambios irreversibles del ecosistema a 
+	través del tiempo.</a>
+		<a>las transformaciones físicas del ambiente.</a>
+		<a>las alteraciones del entorno provocadas 
+	por el hombre.</a>
+		<a>el fenómeno natural de cambios reversibles 
+	en un sistema.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

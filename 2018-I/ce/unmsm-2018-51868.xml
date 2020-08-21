@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A partir de la información proporcionada por el 
+texto, es lógico sostener que buena parte del 15,7% 
+de navegadores expertos 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>emplea las redes sociales para hacer algún 
+	reclamo.</a>
+		<a>hace compras entre una y ocho veces a lo 
+	largo del a�o.</a>
+		<a>representa al consumidor más satisfecho de 
+	todos.</a>
+		<a>viaja más que el consumidor tradicionalista 
+y el explorador.</a>
+		<a>ha tenido malas experiencias en sus compras 
+	en línea.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>A partir de la información proporcionada por el tex- 
+to, es lógico sostener que buena parte del 15,7 % de 
+los navegadores expertos emplea las redes sociales 
+para hacer algún reclamo. En el texto se destaca 
+como rasgo nuevo del comprador peruano el uso 
+de las redes sociales para hacer sus reclamos. Por 
+lo tanto, resulta válido afirmar que los navegadores 
+expertos que constituyen el 15,7 % usan este medio 
+para hacer conocer su mala experiencia al comprar 
+un producto. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

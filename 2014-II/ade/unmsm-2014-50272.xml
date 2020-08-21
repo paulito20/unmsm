@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A diferencia de su hermano de once años de edad 
+que aplica fÃ³rmulas para resolver problemas ma- 
+temÃ¡ticos, Mario, de siete años, tiene que contar 
+haciendo us0o de sus dedos. De acuerdo con la 
+teorÃ­a de J. Piaget, Mario emplea el pensamiento
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="">
+		<a>preoperacional.</a>
+		<a>operacional formal.</a>
+		<a>posformal.</a>
+		<a>sensoriomotor.</a>
+		<a>operacional concreto.</a>
+	</as>	
+	<x>
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

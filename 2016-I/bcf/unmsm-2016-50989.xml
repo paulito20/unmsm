@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Seleccione la expresión con puntuación correcta.    
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Cuando fuimos, al zoológico, vimos muchos 
+	mamíferos, tigres, leones, elefantes, jirafas, 
+	rinocerontes, osos, cebras, y caballos.</a>
+		<a>Cuando fuimos al zoológico, vimos muchos 
+	mamíferos: tigres, leones, elefantes, jirafas, 
+	rinocerontes, osos, cebras y caballos.</a>
+		<a>Cuando fuimos, al zoológico: vimos muchos 
+	mamíferos, tigres, leones, elefantes, jirafas, 
+	rinocerontes, osos, cebras, y caballos.</a>
+		<a>Cuando fuimos, al zoológico, vimos muchos 
+	mamíferos: tigres, leones, elefantes, jirafas, 
+	rinocerontes, osos, cebras y, caballos.</a>
+		<a>Cuando fuimos al zoológico, vimos muchos 
+	mamíferos; tigres, leones, elefantes, jirafas, 
+	rinocerontes, osos, cebras y caballos.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la figura, L  es paralela a L  y L  es paralela 
+	a L . Halle el valor de x.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>90º</a>
+		<a>60º</a>
+		<a>80º</a>
+		<a>120º</a>
+		<a>70º</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

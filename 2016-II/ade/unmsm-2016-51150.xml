@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si en la raza canina poodle se detecta una malfor- 
+mación congénita de las venas pulmonares, podría- 
+mos afirmar que puede producirse una falla en el 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>intercambio gaseoso en la mayoría de 
+	alveolos pulmonares.</a>
+		<a>transporte de sangre venosa del corazón 
+		a los pulmones.</a>
+		<a>transporte de sangre no oxigenada al 
+	músculo cardiaco.</a>
+		<a>transporte de venosa de los pulmones
+al corazón.</a>
+		<a>transporte de sangre oxigenada de los pul- 
+	mones al corazón.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

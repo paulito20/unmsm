@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En Cerro de Pasco, a fines del siglo xviii, existían 
+119 minas pero, debido a la escasez de mano de 
+trabajo indígena y falta de inversión en obras de 
+infraestructura, solo estaban en funcionamiento 85 
+de ellas. Por ello, surgió entre los propietarios de 
+las minas una competencia por la mano de obra 
+y se tuvo que recurrir a 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>indígenas enganchados.</a>
+		<a>indígenas mitayos.</a>
+		<a>mestizos coste�os.</a>
+		<a>indígenas yanaconas.</a>
+		<a>esclavos negros.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

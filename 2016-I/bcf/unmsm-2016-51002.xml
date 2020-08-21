@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El sistema de flotas y galeones era la forma de 
+comercio entre Espa�a y sus colonias americanas. 
+Este sistema favoreció a los comerciantes sevillanos, 
+quienes, al controlar la cantidad y calidad de los 
+productos, podían 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>introducir productos de contrabando.</a>
+		<a>trasladar por tierra sus productos a Panamá.</a>
+		<a>fijar los precios de las mercancías.</a>
+		<a>desarrollar el comercio intercolonial.</a>
+		<a>vender mercaderías en el puerto del Callao.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

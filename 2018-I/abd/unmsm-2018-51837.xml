@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Perú es uno de los países exportadores más impor- 
+tante de palta en el mundo. En este marco, entre 
+las principales regiones productoras, La Libertad 
+destina toda su producción a la exportación y Lima, 
+aproximadamente, la mitad; en tanto que Junín y 
+Áncash venden su producción total en el mercado 
+peruano. En consecuencia ¿qué región o regiones 
+posee(n) una ventaja comparativa internacional en 
+la producción de palta? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Áncash y Junín</a>
+		<a>Solamente La Libertad</a>
+		<a>La Libertad y Lima</a>
+		<a>Lima y Áncash</a>
+		<a>Los cuatro departamentos</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

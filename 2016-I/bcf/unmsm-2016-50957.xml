@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La estatura promedio de todos los estudiantes en 
+un salón del tercer grado es de 1 metro. Si la esta- 
+tura promedio de los varones que son en total 10 
+es de 1,15 m y la estatura promedio de todas las 
+mujeres es 0,90 m, halle el número de estudiantes 
+en el salón. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>25</a>
+		<a>15</a>
+		<a>28</a>
+		<a>22</a>
+		<a>14</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

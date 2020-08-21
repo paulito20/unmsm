@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Es una variable empleada en la medición del de- 
+sarrollo humano. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>nivel de variación de precios</a>
+		<a>tasa de interés</a>
+		<a>producto bruto interno</a>
+		<a>reservas internacionales netas</a>
+		<a>población económicamente activa</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

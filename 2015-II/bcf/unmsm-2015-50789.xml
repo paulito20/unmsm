@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el Perú, a partir de la década de 1840, se 
+empezó a abandonar la política proteccionista 
+que predominaba desde la Independencia y se 
+la reemplazó por otra más abierta y liberal; una 
+medida de este tipo fue 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>la introducción de esclavos de Colombia. </a>
+		<a>la inmigración de trabajadores asiáticos.</a>
+		<a>la protección de la industria nacional.</a>
+		<a>el establecimiento de la contribución 
+	personal.</a>
+		<a>la manumisión de los esclavos.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

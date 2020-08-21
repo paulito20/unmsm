@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los estudios sobre la memoria han brindado, hasta 
+la fecha, interesantes datos sobre los procesos de 
+control en el recuerdo de la información. Determine 
+el valor de verdad (V o F) de los siguientes enun- 
+ciados referidos a la memoria. 
+I.	La corteza cerebral frontal influye en la organi- 
+	zación, búsqueda, selección y verificación del 
+	recuerdo de la información almacenada. 
+II.  Un tipo de memoria es la de trabajo, definida 
+	como un sistema atencional operativo que 
+	procesa contenidos de la memoria de largo plazo. 
+III. La memoria es un sistema unitario que recep- 
+	ciona información del medio externo para alma- 
+	cenarla preferentemente en el lóbulo prefrontal. 
+IV. Conforme los a�os pasan, la memoria humana 
+	se perfecciona; por ello, los adultos mayores 
+	recuperan con mayor facilidad sus experiencias 
+	infantiles. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>VVFF</a>
+		<a>VFVF</a>
+		<a>FFVF</a>
+		<a>FVFV</a>
+		<a>FVFF</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

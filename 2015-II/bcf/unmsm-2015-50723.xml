@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El tema central del texto gira en torno a 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>la ansiedad cotidiana.</a>
+		<a>la ansiedad y sus tipos.</a>
+		<a>la necesidad de la ansiedad.</a>
+		<a>los síntomas de la ansiedad.</a>
+		<a>los efectos de la ansiedad.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>El tema central del texto es la ansiedad y sus 
+tipos. En el primer párrafo, se define y resalta la 
+importancia de la ansiedad. Luego se explican 
+dos tipos de ansiedad: natural y patológica. La 
+primera es normal y pasajera, mientras la segunda 
+es prolongada y altera la salud mental. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

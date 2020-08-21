@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Luis, Alberto y Mónica juegan tres veces con la 
+condición de que el que pierda duplicará el dinero 
+de cada uno de los demás. Todos pierden una vez. 
+El primero fue Luis que se queda con S/.72; luego, 
+Alberto se queda con S/.84 y, finalmente, Mónica
+termina con S/.42. Halle la suma de las cantidades 
+que tenían al inicio Luis y Mónica. </q>
+	<q2></q2>
+	<as t="R" correcta="1">
+		<a>S/.168</a>
+		<a>S/.138</a>
+		<a>S/.148</a>
+		<a>S/.90</a>
+		<a>S/.120</a>
+	</as>	
+	<x>B</x>
+	<i></i>
+	<x2>Tema: Planteo de ecuaciones
+	Recuerde que
+			× 2 
+		10			20
+			÷ 2 	operación inversa 
+	Además, si un grupo de personas juegan varias 
+	partidas entre ellos, el total de dinero no se altera. 
+	
+	Análisis y procedimiento
+	Se pide la suma de las cantidades que tenían al
+	inicio Luis y Mónica.
+	De los datos, por operaciones inversas (empezando
+	por el dato final) obtenemos 
+			Luis  +  Alberto  +  Mónica 
+		1.º  108  +	   60	  +   30	=198
+	(pierde 
+	  Luis) 		   ÷ 2		÷ 2 
+	
+		2.º   18  +	   120	  +	  60 	=198
+	(pierde	  
+	Alberto)   ÷ 2				  ÷ 2 
+
+		3.º   36  +		42	  +   120 	=198
+	(pierde 
+	Mónica)	  ÷ 2		÷ 2
+			  72  +     84    +    42   =198
+		
+		∴  Luis+Mónica=S/.108+S/.30=S/.138 </x2>
+	<i2></i2>
+	<v></v>
+</p>

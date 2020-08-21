@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si la contrastación en modelos animales hubiese 
+resultado contraria a lo esperado por Kato y Kazuya, 
+probablemente 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>los transposones no cumplirían las funciones 
+	que ellos les atribuyen.</a>
+		<a>la idea de un gen saltarín no resultaría total- 
+	mente equivocada.</a>
+		<a>la cura contra enfermedades mentales se 
+	atr�saría notoriamente.</a>
+		<a>el papel de la herencia en el origen de la 
+	enfermedad sería relevante.</a>
+		<a>la patología molecular sería una ciencia con 
+	pocos logros que exhibir.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Si la contrastación en modelos animales hubiese 
+resultado contraria a lo esperado por Kato y Kazuya, 
+probablemente los transposones no cumplirían las 
+funciones que ellos les atribuyen. Esto porque los 
+experimentos con ratones y macacos permiten 
+corroborar que en el origen de la esquizofrenia 
+interviene la transposición de neuronas. Es evidente 
+que un resultado contrario en estos experimentos 
+afectaría las conclusiones de la investigación. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

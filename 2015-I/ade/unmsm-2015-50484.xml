@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El índice demográfico que indica el número de 
+hijos promedio por mujer al final del periodo 
+reproductivo se denomina tasa de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>fecundidad.</a>
+		<a>morbilidad.</a>
+		<a>mortalidad.</a>
+		<a>crecimiento.</a>
+		<a>productividad.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

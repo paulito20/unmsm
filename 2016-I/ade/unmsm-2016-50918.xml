@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El formaldehído (metanal: HCHO) es un compuesto 
+que se utiliza en la fabricación de adhesivos y 
+plásticos; en solución acuosa al 40% m/v, sirve 
+para conservar especímenes biológicos. Calcule la 
+molaridad de esta solución. 
+Datos: C=12 uma; H=1 uma; O=16 uma 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>40,0</a>
+		<a>1,33</a>
+		<a>12,0</a>
+		<a>1,20</a>
+		<a>13,3</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

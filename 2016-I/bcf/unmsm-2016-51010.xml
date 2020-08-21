@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En un mapa de distribución de la población mundial, 
+se puede observar los siguiente: a) la existencia de 
+grandes vacíos poblacionales representan un 43 % 
+de la superficie terrestre; b) estos corresponden a 
+las regiones circumpolares e intertropicales y c) en 
+ellos habita solo el 2 % de la población. Teniendo 
+en cuenta estos datos, se puede establecer que la 
+mayor parte de la población mundial se concentra 
+entre los grados 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>0º y 35º de latitud norte.</a>
+		<a>20º y 60º de latitud sur.</a>
+		<a>20º y 60º de latitud norte.</a>
+		<a>0º y 35º de latitud sur.</a>
+		<a>50º y 70º de latitud sur.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

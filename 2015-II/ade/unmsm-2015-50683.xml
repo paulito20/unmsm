@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el Perú colonial, la educación formal se impartía 
+en los Colegios Menores, Mayores y Universidades. 
+Los Colegios Menores fueron instituciones donde 
+se daba educación formal para los hijos de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>la nobleza indígena.</a>
+		<a>los grandes comerciantes.</a>
+		<a>los primeros conquistadores.</a>
+		<a>la nobleza espa�ola.</a>
+		<a>la administración colonial.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

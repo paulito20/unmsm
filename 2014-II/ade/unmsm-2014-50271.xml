@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una cualidad que se logra generalmente en la 
+............... es la autonomÃ­a e independencia con 
+respecto al hogar original.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>niñez</a>
+		<a>adolescencia</a>
+		<a>adultez</a>
+		<a>infancia</a>
+		<a>senectud</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

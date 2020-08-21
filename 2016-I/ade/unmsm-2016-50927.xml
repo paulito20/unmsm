@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuáles son el padre y la madre de una mula 
+respectivamente? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>Mula y mula</a>
+		<a>Cebra y yegua</a>
+		<a>Mula y cebra</a>
+		<a>Cebra y burro</a>
+		<a>Burro y yegua</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

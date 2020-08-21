@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>El potencial electrico que una de 1,5x10-7 C produce en un punto es 4500 V. Si en ese mismo punto se colocara otra carga, la energia potencial del sistema de cargas seria de 45x10-4 J.Calcule la magnitud de la segunda carga.</q>
+	<q2></q2>
+	<as t="R" correcta="1">
+		<a>1,5</a>
+		<a>1,0</a>
+		<a>2,0</a>
+		<a>0,8</a>
+		<a>1,2</a>
+	</as>	
+	<x>B</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

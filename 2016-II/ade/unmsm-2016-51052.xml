@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los cuadros y el texto registran datos relativos a 
+los resultados de pruebas educativas aplicadas a 
+estudiantes de cinco países latinoamericanos y lo 
+invertido por sus gobiernos en educación en el 
+periodo 2000-2012. En lo concerniente al Perú, se 
+puede afirmar que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>si los gober nantes invir tieran más en 
+	educación, sus estudiantes superarían a los 
+	demás.</a>
+		<a>los estudiantes elevaron su rendimiento 
+	del mismo modo que el Estado elevó sus 
+	presupuestos.</a>
+		<a>el nivel de los estudiantes ha mejorado 
+	en mayor proporción que el de los otros 
+	países.</a>
+		<a>si bien sus recursos no están a la par que los 
+	de otros países, sus estudiantes sí lo están.</a>
+		<a>sus estudiantes han rendido por debajo de 
+	los otros países, pero en 2012 cerraron esta 
+	brecha.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>De los resultados de las pruebas educativas 
+presentados en los cuadros y el texto concerniente 
+a cinco países, en el caso del Perú, los estudiantes 
+elevaron su rendimiento del mismo modo que 
+el Estado elevó sus presupuestos. En general, 
+se establece una relación de causalidad entre la 
+mejora de los resultados de las pruebas PISA y 
+la inversión económica en educación en nuestro 
+país.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En un triángulo rectángulo cuyas longitudes de los 
+lados son números enteros, la hipotenusa mide 
+17 cm. El doble de la medida del cateto menor, 
+menos una unidad, es igual a la medida del cateto 
+mayor. El perímetro es mayor que 37 cm. Halle la 
+suma de las longitudes de los catetos. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>22 cm</a>
+		<a>24 cm</a>
+		<a>20 cm</a>
+		<a>21 cm</a>
+		<a>23 cm</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

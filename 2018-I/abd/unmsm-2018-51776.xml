@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Gisella le pregunta a Gabriela qué hora es y esta le 
+responde: “Son más de las 4 de la tarde, pero aún 
+no llegamos a las 5 de la tarde; además, dentro de 
+10 minutos faltará para las 5 de la tarde la cuarta 
+parte del tiempo que ya transcurrió desde las 3 de 
+la tarde hasta hace 25 minutos”. ¿A qué hora se 
+refiere Gabriela? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>16 h 33 min</a>
+		<a>16 h 50 min </a>
+		<a>16 h 25 min</a>
+		<a>16 h 18 min</a>
+		<a>16 h 38 min</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

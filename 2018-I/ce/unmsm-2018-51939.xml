@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Johnny Vilcachagua es miembro de la Policía 
+Nacional en el grado de suboficial brigadier. Ante 
+la desatención de la salud y educación de los ni�os 
+de su distrito, organiza un movimiento regional para 
+acceder al gobierno de su región mediante elección 
+popular. Sobre su decisión de participar en política, 
+¿qué establece la Constitución Política del Perú? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Puede postular porque tiene derecho a voto.</a>
+		<a>Puede postular porque tiene derecho a la 
+	participación ciudadana.</a>
+		<a>Los derechos políticos son irrenunciables.</a>
+		<a> Puede postular solo si pasa a la situación de 
+	retiro.</a>
+		<a>Ningún policía puede ejercer alguna vez la 
+	ciudadanía. 
+</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

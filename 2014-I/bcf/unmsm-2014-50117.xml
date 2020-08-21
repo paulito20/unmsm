@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Resulta incompatible con la perspectiva de Penfield afirmar que </q>
+	<q2></q2>
+	<as t="R" correcta="">
+		<a>la mente y el cerebro son estudiados con el mismo método.</a>
+		<a>existe una relación directa entre el cerebro y la mente.</a>
+		<a>el cerebro humano puede ser estimulado eléctricamente. </a>
+		<a>los neurofisiólogos estudian el funcionamiento del cerebro.</a>
+		<a>la estimulación electrocortical produce evocaciones vívidas.</a>
+	</as>	
+	<x></x>
+	<i></i>
+	<x2>Es erróneo sostener, bajo la perspectiva de 
+	Penfield, que la mente y el cerebro sean estudiadas 
+	con el mismo método, ya que desde el punto de 
+	vista de Wilder Penfield, el cerebro puede ser 
+	estudiado con métodos de la neurocirugía y la 
+	neurobiología; sin embargo, la mente no se puede 
+	estudiar de manera directa, pues no hay método 
+	para ese estudio.</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el enunciado “las manzanas y las naranjas 
+son frutas deliciosas”, las palabras subrayadas 
+establecen entre sí una relación semántica de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>cohiponimia.</a>
+		<a>sinonimia.</a>
+		<a>antonimia.</a>
+		<a>homonimia.</a>
+		<a>polisemia.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

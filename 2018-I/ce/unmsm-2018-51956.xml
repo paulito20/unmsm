@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cada fin de mes, el jefe del Instituto Nacional de 
+Estadística e Informática del Perú debe informar a 
+la ciudadanía sobre las variaciones más notables 
+de los precios de bienes y servicios de consumo de 
+las familias representativas del país. Al cumplir el
+mandato, el responsable del ente rector del sistema 
+estadístico informa sobre un indicador ............., 
+conocido como ............. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>microeconómico - deflactor del producto 
+	bruto interno</a>
+		<a>macroeconómico - índice de precios al 
+	consumidor</a>
+		<a>macroeconómico - ratio de escasez material</a>
+		<a>microeconómico - valor de la canasta de 
+	consumo</a>
+		<a>microeconómico - indice de precio al por
+	mayor</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

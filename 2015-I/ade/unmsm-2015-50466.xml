@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el enunciado “siempre es bueno compartir 
+opiniones”, la proposición subrayada cumple la 
+función de
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>objeto directo.</a>
+		<a>sujeto.</a>
+		<a>atributo.</a>
+		<a>complemento de nombre.</a>
+		<a>complemento de adjetivo.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

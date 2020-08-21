@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si algunos científicos rechazan hoy en día las 
+preguntas fundamentales, probablemente esto se 
+debe a que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>operan solo con métodos apriorísticos.</a>
+		<a>desprecian la especulación abstracta.</a>
+		<a>siguen de cerca sus creencias religiosas.</a>
+		<a>poseen un concepto impreciso de ciencia.</a>
+		<a>solo les interesan durante su juventud.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

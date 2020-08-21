@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Emma y Analí son compa�eras de universidad 
+que comparten muchos intereses y manifiestan 
+afinidad afectiva. Por lo tanto, podemos afirmar 
+que tienen una relación interpersonal de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>amistad.</a>
+		<a>atracción.</a>
+		<a>vecindad.</a>
+		<a>complicidad.</a>
+		<a>connivencia.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

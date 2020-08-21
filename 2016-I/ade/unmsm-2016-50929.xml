@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las orquídeas y bromelias son plantas cuyas flores 
+suelen ser muy vistosas y codiciadas por los co- 
+leccionistas. Si se quiere realizar el uso directo de  
+estos recursos de manera sostenible, ¿en cuáles 
+de las siguientes áreas naturales protegidas podría 
+realizarse tal aprovechamiento? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>Reserva Nacional Tambopata y Reserva 
+	Nacional Pacaya Samiria</a>
+		<a>Parque Nacional Manu y Reserva Nacional 
+	Tambopata</a>
+		<a>Parque Nacional Cordillera Azul y Reserva 
+	Nacional Tambopata</a>
+		<a>Santuario Histórico de Machupicchu y Re- 
+	serva Nacional de Paracas</a>
+		<a>Santuario Histórico Chacamarca y Santuario 
+	Nacional de Ampay</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

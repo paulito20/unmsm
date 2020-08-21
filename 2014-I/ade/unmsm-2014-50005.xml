@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>(I)Las nueces previenen enfermedades del sistema circulatorio que afectan el corazón y las arterias gracias a su riqueza en acido oleico y alfalinoleica.(II)La nuez reduce hasta en 50% el riesgo de sufrir enfermedades cardiovasculares,como infartoal miocardio o angina de pecho.(III)La nuez es mucho mejor que el aceite de oliva para reducir el colesterol, aumentar la elasticidad arterial, prevenir la formacion de coagulos y rebajar la tension arterial.(IV)Ingerir cinco nueces por semana es un buen habito para cuidar el corazón.(V)Como la mayoria de frutos secos, las nueces proporcionan una cantidad elevada de calorias, por lo que no debe abusarse de ellas en caso de obesidad</q>
+	<q2></q2>
+	<as t="R" correcta="2">
+		<a>III</a>
+		<a>IV</a>
+		<a>V</a>
+		<a>II</a>
+		<a>I</a>
+	</as>	
+	<x>C</x>
+	<i></i>
+	<x2>El tema central,destacado en el texto, es la revencion de enfermedades cardiacas mediante el consumo de nueces. Por lo tanto, el enunciado V se elimina por contradiccion, ya que destaca un aspecto negativo de su consumo.</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se define como proceso de hominización la serie 
+de transformaciones físicas y psíquicas que permi- 
+tieron la evolución de los homínidos a la especie 
+de Homo sapiens. ¿Qué atributo del Homo sapiens 
+engloban, al mismo tiempo, las transformaciones 
+físicas y psíquicas? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>La gran cantidad de locomoción, como se 
+	aprecia en las huellas de Laetoli.</a>
+		<a>El descubrimiento del uso del fuego contro- 
+	lado para cocinar los alimentos.</a>
+		<a>La comunicación mediante el lenguaje 
+	simbólico, como es el caso del arte rupestre.</a>
+		<a>El desarrollo de sus pulgares oponibles y 
+	primeros artefactos hechos de piedra.</a>
+		<a>La adaptación temprana a una postura 
+	erecta y el abandono de la vida arbórea.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

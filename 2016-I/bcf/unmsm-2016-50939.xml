@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se infiere del texto que la inversión pública durante 
+el presente a�o en el Perú se proyecta en el orden 
+del .............. puntos porcentuales debido principal- 
+mente a lo efectuado por .............. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>0,8 - la minería</a>
+		<a>0,1 - el Gobierno central</a>
+		<a>1,2 - el Ministerio de Economía</a>
+		<a>67,3 - los gobiernos locales</a>
+		<a>68,5 - los gobiernos regionales</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

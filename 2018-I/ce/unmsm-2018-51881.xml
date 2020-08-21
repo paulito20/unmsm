@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Tanto el texto A como el B giran en torno a la idea 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>de la relación premisa-conclusión.</a>
+		<a>del carácter de la conclusión universal.</a>
+		<a>de la falibilidad de las premisas.</a>
+		<a>de la perfectibilidad de la inducción.</a>
+		<a>de la justificación de la inducción.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>El tema tratado en el texto A y el texto B es la justifi- 
+cación y validez de la inducción en el conocimiento 
+científico. Mientras que para Popper es incorrecto el 
+método inductivo para establecer un conocimiento 
+universal; para Martínez está justificado el uso de 
+este método, siempre y cuando no sea el enfoque 
+del inglés Whewell.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

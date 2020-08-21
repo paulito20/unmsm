@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un láser es una fuente de luz que puede ser con- 
+siderada idealmente como monocromática, o sea, 
+de un solo color. Sus aplicaciones tecnológicas son 
+muy variadas, como por ejemplo en una impresora 
+láser. Una impresora de este tipo puede usar un láser 
+de longitud de onda de 630 nm con una potencia 
+media de 1,0 mW. Entonces, si el haz de luz tiene 
+2,0 mm de diámetro, ¿cuál es la intensidad del láser? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

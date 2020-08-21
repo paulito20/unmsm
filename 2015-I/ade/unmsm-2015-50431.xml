@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Miguel colocó 4 dados normales sobre una mesa 
+no transparente como muestra la figura. ¿Cuántos 
+puntos en total no son visibles para Miguel? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>23</a>
+		<a>22</a>
+		<a>24</a>
+		<a>21</a>
+		<a>25</a>
+	</as>	
+	<x>0
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

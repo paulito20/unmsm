@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Ha regresado una expedición interestelar que ha 
+tomado muestras de suelo de una serie de lugares 
+visitados. Al analizar las muestras recolectadas, se 
+encuentra los siguientes resultados:
+Los resultados hacen suponer que la muestra 
+proviene de un lugar que sería 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>muy favorable solamente con la especie 
+	humana.</a>
+		<a>propicio para desarrollar todo tipo de vida.</a>
+		<a>muy favorable solo con especies vegetales.</a>
+		<a>incapaz de sustentar la vida como la cono- 
+	cemos.</a>
+		<a>muy rico en atmósfera con oxígeno libre.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

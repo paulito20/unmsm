@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el enunciado “Raul, las heridas en el torax 
+y el abdomen de tu fragil mascota no sanaran 
+facilmente”, el número de palabras que requieren 
+acento escrito o tilde es 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>seis.</a>
+		<a>siete.</a>
+		<a>cinco.</a>
+		<a>cuatro.</a>
+		<a>ocho.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

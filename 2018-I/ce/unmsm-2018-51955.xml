@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el Perú, un grupo de economistas analiza la 
+realidad, empleando los conceptos de positivo y 
+normativo. ¿Cuál de las siguientes afirmaciones 
+debería calificarse como un análisis positivo? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>El Gobierno debería privatizar las empresas 
+	estatales existentes.</a>
+		<a>Es pertinente que las empresas paguen 
+	mejor a sus trabajadores.</a>
+		<a>Todas las personas y los negocios deberían 
+	pagar sus impuestos.</a>
+		<a>Una mayor demanda por el pan genera un 
+	aumento en su precio.</a>
+		<a>Es mejor que el Gobierno gaste en educa- 
+	ción que en armamentos.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

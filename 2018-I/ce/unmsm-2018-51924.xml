@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los primeros versos de un famoso soneto de Luis 
+Góngora y Argote son los siguientes: 
+Mientras por competir con tu cabello 
+oro bru�ido el sol relumbra en vano [...]. 
+En la relación entre “cabello” y “oro” se observa la 
+figura literaria conocida como 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>metáfora.</a>
+		<a>hipérbaton.</a>
+		<a>anáfora.</a>
+		<a>hipérbole.</a>
+		<a>epíteto.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

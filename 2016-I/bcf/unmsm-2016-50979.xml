@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un alambre de 48 m se corta en tres partes; la 
+segunda pieza mide tres veces la longitud de la 
+primera y la tercera mide cuatro veces la longitud 
+de la segunda. ¿Cuánto mide la tercera pieza? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>38 m</a>
+		<a>32 m</a>
+		<a>42 m</a>
+		<a>36 m</a>
+		<a>34 m</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una balanza de dos platillos se encuentra equilibrada. 
+En uno de los platillos hay tres dados y una canica; 
+en el otro platillo hay dos dados, dos canicas y un 
+borrador que pesa 30 g. Los cinco dados tienen 
+el mismo peso y las tres canicas también pesan lo 
+mismo. Además, los nueve objetos pesan, juntos, 
+medio kilo. ¿Cuántos gramos pesan todos los dados 
+juntos? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>350 g</a>
+		<a>160 g</a>
+		<a>200 g</a>
+		<a>400 g</a>
+		<a>500 g</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

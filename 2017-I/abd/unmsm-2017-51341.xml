@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La faja costera peruana tiene un clima caracterizado 
+por un gran déficit de agua que le da una confi- 
+guración desértica. En este contexto, ¿por qué el 
+fenómeno de El Ni�o genera tanta preocupación? 
+I.	Altera la temperatura del mar trastocando el 
+	ecosistema marino. 
+II.  Origina condiciones de estabilidad atmosférica 
+	en el mar cerca del litoral. 
+III. Activa las cuencas torrenciales provocando 
+	huaicos e inundaciones catastróficas. 
+IV.  Provoca escasa evaporación y ausencia de 
+	lluvias por invasión de aguas frías. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>I y II</a>
+		<a>II y III</a>
+		<a>III y IV</a>
+		<a>II y IV</a>
+		<a>I y III</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

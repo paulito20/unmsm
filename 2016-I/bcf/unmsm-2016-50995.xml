@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La lucha entre lo ideal y lo material se presenta 
+en una serie de novelas. El mismo conflicto suele 
+ocurrir también al interior de cada persona. Así, se 
+puede decir que todos los seres humanos tenemos 
+un poco de ................. y otro poco de ................. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>Carlota - Werther</a>
+		<a>Do�a Bárbara - Mister Danger</a>
+		<a>El Jaguar - El Boa</a>
+		<a>Rosendo Maqui - Benito Castro</a>
+		<a>Quijote - Sancho</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

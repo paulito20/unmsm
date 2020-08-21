@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En términos generales, en el mar peruano se 
+presentan dos sectores con características propias: 
+el mar frío de la Corriente de Humboldt y el mar 
+tropical. En este contexto, ¿cuál es la característica 
+que permite, en uno de estos sectores, que exista 
+abundancia de biodiversidad y cantidad de especies 
+ictiológicas? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Baja salinidad disuelta</a>
+		<a>Alta salinidad disuelta</a>
+		<a>Afloramiento de las aguas</a>
+		<a>Poca viscosidad del agua</a>
+		<a>Alta temperatura del agua</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

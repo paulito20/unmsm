@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un joven que toma conciencia de las caracterís­ 
+ticas que lo distinguen de los demás está eviden­ 
+ciando un proceso introspectivo denominado 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>autoconocimiento.</a>
+		<a>reflexión.</a>
+		<a>meditación.</a>
+		<a>abstracción.</a>
+		<a>autonomía.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

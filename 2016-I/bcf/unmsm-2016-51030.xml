@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una de las etapas del proceso de potabilización del 
+agua es la floculación o coagulación, en la cual se 
+agrega al agua el sulfato de aluminio como flocu- 
+lante para facilitar el asentamiento de sustancias 
+coloidales o finamente divididas que ocasionan 
+turbidez; las partículas se unen, aumentan de peso 
+y se descartan. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

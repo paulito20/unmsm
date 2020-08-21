@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cada fin de semana, Patty elabora su presupuesto 
+de gasto, considerando el sueldo mensual recibido. 
+La segunda semana de setiembre ella gastó dinero 
+por lo siguiente: zapatos, corte de cabello, jabón, 
+consulta médica, pan y leche. Así, los bienes que 
+ellas adquirió son 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>tangibles e intangibles por igual.</a>
+		<a>mayormente intangibles.</a>
+		<a>mayormente tangibles.</a>
+		<a>solamente tangibles.</a>
+		<a>solamente intangibles.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

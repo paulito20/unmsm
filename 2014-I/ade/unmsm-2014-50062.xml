@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Marque la alternativa que presenta el verbo conjugado en modo subcontivo.</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>Julio estudia para el examen</a>
+		<a>Mi hermano trabaja en Tacna</a>
+		<a>Luisa llegara mañana lunes.</a>
+		<a>Lucio, arregla ese auto.</a>
+		<a>Ojala que Juana regrese.</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

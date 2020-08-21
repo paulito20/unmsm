@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De la expresión en inglés se desprende que, para 
+el autor, la calidad de una institución se mide 
+fundamentalmente en una actitud de ............... de 
+sus clientes. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>aproximación</a>
+		<a>persistencia</a>
+		<a>encomio</a>
+		<a>lealtad</a>
+		<a>objetividad</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>En el texto, de la expresión the future of an enterprise 
+is determined by how many customers remain and 
+are able to recommend it to others (El futuro de 
+una empresa está determinado por cuántos clien- 
+tes permanecen y pueden recomendar a otros), se 
+infiere que un mercado competitivo el futuro de 
+una empresa o institución se mide por la fidelidad 
+que sus clientes muestran. A partir de ello, muchos 
+continúan o incluso la recomiendan. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

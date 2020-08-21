@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las enzimas presentes en el retículo endoplasmático 
+liso han sido bloqueadas por acción de un fármaco 
+en experimentación. Uno de los primeros efectos 
+negativos se refleja en la estructura molecular de la 
+membrana citoplasmática, debido a que ha dismi- 
+nuido la síntesis de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>proteínas integrales.</a>
+		<a>carbohidratos.</a>
+		<a>proteínas periféricas.</a>
+		<a>fosfolípidos.</a>
+		<a>glucoproteínas.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

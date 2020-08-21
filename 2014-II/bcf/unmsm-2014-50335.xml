@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dos obreros trabajan juntos ganando diariamente 
+uno de ellos 30 soles más que el otro. Después 
+de haber trabajado igual número de días reciben 
+540 y 420 soles respectivamente. ¿Cuánto ganan 
+diariamente trabajando juntos? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>240</a>
+		<a>245</a>
+		<a>250</a>
+		<a>235</a>
+		<a>230</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

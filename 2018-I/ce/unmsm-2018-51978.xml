@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De acuerdo con el principio de Aufbau, la configura- 
+ción electrónica de carbono ( C) indica que debería 
+ser divalente; sin embargo, es tetravalente. Significa, 
+entonces, que los átomos de carbono
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>e hidrógeno cumplen con la regla del octeto.</a>
+		<a>con hibridización sp  forman solo cadenas 
+	abiertas.</a>
+		<a>se autosaturan enlazándose a otros átomos.</a>
+		<a>tiene capacidad de formar enlaces iónicos.</a>
+		<a>forman solo cadenas carbonadas cíclicas.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

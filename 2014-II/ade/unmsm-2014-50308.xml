@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los procesos naturales que constituyen las bases 
+de la evolución, según Darwin, son 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>crecimiento, selección natural y herencia.</a>
+		<a>mutación, variación genética y adaptación.</a>
+		<a>diversificación, mutación y adaptación.</a>
+		<a>selección natural, adaptación rápida y 
+	resistencia.</a>
+		<a>variación genética, herencia y selección 
+	natural.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

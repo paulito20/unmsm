@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los glaciares en el Perú se ubican por encima de 
+los 5000 metros de altitud, representan el 71 % 
+de los glaciares tropicales y constituyen el princi- 
+pal origen de los ríos y lagunas en las diferentes 
+vertientes hidrográficas del país. Sin embargo, 
+sus enormes cornisas, que son salientes de varios 
+cientos de metros, constituyen un peligro potencial 
+de destrucción porque pueden desprenderse por 
+gravedad y producir
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="">
+		<a>huaicos.</a>
+		<a>aluviones.</a>
+		<a>aludes.</a>
+		<a>llocllas.</a>
+		<a>avalanchas.</a>
+	</as>	
+	<x>.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

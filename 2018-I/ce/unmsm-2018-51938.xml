@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Alfonso LÃ³pez, ciudadano de la provincia de 
+Angaraes, pretende postular como alca l d e 
+provincial, por lo que consulta al Jurado Nacional 
+de Elecciones la forma cÃ³mo debe ser elegido. De 
+acuerdo con la ley, deberÃ¡ ser elegido por 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>referÃ©ndum, por un periodo de cinco años.</a>
+		<a>los regidores de Angaraes, por un periodo 
+	de cinco años.</a>
+		<a>sufragio directo, por un periodo de cuatro 
+	años.</a>
+		<a>	Concejo Municipal, por un periodo de tres 
+años. </a>
+		<a>el Gobierno Regional, por un periodo de 
+	cuatro años. 
+</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

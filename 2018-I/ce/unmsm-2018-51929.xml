@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La producción poética de César Vallejo ha pasado 
+por diversos momentos. Luego de leer los versos 
+que a continuación se presentan, diga a qué periodo 
+pertenecen. 
+Cual mi explicación. 
+Esto me lacera la tempranía. 
+Esa manera de caminar por los trapecios. 
+Esos corajosos brutos como postizos. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="33">
+		<a>Experimental</a>
+		<a>Modernista</a>
+		<a>Simbolista</a>
+		<a>Vanguardista</a>
+		<a>Surrealista</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

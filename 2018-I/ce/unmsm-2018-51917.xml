@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿En cuál de las siguientes opciones hay uso 
+adecuado de las letras mayúsculas? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>Fue en la Biblioteca del Museo británico 
+	donde escribió una obra de valor 
+	monumental.</a>
+		<a>El Canciller Mora, consejero del Rey Enrique 
+	VIII, fue un estudioso del filósofo Erasmo.</a>
+		<a>Uno de los grandes autores del renacimiento 
+	fue De Montaigne, natural de Burdeos.</a>
+		<a>Hemos logrado hacer una travesía 
+	extraordinaria por la telúrica Cordillera de 
+	los Andes.</a>
+		<a>Copérnico estableció que el centro de 
+	nuestro sistema planetario es el Sol y no la 
+	Tierra.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

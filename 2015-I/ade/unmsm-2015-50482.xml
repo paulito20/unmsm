@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el juicio de Núremberg, realizado al finalizar la 
+Segunda Guerra Mundial, se juzgó a los principales 
+jerarcas nazis mediante la nueva categoría jurídica de
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>“obediencia debida”.</a>
+		<a>“limpieza étnica”.</a>
+		<a>“asesinato a mansalva”.</a>
+		<a>“excesos de guerra”.</a>
+		<a>“crímenes contra la humanidad”.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

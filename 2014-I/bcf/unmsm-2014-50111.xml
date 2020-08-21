@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Por su sentido contextual, la palabra SILENCIAR connota</q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>eliminación.</a>
+		<a>discreción.</a>
+		<a>cautela.</a>
+		<a>conocimiento.</a>
+		<a>cálculo.</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2>Contextualmente, la palabra silenciar se entiende 
+	como eliminación. El texto dice silenciar ecos 
+	y documentos, esto se refiere a la pérdida o 
+	eliminación de información valiosa sobre los 
+	orígenes de la ciencia en Grecia.</x2>
+	<i2></i2>
+	<v></v>
+</p>

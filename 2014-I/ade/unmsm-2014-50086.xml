@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>Si un laser emite radiacion con una longitud de onda de 1000nm,</q0>
+	<g0></g0>
+	<q>¿cuantos fotones seran necesarios para alcanzar una energia de 6,21 eV?(h=4,14x10-15eV?(h=4,14x10-15eV. Syc=2,998x108m/s)</q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>50</a>
+		<a>500</a>
+		<a>5000</a>
+		<a>5</a>
+		<a>50000</a>
+	</as>	
+	<x>D</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

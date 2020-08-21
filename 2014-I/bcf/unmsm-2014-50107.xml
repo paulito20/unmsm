@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>(I) El Derecho Romano es el cuerpo legal más 
+sólido y universal que ha creado la humanidad. 
+(II) Inicialmente, la legislación romana se basó 
+en las costumbres. (III) Dicha legislación fue mo- 
+dificada luego por las Leyes de las Doce Tablas. 
+(IV) Ya modificada, igualaba a plebeyos y patri- 
+cios, y limitaba la arbitrariedad de los magistrados. 
+(V) El emperador Justiniano mandó recoger las 
+sentencias de los juristas que constituyeron leyes 
+posteriores.</q>
+	<q2></q2>
+	<as t="R" correcta="2">
+		<a>IV </a>
+		<a>V</a>
+		<a>I</a>
+		<a>II</a>
+		<a>III</a>
+	</as>	
+	<x>C</x>
+	<i></i>
+	<x2>El tema central del ejercicio es la evolución de la 
+legislación romana. Por tal motivo, por disociación, 
+se elimina la primera oración, ya que esta incide, 
+más bien, en la trascendencia del derecho romano. </x2>
+	<i2></i2>
+	<v></v>
+</p>

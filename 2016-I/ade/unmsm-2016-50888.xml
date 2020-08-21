@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante el siglo xviii, en el virreinato peruano, se 
+incrementó el monto de la alcabala, el arbitrario 
+reparto de mercancías y los abusos de los corre- 
+gidores. Esto ocasionó la rebelión de José Gabriel 
+Túpac Amaru, que
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>contó con el apoyo de los franceses.</a>
+		<a>buscaba la independencia del Perú.</a>
+		<a>fue antimonárquica y republicana.</a>
+		<a>se extendió por la Sierra y el Altiplano.</a>
+		<a>buscaba la creación de nuevos virreinatos.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

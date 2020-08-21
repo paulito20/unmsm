@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Según los estudios referidos, ¿cuáles de los siguien- 
+tes enunciados son medidas adecuadas para reducir 
+los embarazos adolescentes? 
+ 	I.Brindar información sobre métodos anticoncep- 
+	  tivos. 
+	II.  Comprar métodos anticonceptivos modernos. 
+	III. Elevar el nivel educativo de las mujeres adoles- 
+	  centes. 
+	IV. Promover la sexualidad activa después de los 
+	  19 a�os. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>I y III</a>
+		<a>I y II</a>
+		<a>III y IV</a>
+		<a>I  IV</a>
+		<a>II y IV</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>Las medidas adecuadas para reducir los embarazos 
+adolescentes según los estudios son 
+	Brindar información sobre métodos anticoncep- 
+	tivos, puesto que es el principal factor implicado 
+	en el problema. 
+III. Elevar el nivel educativo de las adolescentes, 
+	ya que según las cifras, al incrementarse el 
+	nivel de instrucción se produce una mengua de 
+	embarazos. 
+
+El enunciado II se descarta ya que no considera la 
+compra del anticonceptivo, sino su uso oportuno; 
+y en el caso del enunciado IV, se descarta puesto 
+que no reduciría, sino incrementaría el embarazo, 
+además se superaría el rango de edad (entre los 15 
+y 19 a�os). 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

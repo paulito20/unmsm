@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La acción benéfica de los gases de efecto inver- 
+nadero trae como consecuencia 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>la ausencia de vida en la Tierra y tempe- 
+	ratura anual promedio de –18 ºC.</a>
+		<a>el aumento de las precipitaciones y 
+	descongelamiento de los glaciares.</a>
+		<a>el incremento del nivel de los océanos e 
+	inundación de zonas costeras.</a>
+		<a>el cambio en la circulación atmosférica y 
+	en las condiciones meteorológicas.</a>
+		<a>la presencia de vida en la Tierra y 
+	temperatura promedio anual de +15 ºC.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Es conocido que el agua es el solvente universal. 
+Las propiedades que le confiere esta denominación 
+están relacionada con su naturaleza dipolar y con 
+el ordenamiento molecular. Es así, por ejemplo, 
+que una de las funciones del agua en la sangre es 
+transportar el calor y los gases provenientes de las 
+reacciones química en los diferentes órganos del 
+cuerpo humano. Es característico en la molécula 
+de agua presentar un tipo de enlace químico que a 
+su vez se relaciona con la capacidad de cambiar de 
+estado físico (gaseoso, líquido y sólido) y de retener 
+o liberar calor. ¿Cuál es el tipo de enlace químico 
+que presenta esta molécula? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Peptídico</a>
+		<a>Puente de hidrógeno</a>
+		<a>Covalente coordinado</a>
+		<a>Covalente polar</a>
+		<a>Electrostático</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

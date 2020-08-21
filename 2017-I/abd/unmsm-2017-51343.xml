@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>APEC es un organismo internacional que fomenta la 
+cooperación entre economías, entre ellas la del Perú. 
+Un atributo geográfico, que deviene en un factor 
+economico, es la ubicación de cada una de ellas en 
+el planeta. Esto implica para la APEC que la cuenca 
+del .............. es, económicamente, dinámica. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Atlántico</a>
+		<a>Antártico</a>
+		<a>Pacífico</a>
+		<a>golfo Pérsico</a>
+		<a>mar Rojo</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

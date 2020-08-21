@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Alejandro naciÃ³ 9 años antes que Teresa. En el 
+año 2005, la suma de sus edades era el triple de 
+la suma de sus edades en el año 1990. Â¿En quÃ© 
+año nacieron Alejandro y Teresa respectivamente? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>1979 y 1988</a>
+		<a>1977 y 1986</a>
+		<a>1980 y 1989</a>
+		<a>1981 y 1990</a>
+		<a>1978 y 1987</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

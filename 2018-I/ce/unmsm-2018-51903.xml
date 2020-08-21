@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Sea Z el conjunto de los números enteros. En Z 
+definimos la relación R mediante la condición  
+(x, y) ∈ R ↔ x – y es divisible por 5. Determine 
+el valor de verdad (V o F) de las siguientes 
+proposiciones de acuerdo con la secuencia en que 
+aparece cada una. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>FFVV</a>
+		<a>VVVV</a>
+		<a>FVVV</a>
+		<a>VFVF</a>
+		<a>VFVV</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

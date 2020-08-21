@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la familia botánica Loranthaceae, se encuentran 
+las denominadas plantas hemiparásitas que, al 
+igual que el muérdago navide�o, crecen sobre 
+otras plantas, de las cuales son parásitas hídricas; 
+es decir, extraen de los árboles hospederos solo el 
+agua, aprovechan los troncos para establecerse 
+en zonas altas para alcanzar la luz y poder hacer 
+fotosíntesis. Las lorantáceas presentan haustorios, 
+raíces especializadas para sujetarse en el tronco y 
+atravesar los tejidos. Estos haustorios penetrarán 
+los tejidos hasta alcanzar 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>la peridemis.</a>
+		<a>el floema.</a>
+		<a>la endodermis.</a>
+		<a>el xilema.</a>
+		<a>el parénquima.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

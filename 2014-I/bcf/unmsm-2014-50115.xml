@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>El tema central del texto es</q>
+	<q2>	</q2>
+	<as t="R" correcta="1">
+		<a>la complejidad de la actividad neurobio- lógica.</a>
+		<a>la neurofisiología de la relación cerebroconciencia.</a>
+		<a>la descripción de la experiencia consciente.</a>
+		<a>el procesamiento de la informacion sensorial.</a>
+		<a>el análisis filosófico de la mente y la conciencia.</a>
+	</as>	
+	<x>B</x>
+	<i></i>
+	<x2>El autor pretende explicar el vínculo entre cerebro 
+y conciencia, inicialmente con una descripción físi- 
+ca del cerebro (peso, textura y conformación neu- 
+ronal). Posteriormente, se enfoca en la fisiología 
+de este órgano durante la experiencia consciente.</x2>
+	<i2></i2>
+	<v></v>
+</p>

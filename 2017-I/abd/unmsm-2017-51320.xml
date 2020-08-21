@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los escritores del modernismo hispanoamericano 
+rehuían del prosaico mundo burgués y buscaban 
+la belleza en mundos distantes en el espacio (las 
+culturas orientales) o en el tiempo (la mitología 
+griega). Esto constituye la característica del moder- 
+nismo denominada 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>exotismo.</a>
+		<a>esteticismo.</a>
+		<a>sincretismo.</a>
+		<a>cosmopolitismo.</a>
+		<a>clasicismo.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

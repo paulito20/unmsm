@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En verano, se recomienda tomar bebidas calientes 
+	para sentir luego una sensación de frescura 
+ante la temperatura ambiente (30 ºC). Calcule la 
+cantidad de agua recientemente hervida (100 ºC). 
+en mL, necesaria para mezclar con 50 mL de agua 
+muy fría (10 ºC) y beberla a 70 ºC. 
+Datos: calor específico del agua=1 cal/g ºC; densi- 
+dad del agua=1,00 g/mL 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>67</a>
+		<a>75</a>
+		<a>100</a>
+		<a>43</a>
+		<a>88</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

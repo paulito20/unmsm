@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los vasos del floema están formados por células 
+vivas, pero sin núcleo, y se encargan del transporte 
+de la savia elaborada desde las hojas hac�a el resto 
+de la planta. Esta savia elaborada está formada por 
+productos de la
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>transpiración.</a>
+		<a>respiración.</a>
+		<a>evaporación.</a>
+		<a>fotosíntesis.</a>
+		<a>fotorrespiración.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

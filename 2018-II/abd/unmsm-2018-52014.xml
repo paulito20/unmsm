@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Carlos fue a recolectar naranjas a un huerto. Para 
+salir  del  huerto,  las  naranjas  recolectadas  deben 
+pasar  por  tres  controles  de  calidad;  en  cada  uno 
+de los controles, Carlos deja los tres quintos de la 
+cantidad  de  naranjas  que  lleva  en  ese  momento. 
+Si  él  salió  del  huerto  con  32  naranjas,  ¿cuántas 
+naranjas recolecto?  
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>480</a>
+		<a>512</a>
+		<a>500</a>
+		<a>625</a>
+		<a>640</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

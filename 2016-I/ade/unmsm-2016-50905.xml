@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Al sostener que el alma se localiza en ..............., 
+Descartes intenta resolver el problema de la relación 
+entre ............... 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>el corazón - la circulación sanguínea y las 
+	venas.</a>
+		<a>la glándula pineal - la mente y el cuerpo.</a>
+		<a>el cerebro - el pensamiento y la acción.</a>
+		<a>la médula espinal - la experiencia y la ex- 
+	tensión.</a>
+		<a>el encéfalo - el intelecto y los sentidos.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

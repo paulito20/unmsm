@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La descentralización creó centros de decisión sobre 
+el desarrollo local y regional. Para tal efecto, se 
+transfirieron derechos y rentas del gobierno central 
+con la finalidad de realizar inversiones y obras. A 
+partir de esta transferencia, ¿en qué componentes 
+se deben observan los beneficios sociales? 
+I.    Una mejor organización territorial 
+II.  Una disminución de los conflictos y reclamos 
+III. La mejor distribución de la población 
+IV.  Un adecuado manejo del medio ambiente 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>III y IV</a>
+		<a>I y II</a>
+		<a>I y III</a>
+		<a>I y IV</a>
+		<a>II y III</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

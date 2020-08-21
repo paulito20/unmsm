@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una joven pareja afrodescendiente espera su turno 
+para ingresar a una conocida discoteca ubicada en 
+Miraflores. Unos jóvenes de tez clara llegan después 
+y entran al local sin que se les exija ningún requisito. 
+Sin embargo, cuando la referida pareja pretende 
+ingresar, los vigilantes le exigen los carnés de socio, 
+dificultándole el ingreso. Según lo descrito, los pro- 
+pietarios del local estarían 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>promoviendo políticas de superioridad 
+	racial.</a>
+		<a>vulnerando el derecho a no ser discriminado.</a>
+		<a>marginando a ciertos grupos socioeconó- 
+	micos.</a>
+		<a>permitiendo el libre acceso indistintamente.</a>
+		<a>atentando contra el derecho al libre tránsito.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

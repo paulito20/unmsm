@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La obesidad infantil es un grave problema de 
+salud pública. Los ni�os obesos serán adultos 
+obesos y esto, a su vez, es un factor de riesgo para 
+desarrollar diabetes 2 y enfermedades cardiacas. 
+¿Qué acciones permiten prevenir la obesidad? 
+	Aumentar la ingesta de grasas insaturadas, 
+	frutas y verduras. 
+II.  Aumentar la ingesta de grasas saturadas, frutas 
+	y verduras. 
+III. Disminuir la ingesta de grasa saturadas y 
+	carbohidratos. 
+IV.  Aumentar la ingesta de grasas insaturadas, 
+	azúcares y frutas. 
+V.   Disminuir la ingesta de grasas insaturadas, 
+	frutas y verduras.  
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>I y III</a>
+		<a>I y II</a>
+		<a>II y V</a>
+		<a>I y IV</a>
+		<a>IV y V</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dos cuerpos se mueven sobre el mismo camino 
+en función del tiempo de acuerdo a las relaciones 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>9 m</a>
+		<a>7 m</a>
+		<a>8,5 m</a>
+		<a>6 m</a>
+		<a>11 m</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

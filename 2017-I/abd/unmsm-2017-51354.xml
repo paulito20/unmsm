@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A partir de la lectura, se puede inferir que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>la descripción es una tarea completamente 
+	innecesaria en la ciencia contemporánea.</a>
+		<a>los científicos nunca podrían dedicarse 
+	eficientemente a tareas de tipo normativo.</a>
+		<a>describir la praxis científica es la tarea prin- 
+	cipal de la actual filosofía de la ciencia.</a>
+		<a>reducir el análisis de la ciencia a la dicotomía 
+	descripción/prescripción es un error.</a>
+		<a>solo los científicos serían capaces de hacer 
+	filosofía de la ciencia con singular éxito.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

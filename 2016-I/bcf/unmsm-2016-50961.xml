@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Janett, que dispone de una cantidad de dinero para 
+comprar chocolates, les dijo a sus sobrinos: “Si 
+compro tres chocolates para cada uno de ustedes, 
+me sobraría dinero exactamente para cuatro 
+chocolates más, pero si quisiera comprar cuatro 
+chocolates para cada uno de ustedes, me faltaría 
+exactamente el dinero para tres chocolates más”. 
+¿Cuántos sobrinos tiene Janett? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>6</a>
+		<a>5</a>
+		<a>4</a>
+		<a>7</a>
+		<a>8</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

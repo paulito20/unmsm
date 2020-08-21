@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Miguel está vendiendo el reciente número de una 
+revista de modas. Por cada cinco que venda, le 
+pagan tres soles. Su conducta de vender revistas 
+está siendo reforzada según un programa de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>razón variable.</a>
+		<a>razón fija.</a>
+		<a>intervalo fijo.</a>
+		<a>intervalo variable.</a>
+		<a>reforzamiento continuo.</a>
+	</as>	
+	<x>B..
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

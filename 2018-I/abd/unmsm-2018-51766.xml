@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Aldo, Juan y Raúl tienen profesiones diferentes: 
+ingeniero, físico y profesor, no necesariamente en 
+ese orden. Cada uno tiene un hijo que ejerce una 
+de esas profesiones, pero distinta a la de su padre. 
+Además, cada hijo tiene diferente profesión a la de 
+los otros hijos. Si el ingeniero es Aldo y el hijo de 
+Juan es profesor, ¿qué profesiones tienen Juan y el 
+hijo de Raúl, respectivamente? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Profesor e ingeniero</a>
+		<a>Profesor e ingeniero</a>
+		<a>Físico e ingeniero</a>
+		<a>Físico y físico</a>
+		<a>Físico y profesor</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

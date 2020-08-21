@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Halle el valor de
+	E=99 – 97+95 – 93+...+7 – 5+3 – 1 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>52</a>
+		<a>54</a>
+		<a>48</a>
+		<a>46</a>
+		<a>50</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

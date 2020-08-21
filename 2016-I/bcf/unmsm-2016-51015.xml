@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A diferencia de las ciudades del interior del país, la 
+actividad económica en Lima presenta una mayor 
+	Este rasgo económico permite 
+la ............... e intensifica la ............... 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>especialización - inflación.</a>
+		<a>ganancia - inflación.</a>
+		<a>rentabilidad - inflación.</a>
+		<a>especialización - productividad.</a>
+		<a>ganancia - deflación.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

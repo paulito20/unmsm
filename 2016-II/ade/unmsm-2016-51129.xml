@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>â€œTengo que considerar que soy hombre y que por 
+consiguiente acostumbro dormir y representarme en 
+mis sueños las mismas cosas (...) Pero, pensando 
+en ello con cuidado, me acuerdo de haber sido 
+engañado con frecuencia por semejantes ilusiones 
+mientras dormÃ­aâ€. 
+		DESCARTES, R., Meditaciones MetafÃ­sicas, 
+									A.T., IX, 14. 
+Desde la perpesctiva cartesiana, se puede inferir que
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>soñar es una actividad mental que forma 
+	parte de nuestra lucidez cognitiva.</a>
+		<a>no existen indicios concluyentes que distin- 
+	gan con nitidez el sueño de la vigilia.</a>
+		<a>la naturaleza humana necesariamente con- 
+	duce al paralogismo y al error.</a>
+		<a>solamente el mundo representado en sueños 
+	puede considerarse como falso.</a>
+		<a>solo en algunas ocasiones tenemos repre- 
+	sentaciones verdaderas de las cosas.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

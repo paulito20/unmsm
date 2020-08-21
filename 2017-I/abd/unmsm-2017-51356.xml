@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿en qué 
+cuadrante o cuadrantes del sistema de coordenadas 
+rectangulares se encuentra la suma resultante de los 
+vectores A= (2  4), B =  − 4  2) y  C = (3;-7)?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>IV cuadrante</a>
+		<a>III y II cuadrantes</a>
+		<a>III cuadrante</a>
+		<a>I y IV cuadrantes</a>
+		<a>I cuadrante</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

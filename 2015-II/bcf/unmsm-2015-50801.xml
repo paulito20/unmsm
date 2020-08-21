@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El gobierno aplica el arancel a un bien .............. 
+para proteger el mercado .............. de ese pro- 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>exportado - interno</a>
+		<a>importado - externo</a>
+		<a>importado - interno</a>
+		<a>suntuario - competitivo</a>
+		<a>de capital - externo</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

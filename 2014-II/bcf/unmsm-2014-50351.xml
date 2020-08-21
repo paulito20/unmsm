@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La media aritmética de 50 números es 16. De 
+estos, a cada uno de 20 números se le aumenta 
+8 unidades, mientras a cada uno de los restantes 
+se le disminuye 2 unidades. Halle la nueva media 
+aritmética. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>19</a>
+		<a>18</a>
+		<a>17</a>
+		<a>16</a>
+		<a>15</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Determine qué opción presenta uso incorrecto de 
+los dos puntos.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>Para el desayuno: prefiero los bocaditos 
+	calientes.</a>
+		<a>Dos son los ingredientes de la mazamorra: 
+maíz y chu�o. </a>
+		<a>Rocky no es mi hermano: es mi mascota 
+preferida.</a>
+		<a>Desaprobó el examen: perdió inmediata- 
+mente la beca.</a>
+		<a>Tres cosas esenciales hay en la vida: salud, 
+dinero y amor.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En nuestro viaje de promoción hac�a la región 
+amazónica observamos que, entre las características 
+de sus dos principales pisos ecológicos, la selva alta 
+y selva baja, se localizan amplios valles de suelos 
+aluviales que ofrecen grandes posibilidades de desa- 
+rrollo agrícola. En este contexto, ¿cuál es el valle más 
+amplio de esta región? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>Huallaga central</a>
+		<a>Pozuzo medio</a>
+		<a>Palcazú alto</a>
+		<a>Chanchamayo bajo</a>
+		<a>Tambopata alto</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

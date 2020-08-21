@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) El territorio Chavín se encuentra situado desde 
+el inicio en un estrecho callejón, formado por los 
+ríos Wacheqsa y Mosna donde se encuentra su 
+gran templo. (II) El centro del territorio Chavín se 
+encuentra al oriente de la cordillera Blanca, en 
+plena región quechua. (III) El dominio chavinense 
+abarcó las tierras interandinas y la costa con sus 
+litorales. (IV) La cultura Chavín desarrolló el arte 
+escultórico en piedra para embellecer su gran 
+templo. (V) Los territorios que fueron compren- 
+didos por la cultura Chavín se expandieron hasta 
+Cajamarca por el norte del Perú. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>IV</a>
+		<a>II</a>
+		<a>V</a>
+		<a>III</a>
+		<a>I</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>El tema principal del ejercicio es el dominio terri- 
+torial de la cultura Chavín. En tal sentido, se debe 
+eliminar la cuarta oración, ya que esta refiere a un 
+tema distinto: el arte escultórico de Chavín. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

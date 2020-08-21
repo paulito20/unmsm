@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un candidato que postula a la presidencia de la 
+república alega ser víctima de graves vulneraciones 
+a sus derechos políticos de parte de las autoridades 
+electorales, afectaciones que le impiden desarrollar 
+su campa�a electoral en igualdad de condiciones 
+respecto de sus competidores. Ante tal situación, 
+decide presentar una denuncia ante la Corte 
+Interamericana de Derechos Humanos. ¿Es correcta 
+la decisión del referido candidato? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>No, la denuncia debe presentarse ante 
+	la Organización de Estados Americanos 
+	(OEA).</a>
+		<a>Sí, cualquiera tiene derecho a someter un 
+	caso a la decisión de la Corte.</a>
+		<a>Sí, pero previamente la denuncia debe 
+	presentarse en la Defensoría del Pueblo.</a>
+		<a>No, la denuncia debe presentarse en forma 
+	previa ante la Corte Suprema de Justicia.</a>
+		<a>No, la denuncia se presenta ante la Comisión 
+	Interamericana de Derechos Humanos.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

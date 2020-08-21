@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El enunciado escrito en inglés implica que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>si el donante es menor, la familia es compe- 
+	tente.</a>
+		<a>la voluntad del donante puede ser ignorada.</a>
+		<a>solo la familia del donante juzga de forma 
+	certera.</a>
+		<a>no cabe conversar del tema con los seres 
+	queridos.</a>
+		<a>se consultará a los familiares cuando estén 
+	tranquilos.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>En el enunciado escrito en inglés implica que la vo- 
+luntad del donante puede ser ignorada. En el texto, 
+la expresión en inglés plantea lo siguiente: “May 
+someone has declared his willing to be a donator. 
+But when he dies, the family will be consulted to 
+make if effect”. (Cuando alguien ha declarado su 
+voluntad de ser donante. Pero cuando él muere, 
+la familia será consultada para hacerlo efectivo.). 
+Es decir, que son los familiares quienes tendrían la 
+última palabra, y estas no necesariamente estarían 
+a favor de la donación. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

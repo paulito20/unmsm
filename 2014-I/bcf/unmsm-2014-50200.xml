@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La masa de H SO , en gramos, contenida en 
+40 mL de una solución 0,1 N de H SO  es 
+Datos: PA: S=32; O=16; H=1 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>0,490</a>
+		<a>1,960</a>
+		<a>4,900</a>
+		<a>0,196</a>
+		<a>0,392</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

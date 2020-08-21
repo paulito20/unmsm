@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una máquina aplanadora consta de un tractor y de 
+un rodillo que tiene la forma de un cilindro recto 
+de gran peso, tal como se muestra en la figura. Si 
+dicho rodillo tiene 1,20 m de diámetro y 2,30 m 
+de largo, halle el área de la superficie que el rodillo 
+aplana en cada vuelta. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

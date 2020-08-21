@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El ingreso de aire a los pulmones depende de 
+la diferencia de presión atmosférica (PA) que se 
+produce en los pulmones con respecto al medio 
+externo. Una persona accidentada no respira de 
+forma adecuada, por lo que requiere un ventilador 
+mecánico. ¿Qué función reemplaza este ventilador? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Ingreso de aire por relajación de los 
+	músculos pectorales y diafragma.</a>
+		<a>Ingreso de aire a los pulmones por una PA 
+	menor en los pulmones.</a>
+		<a>Ingreso de aire por una PA mayor en los 
+	pulmones y en el corazón.</a>
+		<a>Salida de aire de los pulmones por una PA 
+	menor en los pulmones.</a>
+		<a>Salida de aire por contracción de los 
+músculos pectorales y diafragma.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

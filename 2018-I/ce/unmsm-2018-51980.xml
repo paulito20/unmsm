@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El Perú es un país minero y, por lo general, sus 
+procesos metalúrgicos se desarrollan a base de 
+minerales sulfurados como blenda, chalcopirita, 
+galena, etc. Así, el gas contaminante que se libera 
+a partir de la metalurgia de estos minerales es el 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

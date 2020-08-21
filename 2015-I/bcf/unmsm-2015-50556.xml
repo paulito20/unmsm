@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un banco otorga a una empresa un préstamo de 
+S/.750 000 para ser cancelado dentro de un a�o 
+y tres meses, cobrando una tasa de interés simple 
+del 18 % anual. ¿Qué interés pagará la empresa 
+al vencimiento del plazo? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>S/.140 620</a>
+		<a>S/.140 625</a>
+		<a>S/.157 500</a>
+		<a>S/.168 570</a>
+		<a>S/.168 750</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

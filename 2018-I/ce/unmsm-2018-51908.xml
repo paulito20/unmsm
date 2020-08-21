@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cámaras de video, ubicadas en la parte más alta de 
+dos postes verticales de diferente altura, visualizan, 
+con ángulos de depresión de igual medida, un 
+objeto ubicado entre ambos postes y en la misma 
+superficie horizontal sobre la cual se levantan estos. 
+Si el objeto y los postes se encuentran alineados (la 
+altura del poste más alto es 2,5 m y la del otro es 
+2 m), determine la distancia del objeto al pie del 
+poste más alto (sabiendo que ambos postes distan 
+9 m entre sí). 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>3,5 m</a>
+		<a>4 m</a>
+		<a>4,5 m</a>
+		<a>5 m</a>
+		<a>3 m</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

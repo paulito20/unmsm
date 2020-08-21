@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los  padres  de  Luis,  menor  de  11  a�os  de  edad, 
+están  siempre  dispuestos  a  apoyar  a  su  hijo:  lo  
+incentivan  a  que  consiga  lo  que  se  propone,  lo 
+corrigen y le dan consejos. Asimismo, le inculcan 
+practicar  la  puntualidad,  arreglar  su  dormitorio 
+y  saludar  a  las  personas  mayores.  En  el  ejemplo 
+citado  se  evidencian  dos  funciones  que  cumplen  
+las familias en la crianza de sus hijos, estas son la 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>socializadora y normativa.</a>
+		<a>educativa y económica.</a>
+		<a>económica y recreativa.</a>
+		<a>recreativa y socializadora.</a>
+		<a>afectiva y educativa.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

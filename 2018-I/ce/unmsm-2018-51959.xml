@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Desde 1990, la Organización de las Naciones Unidas 
+realiza esfuerzos entre los países miembros para 
+extender y mantener un conjunto de datos que permita 
+la comparación entre ellos. La tarea desplegada por el 
+organismo supranacional se sintetiza en el indicador 
+del desarrollo humano. Al emplear este indicador, los 
+países se comparan, básicamente, en términos 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>de la calidad de vida.</a>
+		<a>del avance tecnológico.</a>
+		<a>del crecimiento económico.</a>
+		<a>de la inversión ejecutada.</a>
+		<a>de los resultados educativos.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>En una urna hay 4 bolitas negras, 6 blancas, 
+11 rojas, 13 azules y 14 verdes. ¿Cuál es el menor 
+número de bolitas que se debe extraer al azar 
+para tener la certeza de haber extraído 8 bolitas 
+del mismo color?
+</q0>
+	<g0></g0>
+	<q>¿Cuál es el menor 
+número de bolitas que se debe extraer al azar 
+para tener la certeza de haber extraído 8 bolitas 
+del mismo color?</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>31</a>
+		<a>30</a>
+		<a>33</a>
+		<a>34</a>
+		<a>32</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2>Tema: Certezas 
+	Análisis y procedimiento 
+	Se pide el menor número de bolitas que se debe 
+	extraer al azar para obtener con certeza 8 bolitas 
+	del mismo color
+
+	De los datos
+	4 N 	6 B			8 bolitas del 							 
+11 R	 13 A 	14 V 	mismo color
+	Análisis y procedimiento 
+	Se pide la suma de lo que dio Raúl con lo que 
+	recibió Miriam. 
+
+</x2>
+	<i2></i2>
+	<v></v>
+</p>

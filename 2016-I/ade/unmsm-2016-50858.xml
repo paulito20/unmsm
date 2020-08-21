@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Sea x el menor número entero positivo, el cual 
+satisface que 2x es el cuadrado de un número en- 
+tero y 3x es el cubo de otro número entero. Halle 
+la suma de los exponentes de la descomposición 
+polinómica en factores primos del número x. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>7</a>
+		<a>4</a>
+		<a>5</a>
+		<a>3</a>
+		<a>6</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un grupo de ni�os detectó unos peque�os celenté- 
+reos, comúnmente llamados malaguas, en una playa 
+del litoral peruano. Tras observar con curiosidad 
+los especímenes varados, se preguntaron qué tipo 
+de digestión tendrían. Luego de investigar sobre el 
+tema, concluyeron que los celentéreos 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>no tienen boca y se alimentan por difusión.</a>
+		<a>tienen digestión extracelular e intracelular.</a>
+		<a>son organismos unicelulares con boca-ano.</a>
+		<a>se alimentan de crustáceos y fitoplancton.</a>
+		<a>son organismos con digestión extracelular.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

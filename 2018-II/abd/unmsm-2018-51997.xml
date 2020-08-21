@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Este  texto  mixto  desarrolla,  lineal  y  gráficamen- 
+te, el tema 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>de  las  comparaciones  anuales  de  precios  al 
+	consumidor.</a>
+		<a>del comportamiento de los valores de los bie- 
+	nes de uso.</a>
+		<a>de  las  variaciones  porcentuales  del  precio  al 
+	consumidor.</a>
+		<a>del  índice  analítico  anual  y  mensual  de  los 
+	precios.</a>
+		<a>del  aumento  de  la  inflación  mensual  de  los 
+	productos.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

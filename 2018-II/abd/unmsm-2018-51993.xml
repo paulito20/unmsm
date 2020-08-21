@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Del texto se infiere que Estados Unidos es uno de 
+los países que más contamina porque
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>carece de programas que difundan la concien- 
+	cia ecológica.</a>
+		<a>tiene la industria del plástico más desarrollada 
+	de la región.</a>
+		<a>se halla cerca de dos de los giros más grandes 
+	del mundo.</a>
+		<a>consume mayor cantidad de productos asocia- 
+	dos al plástico.</a>
+		<a>posee  mayor  poder  adquisitivo  para  adquirir 
+	bienes y servicios</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

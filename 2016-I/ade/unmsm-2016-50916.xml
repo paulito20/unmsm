@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se considera agua potable al agua inodora, insípida 
+e incolora, que contiene oxígeno y sales disueltas 
+en una concentración adecuada y que está libre 
+de gérmenes patógenos y sustancias tóxicas que 
+ponen en peligro la salud. Para alcanzar estas 
+condiciones, el agua se debe someter a un proceso 
+de potabilización, con la finalidad de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>eliminar completamente los iones.</a>
+		<a>eliminar totalmente los microorganismos.</a>
+		<a>hacerla apta para el consumo humano.</a>
+		<a>eliminar las partículas en suspensión y clo- 
+	rarla.</a>
+		<a>tratarla y hacerla cristalina.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

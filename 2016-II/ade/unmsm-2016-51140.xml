@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El hidróxido de sodio (NaOH), también conocido 
+como soda cáustica, se emplea en los hogares para 
+desatorar ca�erías y limpiar la grasa de hornos 
+y ollas. 
+Determine qué cambios ocurren en la reacción 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>II, III y V</a>
+		<a>I, II y IV</a>
+		<a>I, III y V</a>
+		<a>I, II, IV y V</a>
+		<a>I, II y V</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

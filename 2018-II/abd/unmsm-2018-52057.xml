@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Juan Carlos, después de vivir cinco a�os en Bar- 
+celona,  regresa  a  Lima.  Su  familia  nota  cambios  
+muy   importantes   en   su   comportamiento.   Por 
+ejemplo, que se preocupa por llegar puntualmen- 
+te  a  todas  sus  reuniones  sociales  (lo  que  antes 
+no  hacía);  además,  cecea  al  hablar,  ya  no  quiere 
+comer  lo  que  le  gustaba  (alimentos  picantes)  y 
+prefiere usar la ropa más ce�ida. Este cambio de 
+comportamiento  social  forma  parte  del  proceso 
+de ________ que ha experimentado Juan Carlos. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>socialización.</a>
+		<a>resocialización.</a>
+		<a>culturización.</a>
+		<a>aprendizaje.</a>
+		<a>resiliencia.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

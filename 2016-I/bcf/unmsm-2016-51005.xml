@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una característica fundamental del Homo erectus fue 
+su capacidad de producir fuego, lo que le permitió 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>enterrar a sus muertos.</a>
+		<a>desarrollar la metalurgia.</a>
+		<a>cocinar sus alimentos.</a>
+		<a>convivir con animales predadores.</a>
+		<a>pintar las paredes de sus cuevas.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

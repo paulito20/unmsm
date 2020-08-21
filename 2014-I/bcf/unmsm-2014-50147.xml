@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Si genera 62 cifras decimales en la
+	   parte no periódica, calcule el valor de x.</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>7</a>
+		<a>4</a>
+		<a>3</a>
+		<a>5</a>
+		<a>6</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2>Tema: Decimales 
+Recuerde que el número de cifras decimales exactos 
+(cifras no periódicas) está dado por el mayor de 
+los factores 2 y/o 5 contenidos en el denominador 
+de la fracción irreductible. </x2>
+	<i2></i2>
+	<v></v>
+</p>

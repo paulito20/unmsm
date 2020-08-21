@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cinco amigas están sentadas en torno a una mesa 
+circular. Julia está sentada entre Ana y Pe�a; Loza-
+da, entre Julia y Pamela; Gutiérrez, entre Lozada 
+y Mamani. Dora está sentada junto a Godoy y a 
+Mamani: Godoy a su izquierda y Mamani a su 
+derecha. ¿Cuál es el apellido de Julia y el nombre 
+de Lozada respectivamente? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Gutiérrez - Pamela</a>
+		<a>Pe�a - Ana</a>
+		<a>Godoy - Pamela</a>
+		<a>Godoy - Ana</a>
+		<a>Mamani - Ana</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

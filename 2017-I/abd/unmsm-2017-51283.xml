@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un fabricante de zapatos quiere comprar una má- 
+quina cepilladora. Para ello produce una cantidad 
+de pares de zapatos y los lleva a vender a una 
+feria. Si vende cada par a S/120, podrá comprarse 
+la máquina cepilladora y le sobrará S/1200, pero 
+si vende cada par a S/110, comprará la máquina 
+cepilladora y le sobrará S/700. Halle la suma de 
+cifras del precio de la máquina cepilladora. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>17</a>
+		<a>14</a>
+		<a>12</a>
+		<a>16</a>
+		<a>13</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

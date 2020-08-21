@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una cámara de vigilancia colocada a 40 m y al 
+mismo nivel de la base de un edificio vigila la parte 
+más alta de este con un ángulo de elevación a, tal 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>60 m</a>
+		<a>75 m</a>
+		<a>70 m</a>
+		<a>90 m</a>
+		<a>80 m</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

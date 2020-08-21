@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la clase de Geografía, el profesor usa el mapa 
+oficial del Perú para indicar que entre Lima y Trujillo 
+existe una distancia de 565 km en el terreno. A 
+partir de tal información, podemos determinar 
+que la distancia que separa estos mismos puntos 
+en el mapa es 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>56,5 cm.</a>
+		<a>38,0 cm.</a>
+		<a>66,5 cm.</a>
+		<a>46,0 cm.</a>
+		<a>70,6 cm.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la figura, DE = 3 cm, BE = 4 cm y AD = 3 cm. 
+Halle AC.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>7 cm</a>
+		<a>5 cm</a>
+		<a>4 cm</a>
+		<a>8 cm</a>
+		<a>6 cm</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

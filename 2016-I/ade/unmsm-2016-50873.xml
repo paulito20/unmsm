@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Luego de bajar del taxi, Claudio oyó los gritos 
+desaforados de una octogenaria que decía: “¡Vote 
+por un alcalde que no sea tan cochino, joven, que 
+bote la basura!”. Las palabras subrayadas están en 
+relación semántica de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>homonimia parcial.</a>
+		<a>sinonimia.</a>
+		<a>antonimia lexical.</a>
+		<a>antonimia gramatical.</a>
+		<a>homonimia absoluta.</a>
+	</as>	
+	<x>
+	</x>E.
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

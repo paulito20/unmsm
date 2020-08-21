@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la Divina comedia, el poeta se encuentra perdido; 
+por ello, es guiado al Paraíso, sucesivamente, por 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>Virgilio y Beatriz.</a>
+		<a>Beatriz y Virgilio.</a>
+		<a>Dante y Caronte.</a>
+		<a>Virgilio y Cancerbero.</a>
+		<a>Cancerbero y Beatriz.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

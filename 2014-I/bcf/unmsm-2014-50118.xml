@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>De la lectura, cabe deducir que a la experiencia consciente se podría acceder </q>
+	<q2></q2>
+	<as t="R" correcta="">
+		<a>neurofisiológicamente.</a>
+		<a>bioquímicamente.</a>
+		<a>sensorialmente. </a>
+		<a>introspectivamente.</a>
+		<a>electrofisiológicamente.</a>
+	</as>	
+	<x></x>
+	<i></i>
+	<x2>Se deduce que la experienciaconsciente se podría
+	llegar a conocer mediante la introspección. 
+	La experiencia consciente es el conjunto de evocaciones
+	o imágenes que aparecen en el cerebro cuando 
+	hay actividad cerebral. Como no existe un método 
+	directo para acceder a esta experiencia, se podría 
+	aplicar un método introspectivo, que es una forma 
+	indirecta de observar los estados de conciencia a partir
+	de la propia evocación de los sujetos estudiados.</x2>
+	<i2></i2>
+	<v></v>
+</p>

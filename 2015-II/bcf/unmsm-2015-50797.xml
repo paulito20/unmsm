@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El geógrafo Javier Pulgar Vidal sintetizó sabiamente 
+los profundos conocimientos que el hombre 
+peruano tenía de su territorio desde tiempos 
+ancestrales. Las variadas características de este 
+territorio, tales como el clima, la vegetación, el 
+paisaje, el relieve, el hombre y sus actividades, 
+etc. sirvieron de base para identificar las ocho 
+regiones naturales: Chala, Yunga, Quechua, Suni, 
+Jalca, Janca, Rupa-Rupa y Omagua. Se�ale la 
+alternativa que asocia  correctamente clima y  
+región natural. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Desierto o árido - Suni</a>
+		<a>Templado frío - Chala</a>
+		<a>Templado cálido - Yunga</a>
+		<a>Tropical lluvioso - Jalca</a>
+		<a>Glacial o muy frío - Quechua</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

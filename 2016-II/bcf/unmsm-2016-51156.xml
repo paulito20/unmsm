@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Pródigo, cicatero; audaz, medroso; 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>excesivo, rebosante</a>
+		<a>insigne, sensible</a>
+		<a>robusto, enteco</a>
+		<a>forzoso, liberal</a>
+		<a>templado, sereno</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>En los pares pródigo, cicatero; audaz, medroso 
+existen relaciones de antonimia, respectivamente. 
+Por ello, el par: robusto (fuerte y saludable), enteco 
+(flaco y débil), completa la serie, pues también 
+presenta antonimia entre sí.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

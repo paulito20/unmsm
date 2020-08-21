@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El distrito de San Borja, ubicado en la ciudad de 
+Lima, es uno de los más organizados del país; sin 
+duda, destaca por su orden y limpieza. Para conse- 
+guir un buen funcionamiento, el municipio recauda 
+y administra significativos recursos monetarios que 
+la ciudadanía avala por los resultados. Al ser un go- 
+bierno local, el tributo administrado es el impuesto 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>al valor del predio.</a>
+		<a>general de las ventas.</a>
+		<a>selectivo al consumo.</a>
+		<a>a los ingresos.</a>
+		<a>a las importaciones.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

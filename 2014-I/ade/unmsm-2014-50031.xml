@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<g0>Se sabe que la suma de las edaddes de un conjunto de 100 postulantes es de 1856 años, y que cada uno de ellos solamennte tiene 17 o 21 años.</g0>
+	<q>Â¿Cuantos de estos postulantes tienen 21 años?</q>
+	<q0></q0>
+	<q2></q2>
+	<as t="R" correcta="1">
+		<a>35</a>
+		<a>39</a>
+		<a>37</a>
+		<a>38</a>
+		<a>61</a>
+	</as>	
+	<x>B</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

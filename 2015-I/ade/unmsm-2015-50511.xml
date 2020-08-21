@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La tortuga “charapa“ es una especie declarada 
+en situación vulnerable; si el Estado peruano 
+decidiera protegerla para luego usarla como 
+recurso alimenticio, correspondería hacerlo en 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>un santuario histórico.</a>
+		<a>un santuario nacional.</a>
+		<a>una reserva nacional.</a>
+		<a>un parque nacional.</a>
+		<a>una área reservada.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

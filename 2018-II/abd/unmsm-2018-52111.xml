@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las  células  cerebrales  necesitan  del  suministro 
+constante de oxígeno y glucosa transportados por 
+la  sangre.  Un  accidente  cerebro  vascular  (ACV) 
+es  una  lesión  cerebral  que  se  produce  cuando  se 
+interrumpe el riego sanguíneo a una parte del ce- 
+rebro  y  que  usualmente  ocasiona  la  pérdida  de 
+actividades motoras en el individuo. ¿Por qué se 
+produce  espontáneamente  esta  interrupción  del 
+riego sanguíneo? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Porque  se  forma  un  coágulo  en  las  arteriolas 
+	rotas</a>
+		<a>Por  elevarse  la  presión  sanguínea  en  el  cere- 
+	bro</a>
+		<a>Porque  es  una  consecuencia  de  la  hiperglice- 
+	mia</a>
+		<a>Debido  a  la  muerte  neuronal  por  falta  de  nu- 
+	trientes</a>
+		<a>Por la contracción autónoma de los capilares</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

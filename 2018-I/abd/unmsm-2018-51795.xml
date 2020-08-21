@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se tiene un pedazo de cartulina con forma de 
+un sector circular de 40º de ángulo central y que 
+subtiende un arco de 6p cm. Si para obtener un 
+sector circular más peque�o, se reduce 9 cm el radio 
+y se corta con tijera, eliminando el trapecio circular, 
+¿cuál es el área del nuevo sector circular? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

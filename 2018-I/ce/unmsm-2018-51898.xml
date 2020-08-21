@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una se�ora tiene ahorrados en una caja quince 
+billetes de S/20, veinte billetes de S/50 y diez billetes 
+de S/100, todos en forma desordenada. ¿Cuál es 
+el mínimo número de billetes que la se�ora debe 
+extraer al azar de la caja para tener la certeza de 
+haber sacado S/500 en billetes de S/20 y S/100? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>36</a>
+		<a>38</a>
+		<a>35</a>
+		<a>37</a>
+		<a>39</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

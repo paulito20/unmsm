@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Elija el término que guarda menos relación con 
+los demás. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>Gentileza</a>
+		<a>Amabilidad</a>
+		<a>Cortesía</a>
+		<a>Urbanidad</a>
+		<a>Bondad</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>Las palabras gentileza, amabilidad, cortesía y 
+urbanidad son sinónimas entre sí. El término 
+que no guarda relación con los vocablos citados 
+es bondad; esta palabra se refiere a la virtud de 
+hacer o buscar el bien de los demás. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

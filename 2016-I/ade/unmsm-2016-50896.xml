@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El profesor de Geografía programó una práctica de 
+campo en el distrito de Canta; al llegar a la localidad, 
+reunió a sus alumnos y les indicó que al día siguiente 
+visitarían la localidad de Obrajillo y les solicitó calcu- 
+lar la disctancia entre Canta y	Obrajillo en un mapa 
+de escala 1:100,000. Medida la distancia que separa 
+estos dos puntos en el mapa, hallaron 28 mm. ¿Cuál 
+es la distancia entre Canta y Obrajillo? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>2400 m </a>
+		<a>1600 m</a>
+		<a>2600 m</a>
+		<a>2300 m</a>
+		<a>2800 m</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

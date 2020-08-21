@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Se�ale la alternativa que presenta uso correcto del punto y coma. </q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>Ernesto escuchó a Beethoven; Cecilia, a Mozart.</a>
+		<a>La gente que ha sufrido; es la más generosa.</a>
+		<a>Los que más se adaptan al cambio son; los que triunfan.</a>
+		<a>Todo aquí transmite paz; los animales, el clima...</a>
+		<a>La batalla de Tarapacá (1879); la ganaron los chilenos.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

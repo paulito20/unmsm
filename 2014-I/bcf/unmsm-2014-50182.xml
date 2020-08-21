@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La Revolución francesa produjo profundos cam- 
+bios en lo político, económico y social. El cambio 
+más importante fue
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>el control absoluto de los mercados.</a>
+		<a>la aparición del Estado moderno.</a>
+		<a>la confiscación de las propiedades.</a>
+		<a>el surgimiento del liberalismo.</a>
+		<a>la promoción de la propiedad social.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

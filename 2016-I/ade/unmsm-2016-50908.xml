@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Uno de los principales motivos de accidentes de 
+tránsito ocasionados por móviles menores es la 
+excesiva velocidad que los choferes imprimen a 
+sus vehículos. Por ejemplo, un conductor que va 
+a 90 km/h con aceleración constante tiene que 
+detenerse a 40 m para evitar un accidente. Si el 
+conductor al aplicar los frenos requiere 5,0 segun- 
+dos para detener su vehículo, ¿cuál fue la distancia 
+total recorrida desde que aplicó los frenos hasta 
+detenerse? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>62,5 m</a>
+		<a>64,5 m</a>
+		<a>66,5 m</a>
+		<a>60,5 m</a>
+		<a>68,5 m</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

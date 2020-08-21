@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un fabricante de bombillas gana 0,3 soles por cada 
+bombilla buena que sale de la fábrica, pero pierde 
+0,4 soles por cada una que salga defectuosa. Un 
+día en el que fabricó 2100 bombillas obtuvo un 
+beneficio de 484,4 soles. Halle la diferencia entre 
+el número de bombillas buenas y el número de 
+bombillas defectuosas que fabricó ese día. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>1864 bombillas</a>
+		<a>1684 bombillas</a>
+		<a>1468 bombillas</a>
+		<a>1662 bombillas</a>
+		<a>1478 bombillas</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

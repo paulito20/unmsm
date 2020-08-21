@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>En los siquientes versos:"Escrito esta en mi alma vuestro gesto" y "¿Que es la ida? Un frenesi./¡Que es la visa? Una ilusion,</q0>
+	<g0></g0>
+	<q>¿que figuras literarias se han utiizao respectivamente?</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>HIperbole y epiteto</a>
+		<a>Metafora e hiperbole</a>
+		<a>Anafora y epiteto</a>
+		<a>Hiperbaton y anafora</a>
+		<a>Anafora y metafora</a>
+	</as>	
+	<x>D</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

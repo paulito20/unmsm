@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Pablo, Pedro, José, Ximena, Luis y María son 
+peruanos que tienen 13, 15, 18, 19, 20 y 21 a�os 
+de edad, respectivamente. De ellos, pertenecen a 
+la población económicamente activa (PEA) Pablo, Pedro, José, Ximena, Luis y María son 
+peruanos que tienen 13, 15, 18, 19, 20 y 21 a�os 
+de edad, respectivamente. De ellos, pertenecen a 
+la población económicamente activa (PEA) 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>solamente Luis y María.</a>
+		<a>Pedro, José, Ximena, Luis y María.</a>
+		<a>solamente Ximena, Luis y María.</a>
+		<a>solamente José, Ximena, Luis y María.</a>
+		<a>solamente Pedro y Pablo.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

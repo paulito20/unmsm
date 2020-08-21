@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las enfermedades pueden clasificarse usando dis- 
+tintos criterios: por la rapidez con la que aparecen, 
+por su duración, por la frecuencia y extensión en la 
+población que afecta, y por su origen. Si quisiéra- 
+mos clasificar la enfermedad producida por el virus 
+del Zika (transmitida por el mosquito Aedes aegypti) 
+por la duración y rapidez con la que aparece, sos- 
+tendríamos que es una enfermedad 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>aguda.</a>
+		<a>degenerativa.</a>
+		<a>esporádica.</a>
+		<a>endémica.</a>
+		<a>crónica.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Si Carla es mayor que Félix, Lilia y Eduardo tienen 
+	la misma edad, Lilia es menor que Félix, Lucía y 
+	Eduardo han nacido en el mismo mes y a�o; es
+	siempre cierto que</q>
+	<q2></q2>
+	<as t="R" correcta="2">
+		<a>Lilia es mayor que Lucía.</a>
+		<a>Félix es menor que Eduardo.</a>
+		<a>Lucía es menor que Carla.</a>
+		<a>Carla y Eduardo nacieron en el mismo a�o.</a>
+		<a>Lucía y Carla tienen la misma edad.</a>
+	</as>	
+	<x>C</x>
+	<i></i>
+	<x2>Tema: Ordenamiento de información 
+Análisis y procedimiento 
+Se pide determinar qué afirmación siempre es 
+cierta. 
+De los datos 
+• Carla es mayor que Félix: C > F 
+• Lilia y Eduardo tienen la misma edad: Li=E
+• Lilia es menor que Félix: F > Li 
+Hasta aquí obtenemos 
+	C > F > Li=E 
+Último dato: Lucía y Eduardo han nacido en el 
+mismo mes y a�o. 
+		C   > F  >   Li  =  E 
+			Lu 	 E=Li 
+			o 
+			Lu	 E=Li 
+De lo último deducimos que la alternativa que 
+siempre es cierta es Lucía es menor que Carla. </x2>
+	<i2></i2>
+	<v></v>
+</p>

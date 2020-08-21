@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál de los siguientes enunciados es incompa­ 
+tible con lo aseverado en el texto? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Para Platón, la geometría estaba unida 
+	al origen del mundo y a la esencia de la 
+	realidad.</a>
+		<a>Pitagoras cosidero que los números 
+constituían la esencia de la realidad per­ 
+manente.</a>
+		<a>La creencia en formas permanentes detrás 
+	del mundo material fascinó al joven Platón. </a>
+		<a>Según el pensamiento de Platón, lo más au­ 
+	téntico de la realidad tiene carácter material.</a>
+		<a>Platón asumió la creencia de Parménides 
+acerca de una esencia inmutable del 
+mundo.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>La preocupación central de Platón consiste en 
+identificar si la esencia inmutable de todo lo 
+existente tiene carácter ideal o, por el contrario, 
+carácter material. 
+En tal sentido, asume que son las formas o ideas 
+puras lo esencial de la realidad. Resulta falso 
+afirmar entonces que la esencia de la realidad 
+tenga carácter material. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

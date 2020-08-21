@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De acuerdo con lo afirmación por el autor, se 
+infiere que
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>la metodología de la historia de la ciencia 
+de Popper distorsiona los hechos.</a>
+		<a>Popper defiende una versión irracional de 
+la historia de la ciencia.</a>
+		<a>solo hay teorías científicas cuando hacemos 
+observaciones fortuitas.</a>
+		<a>el método de Popper cuestiona la falsabilidad 
+de las teorías.</a>
+		<a>el método de la historia de la ciencia de 
+Feyerabend se ajusta a los hechos. </a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

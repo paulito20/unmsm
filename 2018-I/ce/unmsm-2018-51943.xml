@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La derrota en la guerra del Pacífico (1879 - 1883) 
+fue un acontecimiento devastador para el Perú. 
+Unas de sus consecuencias políticas inmediatas 
+más importantes fue 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>la firma del polémico contrato Dreyfus.</a>
+		<a>el regreso del Partido Civil al gobierno.</a>
+		<a>el retorno del caudillismo militar.</a>
+		<a>la firma del acuerdo con la Casa Grace.</a>
+		<a>la Coalición Nacional liderada por Piérola</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

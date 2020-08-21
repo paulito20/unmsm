@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La respiración en los peces ocurre por la captación 
+del oxígeno disuelto en el agua en un proceso 
+donde
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>el dióxido de carbono del agua llega al 
+	torrente sanguíneo.</a>
+		<a>el intercambio gaseoso se realiza en las 
+	laminillas branquiales.</a>
+		<a>el agua pasa a través de las branquias y 
+	luego se elimina por la boca.</a>
+		<a>los alveolos branquiales se llenan de 
+	oxígeno.</a>
+		<a>los espiráculos participan en el intercambio 
+	gaseoso.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las variadas caracterÃ­sticas del territorio como clima, 
+vegetaciÃ³n y paisaje sirven de base para identificar las 
+ocho regiones naturales del PerÃº. Señale la alternativa 
+que asocie, respectivamente, regiÃ³n natural y relieve 
+representativo.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>Chala: pampas y valles</a>
+		<a>Omagua: montañas y cañones</a>
+		<a>Jalca: altos y restingas</a>
+		<a>Quechua: planicies y glaciares</a>
+		<a>Janca: terrazas y aguajales</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

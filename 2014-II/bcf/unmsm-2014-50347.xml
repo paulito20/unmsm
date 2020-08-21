@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Halle las medidas de los lados de un rectángulo de 
+área máxima cuyo perímetro es 48 m.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>23 m y 1 m</a>
+		<a>12 m y 12 m</a>
+		<a>16 m y 8 m</a>
+		<a>15 m y 9 m</a>
+		<a>14 m y 10 m</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

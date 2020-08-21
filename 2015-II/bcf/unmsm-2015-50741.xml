@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una urna se introduce 20 fichas blancas,  
+12 fichas negras y 16 fichas verdes. ¿Cuál es la 
+mínima cantidad de fichas que se debe extraer al 
+azar de la urna para estar seguros de que se extrajo 
+por lo menos seis fichas de cada color? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>42</a>
+		<a>24</a>
+		<a>32</a>
+		<a>40</a>
+		<a>38</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

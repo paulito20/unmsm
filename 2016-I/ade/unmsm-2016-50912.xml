@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿cuál es la fuerza que ejerce el 
+campo sobre la carga
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>2000 N</a>
+		<a>4000 N</a>
+		<a>6000 N</a>
+		<a>9000 N</a>
+		<a>3000 N</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

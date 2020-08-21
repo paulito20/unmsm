@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si  hiciéramos  una  proyección  del  crecimiento 
+de  los  precios  al  consumidor  de  los  a�os  2015 
+y  2016,  es  muy  probable  que  la  fluctuación  del 
+índice 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>resultara más alta en el a�o 2016.</a>
+		<a>fuera tan dispar un a�o como el otro.</a>
+		<a>resultara más baja durante el 2015.</a>
+		<a>fuera muy homogénea en el 2016.</a>
+		<a>fuera mínima en la variación anual.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

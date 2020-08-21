@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De acuerdo con la teoría de los humores, se in- 
+fiere que el temperamento de un individuo está 
+en función ............... de un determinado tipo de  
+humor. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>del origen</a>
+		<a>de la predominancia</a>
+		<a>de la calidad</a>
+		<a>de la circulación</a>
+		<a>de la difusión</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>En el primer párrafo se sostiene que estamos com- 
+puestos de cuatro elementos (humores) básicos 
+interrelacionados: sangre, flema, bilis amarilla y 
+bilis negra. Además, la proporción de estos humo- 
+res varía en cada individuo, dando como resultado 
+distintos temperamentos. De ello se infiere que 
+el temperamento de una persona depende de la
+predominancia de un tipo de humor. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

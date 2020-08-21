@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Como se muestra en la figura, una ruleta tiene un 
+radio de 6 m y cuenta con 12 vagones iguales. En 
+un instante dado, el punto A sobre la ruleta es el más 
+próximo a la base y dista de esta 3 m. Si la ruleta 
+tarda 2 minutos en dar una vuelta completa, ¿a qué 
+distancia se encontrará el punto A respecto de su 
+posición inicial después de 30 segundos? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

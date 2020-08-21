@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Seis amigos se ubican simétricamente alrededor 
+de una mesa circular para almorzar. Si se sabe que 
+ 
+- Alex no está al lado de Joel ni de Daniel, 
+- Aldo no está al lado de Alex ni de Oliver, 
+Daniel no está al lado de Joel ni de Oliver, 
+- Nilo está junto y a la derecha de Alex, 
+- Por lo tanto, es cierto que la bolsa C tiene dos barras 
+¿quién está junto y a la izquierda de Daniel? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>Alex</a>
+		<a>Nilo</a>
+		<a>Aldo</a>
+		<a>Joel</a>
+		<a>Oliver</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

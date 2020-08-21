@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Determine el valor de verdad (V o F) de los siguien- 
+tes enunciados. 
+I. En relación con Latinoamérica, el número de 
+consumidores expertos en el Perú es menor.
+II.	Los consumidores tradicionalistas son porcen- 
+tualmente más numerosos en el Perú que en 
+Latinoamérica. 
+III. Los espectadores en el comercio electrónico 
+peruano se han reducido a su mínima expresión. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>VVV</a>
+		<a>FFF</a>
+		<a>VFF</a>
+		<a>VVF</a>
+		<a>FVF</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

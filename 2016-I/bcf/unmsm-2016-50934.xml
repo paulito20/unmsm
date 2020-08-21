@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Las orquídeas suelen adaptarse a todo tipo de 
+clima sin dificultad, aunque se las encuentra en 
+entornos cálidos. (II) Para que florezcan en mayor 
+cantidad, las orquídeas necesitan amplitud de 
+temperatura durante el día y la noche. (III) Las 
+orquídeas requieren un ambiente bien ventilado, de 
+esta forma pueden refrescar al bajar la temperatura, 
+además de renovar el oxígeno y prevenir el posible 
+ataque de los hongos y bacterias al disminuir la 
+humedad. (IV) Las orquídeas soportan mejor la 
+falta de agua que el riego abundante; por eso, en 
+caso de duda, es mejor regarlas poco. (V) En los 
+viveros de la ciudad, se vende abonos especiales 
+para orquídeas y para plantas de interiores. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>II</a>
+		<a>III</a>
+		<a>IV</a>
+		<a>I</a>
+		<a>V</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>El tema central de este ejercicio se refiere a las 
+orquídeas y los cuidados que requieren en torno al 
+clima, ambiente, temperatura y riego. Se elimina la 
+quinta oración, pues se aparta del tema al enfocarse 
+en la venta de abonos especiales para orquídeas y 
+otras plantas. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

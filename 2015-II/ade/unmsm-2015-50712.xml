@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Con respecto a la higiene, escriba verdadero (V) o 
+falso (F) según corresponda y marque la secuencia 
+correcta. 
+(   ) Nos permite conservar la salud. 
+(   ) Evita el buen funcionamiento del cuerpo. 
+(   ) Establece normas para evitar enfermedades. 
+(   ) Se define un estado complejo de bienestar.  
+(   ) Permite el control de vectores de enfermedades. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>FVVFF</a>
+		<a>FFFVV</a>
+		<a>FFVFV</a>
+		<a>VFVFV</a>
+		<a>VFVVF</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se tiene tres recipientes vacíos no graduados de 3, 
+5 y 11 litros de capacidad y un recipiente lleno con 
+30 litros de agua también sin graduar. ¿Cuántas 
+veces, como mínimo, se tendrá que trasladar el agua 
+de un recipiente a otro, sin desperdiciar el líquido, 
+para obtener en un recipiente 4 litros de agua? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>5</a>
+		<a>8</a>
+		<a>9</a>
+		<a>7</a>
+		<a>6</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

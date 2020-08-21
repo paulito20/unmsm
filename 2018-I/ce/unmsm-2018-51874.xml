@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Según lo visualizado en el cuadro y luego de 
+contrastar los datos de las regiones del sur y del 
+norte del país, es incompatible afirmar que la 
+competitividad 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>repuntará principalmente en el norte.</a>
+		<a>se muestra bastante homogénea.</a>
+		<a>es algo mayor entre las del sur.</a>
+		<a>es bastante menor en las del norte.</a>
+		<a>está muy distante de ser semejante.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>Según la información del cuadro y al realizar una 
+comparación entre las regiones del sur y del norte 
+de nuestro país, se llega a la conclusión de que es 
+incorrecto afirmar que la competitividad repuntará 
+principalmente en el norte. 
+
+En el texto, se cita el caso de Cajamarca, en el norte, 
+como la región menos competitiva del país, afectada 
+por conflictos sociales. Por esta razón, no es cohe- 
+rente asegurar que la competitividad resurgirá o se 
+restablecerá principalmente en esta zona. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

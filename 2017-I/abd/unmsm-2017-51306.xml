@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Considere las siguientes expresiones: 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="C">
+		<a>A < B < C</a>
+		<a>B < C < A</a>
+		<a>A < C < B</a>
+		<a>B < A < C</a>
+		<a>C < B < A</a>
+	</as>	
+	<x>2.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

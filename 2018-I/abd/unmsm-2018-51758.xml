@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál de los siguientes enunciados no se condice 
+con el texto? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>Es necesario evaluar la noción de ética y su 
+	rol en las relaciones de poder.</a>
+		<a>Actualmente, las relaciones sociales presu- 
+	ponen juicios morales.</a>
+		<a>Democracia y derechos humanos son con- 
+	ceptos valorados éticamente.</a>
+		<a>Usualmente, las relaciones de poder nece- 
+	sitan de matices morales.</a>
+		<a>La ética y las relaciones de poder son esen- 
+	cialmente incompatibles.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>Resulta incorrecto afirmar que la ética y las rela- 
+ciones de poder son esencialmente incompatibles. 
+El autor alega lo contrario, las relaciones de poder 
+necesitan de una “envoltura moral”. Esto significa 
+que la discusión política tiene un carácter notable-
+mente ético. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Â¿Cual de los siquientes enunciados es incompatible con lo aseverado en el texto?</q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>El pensamiento solo consiste en representar imagenes internas.</a>
+		<a>Todos los organismos producen algun tipo de comportamiento</a>
+		<a>Algunos organismos poseen comportamiento y tambien cognicion</a>
+		<a>No todos los organismos complejos o simples presentar mente.</a>
+		<a>Un organismo simple sin cerebro puede presentar comportamento</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2>Segun el autor, exise una doble condicion para la existencia del pensamiento.A la capacidad de representacion de imagenes internas debe sumarse la capacidad de ordenar o sistematizar dichas imagenes para afirmar la existencia de la cognicion o los procesos cognitivos. Por tal razón, el pensamiento no supone unicamente reprensentacion.</x2>
+	<i2></i2>
+	<v></v>
+</p>

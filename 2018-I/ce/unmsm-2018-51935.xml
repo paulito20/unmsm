@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuáles de estos enunciados indican funciones de 
+la corteza del lóbulo frontal?
+I.	Organiza, planifica, controla y regula el proyecto 
+	de vida de una persona. 
+II.  Identifica las fragancias de las flores y las 
+	melodías de los instrumentos musicales. 
+III. Planifica y ordena armoniosamente los pasos 
+	de danza del bailarín. 
+IV. Coordina el movimiento de un futbolista para 
+	meter el gol en un partido. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>I y II</a>
+		<a>II y III</a>
+		<a>III y IV</a>
+		<a>II y IV</a>
+		<a>I y III</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

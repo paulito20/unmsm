@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la figura, se muestra una pieza fija formada con 
+cubitos pegados. ¿Cuál es la mínima cantidad de 
+cubitos que se requieren para completar esta pieza 
+y formar un cubo, si todos los cubitos usados y por 
+usar son de igual dimensión? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>189</a>
+		<a>157</a>
+		<a>192</a>
+		<a>178</a>
+		<a>177</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

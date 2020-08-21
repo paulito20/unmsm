@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante el siglo xx, se produjo en Europa el fracaso 
+de las democracias y el surgimiento de regímenes 
+totalitarios. Estos procesos se dieron 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>al inicio de la Primera Guerra Mundial.</a>
+		<a>antes de las guerras balcánicas.</a>
+		<a>durante el periodo de entre guerras.</a>
+		<a>durante el periodo de la Guerra Fría. </a>
+		<a>en la llamada Belle Epoque.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

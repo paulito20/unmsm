@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Mientras que el diptongo es una secuencia de 
+vocales que forma una misma sílaba, el hiato es una 
+secuencia que desarrolla sílabas diferentes. En virtud 
+de este criterio, en “La lingüística es una ciencia que 
+se ocupa del estudio del lenguaje” aparecen 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>cuatro diptongos y un hiato. </a>
+		<a>cinco casos de diptongo.</a>
+		<a>tres diptongos y dos hiatos.</a>
+		<a>cinco diptongos y un hiato.</a>
+		<a>seis casos de diptongo.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

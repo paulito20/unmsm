@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Complete  las  casillas  de  la  figura  escribiendo  un 
+número  entero  en  cada  casilla  de  tal  forma  que,  
+sumando  los  tres  números  que  están  en  una  mis- 
+ma fila, columna o diagonal, se obtenga siempre 
+la  misma  suma.  Indique  el  número  que  debe  ser 
+escrito en la casilla sombreada. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>17</a>
+		<a>11</a>
+		<a>18</a>
+		<a>10</a>
+		<a>19</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

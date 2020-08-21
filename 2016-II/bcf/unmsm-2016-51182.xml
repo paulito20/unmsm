@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una granja, la reproducción de cuyes es trimes- 
+tral y cada pareja reproduce 4 cuyes que forman 
+pareja. Si la reproducción comienza con una pareja 
+de cuyes y no muere ninguno, ¿después de cuántos 
+meses se contará con 9 parejas de cuyes en total? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>3 meses</a>
+		<a>12 meses</a>
+		<a>6 meses</a>
+		<a>15 meses</a>
+		<a>9 meses</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

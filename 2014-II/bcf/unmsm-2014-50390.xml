@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El organismo que pertenece a la Organización de 
+las Naciones Unidas (ONU) cuya finalidad es re- 
+gular los reclamos de las instituciones gremiales es 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>la Organización Mundial para la Salud.</a>
+		<a>el Fondo Monetario Internacional.</a>
+		<a>la Organización de Estados Americanos.</a>
+		<a>la Organización Internacional del Trabajo.</a>
+		<a>el Banco Interamericano de Desarrollo.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

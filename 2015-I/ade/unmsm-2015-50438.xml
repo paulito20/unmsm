@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si se empieza a escribir uno a continuación de 
+otro la secuencia de los números naturales pares 
+hasta el 38, como se muestra a continuación: 
+2468...343638, ¿cuál será el residuo al dividir 
+entre 9 el número así formado? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>4</a>
+		<a>2</a>
+		<a>5</a>
+		<a>3</a>
+		<a>7</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

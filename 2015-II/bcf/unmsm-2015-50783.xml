@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Al analizar la crianza de los padres de una ado- 
+lescente, se encuentra que ellos tienen una buena 
+comunicación con su hija, pero son poco exigentes
+y, por ende, hay una débil supervisión sobre el 
+cumplimiento de las normas de comportamiento 
+en el hogar. Asimismo, se preocupan por no da�ar 
+sus sentimientos, centrando sus esfuerzos en iden- 
+satisfacerlas. A partir de los datos mencionados, 
+se podría decir que el estilo de crianza que prima 
+en estos padres es el 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>democrático.</a>
+		<a>permisivo.</a>
+		<a>autoritario.</a>
+		<a>negligente.</a>
+		<a>comunicativo.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

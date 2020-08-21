@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Uno de los riesgos más preocupantes y que pone 
+en peligro a la humanidad es el incremento global 
+de la temperatura y el cambio climático. ¿Cuál es 
+la acción prioritaria en la solución de este riesgo?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>Disminuir la contaminación del suelo y del 
+	agua</a>
+		<a>Disminuir el CO2 que se suministra al aire</a>
+		<a>Adecuar los cambios de uso de las tierras</a>
+		<a>Controlar la degradación que sufren los 
+	suelos</a>
+		<a>Ordenar el consumo de aerosoles líquidos</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

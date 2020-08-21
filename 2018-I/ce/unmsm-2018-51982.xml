@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cómo se denomina a los glóbulos blancos más nu- 
+merosos de la sangre cuya función es la fagocitosis 
+de bacterias que invaden los tejidos?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Monocitos</a>
+		<a>Linfocitos</a>
+		<a>Eosinófilos</a>
+		<a>Neutrófilos</a>
+		<a>Basófilos</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

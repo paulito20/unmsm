@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La anemia falciforme es una enfermedad genÃ©tica 
+con presencia de glÃ³bulos rojos de forma semilu- 
+nar que pierden flexibilidad y provocan accidentes 
+cerebrovasculares, daño a los Ã³rganos y dolor re- 
+currente en las piernas. Lo anterior se debe a que 
+estos glÃ³bulos rojos 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>bloquean las arterias pequeñas.</a>
+		<a>bloquean las arterias grandes.</a>
+		<a>interrumpen señales nerviosas.</a>
+		<a>interrumpen el paso de la linfa.</a>
+		<a>son ricos en diÃ³xido de carbono.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

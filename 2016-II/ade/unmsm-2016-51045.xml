@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Desde un punto de vista tradicional, la falacia 
+se define como un raz�namiento incorrecto, pero 
+que, dadas ciertas condiciones, puede tener un 
+gran efecto persuasivo. (II) Definida de esa manera,
+se puede entender que las falacias sean empleadas 
+en las contiendas políticas, en las discusiones de los 
+foros judiciales y hasta en los asuntos cotidianos. 
+(III) En efecto, en la vida diaria, en los ámbitos de 
+la ciencia y en los círculos del pensamiento político 
+siempre se recurre a los raz�namientos con el fin 
+de convencer o de persuadir. (IV) Asimismo, en los 
+contextos especializados de la polemica, se usan
+(I) La máscara es una figura que representa un rostro 
+humano, de animal o puramente imaginario. (II) La 
+máscara le permite a la persona tomar el aspecto 
+de otra o practicar ciertas actividades escénicas o 
+rituales. (III) Desde los tiempos más remotos, el uso de 
+máscaras ha estado vinculado a la religión y todavía 
+está presente en los ritos mágicos de muchos pueblos. 
+(IV) Por medio de las máscaras, se intentaba controlar 
+a los espíritus y demonios, asustar a los enemigos o 
+tener suerte en la caza. (V) La máscara empleada para 
+protegerse de gases tóxicos consiste en una careta para 
+protegerse contra determinados agentes agresivos 
+mediante filtrado del aire que se respira. 
+contextos especializados de la polémica, se usan 
+falacias en ciencia y en filosofía; por ejemplo, cuando 
+se recurre al argumento de la autoridad para zanjar 
+una cuestión intrincada. (V) Las falacias también 
+se aplican, con rédito, en el utilitario mundo de la 
+publicidad al momento de persuadir recurriendo 
+a factores emocionales o a imágenes impactantes. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>III</a>
+		<a>V</a>
+		<a>II</a>
+		<a>I</a>
+		<a>IV</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Básicamente, el texto trata sobre el uso de las 
+falacias en los diferentes ámbitos de la vida humana. 
+Por lo tanto, se elimina la oración III por el criterio 
+de disociación, ya que en esta oración se se�ala 
+algo distinto: el uso de raz�namientos persuasivos 
+en la ciencia, la política y la vida diaria. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

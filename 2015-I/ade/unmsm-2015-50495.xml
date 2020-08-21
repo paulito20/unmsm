@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuando dos resistencias idénticas se conectan en 
+paralelo a una batería, la potencia total disipada 
+por ellos es de 400 W. ¿Qué potencia disiparán si 
+se conectan en serie a la misma batería? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>150 W</a>
+		<a>50 W</a>
+		<a>200 W</a>
+		<a>250 W</a>
+		<a>100 W</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

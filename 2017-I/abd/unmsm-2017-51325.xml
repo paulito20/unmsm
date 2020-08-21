@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Juana es una ni�a de 5 a�os que asiste a una 
+institución educativa de nivel inicial. Hoy, la maestra 
+le ense�ó algo nuevo: uno de los beneficios que nos 
+brinda la vaca es su cuero, con el que se elaboran 
+zapatos, carteras y correas, entre otros productos. 
+Al llegar a casa, Juana le dice a su mamá: “Mamá, 
+tu cartera fue hecha con el cuero de la vaca”, 
+pero además le pregunta: “¿Qué otras cosas se 
+pueden hacer con el cuero?”. Juana, al expresan el 
+aprendizaje logrado sobre los beneficios de la vaca, 
+está haciendo uso de su memoria 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>episódica.</a>
+		<a>semántica.</a>
+		<a>de trabajo.</a>
+		<a>implícita.</a>
+		<a>sensorial.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

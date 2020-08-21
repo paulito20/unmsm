@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si el vínculo entre el consumo personal y el ingre- 
+so  personal  es  lineal  y  positivo,  ello  implica  que 
+cuando _______ el ingreso, el consumo _______. 
+Siendo  así,  ambas  variables  económicas  revelan 
+una relación _______. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

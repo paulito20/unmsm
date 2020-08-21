@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Thomas  Kuhn,  en  su  texto  Estructura  de  las  Re- 
+voluciones  Científicas,  analizó  el  contenido  his- 
+tórico de la ciencia, lo cual suponía el cuestiona- 
+miento de la idea según la cual la ciencia contiene 
+únicamente  una  dimensión  lógica  y  metodológi- 
+ca. Por ello, se concluye que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>lo  más  importante  de  la  ciencia  es  su  forma 
+	lógica y no su aspecto social.</a>
+		<a>la  comunidad  científica  acepta  fácilmente  el 
+	cambio de paradigmas.</a>
+		<a>los  manuales  de  ciencia  comprenden  el  real 
+	funcionamiento de la ciencia.</a>
+		<a>la  práctica  científica  evidencia  que  los  para- 
+	digmas permanecen estáticos.</a>
+		<a>el  desarrollo  científico  se  logra  a  partir  del 
+	cambio de paradigmas.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

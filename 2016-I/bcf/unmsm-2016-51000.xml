@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si un ciudadano participa como candidato en el 
+próximo proceso electoral de autoridades munici- 
+pales, es porque, así como puede elegir a sus repre- 
+sentantes, también posee el derecho a ser elegido. 
+Esta característica hace de nuestro país una república 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>independiente.</a>
+		<a>globalizada.</a>
+		<a>descentralizada.</a>
+		<a>democrática.</a>
+		<a>comunitaria.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

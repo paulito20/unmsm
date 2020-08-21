@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Abolir, derogar, anular, 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>abrogar</a>
+		<a>abdicar</a>
+		<a>cuestionar</a>
+		<a>enajenar</a>
+		<a>condenar</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Las palabras abolir, derogar y anular son sinónimos 
+entre sí. Por tal razón, el término que completa la 
+serie es abrogar, pues esta palabra también se refiere 
+a dejar sin efecto una ley, código o norma jurídica 
+en su totalidad.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las trece colonias británicas en América del Norte 
+declararon su independencia en el a�o 1776. Para 
+los colonos, la independencia se justificaba en el 
+derecho de rebelarse contra un gobierno británica 
+que consideraban injusto, pues no protegía los 
+derechos naturales e inalienables de los hombres. 
+¿Cuáles de las siguientes medidas británicas eran 
+consideradas por los colonos como un atentado 
+contra sus derechos? 
+I.	La falta de representantes en el Parlamento. 
+II.  El cobro de altos impuestos sin consulta. 
+III. La imposición obligatoria del anglicanismo. 
+IV. La implementación del sistema esclavista. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>II y III</a>
+		<a>I y IV</a>
+		<a>II y IV</a>
+		<a>I y II</a>
+		<a>III y IV</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

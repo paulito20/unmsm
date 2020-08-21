@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A la suma de los valores monetarios del consumo 
+de  las  familias,  la  inversión  bruta,  gasto  de  go- 
+bierno  y  las  exportaciones  netas,  durante  un  a�o 
+determinado, se denomina 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>producción total nacional.</a>
+		<a>ingreso total del país.</a>
+		<a>producto bruto interno.</a>
+		<a>ingreso regional total.</a>
+		<a>renta nacional.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

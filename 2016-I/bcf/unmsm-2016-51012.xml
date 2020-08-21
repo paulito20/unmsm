@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cada cierto tiempo, nuestro planeta, en constante 
+movimiento, altera drásticamente su ritmo, origi- 
+nando una serie de fenómenos naturales intensos 
+o extremos. En este contexto, afirmamos que un 
+fenómeno natural como El Ni�o se transforma en 
+catástrofe cuando 
+I.    solo afecta áreas naturales despobladas. 
+II.  destruye la flora y fauna silvestre. 
+III. arrasa zonas eriazas sin capacidad de uso. 
+IV.  hay muchas pérdidas de vidas humanas. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>solo I</a>
+		<a>solo II</a>
+		<a>II y III</a>
+		<a>solo IV</a>
+		<a>I y III</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

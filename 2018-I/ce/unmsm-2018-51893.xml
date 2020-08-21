@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Rafael acude al médico por una lesión en la cervical 
+y este le indica reposo absoluto durante una semana 
+exacta; además, le prescribe una pastilla cada tres 
+horas, que empieza a tomar desde el momento que 
+inicia el reposo. Si una caja contiene 20 pastillas 
+y cuesta S/30 y estas pastillas solo se venden por 
+caja y no por unidad, ¿cuál debe ser el menor gasto 
+necesario para poder cumplir con su prescripción? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>S/120</a>
+		<a>S/30</a>
+		<a>S/60</a>
+		<a>S/90</a>
+		<a>S/150</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

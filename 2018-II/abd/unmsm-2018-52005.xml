@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si  la  Tierra  tuviese  un  campo  magnético  mucho 
+más débil, muy probablemente 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>mejoraría nuestro entendimiento de ella.</a>
+		<a>el planeta dejaría de existir como tal.</a>
+		<a>no habría rayos cósmicos exógenos.</a>
+		<a>no habría vida en nuestro planeta.</a>
+		<a>la Tierra tendría una sola estructura.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

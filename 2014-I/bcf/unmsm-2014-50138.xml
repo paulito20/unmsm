@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>Luis y Teresa van de compras. Teresa lleva S/.210 
+	más que Luisa y gasta las dos terceras partes de 
+	su dinero, lo que es igual a los cinco cuartos del 
+	dinero que Luisa llevó. </q0>
+	<g0></g0>
+	<q>¿Con cuánto de dinero Teresa fue de compras? </q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>S/.450</a>
+		<a>S/.540</a>
+		<a>S/.240</a>
+		<a>S/.440</a>
+		<a>S/.510</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2>Tema: Planteo de ecuaciones
+	Análisis y procedimiento 
+	Se pide la cantidad de dinero de Teresa. 
+	Análisis y procedimiento 
+	Del dato 
+							Luisa 			Teresa
+	Cantidad de dinero:	      x    			 x+210
+	Respecto al gasto:		  2 ( x + 210) =	5 
+							  3					4
+
+							  8x+1680=15x 
+								→ x = 240
+	∴  Cantidad de dinero de Teresa: 240+210=450. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

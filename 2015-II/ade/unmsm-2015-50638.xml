@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dos hermanos inician, independientemente, un 
+negocio, cada uno con igual capital. Al final, uno 
+pierde 1/3 del capital y el otro gana 1/5. ¿Cuánto 
+le queda al que perdió si tiene S/.320 menos que 
+su hermano? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>S/.600</a>
+		<a>S/.960</a>
+		<a>S/.400</a>
+		<a>S/.720</a>
+		<a>S/.480</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

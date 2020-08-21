@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si la medicina hipocrática hubiese buscado gene-
+ralizar el tratamiento de la enfermedad, entonces 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="">
+		<a>habría alcanzado un bajo grado de predic-
+ción de nuevas enfermedades. </a>
+		<a>sus métodos de diagnóstico habrían tenido
+que ser más precisos y especializados. </a>
+		<a>algunas de las causas naturales de las 
+enfermedades habrían sido cuestionadas. </a>
+		<a>los médicos habrían tenido que inventar 
+nuevos tratamientos alternativos. </a>
+		<a>se habría visto obligada a soslayar detalles 
+individuales en las terapias. </a>
+	</as>	
+	<x>
+	</x>
+	<i></i>
+	<x2>Según el texto, la medicina hipocrática examinaba 
+minuciosamente los síntomas individuales que 
+presentaban los pacientes, a fin de prescribir un 
+tratamiento especial para cada caso. Por lo tanto, 
+si se generaliza el tratamiento de la enfermedad, 
+se omiten los aspectos individuales de las terapias.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

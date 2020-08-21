@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>(I)En las colonias, recién en el siglo XVIII, el tenedor se convirtió en un utensilio de uso estándar.(II)Se supone
+     que, antes del empleo de tenedores, los colonizadores usaban cucharas.(III) Al parecer, el tenedor se usaba con la
+     mano derecha, con la que se manipulaba utensilios o herramientas.(IV)La fabricación de estos utensilios se hacía
+     con una aleación de metales muy resistentes.(V)Se cree que la cuchara se sostenía con la izquierda, haciendo que la
+     parte cóncava mire hacia abajo.</q>
+  <q2></q2>
+  <as t="R" correcta="0">
+    <a>IV</a>
+    <a>I</a>
+    <a>V</a>
+    <a>III</a>
+    <a>II</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <t>Eliminación de oraciones</t>
+  <x2>El ejercicio nos cuenta, primordialmente, acerca del uso, hace unos siglos atras ,de la cuchara y el tenedor. Por
+      lo tanto, el enunciado IV se elimina por disociación, y que se centra en el material de su fabricación.</x2>
+  <i2></i2>
+  <v></v>
+</p>

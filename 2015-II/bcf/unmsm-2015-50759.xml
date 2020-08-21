@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El a�o pasado, un empresario invirtió $30 000 en 
+dos negocios. Si obtuvo utilidades del 15% en el 
+primero, perdió el 5% en el segundo y la utilidad 
+total fue el 12% del capital inicial, halle la cantidad 
+invertida en el primer negocio. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>$21 000</a>
+		<a>$17 550</a>
+		<a>$24 250</a>
+		<a>$20 750</a>
+		<a>$25 500</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

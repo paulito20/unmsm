@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una caja se tiene diez fichas numeradas del 1 al 
+10, todas con numeración distinta. Cuatro personas 
+extraen dos fichas cada una y cada una de ellas 
+obtiene el mismo número par al sumar los números
+de sus dos fichas. Si una de estas personas sacó la 
+ficha con el número 10, ¿qué números tienen las 
+fichas que quedaron en la caja? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>1 y 7</a>
+		<a>1 y 6</a>
+		<a>2 y 6</a>
+		<a>4 y 9</a>
+		<a>3 y 8</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

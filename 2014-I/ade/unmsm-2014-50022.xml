@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>En una reunion se encuentra un medio,un escritor,un abogado y un ingeniero.Ellos se llaman Bruno,Franco y Erick aunque no necesariamente en ese orden. Se sabe que:
+		-Bruno y el medico estudiaron en el mismo colegio con Erick.
+		-Franco es primo del ingeniero.
+		-El escritor es vecino de Erick.
+		-El abogado es amigo de Luis y del ingeniero.
+		-Bruno es escritor.</q0>
+	<g0></g0>
+	<q>¿Quien es el abogado y que profesion tiene Erick?</q>
+	<q2></q2>
+	<as t="R" correcta="">
+		<a>Franco-abogado</a>
+		<a>Franco-ingeniero</a>
+		<a>Franco-escritor</a>
+		<a>Franco-medico</a>
+		<a>Bruno-ingeniero</a>
+	</as>	
+	<x></x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

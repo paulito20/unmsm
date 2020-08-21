@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Al estudiar alrededor de 40 tribus primitivas que 
+consumían menos de 3 g sal/día, se observó que 
+sus miembros tenían una presión arterial estable a 
+lo largo de su vida. Por otro lado, en poblaciones  
+japonesas con una ingesta promedio de 27 g sal/día, 
+se detectó que estas tenían riesgo hipertensivo alto 
+y accidentes cerebrovasculares frecuentes. Esto nos 
+permite afirmar que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>existe relación inversa entre consumo de sal 
+	e hipertensión.</a>
+		<a>existe relación directa entre consumo de sal 
+	e hipertensión.</a>
+		<a>no existe una relación entre consumo de sal 
+	e hipertensión.</a>
+		<a>las poblaciones asiáticas tienen presión 
+	arterial elevada.</a>
+		<a>la presión arterial elevada no tiene efectos 
+	sobre el ri�ón.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

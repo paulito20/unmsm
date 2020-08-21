@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>	
+	<q0></q0>
+	<g0></g0>
+	<q>Pedro, Julio, Raúl y Luis dan S/.10, S/.18, S/.15 y 
+S/.12 de propina a sus hijas Rosa, Isabel, Miriam 
+y Juana, aunque no necesariamente en el orden 
+indicado. Si se sabe que Raúl y el padre de Miriam 
+visitan con frecuencia a los padres de las ni�as 
+que recibieron S/.10 y S/.12, y que Julio dio de 
+propina S/.15, ¿cuánto suma lo que dio Raúl con 
+lo que recibió Miriam?</q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>S/.33</a>
+		<a>S/.28</a>
+		<a>S/.25</a>
+		<a>S/.30</a>
+		<a>S/.22</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2>Tema: Ordenamiento de información 
+	Análisis y procedimiento 
+Se pide la suma de lo que dio Raúl con lo que 
+recibió Miriam. 
+Datos: 
+• Raúl y el padre de Miriam visitan con frecuencia 
+a los padres de las ni�as que recibieron S/.10 
+y S/.12. 
+	Raúl 
+			Miriam 
+						S/.10 		S/.12
+						
+•   Julio dio de propina S/.15. 
+		Raúl	Julio
+				Miriam
+		S/.18  	S/.15	S/.10	S/.12
+De ello deducimos 
+		Raúl + Miriam = S/.18+S/.15 
+ ∴  =S/.33</x2>
+	<i2></i2>
+	<v></v>
+</p>

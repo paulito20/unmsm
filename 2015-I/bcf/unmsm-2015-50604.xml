@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una fuerza de magnitud 20 N desplaza un cuerpo 
+6,0 m sobre una superficie horizontal sin fricción. 
+Halle la potencia desarrollada si el desplazamiento 
+se realizó en 40,0 s. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>3,25 W</a>
+		<a>3,00 W</a>
+		<a>2,80 W</a>
+		<a>3,50 W</a>
+		<a>2,90 W</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

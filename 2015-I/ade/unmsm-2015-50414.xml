@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el texto, el término FURTIVO equivale a 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>furioso.</a>
+		<a>impedido.</a>
+		<a>proscrito.</a>
+		<a>ilegal.</a>
+		<a>protegido.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>El vocablo furtivo equivale contextualmente a 
+ilegal. En el texto se alude a los cazadores furtivos 
+de elefantes. En el contexto, el adjetivo furtivo se 
+refiere a una acción que se realiza a espaldas de 
+la ley. Por tanto, se puede decir que es contraria 
+a esta, es decir, ilegal. Se descarta proscrito ya 
+que significa desterrado, expulsado de su patria 
+por raz�nes políticas. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

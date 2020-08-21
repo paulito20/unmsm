@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuando se habla de ‘enfermo terminal’, la palabra
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>abandonado.</a>
+		<a>asistido.</a>
+		<a>desahuciado.</a>
+		<a>olvidado.</a>
+		<a>consumido.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>Se tiene el enunciado “el enfermo terminal se encuen- 
+tra en una posición extremadamente vulnerable (...)”. 
+En este  contexto, el término resaltado significa 
+‘desahuciado’. Es decir, el paciente no tiene ninguna 
+esperanza de curarse. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

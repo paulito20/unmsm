@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la sierra peruana, las corrientes de lodo, 
+que consisten en flujos de agua turbia que arrasan 
+materiales a su paso, principalmente en épocas 
+de lluvia, se denominan 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>huaicos.</a>
+		<a>derrumbes.</a>
+		<a>derrumbes.</a>
+		<a>aludes.</a>
+		<a>desbordes.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

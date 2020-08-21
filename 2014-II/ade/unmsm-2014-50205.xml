@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Elija el término que no guarda relación con los demás.</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>atento</a>
+		<a>tranquilo</a>
+		<a>sosegado</a>
+		<a>pacífico</a>
+		<a>calmado</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Los términos de la serie comparten una relación de  
+sinonimia, ya que aluden a personas que muestran 
+calma en su accionar. Por ello, se excluye atento, 
+porque se refiere a la persona que muestra ama- 
+bilidad en el trato hac�a los demás.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

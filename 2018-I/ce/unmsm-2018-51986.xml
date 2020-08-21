@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los ventiladeros hidrotérmicos son fisuras en el 
+piso del mar donde la lava fundida provoca sobre- 
+calentamiento del agua. Allí existen seres vivos que 
+utilizan sulfuro de hidrógeno para obtener hidró- 
+geno y electrones que participarán en sus proceso 
+generadores de energía para su metabolismo. ¿A 
+qué tipo nutricional pertenecen estos seres vivos? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Quimiolitoautótrofos</a>
+		<a>Fotoautótrofos</a>
+		<a>Quimioheterótrofos</a>
+		<a>Mixotróficos</a>
+		<a>Fotoheterótrofos</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

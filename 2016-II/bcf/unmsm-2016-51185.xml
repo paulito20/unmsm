@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se realiza dos cortes a un alambre en posición 
+horizontal y resulta que cada trozo mide el cuádruple 
+del anterior. Si la diferencia de las longitudes de 
+los dos trozos menores es 60 cm, ¿cuánto mide el 
+alambre? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>210 cm</a>
+		<a>480 cm</a>
+		<a>520 cm</a>
+		<a>420 cm</a>
+		<a>420 cm</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

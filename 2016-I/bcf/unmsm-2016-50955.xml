@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>L a figura muestra tres frascos que contienen 
+caramelos: uno tiene solo caramelos de limón, 
+otro tiene solo de fresa y el restante los tiene de 
+ambos sabores. Ningún frasco está correctamente 
+rotulado. ¿Cuántos caramelos como mínimo y 
+de qué frasco o frascos se debe sacar para poder 
+rotularlos correctamente? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>1 caramelo del frasco rotulado limón</a>
+		<a>1 caramelo del frasco rotulado fresa</a>
+		<a>1 caramelo del frasco rotulado limón y otro 
+	del fresa</a>
+		<a>1 caramelo del frasco rotulado fresa y otro 
+	del mezcla</a>
+		<a>1 caramelo del frasco rotulado mezcla</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

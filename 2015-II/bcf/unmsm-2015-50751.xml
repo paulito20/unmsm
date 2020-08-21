@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De 50 estudiantes encuestados sobre los libros 
+que prefieren leer, 30 manifestaron leer libros de 
+literatura, 18 manifestaron leer libros de matemá- 
+ticas y 15 ninguno de ellos. ¿Cuántos prefieren 
+leer solo libros de literatura? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>14</a>
+		<a>15</a>
+		<a>16</a>
+		<a>18</a>
+		<a>17</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

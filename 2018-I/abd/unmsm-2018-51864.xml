@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las enfermedades infecciosas son provocadas por 
+un agente patógeno y se pueden propagar direc- 
+tamente de un individuo a otro sano o de forma 
+indirecta a través del agua, aire, alimentos conta- 
+minados o con la intervención de un vector. Las 
+enfermedades infecciosas tienen diferentes grados 
+de propagación. Cuando la enfermedad aparece de 
+manera inesperada con un número de casos mucho 
+mayor par a un tiempo y un área determinada, 
+estamos frente a 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>una pandemia.</a>
+		<a>un brote.</a>
+		<a>una endemia.</a>
+		<a>una emergencia.</a>
+		<a>una epidemia.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

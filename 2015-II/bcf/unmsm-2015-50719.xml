@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) No se conocen aún todos los riesgos de la 
+fertilización asistida in vitro o en laboratorio. 
+(II) La fertilización en laboratorio podría causar 
+estrés en el feto y alterar sus genes. (III) Los 
+beneficios de la fertilización asistida trascienden 
+lo biológico y alcanzan dimensión social. (IV) Los 
+expertos en técnicas de fertilidad asistida indican 
+que esta podría causar diabetes y obesidad. 
+(V) La fertilización in vitro alteraría el proceso de 
+metilación por el que las células activan unos genes 
+y desactivan otros. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>III</a>
+		<a>I</a>
+		<a>IV</a>
+		<a>V </a>
+		<a>II</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>El tema central del ejercicio es los riesgos de la 
+fertilización asistida. Por tal razón, se elimina la ter- 
+cera oración. Esta aborda un asunto radicalmente 
+opuesto: las ventajas de la fertilización asistida. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

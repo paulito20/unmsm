@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuáles fueron los resultados obtenidos en 
+este experimento? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Tanto cortisol como adrenalina dentro de la 
+	célula</a>
+		<a>Tanto cor tisol como adrenalina en la 
+	superficie de la célula</a>
+		<a>Cortisol dentro de la célula y adrenalina en 
+	la superficie</a>
+		<a>Cortisol en la superficie de la célula y adre- 
+	nalina dentro</a>
+		<a>Cortisol y adrenalina ubicadas indistinta- 
+	mente en la célula</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

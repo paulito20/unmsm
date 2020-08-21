@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Del análisis del cuadro y los datos de las últimas 
+elecciones, se desprende que, sin la adición de 
+diputados fijada por ley, Syriza obtuvo el 2015 
+............. esca�os más que los que obtuvo Nueva 
+Democracia el 2012. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>50</a>
+		<a>76</a>
+		<a>20</a>
+		<a>79</a>
+		<a>10</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>Sin considerar la adición de esca�os fijada por 
+ley, Syriza obtuvo 99 esca�os el 2015, mientras 
+que Nueva Democracia obtuvo 79 diputados el 
+2012. Es decir, consiguió 20 esca�os más, lo que 
+corrobora su contundente éxito electoral.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

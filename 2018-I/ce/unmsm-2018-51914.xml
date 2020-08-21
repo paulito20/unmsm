@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los puntos P, Q, R y S en un tablero electrónico 
+están conectados por filamentos metálicos como 
+muestra la figura. Se realizan mediciones que 
+deter minan las longitudes QS=sec(40º) u y 
+QR=sec(20º) u. Si PS=4sen(20º) u, halle α. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>12º</a>
+		<a>15º</a>
+		<a>9º</a>
+		<a>20º</a>
+		<a>10º</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

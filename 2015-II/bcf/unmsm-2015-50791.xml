@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La creencia en la vida después de la muerte, evi- 
+denciada en la práctica de enterrar a los muertos 
+con utensilios y alimentos, es una manifestación 
+de las primeras ideas religiosas del
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>Homo erectus.</a>
+		<a>Homo neanderthalensis.</a>
+		<a>Australopithecus afarensis.</a>
+		<a>Homo sapiens.</a>
+		<a>Homo habilis.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Confirmar, corroborar, revalidar, 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>valorar</a>
+		<a>resolver</a>
+		<a>ratificar</a>
+		<a>prescindir</a>
+		<a>recrear</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>Los términos confirmar, corroborar y revalidar 
+	son sinónimos entre sí. Por tal razón, el vocablo 
+que completa la serie es ratificar (confirmar actos, 
+palabras o escritos dándolos por ciertos). Se des-
+carta la palabra valorar ,que significa reconocer 
+el mérito o importancia de algo. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

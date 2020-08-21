@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La frase 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>inmensa variedad.</a>
+		<a>gran herencia ancestral.</a>
+		<a>cambios en la cocina.</a>
+		<a>necesidad de modernismo.</a>
+		<a>pocas raíces andinas.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la lista de precios de una librería, se observa: 
+­ Un plumón más un lapicero cuesta lo mismo 
+que seis cuadernos. 
+
+­ Dos plumones cuestan, lo mismo que un 
+cuaderno más un corrector.
+ 
+- Dos cuadernos cuestan, igual que un corrector. 
+Por el precio de dos lapiceros, ¿cuántos cuadernos 
+se podrá comprar? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>8</a>
+		<a>7</a>
+		<a>9</a>
+		<a>6</a>
+		<a>10</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

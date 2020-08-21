@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El factor altitud juega un rol fundamental para la 
+existencia de varios tipos de climas dentro de un 
+determinado territorio. En el Perú, a medida que 
+nos distanciamos verticalmente del nivel del mar, 
+se produce una disminución considerable de la 
+temperatura. Esta condición se denomina 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>gradiente térmico.</a>
+		<a>presión atmosférica.</a>
+		<a>diversidad climática.</a>
+		<a>pendiente topográfica.</a>
+		<a>distribución vertical.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

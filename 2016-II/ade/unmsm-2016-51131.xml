@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿cuál es la afirmación correcta? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>Las ondas sonoras son ondas mecánicas 
+	transversales.</a>
+		<a>Los seres humanos pueden emitir sonidos 
+	de 20 Hz a 20 000 Hz.</a>
+		<a>Los seres humanos pueden escuchar sonidos 
+	de cualquier frecuencia.</a>
+		<a>La unidad bel (B) no mide la intensidad del 
+	nivel de sonido.</a>
+		<a>Los sonidos mayores a 1,0 W/m  causan 
+	dolor en el oído humano.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

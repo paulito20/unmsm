@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Hay tres amigos: un médico, un físico y un 
+arquitecto. Cada uno de ellos tiene un hijo que 
+estudia la carrera de uno de los amigos de su padre. 
+Los hijos estudian carreras distintas, el médico se 
+llama Luis y el hijo de Saúl estudia Arquitectura. 
+Indique la profesión de Saúl y la carrera que 
+estudia el hijo de Edgard respectivamente. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Arquitecto, Arquitectura</a>
+		<a>Físico, Física</a>
+		<a>Físico,Medicina</a>
+		<a>Arquitecto, Física</a>
+		<a>Físico, Arquitectura</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

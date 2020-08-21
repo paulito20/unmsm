@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Desde el punto de vista de Popper, la falsedad de 
+una conclusión es establecida, en última instancia, 
+por la 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>lógica.</a>
+		<a>teoría.</a>
+		<a>intuición.</a>
+		<a>experiencia.</a>
+		<a>universalidad</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>Para Popper, la falsedad de una conclusión se 
+establece finalmente por la lógica. A partir de los 
+datos del texto, la no validez de la inducción para 
+formular conclusiones universales se establece por 
+deducción lógica. 
+Por ejemplo, el enunciado Todos los cisnes son blan- 
+cos puede ser refutado deduciendo lógicamente la 
+posibilidad de la existencia de un cisne de un color 
+diferente al blanco, como es el caso del cisne negro. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

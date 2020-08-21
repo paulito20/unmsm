@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuantifique el número de palabras agudas del 
+enunciado Voy a acusar a Raquel porque dejó su 
+pantalón de moda colgado en el tendal. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Cuatro</a>
+		<a>Seis</a>
+		<a>Tres</a>
+		<a>Cinco</a>
+		<a>Dos</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

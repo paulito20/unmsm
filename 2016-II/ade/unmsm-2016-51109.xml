@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuatro sospechosos de realizar robos en horas de 
+la madrugada en un vecindario del Cono Norte de 
+Lima son perseguidos y cercados por los vecinos 
+en el interior de una gran fábrica de productos 
+metal mecánicos. Como los sospechosos ofrecen 
+resistencia, interviene el personal de seguridad 
+privada que custodia la factoría a fin de reducirlos. 
+Posteriormente comparece en el lugar el serenazgo 
+municipal con un gran número de efectivos. 
+¿Quiénes estarían legitimados para realizar el arresto 
+de los presuntos autores de lo robos?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>El Ministerio Público</a>
+		<a>La Policía Nacional</a>
+		<a>La policía particular</a>
+		<a>El serenazgo municipal</a>
+		<a>La junta de vecinos</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

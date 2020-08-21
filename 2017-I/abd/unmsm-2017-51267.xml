@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál de los siguientes enunciados es incompatible 
+con lo aseverado en el texto? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>El cebiche es un plato bandera por cuanto 
+	es el ejemplo más logrado de la corriente 
+	novoandina.</a>
+		<a>La cocina peruana es considerada casi 
+	unánimemente como una de las más privi- 
+	legiadas del mundo.</a>
+		<a>La variedad de la cocina peruana es resulta- 
+	do del mestizaje de distintas culturas de los 
+	migrantes.</a>
+		<a>Los platos de la cocina peruana conocidos 
+	como tacu-tacu y carapulcra tienen notorias 
+	raíces africanas.</a>
+		<a>En la fusión de la cocina peruana, destacan 
+	la inmigración espa�ola, africana, china, 
+	japonesa e italiana.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>Es incompatible con lo aseverado en el texto decir 
+que el cebiche es un plato bandera por cuanto es 
+el ejemplo más logrado de la corriente novoandina, 
+ya que el cebiche nace de la fusión con la comida 
+japonesa; mientras que la comida novoandina 
+emplea insumos autóctonos. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

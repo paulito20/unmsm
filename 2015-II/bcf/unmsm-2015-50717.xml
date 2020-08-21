@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Sagrado, profano; reverente, 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>deshonroso</a>
+		<a>sacrílego</a>
+		<a>crítico</a>
+		<a>ofensivo</a>
+		<a>indolente</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>La palabra profano refiere a todo aquello que no 
+respeta lo sagrado. En tal sentido, el término que 
+completa la serie debe ser antónimo de reverente. 
+Si reverente alude a la persona que muestra 
+un gran respeto por lo sagrado, lo contrario es 
+sacrílego, que significa sujeto que atenta o vulnera 
+lo sagrado. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

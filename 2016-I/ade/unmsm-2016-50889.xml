@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Al asumir el poder, en 1836, Andrés de Santa Cruz 
+constituyó la Confederación Peruano - Boliviana. 
+Inmediatamente, países como Argentina y Chile 
+vieron en ella un peligro para sus intereses, debido 
+a su 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>política comercial de puertos libres.</a>
+		<a>carácter liberal y centralista.</a>
+		<a>potencial político y económico.</a>
+		<a>nueva riqueza guanera y salitrera.</a>
+		<a>victoria en la guerra contra Espa�a.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

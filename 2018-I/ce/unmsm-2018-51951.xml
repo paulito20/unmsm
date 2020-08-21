@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Muchos de los valles de la llanura costera tienen 
+forma cónica, por lo que se les conoce también 
+como conos de deyección, cuyo vértice se pierde en 
+el inicio de los Andes y cuya base –solo de algunos– 
+llega hasta el litoral. De esta manera, constituyen 
+áreas de sedimentos de materiales arrastrados por 
+los ríos desde la zona andina, y sus suelos, de gran 
+fertilidad, son conocidos como 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>aluviales.</a>
+		<a>fluviosoles.</a>
+		<a>coluviales.</a>
+		<a>litosólicos.</a>
+		<a>cambisólicos.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

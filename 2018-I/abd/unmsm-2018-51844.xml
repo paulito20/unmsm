@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un tsunami se diferencia de una ola normal porque 
+es generado por un movimiento del piso oceánico 
+y no por la acción del viento. Consecuentemente, 
+toda el agua se mueve, no solo la capa superficial. 
+Un tsunami típico tiene una longitud de onda de 
+200 km y un periodo entre 15 y 20 minutos. Sobre la 
+base de la información dada, el rango de la rapidez 
+con el que se mueve un tsunami es de 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>16 km/h a 13 km/h</a>
+		<a>100 km/h a 133 km/h</a>
+		<a>600 km/h a 800 km/h</a>
+		<a>3000 km/h a 4000 km/h</a>
+		<a>200 km/h a 1200 km/h</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

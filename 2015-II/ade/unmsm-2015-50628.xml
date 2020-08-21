@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el texto, el sentido de la palabra COMPLEJO 
+es 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>sentimiento.</a>
+		<a>complicación.</a>
+		<a>conjunto.</a>
+		<a>hostilidad.</a>
+		<a>inclinación.</a>
+	</as>	
+	<x>A.
+	</x> 
+	<i>
+	</i>
+	<x2>Contextualmente, el vocablo complejo equivale 
+a sentimiento. En el texto, se se�ala literalmente 
+que las adolescentes padecen de un complejo de 
+inferioridad, es decir, sienten que poseen menos 
+condiciones para la ciencia que los varones, esto 
+debido a una educación prejuiciosa. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

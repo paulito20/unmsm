@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Los mitos narran las escenas de la vida de los 
+dioses por medio de imágenes. (II) El hombre 
+construye la imagen de su propio mundo a través 
+de los mitos. (III) El mito es un gran relato sobre 
+el principio o el origen del mundo. (IV) Los mitos 
+describen las diversas, y a veces dramáticas, irrup- 
+ciones de lo sagrado en el mundo de los hombres. 
+(V) Mircea Eliade es un gran teórico y estudioso 
+de los mitos sobre la creación del mundo. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>I</a>
+		<a>III</a>
+		<a>V</a>
+		<a>IV</a>
+		<a>II</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>El ejercicio aborda como asunto central las ca- 
+racterísticas de los relatos míticos. Por tal razón, 
+se debe eliminar la quinta oración, pues alude a 
+un tema claramente diferente: el aporte de Mircea 
+Eliade al estudio del mito. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

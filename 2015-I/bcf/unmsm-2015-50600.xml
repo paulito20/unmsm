@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un conocimiento es objetivo cuando su verdad 
+se determina 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>por criterios sociales.</a>
+		<a>con independencia del sujeto.</a>
+		<a>de manera utilitaria.</a>
+		<a>por la intuición metafísica.</a>
+		<a>con el menor grado de probabilidad.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

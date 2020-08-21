@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuáles de los siguientes enunciados caracterizan 
+el aprendizaje cognitivo?
+	Crea la capacidad para aprender y modificar el 
+	propio comportamiento. 
+II.  Perfecciona las coordinaciones psicomotoras finas. 
+III. Desarrolla las habilidades para procesar lo 
+	aprendido, almacenarlo en la memoria de largo 
+	plazo y recuperarlo eficazmente. 
+IV. Perfecciona el pensamiento analítico y reflexivo. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>solo II y IV</a>
+		<a>II, III y IV</a>
+		<a>solo III y IV</a>
+		<a>I, II y IV</a>
+		<a>I, III y IV </a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

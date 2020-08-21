@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la clase de Geografía, el profesor proporciona 
+a los alumnos un plano a escala 1:20 000 y solicita 
+calcular la longitud que, en el terreno, tiene un 
+canal de riego representado en el plano por 15 cm. 
+¿Cuánto mide el canal se�alado? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>2 km </a>
+		<a>4 km</a>
+		<a>5 km</a>
+		<a>3 km</a>
+		<a>6 km</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

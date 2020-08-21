@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A propósito de la huelga magisterial de 2017, los 
+estudiantes de una institución educativa pública de 
+la región Puno debaten en clase sobre los derechos 
+laborales del profesor. Al respecto, el estudiante 
+Pedro Catari afirma correctamente que ............. es 
+el organismo rector del asunto en el planeta. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>la OMC</a>
+		<a>la ONU</a>
+		<a>el FMI</a>
+		<a>la OIT</a>
+		<a>el PNUD</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si el número atómico (Z) de un halógeno que se 
+encuentra en el periodo n es 9, el valor de Z perte- 
+neciente a un elemento de la misma familia y que 
+se halla en el periodo (n+2) es 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>25.</a>
+		<a>18.</a>
+		<a>37.</a>
+		<a>35.</a>
+		<a>33.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

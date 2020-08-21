@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>Dos ómnibus transportan 120 pasajeros. Si del 
+ómnibus con más pasajeros se trasladasen sus dos 
+quintas partes al otro ómnibus, ambos tendrían 
+igual número de pasajeros, 
+</q0>
+	<g0></g0>
+	<q>¿cuántos pasajeros 
+viajan en cada ómnibus?</q>
+	<q2></q2>
+	<as t="R" correcta="">
+		<a>30 y 90</a>
+		<a>10 y 110</a>
+		<a>50 y 70</a>
+		<a>20 y 100</a>
+		<a>40 y 80</a>
+	</as>	
+	<x></x>
+	<i></i>
+	<x2>Tema: Planteo de ecuaciones
+	Analisis y procedimiento 
+	Se pide el número de pasajeros en cada ómnibus. 
+	De la condicion
+		1.er omnibus			2.°ómnibus 
+			5x						 x2
+		Adem�s
+		Total de pasajeros:5x+x=120
+							  x=20
+		N.°de pasajeros:
+			1.er omnibus		2.°ómnibus
+			∴    100 				 20 
+		</x2>
+	<i2></i2>
+	<v></v>
+</p>

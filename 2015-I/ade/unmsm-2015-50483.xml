@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El tipo de clima de un lugar depende de distintos 
+elementos y factores. El elemento principal del 
+clima es la 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>altitud.</a>
+		<a>latitud.</a>
+		<a>temperatura.</a>
+		<a>oceanidad.</a>
+		<a>continentalidad.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

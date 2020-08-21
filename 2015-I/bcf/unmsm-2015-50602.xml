@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un coleccionista visita una galería de arte y elige 
+un cuadro. Esta elección se hace a partir de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>un juicio de valor.</a>
+		<a>su sentido denotativo.</a>
+		<a>su significado connotativo.</a>
+		<a>una experiencia mística.</a>
+		<a>un interés práctico.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

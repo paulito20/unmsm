@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál de las siguientes aserciones expresa la idea 
+central de la teoría de la panspermia sobre el origen 
+de la vida? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Es posible la generación espontánea.</a>
+		<a>La vida terrestre se originó en los mares.</a>
+		<a>La vida no se originó en nuestro planeta.</a>
+		<a>La atmósfera originaria era reductora.</a>
+		<a>La vida se originó por quimiosíntesis.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

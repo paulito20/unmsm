@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Según Aristóteles, la actitud con la que comenzó 
+la filosofía fue 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>la apatía.</a>
+		<a>la suspicacia.</a>
+		<a>la complacencia.</a>
+		<a>el interés.</a>
+		<a>el asombro.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

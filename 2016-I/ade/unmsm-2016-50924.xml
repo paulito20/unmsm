@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En primera instancia, la hija de Luisa ha enunciado 
+una ............... a partir de un hecho natural, lo que 
+significa que está aplicando ............... . 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>conclusión - el enfoque crítico</a>
+		<a>interrogante - el método científico</a>
+		<a>experimentación - la simple intuicion</a>
+		<a>hipótesis - el método científico</a>
+		<a>hipótesis - una técnica experimental</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

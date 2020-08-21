@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>El texto se refiere, principalmente, a la</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>división entre ideas simples y complejas como fundamento del asociacionismo.</a>
+		<a>exposición del asociacionismo como un mecanismo que ocurre en la memoria.</a>
+		<a>total identificación psicológica entre las leyes asociativas y las leyes lógicas.</a>
+		<a>fundamentación del asociacionismo y su relación con la costumbre y la lógica.</a>
+		<a>explicación del asociacionismo relacionado con el empirismo y el escepticismo.</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2>Básicamente, el texto se refiere a la explicación 
+	del asociacionismo relacionado con el empirismo 
+	y el escepticismo. La lectura inicia explicando 
+	en qué consiste el asociacionismo, sus orígenes 
+	con Aristóteles, su posterior aceptación por el 
+	empirismo de John Locke y su radicalización en 
+	el escepticismo de David Hume.</x2>
+	<i2></i2>
+	<v></v>
+</p>

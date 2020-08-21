@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dada  la  relación  entre  la  demanda  temporal  de 
+ciertos productos por el consumidor con los már- 
+genes de ganancia y el establecimiento de los pre- 
+cios,  ¿qué  rubro  de  bienes  y  servicios  permitió 
+que en marzo de 2016 el índice llegara a 0,60 %? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>La compra de servicios preparatorios para ir a 
+	la escuela</a>
+		<a>La determinación de los pagos por el servicio 
+	docente</a>
+		<a>La  compra  de  diversos  bienes  educativos  y 
+	culturales</a>
+		<a>El exagerado cobro de las matrículas en todas 
+	las escuelas</a>
+		<a>La demanda especulativa que se da en ese mes</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

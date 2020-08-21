@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Reconozca  secuencialmente  las  falacias  en  el  si- 
+guiente diálogo: 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>Ad  baculum,  ad  verecundiam  y  ad  misericor- 
+	diam</a>
+		<a>Ad misericordiam, ad verecundiam y ad igno- 
+	rantiam</a>
+		<a>Ad baculum, ad hominem y ad populum</a>
+		<a>Ad misericordiam, ad ignorantiam y ad homi- 
+	nem</a>
+		<a>Ad misericordiam, ad hominem y ad baculum</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál es el tema principal que desarrolla el texto? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>La naturaleza de las lenguas nativas</a>
+		<a>Las lenguas indígenas del planeta</a>
+		<a>El Atlas de las lenguas en extinción</a>
+		<a>El problema de la extinción de lenguas</a>
+		<a>Las lenguas aborígenes de América</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>Básicamente, el texto trata sobre el problema de 
+la extinción de lenguas, especialmente las indí- 
+genas, ya que nos explica las causas, se�ales y 
+consecuencias de ello. Entre las principales causas 
+están la indiferencia o violencia de los gobiernos y 
+sociedades contra las lenguas nativas. Asimismo, 
+una se�al de este problema es la disminución de 
+hablantes de las lenguas indígenas. Finalmente, 
+la consecuencia de la extinción de este tipo de 
+lenguas es la pérdida de un patrimonio cultural 
+valioso. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

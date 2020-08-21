@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la siquiente figura, se traza las bisectrices de los
+	ángulos AOP, pOQ y QOB. Calcule m (POQ)si
+	su bisectriz es perpendicular a AB y las bisectrices 
+	de AOP y QOB forman un ángulo de 110º. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>35º</a>
+		<a>45º</a>
+		<a>60º</a>
+		<a>40º</a>
+		<a>90º</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

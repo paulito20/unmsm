@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La fem e de una batería es el voltaje máximo posible 
+que esta puede suministrar entre sus terminales. Si 
+una batería tiene una fem de 12,0 V y una resisten- 
+cia interna de 0,05 W, ¿cuál es el voltaje terminal de 
+la batería si sus terminales están conectados a una 
+resistencia de 3,00 W? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>11,8 V</a>
+		<a>10,8 V</a>
+		<a>12,8 V </a>
+		<a>13,8 V</a>
+		<a>14,8 V</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si en un medio de cultivo con grandes cantidades 
+de glucosa colocáramos una planta y un hongo, se 
+esperaría que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>se incremente la tasa de respiración aerobia 
+	y/o anaerobia en los dos organismos.</a>
+		<a>en el hongo aumente el proceso de absor- 
+	ción y en la planta disminuya el de fotosín- 
+	tesis.</a>
+		<a>la glucosa del medio solo sea utilizada como 
+	nutriente energético por el hongo.</a>
+		<a>tanto la planta como el hongo utilicen la 
+	glucosa del medio para obtener energía.</a>
+		<a>la planta sea capaz de realizar fotosíntesis 
+	como respiración celular anaeróbica.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

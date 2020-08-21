@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El Reino Animalia está formado por organismos 
+eucariotas, multicelulares y heterótrofos. Algunos 
+son carnívoros, otros herbívoros u omnívoros; la 
+mayoría son móviles en alguna o todas las etapas 
+de su vida; algunos son de vida libre y otros son 
+parásitos. Presentan 20 a 30 phyla diferentes y 
+la mayoría son invertebrados. ¿A qué Phylum y 
+Clase pertenece un invertebrado ectoparásito que 
+habita en animales de sangre caliente, con cuerpo 
+y extremidades articulados, cefalotórax y abdomen, 
+exoesqueleto y cuatro pares de patas? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>Artrópoda - Tetrápoda</a>
+		<a>Molusca - Cefalópoda</a>
+		<a>Platelminta - Cestoda</a>
+		<a>Artrópoda - Hexápoda</a>
+		<a>Artrópoda - Arácnida</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

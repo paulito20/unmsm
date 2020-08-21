@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Existen  diferentes  criterios  para  clasificar  los 
+climas.  En  algunos  casos  se  consideran  sus  ele- 
+mentos  más  importantes,  en  otros  se  consideran 
+sus factores. Sin embargo, una de las formas más 
+generales para clasificarlos es según la 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>altitud.</a>
+		<a>humedad.</a>
+		<a>latitud.</a>
+		<a>oceanidad.</a>
+		<a>continentalidad.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

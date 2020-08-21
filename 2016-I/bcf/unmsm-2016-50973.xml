@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Nancy fue al mercado con cierta cantidad de dinero 
+que es un número impar de nuevos soles. Ella solo 
+compró S/.5 de fresa, quedándole una cantidad 
+mayor o igual a S/.9. De regreso, Nancy se encontró 
+con María, quien le pagó los S/.8 que le debía y 
+ahora tiene una cantidad menor o igual que S/.23. 
+¿Cuál es la mayor cantidad posible de dinero con 
+la cual Nancy fue al mercado? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>S/.19</a>
+		<a>S/.17</a>
+		<a>S/.15</a>
+		<a>S/.21</a>
+		<a>S/.13</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

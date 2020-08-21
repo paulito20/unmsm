@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se tiene un terreno rectangular cuyas dimensiones 
+de largo y ancho están en relación de 2 a 1 y su 
+perímetro mide 54 m. Para cercar con mallas este 
+terreno, se colocan postes (verticalmente) a lo largo 
+del perímetro a una distancia de 90 cm uno del 
+otro. ¿Cuántos postes son necesarios para cercar 
+el terreno?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>56</a>
+		<a>59</a>
+		<a>58</a>
+		<a>60</a>
+		<a>62</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Qué anticuerpos (Ac) contra antígenos 
+de superficie de glóbulos rojos encontramos en la 
+sangre del padre, de la madre y del hijo? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Padre Ac A, madre Ac B, hijo Ac O</a>
+		<a>Padre Ac O, madre Ac O, hijo Ac AB</a>
+		<a>Padre Ac O, madre Ac O, hijo Ac O</a>
+		<a>Padre Ac B, madre Ac A, hijo Ac AB</a>
+		<a>Padre Ac A, madre Ac B, hijo Ac AB</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

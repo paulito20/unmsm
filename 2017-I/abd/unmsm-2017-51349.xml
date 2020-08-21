@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El ministro de Economía del Perú pretende mejorar 
+la recaudación de impuestos. Él afirma que debería 
+incrementarse la base tributaria o, lo que es lo 
+mismo, 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>el número de contribuyentes.</a>
+		<a>el impuesto a la renta.</a>
+		<a>el impuesto general a la venta.</a>
+		<a> los comprobantes electrónicos.</a>
+		<a>los impuestos a las importaciones.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

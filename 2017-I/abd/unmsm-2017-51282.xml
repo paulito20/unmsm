@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una urna se tiene 700 bolos numerados del 200 
+al 899, cada uno con número entero distinto. Ma- 
+nuel va a extraer de la urna algunos bolos y anotará 
+la suma de las cifras de cada uno. ¿Cuántos bolos 
+como mínimo debe extraer al azar para conseguir 
+cuatro bolos que tengan la misma suma de cifras 
+en su numeración? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>79</a>
+		<a>72</a>
+		<a>76</a>
+		<a>75</a>
+		<a>73</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Para medir el índice de desarrollo humano de un 
+país, se debe considerar los siguientes indicadores 
+sociales estadísticos: 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>a�os de vida y poder adquisitivo.</a>
+		<a>salud, educación y riqueza.</a>
+		<a>ingreso mensual y nivel educativo.</a>
+		<a>PBI y crecimiento económico.</a>
+		<a>tama�o de la población y grado de nutri- 
+ción. </a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

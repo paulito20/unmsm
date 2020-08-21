@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>María gasta cada mes lo siguiente: S/.60 en pasa- 
+jes, S/.50 en útiles de estudio, S/.150 en prendas 
+de vestir, S/.100 en menú y S/.500 en pensión de 
+estudio. ¿Cuánto es el desembolso total en bienes 
+y servicios, respectivamente, en el mes? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>S/.250 y S/.610</a>
+		<a>S/.360 y S/.500</a>
+		<a>S/.150 y S/.710</a>
+		<a>S/.800 y S/.60</a>
+		<a>S/.300 y S/.560</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

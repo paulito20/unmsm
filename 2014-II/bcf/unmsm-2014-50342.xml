@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un comerciante compró cier to número de 
+chocolates. Si hubiera comprado seis más, habría 
+gastado 308 soles y si hubiera comprado ocho 
+menos, habría gastado 280 soles. ¿Cuántos 
+chocolates compró?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>200</a>
+		<a>148</a>
+		<a>186</a>
+		<a>166</a>
+		<a>126</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

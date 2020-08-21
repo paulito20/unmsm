@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la figura, BAC es un triángulo rectángulo 
+recto en A y DEFG es un cuadrado inscrito en el 
+triángulo. Si BF=16 m y GC=9 m, halle el área 
+del cuadrado.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

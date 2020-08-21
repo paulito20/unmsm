@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una economía de mercado, el incremento del 
+precio que experimenta un producto se debe a 
+varias causas, entre otras, la concertación de 
+precios por parte de poderosos grupos económicos. 
+E ste es un r iesgo f undamenta l del merc ado 
+conocido como 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>trust.</a>
+		<a>cártel.</a>
+		<a>holding.</a>
+		<a>oligopsonio.</a>
+		<a>monopsonio.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

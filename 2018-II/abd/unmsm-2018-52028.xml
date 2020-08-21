@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En  una  fábrica  se  producen  clavos,  pernos  y 
+tornillos.  Los  tiempos  de  fabricación  son  de  tal  
+modo  que  por  cada  6  kg  de  clavos  se  producen 
+4  kg  de  tornillos  y  por  cada  3  kg  de  tornillos  se 
+producen  2  kg  de  pernos,  ¿cuántos  kilogramos  
+de tornillos se produjeron ese día?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>143</a>
+		<a>144</a>
+		<a>156</a>
+		<a>154</a>
+		<a>168</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

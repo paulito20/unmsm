@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Janett invitÃ³ a su fiesta de 15 años a 100 personas 
+entre varones y mujeres; de la cantidad de varones, 
+la quinta parte son menores de 15 años y de la 
+cantidad de mujeres, la doceava parte son mayores 
+de 14 años. Â¿A cuÃ¡ntos varones invitÃ³ a la fiesta? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>48</a>
+		<a>64</a>
+		<a>60</a>
+		<a>56</a>
+		<a>40</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

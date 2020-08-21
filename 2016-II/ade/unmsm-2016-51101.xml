@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Evalúe detenidamente las oraciones que aparecen 
+a continuación; luego seleccione la opción que 
+contiene proposiciones subordinadas sustantivas. 
+1.  Ayer en la oficina atendí hasta muy tarde a 
+	quienes me lo pidieron.    
+2.  Aquellos árboles que se reflejan en el lago son 
+	demasiado frondosos. 
+3.  Josefina, entre lágrimas, me dijo palabras tan 
+	bellas que nunca olvidaré.    
+4.  Aquel futbolista se ha fracturado el tobillo; por 
+	tanto, no podrá jugar.    
+5.  No importa que ellos se vayan a las ciudades 
+	más lejanas del mundo.   
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>1 y 2</a>
+		<a>3 y 4</a>
+		<a>1 y 5</a>
+		<a>4 y 5</a>
+		<a>2 y 3</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

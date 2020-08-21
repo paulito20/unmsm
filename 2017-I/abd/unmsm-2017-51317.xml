@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>“Hace poco el Estado, en la figura del presidente, 
+ha mostrado cierto interés por la naturaleza. Sin 
+embargo, la nación no ha tomado real conciencia de 
+cuánto sigue perdiéndose y del estado lamentable 
+de fuentes vitales como los ríos. Solo la Universidad 
+ha reaccionado ante esto”. 
+A partir de la lectura del texto anterior, determine el 
+valor de verdad (V o F) de los siguientes enunciados. 
+
+I.  La palabra Estado se escribe con mayúsculas 
+cuando alude a una forma de organización 
+política. 
+II.  La palabra presidente se escribe con minúsculas 
+	cuando se�ala a quien ejerce el cargo político. 
+III. La palabra Universidad se escribe con 
+	mayúsculas cuando se emplea como nombre 
+	común. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>VFF</a>
+		<a>VFV</a>
+		<a>FFV</a>
+		<a>FVF</a>
+		<a>VVF</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A una ni�a y sus padres se les realiza un estudio 
+citogenético. La ni�a presenta una trisomía del 
+par 21 y los padres presentan un cariotipo normal. 
+¿Cuál sería la explicación de este resultado? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>En la gametogénesis de uno de los padres 
+	ocurrió una duplicación del par 21.</a>
+		<a>Hubo una distribución inadecuada de los 
+	cromosomas de la ni�a.</a>
+		<a>La ni�a presenta la trisomía 21 porque uno 
+	de los padres es portador.</a>
+		<a>Durante la gametogénesis de la ni�a, ocurrió 
+	la no disyunción del par 21.</a>
+		<a>Hubo no disyunción en el par 21 en uno de 
+	los gametos de los padres.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

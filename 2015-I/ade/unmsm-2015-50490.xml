@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una pelota de 0,4 kg, al ser lanzada verticalmente 
+hac�a arriba, alcanza una altura de 17,50 m. Si 
+la rapidez inicial de la pelota es de 20,0 m/s, 
+¿cuál será la diferencia entre su energía cinética 
+máxima y su energía potencial máxima?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>20,0 J</a>
+		<a>30,0 J</a>
+		<a>40,0 J</a>
+		<a>50,0 J</a>
+		<a>10,0 J</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

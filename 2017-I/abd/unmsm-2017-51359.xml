@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un atleta normal puede alcanzar en salto vertical 
+una altura del orden de 60 cm (entendido como la 
+altura a la que llega su centro de gravedad a partir 
+de su situación en el momento del despegue). Si 
+la masa de un jugador de fútbol como Cristiano 
+Ronaldo es de 75 kg, ¿cuál es la energía que han 
+realizado los músculos de sus piernas, si alcanzó 
+80 cm en un salto vertical para cabecear la pelota? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>600 J</a>
+		<a>500 J</a>
+		<a>400 J</a>
+		<a>700 J</a>
+		<a>800 J</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

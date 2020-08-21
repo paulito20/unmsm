@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El siguiente grÃ¡fico representa la cantidad de ce- 
+lulares  vendidos,  en  miles  de  unidades,  por  una 
+empresa  durante  cuatro  años  consecutivos.  En 
+el  año  2014  las  ventas  aumentaron  en  25%  res- 
+pecto  al  año  2013  y,  en  el  año  2015  las  ventas 
+aumentaron en 25% respecto al año 2014 pero el 
+2016 disminuyeron en 25% respecto al año 2015. 
+Â¿CuÃ¡ntos  celulares  vendiÃ³  la  empresa  durante  el 
+año 2016? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>60 000</a>
+		<a>77 000</a>
+		<a>80 000</a>
+		<a>78 000</a>
+		<a>75 000</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

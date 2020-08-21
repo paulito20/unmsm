@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se tienen n datos de tiempo en minutos, cuya 
+media aritmética es 3,75 minutos. Si a cada uno 
+de los n datos se les resta 15 segundos, ¿cuál es la 
+media aritmética, en segundos, de estos n datos 
+resultantes? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>216</a>
+		<a>225</a>
+		<a>210</a>
+		<a>230</a>
+		<a>245</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

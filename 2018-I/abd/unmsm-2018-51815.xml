@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una madre de familia concurre a uno de los grandes 
+centros comerciales de la ciudad con sus dos hijos, 
+vestidos con trajes típicos de su lugar de origen 
+(Puno). Deciden ver una película, compran las 
+entradas y, si bien los dejan ingresar, son ubicados 
+en la última fila de la sala de cine. Ante ello, la ma- 
+dre reclama airadamente, pues había asientos más 
+cercanos a la pantalla que estaban desocupados. 
+En este caso, se está violando el derecho 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>al libre tránsito.</a>
+		<a>a la no discriminación.</a>
+		<a>al honor.</a>
+		<a>a la intimidad. </a>
+		<a>a la preferencia personal.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Uno de los siguientes enunciados es incompatible 
+con lo aseverado en el texto. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>Para el escéptico, los datos que nos ofrecen 
+	los sentidos son imprecisos.</a>
+		<a>La fe ingenua en la verdad de la percepción 
+	es atacada por el escéptico.</a>
+		<a>El dogmatismo postula sin crítica la exis- 
+	tencia de conocimientos objetivos.</a>
+		<a>El escepticismo dispone de fuertes argu- 
+	mentos contra el dogmatismo.</a>
+		<a>El realista ingenuo desconfía de la objeti- 
+	vidad del conocimiento sensible.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>Según el texto, para los dogmáticos (realistas 
+ingenuos) el conocimiento que proviene de los 
+sentidos es objetivo y seguro. Por ende, es inco- 
+rrecto afirmar que el realista ingenuo duda de la 
+objetividad del conocimiento sensible. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

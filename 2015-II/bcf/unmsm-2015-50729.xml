@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Determine cuál de los siguientes enunciados re­ 
+sulta incompatible con lo aseverado en el texto. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>La fotografía conoció un gran desarrollo 
+	antes de la aparición del cine.</a>
+		<a>R. Williams observa algunas similitudes 
+	sociales entre el teatro y el cine.</a>
+		<a>En la ciudad, el teatro era un entretenimiento 
+	para muchos comerciantes.</a>
+		<a>En términos comerciales, la prensa y el cine 
+	tienen un gran potencial.</a>
+		<a>Resulta difícil encontrar nuevos aportes en 
+	el cine como espectáculo.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>	texto se�alar 
+que resulta difícil encontrar nuevos aportes en el 
+cine como espectáculo.
+El cine, si bien aprovechó aportes anteriores, es sa­ 
+bido que agregó sus propias condiciones técnicas, 
+tales como el mayor potencial creativo y comercial, 
+así como su facilidad para la distribución en el 
+público amante del séptimo arte. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

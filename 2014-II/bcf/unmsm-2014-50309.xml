@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Perverso, desalmado, protervo,
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>hipócrita</a>
+		<a>desconfiado</a>
+		<a>cínico</a>
+		<a>inclemente</a>
+		<a>imprudente</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>Las palabras que integran la serie son sinónimos, 
+aluden a personas malvadas que causan da�o 
+intencionalmente. Por tal razón, el vocablo que 
+completa la serie es inclemente, que significa 
+persona cruel, que no tiene compasión. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

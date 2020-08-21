@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Según el Instituto Nacional de Estadística e 
+Informática (INEI), la estructura de la población 
+por edades presenta la siguiente proyección: 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>la población joven es la menos numerosa 
+	y seguirá aumentando.</a>
+		<a>el número de personas mayores de 60 a�os 
+	tiende a disminuir.</a>
+		<a>la población menor de 15 a�os muestra 
+	tendencia a incrementar.</a>
+		<a>la población adulta irá aumentando y 
+	tenderá a ser más numerosa.</a>
+		<a>la población infantil se incrementa, ya que 
+	la tasa de natalidad aumenta.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

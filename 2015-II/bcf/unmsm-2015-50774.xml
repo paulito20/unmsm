@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Elija la opción que presenta complemento atributo. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Las voleibolistas se fueron cansadas.</a>
+		<a>Alejandro viajó a Chosica anoche.</a>
+		<a>Ella estaba muy contenta ese día.</a>
+		<a>Ella durmió en los brazos de su madre.</a>
+		<a>El huésped llegó con su esposa.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Halle la región determinada por el conjunto solu- 
+ción del siguiente sistema de inecuaciones. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>Región exterior al triángulo de vértices 
+	(0; 0), (0; 5), (5; 0)</a>
+		<a>Región interior al triángulo de vértices 
+	(0; 0), (0; 5), (5; 0)</a>
+		<a>El triángulo de vértices (0; 0), (0; 5), (5; 0)</a>
+		<a>El primer cuadrante</a>
+		<a>Región por encima de la recta definida por 
+	x+y=5</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

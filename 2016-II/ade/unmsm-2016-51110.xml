@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Algunos pensadores sostienen que el fundamento 
+de los derechos humanos se encuentra en nuestra 
+capacidad de pensar, hablar y comunicarnos. Esto 
+significa que las personas estamos dotadas de 
+racionalidad, que somos seres que argumentamos, 
+intercambiamos puntos de vista, trabajamos en 
+equipo, etc. Por ello, los derechos humanos cobran 
+vigencia cuando consideramos que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>todos los seres humanos somos parte de 
+	una misma especie y tenemos las mismas 
+	necesidades.</a>
+		<a>algunas personas carecen de la habilidad 
+	suficiente para ser tomadas en cuenta en 
+	un debate.</a>
+		<a>la dignidad de los seres humanos está 
+	justificada por la idea de haber sido creados 
+	a imagen de Dios.</a>
+		<a>toda persona es un interlocutor válido capaz 
+	de expresar su punto de vista sobre el bien 
+	y la justicia.</a>
+		<a>está prohibida cualquier ofensa contra 
+	nuestros semejantes, pues toda persona es 
+	nuestro prójimo.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se�ale la alternativa que corresponde a una 
+oración dubitativa según la actitud del hablante. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>¡La duda me está matando, amigo!</a>
+		<a>El patio del colegio es muy peque�o.</a>
+		<a>Tal vez ma�ana salgamos de excursión.</a>
+		<a>Ojalá ganemos el partido en Arequipa.</a>
+		<a>¿Sabes cuándo comenzará el Mundial?</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

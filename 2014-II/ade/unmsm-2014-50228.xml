@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una comunidad, se intercambian productos 
+alimenticios A, B, C y D con la modalidad del 
+trueque, utilizando un mismo recipiente llamado 
+la “medida” para cada producto. Si una medida 
+de A más una de C se cambia por 5 medidas de 
+B; una medida de A más una de B se cambia por 
+una de C; y una medida de B más una de C se 
+cambia por una de D, ¿cuántas medidas de B se 
+cambian por una de D? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>4</a>
+		<a>5</a>
+		<a>3</a>
+		<a>1</a>
+		<a>2</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

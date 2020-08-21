@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) La desertificación en África se produce principal- 
+mente dentro de las áreas circundantes al desierto 
+del Sahara. (II) La economía africana no se ha 
+desarrollado a causa de la inestabilidad política
+y la dependencia financiera.(III)La producción 
+africana se dirige hac�a el mercado externo, por lo 
+que no se orienta a satisfacer las necesidades de 
+su población. (IV) En África predominan las activi- 
+dades económicas extractivas, lo que acarrea, con 
+frecuencia, una depredación del medio. (V) En el 
+continente africano, conviven dos tipos de econo- 
+mía: una de subsistencia y otra dirigida al comercio 
+internacional. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>V</a>
+		<a>IV</a>
+		<a>I</a>
+		<a>III</a>
+		<a>II</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>El tema central del texto son características de la 
+economía africana. En consecuencia, se elimina 
+la oración (I) por disociación temática, ya que esta 
+oración resalta una característica de la geografía 
+africana. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

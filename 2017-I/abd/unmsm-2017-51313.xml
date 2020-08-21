@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El avión partirá muy temprano de Lima a La 
+Libertad. 
+L as preposiciones destacadas establecen las 
+relaciones de
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>posesión y límite.</a>
+		<a>dirección y lugar.</a>
+		<a>procedencia y dirección.</a>
+		<a>lugar y procedencia.</a>
+		<a>materia y dirección.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

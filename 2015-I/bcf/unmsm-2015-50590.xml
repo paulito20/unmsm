@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En 1992, mediante el Tratado de Maastricht, un 
+grupo de países europeos creó ............... para 
+asumir compromisos económicos y políticos 
+comunes. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>la Comunidad Económica Europea</a>
+		<a>la Unión Europea</a>
+		<a>el Fondo Monetario de Desarrollo Regional</a>
+		<a>el Parlamento Europeo</a>
+		<a>la Organización Mundial de Comercio</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

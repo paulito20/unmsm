@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Debido a las características geográficas del país, una 
+provincia de la región Huancavelica tiene abundan- 
+cia de un recurso natural, el agua. Al respecto, el 
+alcalde provincial conoce la demanda por el líquido 
+vital de otras regiones vecinas, las ubicadas en la 
+costa. Por ello, él piensa generar un flujo de ingreso 
+para la provincia sobre la base de una modificación 
+de la política tributaria del país. Para lograr su 
+objetivo, el funcionario debe saber que la política 
+tributaria es dise�ada y propuesta por el
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>Banco Central de Reserva.</a>
+		<a>Congreso de la República.</a>
+		<a>Banco de la Nación.</a>
+		<a>presidente de la República.</a>
+		<a>Ministerio de Economía y Finanzas.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

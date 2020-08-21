@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Luego de un arduo trabajo, Gerardo, Abel y 
+Rodolfo deciden tomar unas merecidas vacaciones
+y deciden visitar la ciudad de Arequipa para 
+probar los platos típicos de la región. Un día, en 
+el almuerzo, ordenan lo siguiente: rocoto relleno,  
+cuy chactado y malaya dorada; y para beber: 
+limonada, jugo de papaya y jugo de fresa, aunque 
+no necesariamente en ese orden. 
+Se sabe: 
+- Quien come rocoto relleno toma jugo de fresa. 
+
+- Gerardo come malaya dorada.
+
+- Abel no toma jugo de fresa.
+
+Indique la(s) afirmación(es) siempre verdadera(s). 
+ 
+I.    Gerardo toma limonada. 
+II.  Rodolfo toma jugo de fresa. 
+III. Abel toma jugo de papaya. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>I y II</a>
+		<a>solo III</a>
+		<a>solo II</a>
+		<a>III y III</a>
+		<a>I y III</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Roque Zambrano fue acusado y sentenciado por 
+delito contra el patrimonio en agravio del Estado 
+a la pena privativa de la libertad por 10 a�os. 
+Estando en prisión, solicita se le permita votar en las 
+elecciones presidenciales que se realizarán dentro de 
+un mes, pero el director del establecimiento penal 
+le niega esa posibilidad. ¿Tiene Roque Zambrano 
+derecho a votar en dichas elecciones? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Sí, tiene derecho, por lo que la decisión 
+	del director del centro penitenciario es 
+	equivocada, además de arbitraria.</a>
+		<a>Sí, porque todos los ciudadanos tienen 
+	derecho a elegir y ser elegidos, sin restricción 
+	alguna y de ningún tipo.</a>
+		<a>No tiene derecho ni a votar ni a ningún 
+	otro beneficio por el simple hecho de haber 
+	dejado de ser ciudadano.</a>
+		<a>No tiene derecho porque ha sido condenado 
+	a 10 a�os de prisión y sus derechos 
+	ciudadanos han sido suspendidos.</a>
+		<a>Sí, tiene derecho, ya que es nulo todo acto 
+	que limite o prohíba el ejercicio del derecho 
+	de todo ciudadano.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

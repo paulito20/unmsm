@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Establezca relaciones correctas entre los periodos 
+republicanos y sus características económicas. 
+I.	La Patria Nueva 
+II.  Ochenio de Odría 
+III. Década del 60 
+IV. República Aristocrática 
+
+a.  Exportaciones favorecidas por la guerra de 
+	Corea. 
+b.  Penetración del capital norteamericano. 
+	Boom de la exportación del caucho amazónico. 
+d.  Apogeo de la pesca industrial en el mar peruano. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Ib, IIa, IIId, IVc</a>
+		<a>Ia, IId, IIIb, IVc</a>
+		<a>Id, IIa, IIIc, IVb</a>
+		<a>Ic, IIa, IIId, IVb</a>
+		<a>Ia, IIc, IIId, IVd</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

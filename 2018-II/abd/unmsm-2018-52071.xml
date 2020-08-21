@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El  origen  humano  del  calentamiento  global  se 
+sustenta  en  la  relación  directa  que  existe  entre  la 
+emisión  de  gases  de  efecto  invernadero  (GEI), 
+principalmente  por  la  actividad  industrial,  y  el 
+incremento  de  la  temperatura  ambiental.  Sobre  la 
+base del Protocolo de Kioto se ha propuesto, ante 
+esta situación, la producción de biocombustibles a 
+partir  de  la  materia  orgánica,  con  la  finalidad  de 
+reducir  la  emisión  del  GEI  dióxido  de  carbono. 
+Sin  embargo,  persiste  una  fuerte  crítica  en  contra 
+de esta propuesta debido a que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>no genera ahorro económico.</a>
+		<a>disminuye los puestos de trabajo en el campo.</a>
+		<a>contamina el aire de la atmósfera.</a>
+		<a>desplaza la producción de alimentos.</a>
+		<a>disminuye las áreas de bosques.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

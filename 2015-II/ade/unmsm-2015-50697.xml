@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La fuente del campo magnético es una carga 
+en movimiento o una corriente eléctrica, del 
+mismo modo que la carga eléctrica es la fuente 
+de un campo electrostático.  
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>20 m</a>
+		<a>10 m</a>
+		<a>25 m</a>
+		<a>15 m</a>
+		<a>18 m</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

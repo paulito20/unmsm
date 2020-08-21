@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El sentido contextual del término PUNTO es 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>caso.</a>
+		<a>noción.</a>
+		<a>problema.</a>
+		<a>objeción.</a>
+		<a>hecho.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>En el contexto, el sentido de la palabra PUNTO es 
+objeción. En el segundo párrafo, el autor formula 
+su discrepancia sobre que la historia de la ciencia 
+no puede ser lo central para establecer la naturaleza 
+de la ciencia. De allí que la palabra punto se refiera 
+al desacuerdo u objeción de puntos de vista.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

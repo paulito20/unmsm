@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si un día encontráramos un cisne negro, entonces 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>anularíamos la sutil propuesta defendida por 
+	el autor del texto B.</a>
+		<a>quedaría por fin demostrada la importante 
+	utilidad de la inducción.</a>
+		<a>se manifestaría lo acertado de la posición 
+	del autor del texto A.</a>
+		<a>la lógica sería asumida, al fin, como un 
+	criterio universal válido.</a>
+		<a>se demostraría la falsedad de todos los 
+	enunciados singulares. 
+</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>Si un día descubrimos un cisne negro, entonces 
+se comprueba la tesis del autor del texto A. Según 
+Karl Popper, el método inductivo no es válido para 
+establecer enunciados universales. La hipótesis de 
+un inductivista que sostuviera que todos los cisnes 
+son blancos quedaría refutada cuando se encuentre 
+un cisne negro. La posibilidad de los contraejemplos 
+son los que respaldan la postura del primer autor. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

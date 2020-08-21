@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El texto trata, principalmente, 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>de los peligros que hoy enfrenta el hombre.</a>
+		<a>de las estrategias para combatir todo estrés.</a>
+		<a>del estrés crónico y de cómo contrarrestarlo.</a>
+		<a>de la utilidad de la meditacion y el ejercicio.</a>
+		<a>de la necesidad de promover el buen estrés.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>El texto trata, principalmente, del estrés crónico y 
+de cómo contrarrestarlo; además, se plantea que 
+el objetivo fundamental es entender el estres y	no 
+eludirlo y se sugiere que para contrarrestar sus efectos 
+adversos se deben emplear diversas estrategias ya 
+sean a nivel biológico o mediante técnicas de control. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

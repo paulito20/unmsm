@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante el primer gobierno de Mariano Ignacio 
+Prado (1867 - 1868), se anuló el Tratado Vivanco- 
+Pareja, por el cual el Estado peruano 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>declaraba la estatización delguano y el
+salitre.</a>
+		<a>renegociaba la construcción de ferrocarriles.</a>
+		<a>establecía la frontera con la Gran Colombia.</a>
+		<a>decretaba la libertad de esclavos negros.</a>
+		<a>reconocía derechos a Espa�a por la 
+	Independencia.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

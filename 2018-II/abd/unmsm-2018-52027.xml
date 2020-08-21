@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En un instituto de idiomas se ofrecen tres cursos. 
+alemán, francés e inglés. Cuatro alumnos se ma- 
+tricularon en los tres cursos, seis alumnos en los 
+cursos  de  inglés  y  alemán  y  siete  en  los  cursos 
+de  francés  e  inglés.  Si  todos  los  matriculados  en 
+inglés se matricularon también en alemán o fran- 
+cés, ¿cuántos matriculados hubo en inglés? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="">
+		<a>7</a>
+		<a>4</a>
+		<a>5</a>
+		<a>3</a>
+		<a>6</a>
+	</as>	
+	<x>.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

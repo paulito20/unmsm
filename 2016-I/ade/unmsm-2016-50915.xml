@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El ciclo del agua depende de la energía solar y se 
+inicia con la evaporación de las aguas superficiales 
+de los mares, ríos, lagos y con la transpiración de las 
+plantas. Gran parte del agua evaporada se convierte 
+en nubes, desde donde regresa a la superficie como 
+lluvia, granizo o nieve. 
+Respecto a la conversión del vapor de agua en 
+lluvia, granizo o nieve, marque con verdadero (V) 
+o falso (F) cada una de la siguientes proposiciones 
+y se�ale la secuencia correcta. 
+I.	Ocurre un cambio químico. 
+II.  Se produce un cambio físico. 
+III. La composición química del agua no cambia. 
+IV.  Se forman nuevas sustancias. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>VFVF</a>
+		<a>FVVF</a>
+		<a>FVFV</a>
+		<a>VVFF</a>
+		<a>FVFF</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

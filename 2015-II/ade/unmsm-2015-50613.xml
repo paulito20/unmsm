@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Altruista, egoísta; valiente, pusilánime; trabajador, 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>lerdo</a>
+		<a>torpe</a>
+		<a>mediocre</a>
+		<a>holgazán</a>
+		<a>astuto</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>Los términos altruista (generoso) y egoísta son 
+antónimos; la misma relación se observa entre 
+los vocablos valiente y pusilánime (cobarde). 
+Por tal razón, la palabra que completa la serie es 
+holgazán, pues es antónimo de trabajador. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

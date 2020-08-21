@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el texto B, la palabra FONDOS remite a 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>experiencia.</a>
+		<a>capacidad.</a>
+		<a>entendimiento.</a>
+		<a>habilidad.</a>
+		<a>teoría.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>La palabra FONDOS del texto B remite a entendi- 
+miento. Martinez propone su forma particular de 
+comprender el método inductivo. Este no es única- 
+mente el establecimiento de una proposición general 
+a partir de un conjunto de hechos observados, sino 
+que en la formulación de la conclusión inductiva el 
+científico incorpora para elementos de su entendi- 
+miento o conocimiento sobre el tema investigado. 
+
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

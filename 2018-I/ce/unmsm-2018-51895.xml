@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Para cercar con mallas un terreno de forma 
+cuadrada que tiene 1600 m  de área, se colocan 
+postes (verticalmente) en todo el perímetro a una 
+distancia de 4 m uno del otro. Si el costo por colocar 
+un poste es S/15, ¿cuál será el costo total por la 
+colocación de todos los postes? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>S/810</a>
+		<a>S/450</a>
+		<a>S/600</a>
+		<a>S/1200</a>
+		<a>S/900</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

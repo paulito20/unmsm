@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Marque la serie que contiene las tres palabras con 
+consonantes bilabiales. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Balde, mesa, fólder</a>
+		<a>Pato, uva, casaca</a>
+		<a>Auto, bota, peso</a>
+		<a>Bala, lápiz, mano</a>
+		<a>Libro, piso, gancho</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los gangliósidos son lípidos que se degradan en 
+una organela de las neuronas para ser reciclados 
+para la célula durante el desarrollo temprano del 
+ser humano. En la enfermedad de Tay-Sachs, estos 
+lípidos se almacenan al no poder se digeridos por 
+una enzima específica, lo cual lleva rápidamente a la 
+degeneración y a la muerte neuronal, y el individuo 
+puede morir antes de alcanzar los 5 a�os de edad. 
+De acuerdo con lo enunciado, esta patología se debe 
+al mal funcionamiento de las enzimas presentes en 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>los ribosomas.</a>
+		<a>los lisosomas.</a>
+		<a>las mitocondrias.</a>
+		<a>los peroxisomas.</a>
+		<a>el aparato de Golgi.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

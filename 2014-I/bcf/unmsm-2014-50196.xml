@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una avioneta tiene una rapidez de 120 km/h res- 
+pecto al aire. Si hay viento favorable de 40 km/h 
+en la misma dirección de movimiento, ¿en cuánto 
+tiempo recorrerá una distancia de 320 km?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>4,0 h</a>
+		<a>2,5 h</a>
+		<a>2,0 h</a>
+		<a>3,5 h</a>
+		<a>4,5 h</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

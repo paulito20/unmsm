@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los Gobiernos Regionales de Ica, Huancavelica 
+y Ayacucho, que expresan una amplia diversidad 
+cultural, acuerdan promover un conjunto de 
+políticas comunes a nivel regional que favorezca 
+la inclusión y la participación de todos sus ciu- 
+dadanos, garantizando así la cohesión social, la 
+vitalidad de sus sociedades y la paz. Indique cuál 
+sería el eje de esas políticas. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>El pluralismo cultural</a>
+		<a>La convocatoria popular</a>
+		<a>La democratización social</a>
+		<a>La descentralización política</a>
+		<a>Los derechos políticos</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

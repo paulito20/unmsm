@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Los elementos ligeros utilizados en una bomba 
+de hidrógeno son el deuterio y el tritio (isótopos 
+de hidrógeno). (II) La temperatura necesaria 
+para inflamar la mezcla de las substancias 
+que componen la bomba de hidrógeno la 
+proporciona una bomba atómica hecha de 
+plutonio. (III) Las diferentes bombas fabricadas 
+por el ingenio humano se suelen usar en 
+confrontaciones bélicas y en experimentos militares. 
+(IV) El estallido de la bomba de plutonio desarrolla 
+una temperatura de muchos millares de grados 
+centígrados en unas millonésimas de segundo 
+dentro de una bomba de hidrógeno. (V) Una 
+temperatura de millares de grados centígrados, 
+en un breve lapso, permite iniciar la reacción 
+destructiva entre el deuterio y el tritio. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>V</a>
+		<a>I</a>
+		<a>III</a>
+		<a>IV</a>
+		<a>II</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>El autor del texto detalla, principalmente, cómo se 
+produce la reacción de la explosión de la bomba 
+de hidrógeno. Por lo tanto, se elimina la tercera 
+información por disociación, ya que aborda los 
+diferentes usos que el hombre da a las bombas.</x2>
+	<i2></i2>
+	<v></v>
+</p>

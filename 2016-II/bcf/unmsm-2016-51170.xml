@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el texto 3 A, el adverbio abiertamente se puede 
+reemplazar por 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>notoriamente.</a>
+		<a>ampliamente.</a>
+		<a>extensamente.</a>
+		<a>francamente.</a>
+		<a>sinceramente.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>En el texto 3 A, el adverbio abiertamente se 
+puede reemplazar por notoriamente. Descartes 
+se�ala que se debe dudar de lo que se juzga como 
+cierto y también de las cosas que evidencian (es 
+decir, muestran notoriamente) su oposición a lo 
+verdadero.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

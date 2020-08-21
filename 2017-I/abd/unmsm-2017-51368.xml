@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El hidrógeno y el oxígeno presentes en la naturaleza 
+pueden mantenerse mezclados en un recipiente 
+sin reaccionar por mucho tiempo. Aunque existan 
+colisiones entre las moléculas, no alcanzan la 
+energía de activación necesaria para reaccionar. 
+Sin embargo, si la mezcla se calienta a 800 ºC, o 
+se introduce una llama (chispa) en el recipiente, 
+reaccionan violentamente. El calor o la chispa 
+suministran la energía de activación necesaria para 
+que la reacción se produzca. A partir del gráfico, 
+determine el valor de verdad (V o F) respecto de la 
+formación de una mol de vapor de agua. 
+1.  La energía de reacción es de – 242 kJ. 
+2.  La energía de activación es de 177 kJ. 
+3.  La energía del complejo activado es 419 kJ. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>VVF</a>
+		<a>VFV</a>
+		<a>FFF</a>
+		<a>FFV</a>
+		<a>FVF</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

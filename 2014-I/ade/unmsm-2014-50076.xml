@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>El protocolo de Kioto,de la Convencion Marco de las Naciones Unidas para el Cambio Climatico,busca,fundamentalmente, limitar y reducir</q>
+	<q2></q2>
+	<as t="R" correcta="1">
+		<a>las emisiones de gases que afectan la capa de ozono.</a>
+		<a>las emisiones de gases de efeto invernadero.</a>
+		<a>la produccion de materiales solidos electromagneticos</a>
+		<a>los elementos solidos, liquidos o gaseosos contaminantes</a>
+		<a>el incremento de plantas radiactivas como fuente de energia</a>
+	</as>	
+	<x>B</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

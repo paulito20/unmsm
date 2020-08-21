@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El término ESPÉCIMEN, en el segundo párrafo, 
+puede ser reemplazado por 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>género.</a>
+		<a>conjunto.</a>
+		<a>entidad.</a>
+		<a>grupo.</a>
+		<a>ejemplar.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>El texto menciona: “el ADN del espécimen difería 
+en tal grado del de los seres humanos”. En dicho 
+contexto, el término resaltado se refiere a ejemplar, 
+que significa individuo de una especie o género.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

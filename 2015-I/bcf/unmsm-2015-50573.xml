@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el enunciado “Paco Yunque estuvo nervioso
+aquella ma�ana”, la palabra subrayada cumple 
+la función de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>sujeto.</a>
+		<a>atributo.</a>
+		<a>objeto directo.</a>
+		<a>objeto indirecto.</a>
+		<a>complemento circunstancial.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

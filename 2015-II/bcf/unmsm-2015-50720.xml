@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) El pensamiento de Víctor Andrés Belaunde 
+recibe la influencia de las tendencias filosóficas 
+europeas de su época. (II) La generación de Víctor 
+Andrés Belaunde, denominada arielista, pensó 
+acerca de la complejidad de un país como el Perú 
+de una manera idealista. (III) La obra intelectual de 
+Víctor Andrés Belaunde se va moldeando en torno 
+a la realidad peruana. (IV) El pensamiento de 
+Víctor Andrés Belaunde incurrió en los modos de 
+un idealismo bien intencionado. (V) Víctor Andrés 
+Belaunde planteó el problema del anatopismo 
+filosófico en nuestro medio. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>IV</a>
+		<a>V</a>
+		<a>I</a>
+		<a>II</a>
+		<a>III</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>El asunto principal del ejercicio es el pensamiento 
+de Víctor Andrés Belaunde. En tal sentido, se eli- 
+mina la segunda oración, pues alude a un tema 
+disociado: la labor intelectual de la generación 
+arielista. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

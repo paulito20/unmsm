@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El  intelectualismo  moral  de  Sócrates  y  Platón 
+identificaba  la  virtud  con  el  conocimiento  racio- 
+nal.  De  ello  se  entiende  que  nadie  es  malo  sino 
+por  ignorancia  y  que  solo  seremos  virtuosos  si 
+sabemos  qué  es  la  virtud.  Dicho  intelectualismo 
+moral sostenía, además, que el bien 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>debe ser entendido como la felicidad.</a>
+		<a>es un concepto imposible de definir.</a>
+		<a>es una idea con una esencia universal.</a>
+		<a>exige la práctica de acciones buenas.</a>
+		<a>solo es la idea de lo que causa placer.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

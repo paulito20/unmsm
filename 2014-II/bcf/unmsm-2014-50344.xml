@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la figura, AD=1,5 m y DC=1 m. Halle el 
+perímetro de la región sombreada.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>3 m</a>
+		<a>2,50 m</a>
+		<a>4 m</a>
+		<a>6 m</a>
+		<a>5 m</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

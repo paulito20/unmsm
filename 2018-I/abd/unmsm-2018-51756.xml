@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál es el tema central del texto? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>La relación entre la ética y los asuntos 
+	políticos</a>
+		<a>La moralidad y el sustento ético de la acción 
+	humana</a>
+		<a>La ética en la educación filosófica del futuro</a>
+		<a>El carácter amoral de las discusiones políticas</a>
+		<a>El factor ético en los valores y juicios morales</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>El tema principal del texto es el nexo entre la ética 
+y la política. Según el autor, en el ámbito político 
+resulta inevitable el empleo de juicios morales. Ello 
+se evidencia en la discusión de conceptos políticos, 
+en la que no solo se enfatiza en las relaciones de 
+poder, sino también en valores éticos. Incluso se 
+afirma que resulta difícil imaginar que los debates 
+políticos puedan ser ajenos en algún momento al 
+uso de juicios éticos. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

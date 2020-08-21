@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las vitaminas son compuestos orgánicos que los 
+animales requieren ingerir en peque�as cantidades 
+porque no pueden sintetizarlos. Estos compuestos 
+participan en las reacciones químicas para obtener 
+energía o sintetizar moléculas biológicas, y pueden 
+ser solubles en agua o en lípidos. Si la vitamina C 
+se necesita para la síntesis de colágeno, ¿con qué 
+proceso estará directamente relacionada? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Mantenimiento de cartílagos</a>
+		<a>Regeneración de neuronas</a>
+		<a>Síntesis de pigmentos visuales</a>
+		<a>Transmisión de impulso nervioso</a>
+		<a>Síntesis de proteínas contráctiles</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

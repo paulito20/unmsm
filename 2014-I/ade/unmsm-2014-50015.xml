@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>En opinion de autor, si un cientificos prescindiera voluntariamente del lenguaje matematico, entonces</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>restringiria sus actividades a observar los atomos.</a>
+		<a>adquiria solo conocimientos sobre cultura general.</a>
+		<a>mejoraria la labor de los antiguos matematicos griegos.</a>
+		<a>construiria un modelo de ciencia superior al actual.</a>
+		<a>renunciaria a formular una teoria universalmente valida,</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2>Segun el autor, si un cientifico prescindiera voluntariamente del lenguaje matematico, entonces renunciaria a formular la teoria universalmente valida.La comunicacion cientifica en lenguaje matematico permite que los investigadores puedan intercambiar datos de forma confiable debido a la rigurosidad de los enunciados, si alquien se excluyese de ello quedaria al margen de la comunidad cientifica y, por ende ,de una teoria de validez global.</x2>
+	<i2></i2>
+	<v></v>
+</p>

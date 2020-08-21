@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el sitio arqueológico de Telarmachay (Junín), 
+se encontraron las evidencias más antiguas de la 
+domesticación de animales en los Andes centrales, 
+tales como 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>llamas y vicu�as.</a>
+		<a>alpacas y venados.</a>
+		<a>vicu�as y guanacos.</a>
+		<a>llamas y alpacas.</a>
+		<a>alpacas y guanacos.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

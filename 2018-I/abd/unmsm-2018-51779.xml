@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cinco amigas vestidas del mismo modo son 
+interrogadas por el agente de seguridad de un centro 
+comercial, quien asegura haber visto a una de ellas 
+romper el hilo de seguridad de uno de los relojes 
+que están a la venta. Ellas respondieron lo siguiente: 
+Ana: “Olga es quien lo rompió”: 
+Elisa: “Yo no lo hice”. 
+Irma: “Úrsula no lo hizo”. 
+Olga: “Ana miente”. 
+Úrsula: “Elisa dice la verdad”. 
+Si se sabe que solo dos de las amigas mienten, 
+¿quién rompió el hilo de seguridad del reloj? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Irma</a>
+		<a>Úrsula</a>
+		<a>Elisa</a>
+		<a>Ana</a>
+		<a>Olga</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

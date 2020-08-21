@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El ministro de Economía anunció un aumento en 
+el presupuesto del a�o 2016 para los sectores de 
+Educación y Salud y de los programas sociales 
+Qali Warma y Cuna Más. Dependiendo del caso, 
+este incremento va del 4 % al 28,3%, respecto del 
+presupuesto del a�o 2015. Los recursos económi- 
+cos que el Estado peruano destina a los programas 
+sociales se registran en el Presupuesto General de 
+la República como gastos de 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>funcion.</a>
+		<a>capital.</a>
+		<a>contingencia.</a>
+		<a>transferencia.</a>
+		<a>inversión.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

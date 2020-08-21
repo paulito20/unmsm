@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) El 4 de noviembre de 1780, don José Gabriel 
+Túpac Amaru apresó a don Antonio de Arriaga, 
+corregidor de Tinta. (II) Túpac Amaru obligó al 
+corregidor a pedir armas y dinero para que él y 
+sus seguidores estuvieran bien apertrechados. 
+(III) Túpac Amaru sometió al corregidor Antonio 
+de Arriaga a un juicio público y luego ordenó que 
+lo ahorcaran. (IV) Por línea materna, José Gabriel 
+Túpac Amaru descendía del último inca del siglo 
+XVI, por lo que gozaba de reconociemiento entre los 
+indígenas. (V) Túpac Amaru y sus tropas marcharon 
+hac�a el norte, bajando por el valle de Vilcanota y, 
+Pumacanchis. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>IV</a>
+		<a>III</a>
+		<a>II</a>
+		<a>V</a>
+		<a></a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Las unidades informativas de este ejercicio tienen 
+como tema central el ajusticiamiento del corregidor 
+Arriaga por parte de Tupac Amaru. Sin embargo, la 
+cuarta oración se disocia completamente del asunto 
+tratado al referirse a la línea materna de Túpac Amaru. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

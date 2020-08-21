@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) La procrastinación es un complejo trastorno del 
+comportamiento que afecta a casi todo el mundo 
+en mayor o menor medida. (II) La procrastinación 
+consiste en postergar de forma sistemática aquellas 
+tareas que debemos hacer, cruciales para nuestro 
+desarrollo, y reemplazarlas por otras, irrelevantes, 
+pero más placenteras de llevar a cabo. (III) Los 
+trastornos del comportamiento son el origen 
+de la postergación de metas y de logros en la 
+que incurren algunos seres humanos. (IV) La 
+procrastinación afecta a multitud de perfiles (el 
+ejecutivo que aplaza una y otra vez una reunión 
+porque la prevé conflictiva, el estudiante q ue aplaza 
+indefinidamente el estudiar para sus exámenes, 
+etc.). (V) Cada vez más, la procrastinación se está 
+convirtiendo en un serio problema que afecta a la 
+salud psicológica de los individuos y, por ende, a 
+la salud social de una comunidad. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>V</a>
+		<a>I</a>
+		<a>II</a>
+		<a>IV</a>
+		<a>III</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>El ejercicio desarrolla, principalmente, la naturaleza 
+de la procrastinación, un trastorno patológico del 
+comportamiento, que consiste en postergar tareas. 
+Por lo tanto, se elimina el tercer enunciado por 
+disociación, ya que aborda un tema diferente: los 
+trastornos del comportamiento, como causantes 
+de la postergación de metas y logros. 
+
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál de los siguientes enunciados está bien 
+puntuado? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Si no hubiera llegado a la isla habría muer- 
+	to, en el mar.</a>
+		<a>Esos problemas, debes resolverlos con él, 
+	amigo mío.</a>
+		<a>La se�ora, cocina riquísimo, pero no le 
+	gusta hacerlo.</a>
+		<a>Aun cuando deje de verte, nunca dejaré 
+	de escribirte.</a>
+		<a>La ni�a, bailaba con su padre; el ni�o, con 
+	su madre.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

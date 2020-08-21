@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un fabricante de chompas calcula que el costo 
+por cada chompa que fabrica es de S/26. Si recibe 
+de los distribuidores S/25 por chompa vendida 
+y adicionalmente un 8 % más por cada chompa 
+vendida después de 8000 unidades, ¿cuál es la 
+mínima cantidad de chompas que debe vender para 
+obtener ganancias? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>16 000</a>
+		<a>16 001</a>
+		<a>16 001</a>
+		<a>15 999</a>
+		<a>17 121</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

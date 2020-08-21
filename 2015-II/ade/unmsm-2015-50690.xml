@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los gastos corrientes del presupuesto público como 
+los sueldos de los profesores y de otros servidores 
+estatales son financiados, principalmente, por 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>los impuestos.</a>
+		<a>las tasas.</a>
+		<a>las transferencias.</a>
+		<a>los arbitrios.</a>
+		<a>los préstamos.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

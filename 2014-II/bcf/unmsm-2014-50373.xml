@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La perspectiva psicológica que se centra en el es- 
+tudio de las conductas observables y, por tanto, no 
+especula sobre la existencia de procesos mentales, 
+tales como el pensamiento, se denomina 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>psicodinámica.</a>
+		<a>humanista.</a>
+		<a>fisiológica.</a>
+		<a>conductista.</a>
+		<a>cognitivista.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

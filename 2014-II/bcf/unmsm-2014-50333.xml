@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el recuadro mostrado, reemplace las letras por 
+números, de tal forma que la suma en cualquier 
+fila, columna o diagonal, sea la misma. Halle el 
+valor de a+b+c+d+e.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>– 3</a>
+		<a>2</a>
+		<a>– 5</a>
+		<a>4</a>
+		<a>8</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De acuerdo con el autor, ¿cuál de los siguientes 
+enunciados es incompatible? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>Hay más estudiantes mujeres dedicadas a 
+las letras.</a>
+		<a>Las chicas no son tan perezosas como los 
+chicos.</a>
+		<a>Hay machismo en la educación escolar 
+parisina.</a>
+		<a>La violencia escolar es una prueba del 
+sexismo.</a>
+		<a>Los chicos son más inteligentes que las 
+chicas.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

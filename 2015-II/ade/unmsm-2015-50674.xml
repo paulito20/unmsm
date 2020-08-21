@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el enunciado El psicólogo que acaba de gra- 
+duarse aseguró que pronto dará una conferencia, 
+las proposiciones subordinadas son clasificadas, 
+respectivamente, como
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>adjetiva y sustantiva.</a>
+		<a>sustantiva y adverbial.</a>
+		<a>adverbial y sustantiva.</a>
+		<a>adjetiva y adverbial.</a>
+		<a>adverbial y adjetiva.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

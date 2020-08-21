@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una actividad económica es un proceso mediante 
+el cual se obtienen productos, bienes y servicios. 
+En nuestro país, se desarrollan diferentes activi- 
+dades, algunas en condiciones difíciles. Respecto 
+de las características generales de las actividades 
+económicas, se�ale cuáles de los siguientes enun- 
+ciados son verdaderos (V) o falsos (F). 
+I.	La mayor concentración de PEA se da en el 
+	sector terciario. 
+II.  El turismo forma parte del sector secundario. 
+III. En la agricultura andina predominan el algo- 
+	dón y la vid. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>FVF</a>
+		<a>VFV</a>
+		<a>VFF</a>
+		<a>FFF</a>
+		<a>VVV</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

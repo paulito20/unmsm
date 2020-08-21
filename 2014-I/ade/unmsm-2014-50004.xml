@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>(I)El saber cientifico se ha convertido el eje principal de la cultura contemporanea.(II)La ciencia aplicada es tecnologica, la cual influye en el incremento de la riqueza de los paises desarrollados.(III)Las ciencias de la informacion han variado drasticamente los mecanismos de convivencia social en las urbes contemporaneas.(IV)La ciencia y la tecnologia modernas surgieron en los albores del siglo XVI.(V)Internet es la tecnologia de la informacion mas importante de la sociedad global actual.</q>
+	<q2></q2>
+	<as t="R" correcta="1">
+		<a>II</a>
+		<a>IV</a>
+		<a>III</a>
+		<a>I</a>
+		<a>V</a>
+	</as>	
+	<x>B</x>
+	<i></i>
+	<x2>El ejercicio desarrolla como eje tematico la influencia de la ciencia y tecnologia en la sociedad. Por ello, el enunciado IV se elimina por disociación,debido a que aborda,unicamente su origen temporal.</x2>
+	<i2></i2>
+	<v></v>
+</p>

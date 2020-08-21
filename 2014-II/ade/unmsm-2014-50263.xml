@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La palabra “portamonedero” ha sido formada 
+mediante el proceso morfológico de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>composición.</a>
+		<a>derivación.</a>
+		<a>acronimia.</a>
+		<a>acortamiento.</a>
+		<a>parasíntesis.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

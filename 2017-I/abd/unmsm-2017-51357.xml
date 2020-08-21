@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Para animales isométricos (con la misma forma, 
+pero distinto tama�o), la velocidad de despegue 
+que pueden alcanzar es la misma y, si no hubiera 
+rozamiento con el aire, llegarían exactamente a la 
+misma altura. Por ejemplo, los saltamontes y las 
+langostas son capaces de alcanzar unos 45 cm 
+en salto vertical. Si el saltamontes ha tenido que 
+flexionar sus patas y luego extenderlas para imprimir 
+un movimiento uniformemente acelerado hac�a 
+arriba, ¿cuál fue su rapidez de despegue? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>5,0 m/s</a>
+		<a>1,0 m/s</a>
+		<a>4,0 m/s</a>
+		<a>2,0 m/s</a>
+		<a>3,0 m/s</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

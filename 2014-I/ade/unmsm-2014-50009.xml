@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>Se dedude del texto que, en Vallejo la experiencia de la migracion fue</p>
+	<q0></q0>
+	<g0></g0>
+	<q></q>
+	<q2></q2>
+	<as t="R" correcta="1">
+		<a>una feliz circustancia esporadica</a>
+		<a>un aspecto meramente estetico</a>
+		<a>una necesidad de caracter religioso</a>
+		<a>un encuentro con sus ancestros andinos</a>
+		<a>un aspecto crucial de su existir</a>
+	</as>	
+	<x>B</x>
+	<i></i>
+	<x2>Se infiere del texto que, en Vallejo, la experiencia de la migracion fue un a´pecto muy importante de su existir, ya que esto influira notablemente en su formacion politica,cutural y artistica,que se manifestara en una poesia universal en la que convergen lo andino, lo occidental y revolucionario.</x2>
+	<i2></i2>
+	<v></v>

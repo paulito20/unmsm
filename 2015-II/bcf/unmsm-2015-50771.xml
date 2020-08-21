@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Desde el punto medio del segmento que une los 
+pies de dos torres, se observa sus extremos con 
+un ángulo de elevación de 30º y 60º, respectiva- 
+mente. Determine la relación entre las alturas de 
+las torres. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Una es 4/3 de la otra.</a>
+		<a>Una es 2/3 de la otra.</a>
+		<a>Una es el doble de la otra.</a>
+		<a>Una es el triple de la otra.</a>
+		<a>Una es 3/5 de la otra.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

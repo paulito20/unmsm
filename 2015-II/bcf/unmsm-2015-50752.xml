@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una mesita rectangular de 39 cm de largo por 
+30 cm de ancho, ¿cuál es el máximo número de 
+vasos cilíndricos que pueden colocarse sobre la 
+mesita, si cada vaso tiene 3 cm de diámetro? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>150</a>
+		<a>90</a>
+		<a>120</a>
+		<a>130</a>
+		<a>107</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

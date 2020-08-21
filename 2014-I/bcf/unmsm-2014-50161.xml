@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Marque la palabra que se ha formado por un
+proceso de parasíntesis.</q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>Bocacalle</a>
+		<a>Submarino</a>
+		<a>Desagradable</a>
+		<a>Ropavejero</a>
+		<a>Guardarropa</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>Tema: Formación de palabras 
+En el castellano, existen algunos procesos por los 
+cuales se han creado y se forman nuevos términos. 
+Entre los más importantes figuran la derivación, la 
+composición y la parasíntesis.
+
+Análisis y argumentación  
+La derivación consiste en a�adir uno o más
+morfemas derivativos (prefijos o sufijos) a una raíz.
+</x2>
+	<i2></i2>
+	<v></v>
+</p>

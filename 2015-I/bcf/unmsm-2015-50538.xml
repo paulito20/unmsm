@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un negociante compra 120 floreros de cristal 
+a S/.600 la docena. Si se rompen 35 floreros y 
+quiere ganar S/.120, ¿a qué precio debe vender 
+cada florero que le queda? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>S/.75</a>
+		<a>S/.62</a>
+		<a>S/.72</a>
+		<a>S/.70</a>
+		<a>S/.80</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

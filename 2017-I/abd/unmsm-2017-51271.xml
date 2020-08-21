@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el texto, 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>atenuante.</a>
+		<a>objeción.</a>
+		<a>obstáculo.</a>
+		<a>disminución.</a>
+		<a>pausa.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>En el texto, el sentido contextual de la palabra traba 
+es obstáculo. El autor del texto se�ala lo siguiente: 
+“El poco acceso de los usuarios a internet es una de 
+las principales trabas encontradas por las empresas 
+(...)”. En el contexto se entiende, entonces, que la 
+escasez de usuarios a internet es un obstáculo; es 
+decir, un inconveniente para la inversión de las 
+empresas dedicadas al comercio electrónico. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

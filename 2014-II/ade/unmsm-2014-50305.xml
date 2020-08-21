@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Acerca de las siguientes enfermedades y sus vías 
+de contagio, indique si es verdadero o falso. 
+		(  ) Tifoidea - oral 
+		(  ) Cólera - sexual 
+		(  ) Sífilis - respiratoria 
+		(  ) Gripe - respiratoria 
+		(  ) Malaria - cutánea
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>FFVVV</a>
+		<a>FVVVF</a>
+		<a>VVVFF</a>
+		<a>VFFVV</a>
+		<a>VVFVF</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

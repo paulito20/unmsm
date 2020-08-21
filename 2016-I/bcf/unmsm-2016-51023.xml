@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿cuál será su peso efectivo si el ascensor 
+se acelera hac�a arriba a 2,0 m/s ?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>500 N</a>
+		<a>600 N</a>
+		<a>650 N</a>
+		<a>700 N</a>
+		<a>550 N</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

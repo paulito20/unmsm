@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la formación de palabras en el espa�ol, inter- 
+vienen  diversos  procesos,  los  cuales  determinan
+el tipo de relación que se establece en la estructu- 
+ra lexical. Las palabras camposanto y hermosura 
+están  formadas,  respectivamente,  por  los  proce- 
+sos de 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>composición y derivación.</a>
+		<a>composición y parasíntesis.</a>
+		<a>derivación y composición.</a>
+		<a>derivación y parasíntesis.</a>
+		<a>parasíntesis y derivación.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

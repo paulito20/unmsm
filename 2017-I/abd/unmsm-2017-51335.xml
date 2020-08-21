@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A fines del siglo vi a.C., las polis griegas alcanzaron 
+un notable desarrollo económico, fortalecimiento 
+de las organizaciones políticas y una unidad cultural 
+superior a otros pueblos. En este periodo de auge, 
+la mujer ateniense participó en 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>la actividad política.</a>
+		<a>el ámbito doméstico.</a>
+		<a>el desarrollo comercial.</a>
+		<a>la actividad deportiva.</a>
+		<a>la producción industrial.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

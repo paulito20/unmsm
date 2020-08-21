@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En  1984,  el  matemático  alemán  G.  Brügner  es- 
+tudió el tangram que resulta de dividir un rectán- 
+gulo  en  tres  triángulos  rectángulos,  tal  como  se  
+muestra  en  la  figura.  Si 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

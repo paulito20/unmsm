@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El flujo magnético expresa una relación entre el cam- 
+po magnético y el área que es atravesada por este 
+campo. Este flujo se expresa matemáticamente como 
+el producto escalar del vector campo magnético y 
+el vector área. El vector área es un vector perpen- 
+dicular a la superficie cuya magnitud es justamente 
+el área de la superficie. La dirección del vector área 
+es siempre saliente de la superficie. Si tenemos una 
+superficie triangular de a metros de lado sobre la cual 
+incide un campo magnético de 4 T de intensidad que 
+forma un ángulo de 60º con la vertical que pasa por 
+el centro del triángulo, ¿cuál será el flujo magnético? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

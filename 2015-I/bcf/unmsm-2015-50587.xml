@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante la Guerra Fría, la “Doctrina Truman”, que 
+se hizo efectiva con el Plan Marshall y la OTAN, fue 
+una estrategia de los Estados Unidos para 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>impulsar el denominado Plan Molotov.</a>
+		<a>dividir Alemania en Oriental y Occidental.</a>
+		<a>limitar el expansionismo soviético.</a>
+		<a>iniciar la conquista del espacio sideral.</a>
+		<a>reorientar su mirada a Latinoamérica.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

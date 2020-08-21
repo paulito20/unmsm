@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Lea el siguiente fragmento y complete con la 
+alternativa adecuada. 
+Nació en el país de ................. y dio origen al 
+movimiento literario conocido como ................., 
+de gran importancia en Hispanoamérica. Entre sus 
+libros destacan ................. y ................. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>Perú - Vanguardia - La ciudad y los perros 
+	- La guerra del fin del mundo.</a>
+		<a>Nicaragua - Modernismo - Azul - Prosas 
+	Profanas.</a>
+		<a>Colombia - Boom - Cien a�os de soledad - 
+	La metamorfosis.</a>
+		<a>Venezuela -	Regionalismo - Do�a Barbara
+- Los ríos profundos.</a>
+		<a>Peru - Indigenismo - Los heraldos negros - 
+Tradiciones Peruanas.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

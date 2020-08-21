@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Intranquilizar, aquietar, alarmar,</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>detener.</a>
+		<a>eliminar.</a>
+		<a>adormecer.</a>
+		<a>distraer.</a>
+		<a>apaciguar.</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2>La primera pareja de palabras que conforman la
+	serie son antónimos. En ese sentido, el término 
+	que completa la serie debe ser apaciguar (an- 
+	tónimo de alarmar) que significa ‘poner en paz
+	o tranquilizar.’</x2>
+	<i2></i2>
+	<v></v>
+</p>

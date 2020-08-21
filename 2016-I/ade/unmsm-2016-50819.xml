@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Felipe Pinglo Alva nació en el tradicional barrio 
+lime�o de Barrios Altos, el 18 de julio de 1899. 
+(II) La música creada por Felipe Pinglo tiene 
+dimensiones poéticas ligadas con el romanticismo. 
+(III) De familia humilde, Felipe Pinglo perdió a su 
+madre a temprana edad y fue criado por su padre. 
+(IV)  Felipe Pinglo estudió en diferentes colegios 
+nacionales, entre ellos el tradicional Nuestra Se�ora 
+de Guadalupe, y de joven trabajó como ayudante 
+de imprenta. (V) A los 18 a�os, Pinglo compuso el 
+vals ‘Amelia’, el primero de los cerca de trescientos 
+que escribiría hasta 1936, a�o de su muerte. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>I</a>
+		<a>II</a>
+		<a>III</a>
+		<a>IV</a>
+		<a>V</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>El tema central del ejercicio es la biografía de 
+Felipe Pinglo Alva. Por tal motivo se debe eliminar 
+la segunda oración, pues esta se refiere al carácter 
+poético de la música del compositor peruano.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

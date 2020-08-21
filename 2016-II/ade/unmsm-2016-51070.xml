@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un hombre y una mujer pueden hacer un trabajo en 
+12 días. Después de haber trabajado juntos durante 
+6 días, la mujer se retira y el hombre termina lo que 
+falta del trabajo en 10 días. ¿En cuántos días la 
+mujer sola puede realizar todo el trabajo? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>32</a>
+		<a>30</a>
+		<a>34</a>
+		<a>29</a>
+		<a>28</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

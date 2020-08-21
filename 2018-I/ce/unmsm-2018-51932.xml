@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una evaluación oral de la asignatura de Historia 
+del Perú, el profesor le pregunta a Raúl cuáles fueron 
+las causas de la guerra con Chile. Si Raúl responde 
+correctamente, se�alando las determinantes de di- 
+cha confrontación bélica, lo hace porque conserva 
+conocimientos sobre el tema en su 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>memoria episódica.</a>
+		<a>almacenamiento a corto plazo.</a>
+		<a>información sensorial.</a>
+		<a>aprendizaje procedimental.</a>
+		<a>memoria semántica.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

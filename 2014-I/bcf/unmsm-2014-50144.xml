@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>En la figura, el área del rectángulo ABCD es 720 m .
+FG=30 m y GH=36 m. Si BQ=AP=DR=DS=x, 
+halle el valor de x. </q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>4 m</a>
+		<a>6 m</a>
+		<a>7 m</a>
+		<a>3 m</a>
+		<a>2 m</a>
+	</as>	
+	<x>D</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

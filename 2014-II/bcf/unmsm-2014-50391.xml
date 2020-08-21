@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si al finalizar el a�o económico el sector público 
+ejecutó un mayor gasto total en relación a su 
+ingreso total, se generó un déficit
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>fiscal.</a>
+		<a>monetario.</a>
+		<a>financiero.</a>
+		<a>tributario.</a>
+		<a>comercial.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

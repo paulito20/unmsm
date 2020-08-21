@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De las ciudades P, Q, R, S y T, se sabe lo siguiente: 
+•   La ciudad P se encuentra a 40 km al sur de R, 
+	pero a 20 km al oeste de S. 
+•   La ciudad Q está a 20 km al oeste de R y la 
+	ciudad T a 15 km al sur de P. 
+ 
+De acuerdo con los datos, ¿cuál es la afirmación 
+verdadera?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>T está al noreste de Q.</a>
+		<a>S está al sureste de Q.</a>
+		<a>P está al noreste de Q.</a>
+		<a>R está al noreste de Q.</a>
+		<a>P está al noreste de T.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

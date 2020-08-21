@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un comerciante tiene dos barriles llenos de vino: 
+uno de vino tinto cuya capacidad es de 250 litros y 
+el otro de vino moscato de 160 litros. Para efectos 
+de comercialización y transporte, requiere distribuir 
+todo el vino de ambos barriles, sin mezclar los 
+contenidos, en recipientes de igual capacidad, de 
+modo que el número de estos sea el menor posible 
+y estén completamente llenos. ¿Qué cantidad de 
+estos recipientes necesitará para el vino moscato? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>20</a>
+		<a>40</a>
+		<a>10</a>
+		<a>32</a>
+		<a>16</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

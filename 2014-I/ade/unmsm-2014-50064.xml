@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>¿Cual es el tema principal de El ingenioso higaldo don Quijote de la Mancha,novela de Miquel de Cervantes Saavedra?</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>La armonia entre lo subjetivo y lo objetivo</a>
+		<a>Las aventuras del Caballero de la Triste Figura</a>
+		<a>Las desventuras del escudero Sancho Panza</a>
+		<a>La recuperacion de la honra de Don Quijote</a>
+		<a>La lucha entre lo ideal y lo material</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

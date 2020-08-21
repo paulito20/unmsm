@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En este relato, se ha violado el derecho 
+según el cual
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>todos podemos solicitarprestamos bancarios
+indefinidamente.</a>
+		<a>ninguna persona puede ser encarcelada por 
+causa de deudas.</a>
+		<a>nadie puede ser juzgado ni maltratado por 
+	su condición laboral.</a>
+		<a>algunos ciudadanos pueden invertir en sus 
+	propias empresas.</a>
+		<a>ningún banco debe revelar información 
+	confidencial de sus clientes.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

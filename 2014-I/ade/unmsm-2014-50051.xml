@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>Dos postres de alumbrado,ubicadosen bordes opuestos de una carretera,distintas 8m entre si con 10m de altura cada uno, sostienen en sus extremos superiores un cable que forma un arco parabolico cuya proyeccion en el suelo es perpendicular a los bordes de la carretera.A 1m de la base de cada poste, el cable esta 7m del suelo.</q0>
+	<g0></g0>
+	<q>¿Cuanto dista de la carretera el punto mas bajo del cable?</q>
+	<q2></q2>
+	<as t="R" correcta="">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x></x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

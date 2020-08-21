@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuando se encuentra una masa de agua mal oliente, 
+con mucha vegetación y bacterias, y con ausencia 
+de peces, se infiere que se está frente a un grave 
+problema de contaminación. Este problema es 
+provocado por un exceso de nutrientes como
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>carbono y azufre.</a>
+		<a>nitrógeno y fósforo. </a>
+		<a>calcio y manganeso.</a>
+		<a>carbono y fósforo.</a>
+		<a>carbono y nitrógeno.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El teorema del trabajo y la energía expresa una 
+relación entre el trabajo por una fuerza conservativa 
+y la variación de la energía cinética del sistema. Con 
+650 N de peso, Lilya busca desesperadamente a 
+Rosa. Corre y corre sin cesar desde un punto a otro 
+de la universidad. En la Clínica Universitaria, Lilya 
+tiene una energía cinética de 850 J y en la Oficina 
+Central de Admisión (OCA), registra una rapidez 
+de 6 m/s. Al ir a la Clínica Universitaria a la Oficina 
+Central de Admisión, Lilya realiza un trabajo de 
+Dato: g=10 m/s 2
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>1170 J.</a>
+		<a>320 J.</a>
+		<a>2020 J.</a>
+		<a>850 J.</a>
+		<a>650 J.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El cuadro presenta la red de ciudades de 20 mil y más habitantes por condición de migración neta y 
+migración intrasistema de ciudades, 2002-2007. Analice los datos de la tabla y determine cuáles de los 
+siguientes enunciados son adecuados. 
+ 
+	La migración neta total muestra que solo un poco más del tercio del total de ciudades (35%) registra 
+	un saldo migratorio positivo. 
+II.  En la migración intrasistema de ciudades, una de cada siete ciudades (14%) pierde población de manera 
+	acentuada. 
+III. En las ciudades intermedias mayores, intermedias menores y peque�as, predominan las ciudades que 
+	pierden población en las dos condiciones de análisis de la migración. 
+IV. En la mayor parte de las ciudades del Perú, la realidad no es de expulsión, sino de atracción, 
+	especialmente en la migración neta total. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>I y III</a>
+		<a>I y II</a>
+		<a>I y IV</a>
+		<a>II y IV</a>
+		<a>II y III</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se�ale la oración que posee significado connotativo.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>El avion aterrizo a las 12 del día en punto.</a>
+		<a>A pesar de todo, sacó cara por su esposa.</a>
+		<a>Elsa bajó de la azotea sin disimulo alguno.</a>
+		<a>José cerró la puerta con mucho cuidado. </a>
+		<a>El alba�il usó solo madera para construir 
+		la casa.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

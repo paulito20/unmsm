@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dado el contexto, el adjetivo INDEFENSO, emplea- 
+do en el segundo párrafo, connota déficit
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>crítico.</a>
+		<a>económico.</a>
+		<a>educativo.</a>
+		<a>lector.</a>
+		<a>social.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Dado el contexto, el adjetivo indefenso, empleado 
+en el segundo párrafo, connota déficit crítico. En 
+un contexto de cultura de masas, los consumidores 
+indefensos son aquellos que gozan de cierto nivel 
+educativo, pero no evalúan críticamente lo que leen, 
+simplemente se limitan a recibir esa información.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

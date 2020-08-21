@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Se deduce del texto que, en comparación con el 
+	siglo I a. C., el periodo anterior de la cultura griega 
+	matemáticas de los egipcios. 
+	se presenta como</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>más pacífico.</a>
+		<a>muy religioso.</a>
+		<a>más sedentario.</a>
+		<a>más teórico.</a>
+		<a>menos ilustrado.</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2>Se infiere del texto que, a diferencia del siglo VI 
+	a. n. e., el periodo anterior de la cultura griega 
+	se manifiesta como menos ilustrado, ya que 
+	subsiste la creencia de que el saber griego surge 
+	a partir del siglo VI a. n. e., y que la etapa anterior 
+	era, más bien, oscura e incierta.</x2>
+	<i2></i2>
+	<v></v>
+</p>

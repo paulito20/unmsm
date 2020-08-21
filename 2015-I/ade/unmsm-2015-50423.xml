@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si el ADN mitocondrial neandertal guardase 
+mayor semejanza con el de los seres humanos 
+modernos, entonces 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>se confirmaría la hipótesis de que ambas 
+especies se aparearon al encontrarse en 
+Europa. </a>
+		<a>las investigaciones de Pääbo sobre el 
+origen de los neandertales perderían rele­ 
+vancia. </a>
+		<a>se debería a una cruza esporádica entre 
+algunos especímenes de las dos especies.</a>
+		<a>la hipótesis de la sustitución de los 
+neandertales por los seres humanos se 
+confirmaría.</a>
+		<a>se refutaría que los neandertales y los 
+humanos modernos tuvieron un ancestro 
+común.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Según el texto, las investigaciones genéticas de 
+Pääbo sobre el ADN mitocondrial del neandertal 
+demostraron que el código genético de este difiere 
+con el de los seres humanos. Entonces sí hubo 
+un encuentro posterior entre estas dos especies 
+después de la emigración de África a Europa, pero 
+no se dio un cruce o apareamiento que mezclara 
+sus genes. Por lo tanto, si el ADN mitocondrial 
+del neandertal fuese semejante al de los hombres, 
+estas especies se habrían apareado cuando se 
+encontraron en Europa. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

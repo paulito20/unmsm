@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El alto desarrollo de la agricultura se evidenció 
+en el cultivo intensivo del trigo, lino, cebada y 
+hortalizas, cultivos que permitieron sostener a las 
+poblaciones 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>del Norte de Europa.</a>
+		<a>de China.</a>
+		<a>de India.</a>
+		<a>de Egipto.</a>
+		<a>de los Andes.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

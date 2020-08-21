@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Según los resultados de la investigación científica 
+sobre la mano, hasta la fecha, lo más probable 
+es que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>surjan importantes teorías contrarias al 
+	evolucionismo de Darwin.</a>
+		<a>no se encuentren más restos fósiles de 
+	significado confirmatorio.</a>
+		<a>se desacredite el evolucionismo por in- 
+	fluencia del psicologismo.</a>
+		<a>la teoría evolucionista de Darwin continúe 
+	recibiendo respaldo.</a>
+		<a>los avances de la genética refuten el evo- 
+	lucionismo darwiniano.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>Según el texto, investigaciones científicas genéti- 
+cas actuales corroboran la teoría evolutiva de la 
+mano a partir de un ancestro común. Por lo tanto, 
+lo más probable es que las nuevas investigaciones 
+sobre este tema respalden la teoría de Darwin. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

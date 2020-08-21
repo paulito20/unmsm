@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De 100 personas que leen por lo menos dos 
+de tres diarios (El Comercio, La República y El 
+Peruano), se observa que 40 leen El Comercio y 
+La República, 50 leen La República y El Peruano 
+y 60 leen El Comercio y El Peruano. ¿Cuántas de 
+ellas leen los tres diarios? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>35</a>
+		<a>15</a>
+		<a>25</a>
+		<a>55</a>
+		<a>50</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

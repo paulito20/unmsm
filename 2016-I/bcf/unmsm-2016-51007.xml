@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante el siglo ix, Europa occidental fue asolada 
+por continuas invasiones que crearon un clima 
+de inestabilidad e inseguridad, lo que produjo el 
+descrédito de la monarquía y la fragmentación del 
+poder. Esto hizo posible 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>el desarrollo de las ciudades.</a>
+		<a>los viajes de exploración.</a>
+		<a>las guerras religiosas.</a>
+		<a>el surgimiento del feudalismo.</a>
+		<a>el inicio de las cruzadas.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

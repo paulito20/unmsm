@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>En el texto, el término INTRINCADA tiene el sentido de </q>
+	<q2></q2>
+	<as t="R" correcta="">
+		<a>impenetrable. </a>
+		<a>confusa.</a>
+		<a>compleja.</a>
+		<a>invariable.</a>
+		<a>espontánea.</a>
+	</as>	
+	<x></x>
+	<i></i>
+	<x2>El término intrincada adquiere el significado con- 
+	textual de compleja, porque hace referencia a lo 
+	dificultoso y extenso del recorrido de las respuestas 
+	por el sistema de redes de neuronas. </x2>
+	<i2></i2>
+	<v></v>
+</p>

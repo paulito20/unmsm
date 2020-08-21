@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El olímpico cisne de nieve, 
+con el ágata rosa del pico, 
+lustra el ala eucarística y breve 
+que abre al sol como un casto abanico. 
+En estos versos de “Blasón”, poema de Rubén Darío, ¿qué característica del modernismo se manifiesta? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>El sincretismo entre el mundo cristiano y helénico</a>
+		<a>El recurso estilístico de la sinestesia simbólica</a>
+		<a>La elección de un lenguaje rítmico y melódico </a>
+		<a>La recreación de la realidad a través de imágenes</a>
+		<a>La metáfora vanguardista como recurso cognitivo</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

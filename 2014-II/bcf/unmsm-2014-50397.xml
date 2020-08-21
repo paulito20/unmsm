@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál de las siguientes falacias corresponde a un 
+argumentum ad ignorantiam? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>Los centauros existen, porque nadie ha 
+	demostrado su falsedad.</a>
+		<a>El alumno debe ser aprobado, puesto que 
+	es huérfano.</a>
+		<a>Ese funcionario es un corrupto, por tanto 
+	lo que dice debe ser falso.</a>
+		<a>Si te portas bien, entonces el domingo 
+	habrá buen clima.</a>
+		<a>Es mejor que firme, de lo contrario podría 
+	tener un accidente.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

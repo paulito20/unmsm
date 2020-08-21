@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una propiedad de la electrostática dice que cuando 
+dentro de un conductor no hay ningún movimien- 
+to neto de carga, el conductor está en equilibrio 
+electrostático. ¿Cuáles de las siguientes proposicio- 
+nes son correctas de acuerdo con dicha propiedad? 
+I.	La intensidad de las interacciones eléctricas de 
+	dos o más partículas no depende del valor de 
+	sus cargas eléctricas, que pueden ser positivas 
+	o negativas. 
+II.  El potencial eléctrico es una magnitud escalar, 
+	mientras que el campo eléctrico es una magnitud 
+	vectorial. 
+III. El campo eléctrico en el interior de un conductor 
+	cargado en equilibrio electrostático tiene un va- 
+	lor constante, mientras que el potencial eléctrico 
+	es nulo. 
+IV.  Las superficies equipotenciales son perpendicu- 
+	lares a las líneas de campo eléctrico que pasan 
+	a través de ellas. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>I y II</a>
+		<a>I y III</a>
+		<a>III y IV</a>
+		<a>II y III</a>
+		<a>II y IV</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

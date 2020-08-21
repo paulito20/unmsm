@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La diferenciación de castas que presentan algunos 
+insectos, como las abejas u hormigas, representa 
+una relación intraespecífica conocida como 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>sociedad.</a>
+		<a>asociación familiar.</a>
+		<a>colonia.</a>
+		<a>asociación gregaria.</a>
+		<a>competencia.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

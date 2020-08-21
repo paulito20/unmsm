@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un alba�il construye una piscina de 8 m de ancho 
+por 12 m de largo, como se muestra en la figura. 
+El  piso  de  la  piscina  es  una  superficie  plana  in- 
+clinada, la profundidad máxima uniforme en todo 
+el  ancho  de  la  piscina  es  de  2  m  y,  en  el  lado 
+opuesto, la profundidad mínima uniforme en todo 
+el  ancho  es  de  1  m.  Si  el  alba�il  cobra  S/30  por 
+enchapar  1  m  ,  ¿cuánto  cobrará  por  enchapar  la  
+superficie lateral de la piscina? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>S/1200</a>
+		<a>S/1600</a>
+		<a>S/2100</a>
+		<a>S/1800</a>
+		<a>S/2000</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

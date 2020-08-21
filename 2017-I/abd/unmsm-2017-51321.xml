@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la literatura francesa del siglo xix, surgen diversos 
+movimientos o escuelas como el realismo. Este se 
+opone al romanticismo porque 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>elige trabajar con personajes exóticos.</a>
+		<a>describe espacios mitológicos grecolatinos.</a>
+		<a>emplea símbolos y alegorías filosóficos.</a>
+		<a>reivindica la objetividad y la verosimilitud.</a>
+		<a>explora en el universo de los sue�os.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

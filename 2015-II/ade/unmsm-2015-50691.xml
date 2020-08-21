@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La filosofía de René Descartes considera que es 
+necesario fundamentar el conocimiento humano 
+sobre bases sólidas, pero tal proyecto presupone 
+aplicar un método de investigación basado en la 
+duda, cuyo punto de partida consiste en 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>eliminar una a una todas las creencias 
+	anteriormente aceptadas.</a>
+		<a>admitir como verdaderos solo los juicios 
+	basados en la experiencia.</a>
+		<a>asumir como falsa toda la filosofía hecha 
+	antes de Platón.</a>
+		<a>rechazar como falso todo aquello que 
+	puede resultar dudoso.</a>
+		<a>demostrar la existencia de Dios mediante 
+	la prueba ontológica.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

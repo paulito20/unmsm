@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Existen varias evidencias en relación con la teoría 
+de la evolución propuesta por Charles Darwin. La 
+ciencia que utiliza fundamentos de filogenia para 
+reconstruir la historia natural de la Tierra y de los 
+taza se denomina
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>citogenética comparada.</a>
+		<a>paleontología.</a>
+		<a>embriología.</a>
+		<a>bioquímica comparada.</a>
+		<a>biogeografía.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

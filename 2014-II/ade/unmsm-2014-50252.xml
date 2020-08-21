@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una fábrica tiene suministros de 1,5 tm (toneladas 
+métricas) de potasio, 5 tm de nitrato y 3 tm de 
+fosfato para cada día y produce tres tipos de 
+fertilizantes A, B y C. El tipo A contiene 25% de
+potasio, 45% de nitrato y 30% de fosfato; el tipo 
+B contiene 15% de potasio, 50% de nitrato y 35% 
+de fosfato; el tipo C no contiene potasio, tiene 
+75% de nitrato y 25% de fosfato. Si se agotan 
+los suministros durante el día, ¿cuántas toneladas 
+métricas del tipo C produce la fábrica? 
+
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

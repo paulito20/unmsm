@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>En una fista, se observa que, en un determinado instante, el numero de arejas que bailan es la mitad del numero de parejas que no bailan y el numero de mujeres que no bailan es el cudruple del numero de hombres que bailan. Si en total hay 120 personas.</q0>
+	<g0></g0>
+	<q>¿cuantos hombres hay en dicha fiesta?</q>
+	<q2></q2>
+	<as t="R" correcta="2">
+		<a>30</a>
+		<a>15</a>
+		<a>45</a>
+		<a>60</a>
+		<a>75</a>
+	</as>	
+	<x>C</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

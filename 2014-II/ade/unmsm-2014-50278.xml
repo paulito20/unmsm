@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q> En la República romana, hubo funcionarios que 
+representaba a la plebe y podían oponerse 
+a la acción de cualquier magistrado o a una 
+decisión del Senado. Estos funcionarios eran los 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>tribunos.</a>
+		<a>cónsules.</a>
+		<a>censores.</a>
+		<a>pretores.</a>
+		<a>cuestores.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

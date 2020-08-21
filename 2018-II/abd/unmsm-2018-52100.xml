@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El  benceno,  molécula  base  de  los  compuestos 
+aromáticos, es un líquido incoloro, el más volátil 
+de  los  hidrocarburos  aromáticos  y  menos  denso 
+que  el  agua.  Su  gran  estabilidad  y  propiedades 
+particulares son consecuencia de 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>que su molécula solo tiene un doble enlace.</a>
+		<a>su elevada energía de resonancia.</a>
+		<a>la alternancia de carbonos con hibridación sp  
+	y sp2.</a>
+		<a>que su molécula es cíclica no planar.</a>
+		<a>la existencia de tres enlaces σ deslocalizados. </a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

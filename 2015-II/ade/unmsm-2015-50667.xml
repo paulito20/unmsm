@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una empresa adquiere tres tipos de latas de 
+aceite. Si gasta S/.400 en latas que cuestan S/.10 
+la docena, S/.600 en latas que cuestan S/.15 la 
+docena y S/.700 en latas que cuestan S/.35 la 
+docena, halle en soles el costo promedio por 
+docena. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>17</a>
+		<a>18</a>
+		<a>19</a>
+		<a>20</a>
+		<a>16</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

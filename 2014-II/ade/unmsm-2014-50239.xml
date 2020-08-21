@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Alicia le dice a Olga: “Si me prestas S/.10, me 
+alcanza para comprarme tres polos”; y Olga le 
+responde: “Si tú me prestas S/.8, nos alcanza para 
+comprarnos dos polos cada una”. Si hablan de
+cantidades exactas y los polos tienen igual precio 
+cada uno, ¿cuánto dinero tiene Olga? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>S/.28</a>
+		<a>S/.24</a>
+		<a>S/.44</a>
+		<a>S/.20</a>
+		<a>S/.18</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

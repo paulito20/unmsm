@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La representación química de la úrea es 
+	Identifique  el  enlace  más  polar  de  la  molécula  y 
+el átomo que forma su extremo parcialmente ne- 
+gativo.
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>N – H : nitrógeno</a>
+		<a>C – N : nitrógeno</a>
+		<a>C = O : carbono</a>
+		<a>C – N : carbono</a>
+		<a>C = O : oxígeno</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

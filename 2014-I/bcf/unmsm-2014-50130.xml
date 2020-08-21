@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>Seis máquinas confeccionan seis chompas en
+	seis minutos.</q0>
+	<g0></g0>
+	<q> ¿Cuántas chompas confeccionarán 
+	cuarenta máquinas del mismo tipo en dieciocho 
+	minutos? </q>
+	<q2></q2>
+	<as t="R" correcta="2">
+		<a>72</a>
+		<a>240</a>
+		<a>120</a>
+		<a>108</a>
+		<a>58</a>
+	</as>	
+	<x>C</x>
+	<i></i>
+	<x2>Tema: Situaciones aritméticas
+	Respecto al número de obreros, tiempo y obra, 
+	se considera que 
+		(N.º de obreros × tiempo) 		=cte. 
+				obra 
+	Análisis y procedimiento 
+	Se pide el número de chompas. 
+	Tenemos el siguiente esquema. 
+			obreros 
+		obreros					      obra
+	N.º de máquinas    Tiempo	  N.° de chompas
+			6 			  6 		    6 
+			40			  18			x
+	De la referencia
+			6x6 = 40x18
+			 6		6
+		∴ x= 40x18 = 120
+			   6</x2>
+	<i2></i2>
+	<v></v>
+</p>

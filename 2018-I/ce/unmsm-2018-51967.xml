@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si las observaciones históricas de Popper son una 
+muestra de su respeto por la racionalidad de la 
+ciencia, entonces es falso afirmar que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>una reconstrucción nacional pobre conlleva 
+a una mala lectura de la historia.</a>
+		<a>el método de Popper haya priorizado la 
+reconstrucción racional sobre la historia.</a>
+		<a>Feyerabend haya defendido la racionalidad 
+de la ciencia a través de la historia.</a>
+		<a>Popper se interesó por explicar la falsabilidad 
+de las teorías científicas.</a>
+		<a>Popper acomode los hechos históricos a su 
+teoría de la racionalidad.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

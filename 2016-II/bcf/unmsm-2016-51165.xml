@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El texto tiene como finalidad 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>hacer una crítica al Gobierno con la in- 
+	tención de que este justifique por qué hay 
+	incremento en Defensa.</a>
+		<a>emplazar al gobierno de Ollanta Humala so- 
+	bre el incremento injustificado y exorbitante 
+	en el sector Defensa.</a>
+		<a>informar sobre el aumento desproporcionado 
+	del gasto en el sector Defensa durante el 
+	presente Gobierno.</a>
+		<a>cuestionar el incremento del sector Defensa 
+	apelando a los vínculos castrenses del jefe 
+	de gobierno.</a>
+		<a>presentar un incremento en el presupuesto 
+	del sector Defensa y plantear las necesidades 
+	que lo justifican.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

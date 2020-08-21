@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un bloque de madera de masa 3,8 kg se encuen- 
+tra, en reposo, sobre una superficie sin rozamiento. 
+Si una bala de 0,2 kg se incrusta en ella y el bloque 
+después del choque tiene una rapidez de 15 m/s, 
+¿cuál es la rapidez de la bala al incrustarse en el 
+bloque?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>100 m/s</a>
+		<a>300 m/s</a>
+		<a>150 m/s</a>
+		<a>350 m/s</a>
+		<a>400 m/s</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

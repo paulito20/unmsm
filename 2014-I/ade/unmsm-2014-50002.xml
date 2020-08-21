@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Elija el término que no guarda relación con los demás.</q>
+    <q2></q2>
+    <as t="R" correcta="3">
+        <a>Honradez</a>
+        <a>Integridad</a>
+        <a>Rectitud</a>
+        <a>Afabilidad</a>
+        <a>Honestidad</a>
+    </as>
+    <x>D</x>
+    <i></i>
+    <x2>Los términos de esta serie comparten una relación de sinonimia, ya que aluden a la virtud del correcto proceder.
+        Por ello, la palabra afabilidad es el término que no guarda relación con las demás, ya que implica la manera
+        amable en el trato hacía los demás.</x2>
+    <i2></i2>
+    <t>Temas verbales</t>
+    <v></v>
+</p>

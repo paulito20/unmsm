@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el gobierno del general Andrés de Santa Cruz 
+(1836-1839), se pretendió agilizar y mejorar el 
+comercio con Europa; por lo que se declaró la Ley 
+de Puertos Libres. Esta medida permitió
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>la generación de mayores ingresos 
+	aduaneros.</a>
+		<a>el ingreso de productos a precios bajos.</a>
+		<a>dinamizar toda la producción nacional.</a>
+		<a>la entrada masiva de productos europeos.</a>
+		<a>fortalecer el poder de los comerciantes 
+	lime�os.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

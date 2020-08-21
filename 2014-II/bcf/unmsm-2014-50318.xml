@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si las reglas de juego sirvieran por igual tanto a 
+gobernantes como a gobernados, resultaría posible 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>el despotismo.</a>
+		<a>el autoritarismo.</a>
+		<a>la democracia.</a>
+		<a>la guerra.</a>
+		<a>el nacionalismo.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>El autor propone que las reglas de juego al aplicar-
+se por igual a los gobernantes y a los gobernadores
+permitiria una mejor convivencia social.Esto daria
+lugar a un sistema de gobierno donde se ejerce y 
+obedece igualitariamente las reglas establecidas, 
+es decir, la democracia. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

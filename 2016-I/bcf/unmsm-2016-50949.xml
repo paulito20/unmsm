@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se infiere que los sujetos con patrones de actividad 
+cerebral asociables a la figura del líder 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>conformaban el así llamado grupo de control.</a>
+		<a>no podrían oír el golpeteo dactilar de sus 
+	parejas.</a>
+		<a>solo escuchaban los golpes de la computa 
+dora.</a>
+		<a>se ubicaban en el llamado grupo experimental.</a>
+		<a>mostraban idéntica actividad a la de su pareja.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>Del texto se infiere que los sujetos con patrones de 
+actividad cerebral asociables a la figura del líder se 
+ubicaban en el llamado grupo experimental. Según 
+el texto, el líder surge durante las tareas interactivas 
+(en parejas) de anticipación y ejecución que 
+corresponden a la primera parte de la investigación 
+del grupo experimental. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

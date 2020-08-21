@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una de las caracterÃ­sticas mÃ¡s saltantes del clima 
+de sabana es presentar un rÃ©gimen 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>lluvioso uniforme y sostenido a lo largo del 
+año.</a>
+		<a>deficitario en agua durante la mayor parte 
+del año.</a>
+		<a>lluvioso abundante que alterna con una 
+estaciÃ³n seca.</a>
+		<a>de gran uniformidad tÃ©rmica durante el 
+año.</a>
+		<a>de disponibilidad de agua durante todo el 
+año.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

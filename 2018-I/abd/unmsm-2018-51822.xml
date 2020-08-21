@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el sistema feudal, las sociedades europeas 
+medievales fueron concebidas como compuestas 
+por tres grupos diferenciados: la nobleza, el clero 
+y el campesinado. La nobleza guerrera cumplía la 
+función de defender a los religiosos y campesinados 
+de los ataques de pueblos extra�os; el clero estaba 
+encargado de orar por la salvación de las almas de 
+los tres grupos; y, finalmente, los campesinos, con 
+su trabajo, brindaban al clero y a la nobleza recursos 
+para su manutención. Este tipo de organización 
+social ha sido llamado sociedad 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>estamental.</a>
+		<a>semifeudal.</a>
+		<a>absolutista.</a>
+		<a>clasista.</a>
+		<a>monárquica.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Tales de Mileto consideraba que el agua era el 
+principio constitutivo material de toda la naturaleza 
+viva y que todo estaba lleno de dioses. De acuerdo 
+con esa idea, se puede inferir que, para el primer 
+filósofo, esta sustancia expresaba mejor que 
+cualquier otra, por sus características, 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>el incesante cambio de las fuerzas naturales.</a>
+		<a>la vida y lo misterioso que resulta explicarla.</a>
+		<a>la permanencia e inmutabilidad del universo.</a>
+		<a>la lucha y armonía existente en el universo.</a>
+		<a>el carácter empírico de la naturaleza.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

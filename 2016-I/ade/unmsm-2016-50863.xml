@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El martes, Juan tiene cierta cantidad de naranjas 
+para vender durante la semana. Cada día siguiente, 
+a Juan le queda para la venta un quinto de la 
+cantidad de naranjas del día anterior. El viernes, 
+tres días después, le quedan 10 naranjas. ¿Cuántas 
+naranjas tuvo Juan el martes? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>1250</a>
+		<a>1500</a>
+		<a>1750</a>
+		<a>1350</a>
+		<a>1400</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

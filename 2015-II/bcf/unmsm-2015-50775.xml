@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se�ale la alternativa que presenta verbo transitivo 
+con objeto directo. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>José se vanagloriaba de su medalla de oro.</a>
+		<a>Dos legisladores insistían en no derogar la 
+	ley.</a>
+		<a>Finalmente, accedimos a sus requerimien- 
+	tos.</a>
+		<a>El padre defendió a su hijo mayor anteayer.</a>
+		<a>Gino se preocupa mucho por su alimen- 
+	tación.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

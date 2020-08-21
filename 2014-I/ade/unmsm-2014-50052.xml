@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>En la figura, aBCD es un parlelogramo. Si los valores numericos de las areas (en cm) de los triangulos ABQ,DQR y CDR son las raices  del polimonimo p(x)=x-28x+261x-810, halle el area del paralelogramo ABCD.</q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>52cm</a>
+		<a>48cm</a>
+		<a>36cm</a>
+		<a>56cm</a>
+		<a>72cm</a>
+	</as>	
+	<x>D</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

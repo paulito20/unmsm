@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Tratando de cumplir con las promesas ofrecidas en 
+su campa�a electoral para fomentar el deporte, el 
+alcalde distrital de Corocochay decide construir un 
+estadio de gran capacidad. A estos efectos, favorece 
+en la licitación correspondiente a una empresa 
+constructora a cambio de una importante suma de 
+dinero. La empresa comenzó la construcción del 
+referido estadio, pero, luego de avanzada 30 %, 
+la abandonó. ¿Existe alguna responsabilidad del 
+alcalde? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>No, porque se llevó a cabo una licitación de 
+	carácter público y la empresa constructora 
+	obtuvo la buena pro.</a>
+		<a>No, porque el alcalde no ha tenido parti- 
+	cipación en la construcción, ya que ello es 
+	responsabilidad de la empresa constructora.</a>
+		<a>No, porque la construcción de un estadio 
+	estaba en su programa de oferta electoral y 
+	él cumplió al poner en licitación dicha obra.</a>
+		<a>Sí, hay responsabilidad por haber favorecido 
+	a la empresa constructora en la licitación a 
+	cambio de una importante suma de dinero. </a>
+		<a>Sí, hay responsabilidad porque toda obra 
+	de construcción realizada con el dinero de 
+	los contribuyentes debe ser concluida.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

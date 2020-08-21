@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El  coautor  de  la  teoría  de  la  selección  natural  de 
+la evolución, Alfred Russel Wallace, recorrió en- 
+tre 1854 y 1862 el archipiélago malayo. Wallace 
+encontró  que  los  insectos  de  las  islas  orientales 
+de este archipiélago eran marcadamente distintos 
+a  los  de  las  islas  occidentales.  Ambos  grupos  de 
+estas  islas  están  separados  por  un  extenso  mar. 
+¿Cuál sería el motivo de esta marcada diferencia 
+entre los insectos de ambos grupos de islas? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Aislamiento geográfico</a>
+		<a>Intercambio genético</a>
+		<a>Rápida especiación</a>
+		<a>Aislamiento reproductivo</a>
+		<a>Radiación adaptativa</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

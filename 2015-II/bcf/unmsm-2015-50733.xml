@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El autor de la noticia se interesa, básicamente, en 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>analizar la importancia de las elecciones 
+griegas del 2012.</a>
+		<a>dar cuenta de la victoria inédita del partido 
+	Syriza en Grecia.</a>
+		<a>opacar el triunfo de Syriza ante un esce­ 
+	nario catastrófico europeo.</a>
+		<a>comunicar el tan esperado triunfo del 
+	partido conservador griego.</a>
+		<a>transmitir el plan de Tsipras sobre el futuro 
+	inmediato de Grecia.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>El centro de interés del autor de la noticia es explicar 
+la victoria inédita del partido Syriza en Grecia. Se 
+trata de un hecho político bastante relevante y a la 
+vez sorprendente, puesto que marca un giro radical 
+en la vida política griega: la hegemonía en el poder 
+de un partido izquierdista como Syriza.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

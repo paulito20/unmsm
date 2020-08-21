@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Las personas con dolencias como úlceras o 
+síndrome de intestino irritable deben saber que el 
+consumo excesivo de canela puede irritar el reves- 
+timiento gástrico, causando ardor o reflujo ácido. 
+(II) Un consumo excesivo de canela puede estimular 
+el ritmo cardiaco, lo cual se puede traducir en una 
+situación de riesgo para toda persona que padezca 
+de alguna afección en este nivel. (III) Un incremento 
+del ritmo cardiaco se ha vinculado a intoxicaciones 
+por aceite de canela en los ni�os. (IV) Las mujeres 
+embarazadas deben evitar el consumo de canela, 
+particularmente en el último mes de gestación, 
+porque puede acelerar el parto. (V) El exceso en el 
+consumo de canela no es recomendable para per- 
+sonas a quienes se les ha prescrito un tratamiento 
+anticoagulante. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>III</a>
+		<a>IV</a>
+		<a>V</a>
+		<a>I</a>
+		<a>II</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>El tema principal del ejercicio es el efecto negativo 
+del consumo excesivo de canela en el organismo. 
+En tal sentido, se elimina la tercera oración ya que 
+está referido a un hecho particular de intoxicación 
+de ni�os por aceite de canela.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

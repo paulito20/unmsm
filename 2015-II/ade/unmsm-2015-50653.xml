@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dados los conjuntos A={1; 2; 3}, B={2; 3; 4} 
+y C={3; 4; 5}, ¿cuáles de las siguientes ternas 
+ordenadas I) (2; 2; 5)   II) (4; 1; 3)   III) (2; 4; 5) 
+IV) (3; 2; 5)    V) (4; 3; 5) no pertenecen al pro- 
+ducto cartesiano B×A×C? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>I, III y IV</a>
+		<a>II y V</a>
+		<a>solo III</a>
+		<a>solo II</a>
+		<a>solo V</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

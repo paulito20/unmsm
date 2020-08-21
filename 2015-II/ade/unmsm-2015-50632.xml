@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si se eliminaran los prejuicios sexistas en el sistema 
+educativo francés, entonces
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>las calificaciones de los estudiantes supe 
+sus compa�eras mujeres.</a>
+		<a>los maestros dejarían de favorecer, incons- 
+cientemente, a los varones.</a>
+		<a>el número de agresiones sexuales contra 
+las adolescentes aumentaría.</a>
+		<a>los escolares varones desarrollarían un 
+nuevo complejo de inferioridad.</a>
+		<a>el serio problema del fracaso escolar de los 
+varones desaparecería. </a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

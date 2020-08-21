@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El balanceo de una reacción química se basa en la 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>conservación de la masa entre reactivos y 
+	productos.</a>
+		<a>igualdad en el número de moles a ambos 
+	lados de la reacción.</a>
+		<a>especificación de las fases involucradas en 
+	el proceso.</a>
+		<a>conservación del número de átomos de los 
+	elementos.</a>
+		<a>conservación del número de moles de las 
+	sustancias.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Desde hace a�os, el presidente de un país comunica 
+a su nación las bondades del proteccionismo en 
+el comercio internacional. Si es así, ¿cuál de las 
+siguientes medidas económicas corrobora la prédica 
+presidencial? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>Establecer acuerdos internacionales sobre 
+	comercio exterior.</a>
+		<a>Desarrollar una política exportadora mínima 
+	con los países.</a>
+		<a>Prohibir la exportación de alimentos y 
+	medicinas básicas.</a>
+		<a>Favorecer la importación de medicinas y 
+	alimentos esenciales.</a>
+		<a>Mantener altos derechos aduaneros a 
+	productos extranjeros.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

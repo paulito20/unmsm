@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En “José, amigo mío, recuperar el tiempo perdido 
+es muy difícil”, el sujeto es 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>José.</a>
+		<a>muy difícil.</a>
+		<a>el tiempo perdido.</a>
+		<a>amigo mío.</a>
+		<a>recuperar el tiempo perdido.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>Tema: El sujeto 
+El sujeto es uno de los dos componentes princi- 
+pales de la oración y alude a ser de quien se dice 
+o predica algo. Es una constante en este tema el 
+reconocimiento del sujeto en la oración. 
+
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

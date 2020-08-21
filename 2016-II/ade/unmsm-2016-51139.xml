@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Para representar un elemento se utiliza un símbolo 
+y dos números: número de masa (A) y número 
+atómico (Z). Si se sabe que en un elemento neutro, 
+el número atómico es igual al número de electrones,  
+la distribución electrónica del Mg (Z=12) y del 
+Ar (Z=18) en el último nivel de energía, respecti- 
+vamente, presenta 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>2 y 2 electrones.</a>
+		<a>1 y 8 electrones.</a>
+		<a>2 y 6 electrones.</a>
+		<a>2 y 8 electrones.</a>
+		<a>3 y 3 electrones.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

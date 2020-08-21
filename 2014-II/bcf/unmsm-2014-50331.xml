@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De 120 alumnos de una academia, 47 no llevan 
+Lenguaje, 55 no llevan Física y 33 no llevan ni 
+Lenguaje ni Física. ¿Cuántos alumnos llevan solo 
+uno de los cursos? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>35</a>
+		<a>37</a>
+		<a>36</a>
+		<a>34</a>
+		<a>38</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

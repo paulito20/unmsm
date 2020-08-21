@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuáles de las siguientes características son propias 
+de los yaravíes de Mariano Melgar? 
+I.    Amor hac�a lo autóctono 
+II.  Formas literarias modernistas 
+III. Libre expresión del sentimiento 
+IV.  Ruptura del orden gramatical 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>I y III</a>
+		<a>II y IV</a>
+		<a>III y IV</a>
+		<a>I y II</a>
+		<a>I y IV</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

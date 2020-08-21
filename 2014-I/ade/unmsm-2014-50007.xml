@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>En el texto, el verbo REPARAR se usa el sentido de</q>
+	<q2></q2>
+	<as t="R" correcta="2">
+		<a>arreglar</a>
+		<a>corregir</a>
+		<a>considerar</a>
+		<a>desagraviar</a>
+		<a>remediar</a>
+	</as>	
+	<x>C</x>
+	<i></i>
+	<x2>En el texto, el verbo reparar se usa en el sentido de considerar que significa "reflexionar o examinar con atcion una cosa"(el panteismo andino en la religiosidad de Cesar Vallejo).</x2>
+	<i2></i2>
+	<v></v>
+</p>

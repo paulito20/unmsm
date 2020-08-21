@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Del gasto en educación realizado en Uruguay y sus 
+resultados obtenidos en la prueba PISA, se puede 
+se�alar que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>la relación entre la inversión y los resultados 
+	educativos es directamente proporcional.</a>
+		<a>la inversión en educación no se manifiesta 
+de forma automática en el desempe�o  
+estudiantil.</a>
+		<a>el gobierno de dicho país está poco preo- 
+	cupado por el futuro inmediato de sus 
+	estudiantes.</a>
+		<a>dicho pais ha decidido transformar sus 
+pobres resultados obtenidos en la prueba 
+internacional.</a>
+		<a>a mayor inversión pública, se observa una 
+mejora ostensible en los resultados de los 
+educandos.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>De la inversión económica en Uruguay y sus 
+resultados en las pruebas PISA se evidencia que la 
+inversión en educación no se manifiesta de forma 
+automática en el desempe�o estudiantil. Si bien 
+el gasto en educación en este país ha aumentado 
+considerablemente, el rendimiento académico de 
+los estudiantes en las pruebas internacionales ha 
+descendido.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

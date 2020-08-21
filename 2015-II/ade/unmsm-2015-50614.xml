@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Alumno, discente, pupilo, 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>discípulo</a>
+		<a>feligrés</a>
+		<a>partidario</a>
+		<a>subordinado</a>
+		<a>seguidor</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Las palabras alumno, discente y pupilo son 
+sinónimos entre sí. Por tal razón, el término que 
+completa la serie es discípulo. Esta palabra tam- 
+bién refiere a la persona que aprende una ciencia 
+o arte bajo la dirección de un maestro. 
+Se descarta el vocablo seguidor, pues alude a la 
+persona que sigue un partido o entra en él. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

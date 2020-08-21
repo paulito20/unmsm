@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un peregrino camina a una velocidad que varía 
+entre 5 km/h y 7 km/h. Si el peregrino caminó 8 h 
+diarias durante dos días, la distancia que recorrió 
+se encuentra entre
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>40 km y 56 km.</a>
+		<a>80 km y 112 km.</a>
+		<a>144 km y 160 km.</a>
+		<a>60 km y 78 km.</a>
+		<a>120 km y 138 km.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

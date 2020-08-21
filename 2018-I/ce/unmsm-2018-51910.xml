@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En su viaje a Madrid, Ramiro va al supermercado 
+y paga un total de 156 euros por 24 litros de leche, 
+6 kg de jamón y 12 litros de aceite. Él necesita saber 
+el precio de cada artículo para organizar su presu- 
+puesto. Sabe que 1 litro de aceite cuesta el triple de 
+1 litro de leche y 1 kg de jamón cuesta igual que 
+4 litros de aceite más 4 litros de leche. Si luego 
+decide comprar 1 kg de jamón, 1 litro de aceite y 
+1 litro de leche, entonces gastará ............... euros. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>30</a>
+		<a>24</a>
+		<a>20</a>
+		<a>18</a>
+		<a>22</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

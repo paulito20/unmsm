@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Se�ale la alternativa donde las palabras subrayadas 
+están en relación de hipónimo a hiperónimo.</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>Ella se golpeó con el pedal y el timón.</a>
+		<a>Juan comprará este escritorio y ese sillón.</a>
+		<a>De todos los felinos, prefiero a los gatos.</a>
+		<a>Visite Loreto cuando esté en el Perú.</a>
+		<a>El lunes fue un buen día para mí.</a>
+	</as>	
+	<x>E. </x>
+	<i></i>
+	<x2>Tema: Relaciones léxicas 
+Las palabras que pertenecen a un mismo campo 
+semántico guardan entre sí relaciones de jerarquía, 
+tales como hiperonimia, hiponimia y cohiponimia. 
+Análisis y argumentación 
+a.   Hiperonimia: Alude al género o clase. Es la que 
+presenta mayor jerarquía. Ejemplo: Felinos es 
+hiperónimo de gatos. 
+b.  Hiponimia: Se refiere a la especie o individuo.
+Es la que presenta menor jerarquía. Ejemplo: 
+Lunes es hipónimo de día.
+c.Cohiponimia: Es la relación de elementos que 
+pertenecen a una misma clase. Es la que refiere 
+igual jerarquía. Ejemplo: Escritorio y sillón son 
+cohipónimos. 
+Tanto en pedal y timón, como en Loreto y 
+Perú, no se establecen relaciones de jerarquía, 
+sino de parte - parte y parte - todo. 
+</x2>
+	<i2></i2>
+	<v></v>
+</p>

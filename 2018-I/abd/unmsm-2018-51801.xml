@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>“Respetuosa, equilibrada y amorosa así debe ser 
+una buena relación de pareja”. En el texto anterior, 
+los dos puntos (:) se deben colocar tras  
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>amorosa.</a>
+		<a>equilibrada.</a>
+		<a>así.</a>
+		<a>ser.</a>
+		<a>buena.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

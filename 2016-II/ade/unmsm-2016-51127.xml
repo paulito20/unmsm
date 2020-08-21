@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Del texto se infiere que los escépticos 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>se preocupan más por la teorización y la 
+	especulación.</a>
+		<a>nunca estuvieron interesados en la aplicación 
+	de su filosofía.</a>
+		<a>nunca podrían liberarse de todas sus preocu- 
+	paciones.</a>
+		<a>buscaban demostrar la falsedad de todas las 
+	creencias.</a>
+		<a>suspenden el juicio por medio de la equipo- 
+	lencia.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

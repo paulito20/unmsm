@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una  abuela  le  dijo  a  su  nieto  que  una  manzana 
+podrida malogra a las demás y que una palta ma- 
+dura más rápido si se envuelve en papel junto con 
+manzanas  verdes.  Estas  ense�anzas  de  la  abuela 
+se basan en la existencia de una hormona vegetal 
+que  promueve  la  maduración  en  los  frutos  deno- 
+minada 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>auxina.</a>
+		<a>ácido absícico.</a>
+		<a>giberelina.</a>
+		<a>etileno.</a>
+		<a>madurina.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

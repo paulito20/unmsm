@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>María, Rosa y Alicia compraron, cada una, varias 
+cajas con igual número de platos. María compró, 
+en total, 55 platos; Rosa compró 88 y Alicia, 99. 
+Halle el número total de cajas compradas por las 
+tres y el número de platos que hay en cada caja 
+respectivamente. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>22 y 11</a>
+		<a>22 y 9</a>
+		<a>20 y 11</a>
+		<a>22 y 7</a>
+		<a>20 y 7</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

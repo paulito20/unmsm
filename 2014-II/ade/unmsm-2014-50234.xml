@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En un grupo de 36 estudiantes, 14 tienen, al me- 
+nos, un libro; 15 tienen, al menos, un cuaderno y 
+11 no tienen ni uno ni otro. ¿Cuántos estudiantes
+tienen libro y cuaderno? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>2</a>
+		<a>8</a>
+		<a>4</a>
+		<a>6</a>
+		<a>7</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

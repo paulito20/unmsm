@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El dengue es una enfermedad viral transmitida a 
+través de la picadura del mosquito Aedes aegypti. 
+En el Perú, el dengue se ha extendido a 16 regiones, 
+según la Dirección General de Epidemiología. Para 
+prevenir la enfermedad, el Ministerio de Salud ha 
+tomado como medida 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>la inmunización contra el dengue.</a>
+		<a>la eliminación del virus del dengue.</a>
+		<a>la erradicación mediante antibióticos.</a>
+		<a>el control del mosquito.</a>
+		<a>la fumigación del virus del dengue.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

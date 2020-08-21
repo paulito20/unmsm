@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Pedro ha observado que sus compa�eros de clase 
+saben manejar bicicleta. Debido a ello, ha pedido 
+a su padre que el ense�e a manejar para asistir así 
+a  su  escuela.  El  padre  ha  accedido  a  su  pedido, 
+pero  le  ha  dicho  que  ponga  atención  a  todos  los 
+pasos  y  desarrolle  las  habilidades  que  se  requie- 
+ren  para  aprender  a  manejar.  Tal  aprendizaje,  a 
+la larga, será guardado por Pedro en su memoria 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>a corto plazo.</a>
+		<a>semántica.</a>
+		<a>a largo plazo.</a>
+		<a>procedimental.</a>
+		<a>episódica.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

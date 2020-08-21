@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De un aula de 35 alumnos evaluados, aprobaron:
+22 Matemática, 20 Física, 21 Química, 10 los tres 
+cursos y 12 solo 2 cursos. Si algunos de ellos no 
+aprobaron ningún curso, ¿cuántos aprobaron un 
+solo curso? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="">
+		<a>9</a>
+		<a>15</a>
+		<a>10</a>
+		<a>12</a>
+		<a>13</a>
+	</as>	
+	<x>
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

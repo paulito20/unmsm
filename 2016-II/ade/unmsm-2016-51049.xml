@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un enunciado incompatible con el texto es afirmar 
+que el buen estrés 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>se obtiene al subir a un emocionante juego 
+mecánico.</a>
+		<a>consiste en una sensación agradable de 
+experimentar.</a>
+		<a>libera dopamina en las vías cerebrales del 
+placer.</a>
+		<a>constituye un requisito necesario para el estres
+crónico. </a>
+		<a>se genera por una emoción de intensidad 
+	adecuada.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>Es incompatible con el texto afirmar que el buen estrés 
+constituye un requisito necesario para el estrés crónico. 
+En el texto, se sostiene que ciertas actividades 
+provocan emociones intensas que conllevan a ex- 
+perimentar sensaciones agradables y beneficiosas 
+para la salud. Por lo tanto, el buen estrés no sería 
+un factor condicionante del estrés crónico, el cual 
+es más bien perjudicial para la salud. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

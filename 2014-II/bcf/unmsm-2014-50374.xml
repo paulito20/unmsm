@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La estructura del sistema límbico que contribuye 
+a formar los recuerdos de emociones y es res- 
+ponsable de la experiencia emocional recibe el 
+nombre de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>amígdala.</a>
+		<a>tálamo.</a>
+		<a>hipocampo.</a>
+		<a>giro cingulado.</a>
+		<a>hipotálamo.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

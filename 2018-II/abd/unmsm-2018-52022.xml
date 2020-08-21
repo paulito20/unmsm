@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Sandra, Patricia y Flor trabajan en diferentes em- 
+presas M, N y P, no necesariamente en ese orden. 
+ 
+Cada  una  de  ellas  trabaja  en  una  única  empresa 
+y  sus  sueldos  son  S/  3700,  S/  3400  y  S/  3300, 
+aunque  no  necesariamente  en  ese  orden.  Si  se 
+sabe que 
+•   Sandra no trabaja en N. 
+•   Patricia no trabaja en P. 
+•   La que trabaja en N no gana S/ 3400. 
+•   Quien trabaja en P gana S/ 3300. 
+•   Patricia no gana S/ 3700. 
+ 
+¿Dónde trabaja Flor y cuánto gana? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>M - S/ 3700</a>
+		<a>M - S/ 3400</a>
+		<a>N - S/ 3700</a>
+		<a>M - S/ 3300</a>
+		<a>P - S/ 3700</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

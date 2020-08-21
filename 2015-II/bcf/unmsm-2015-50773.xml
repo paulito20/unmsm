@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál de las siguientes opciones presenta más 
+palabras graves?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>El precio del petróleo sufrió una baja pa- 
+	tente.</a>
+		<a>Los ni�os dibujaron un cáliz dorado de 
+	misa.</a>
+		<a>Mi tía salió contenta de su examen médico.</a>
+		<a>Ese futbolista tiene miedo de viajar por 
+	avión.</a>
+		<a>Mi hermana Olga aún no llega del mercado.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

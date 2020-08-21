@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Según un artículo de la revista Science, la siguiente 
+generación de células solares puede ser más barata 
+que la actual gracias a la sustitución del silicio por la 
+perovkita, la cual está compuesta por titanio y calcio. 
+De los elementos que conforman la perovkita, se 
+puede afirmar que 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>ambos son metaloides.</a>
+		<a>uno es metal y el otro, no metal.</a>
+		<a>ambos son metales.</a>
+		<a>ambos son no metales.</a>
+		<a>uno es alcalino y el otro, alcalino térreo.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

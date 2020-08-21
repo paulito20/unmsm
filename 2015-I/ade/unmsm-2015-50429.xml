@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una caja, se tiene 200 canicas de color verde, 
+200 de color rojo, 200 de color azul, 200 de color 
+negro y 250 de color amarillo. ¿Cuál es el menor 
+número de canicas que se debe extraer al azar 
+para tener, con certeza, al menos 100 canicas del 
+mismo color?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>497</a>
+		<a>498</a>
+		<a>495</a>
+		<a>496</a>
+		<a>496</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

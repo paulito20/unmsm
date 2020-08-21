@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Con relación al tejido meristemático, ¿cuál de las 
+siguientes proposiciones es incorrecta? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>Desaparece en las plantas adultas.</a>
+		<a>Está presente en las plantas jóvenes.</a>
+		<a>Está formado por células en división activa.</a>
+		<a>Puede ser primario o secundario.</a>
+		<a>Es responsable del crecimiento en grosor.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

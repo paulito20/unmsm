@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La siguiente cita: “¡Solo tu nombre es mi enemigo! 
+¡Porque tú eres tú mismo, seas o no Montesco ¿Qué 
+es Montesco? No es ni mano, ni pie, ni brazo, ni 
+rostro, ni parte alguna que pertenezca a un hombre. 
+¡Oh, sea otro tu nombre!”, pertenece a la obra
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Poema de Mio Cid.</a>
+		<a>Las cuitas del joven Werther.</a>
+		<a>Divina comedia.</a>
+		<a>Romeo y Julieta.</a>
+		<a>La vida es sue�o.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

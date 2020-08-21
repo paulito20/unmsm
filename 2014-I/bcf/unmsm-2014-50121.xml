@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>En el texto, la palabra MINAR significa</q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>contener.</a>
+		<a>profundizar.</a>
+		<a>obtener.</a>
+		<a>debilitar.</a>
+		<a>aquietar.</a>
+	</as>	
+	<x>D</x>
+	<i></i>
+	<x2>En la lectura, el vocablo minar significa debilitar. 
+	John Locke plantea que no existe una lógica necesaria
+	en la formacion de asociaciones mentales,
+	sino que simplemente depende del azar; dicho 
+	argumento refuta (debilita) la postura que sustenta 
+	la noción de razón</x2>
+	<i2></i2>
+	<v></v>
+</p>

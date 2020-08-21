@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las evidencias orgánicas y culturales que Augusto 
+Cardich encontró en la cueva de Lauricocha 
+demuestran que sus antiguos habitantes 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>fueron cazadores superiores.</a>
+		<a>vivieron con una fauna megalítica.</a>
+		<a>conocieron la agricultura inicial.</a>
+		<a>desarrollaron la cerámica.</a>
+		<a>fueron cazadores poco especializados.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

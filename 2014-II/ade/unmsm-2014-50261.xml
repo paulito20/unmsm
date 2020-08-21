@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Indique la alternativa donde se ha empleado la 
+coma correctamente. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Muchos policías, son destacados a lugares 
+lejanos.</a>
+		<a>María se encontraba muy triste, Pedro, muy 
+alegre. </a>
+		<a>Luego de un largo recorrido, llegué a tu 
+casa Ana.</a>
+		<a>Gonzalo, nuestro mejor amigo, viajará a 
+Amazonas.</a>
+		<a> Me parece, Francisca que empiezo a 
+comprenderte.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>-

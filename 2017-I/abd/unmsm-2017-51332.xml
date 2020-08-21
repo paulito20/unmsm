@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la primera mitad del siglo xviii, debido al abuso 
+de las órdenes religiosas y de las autoridades 
+políticas, se produjeron levantamientos indígenas en 
+el interior del virreinato peruano. El levantamiento 
+de los curacas Fernando e Ignacio Torote producido 
+entre 1724 y 1727 fue en contra de los 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>misioneros franciscanos.</a>
+		<a>corregidores e intendentes.</a>
+		<a>encomenderos y hacendados.</a>
+		<a>repartos mercantiles.</a>
+		<a>tributos y mita minera.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

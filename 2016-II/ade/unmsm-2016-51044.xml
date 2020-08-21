@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) La máscara es una figura que representa un rostro 
+humano, de animal o puramente imaginario. (II) La 
+máscara le permite a la persona tomar el aspecto 
+de otra o practicar ciertas actividades escénicas o 
+rituales. (III) Desde los tiempos más remotos, el uso de 
+máscaras ha estado vinculado a la religión y todavía 
+está presente en los ritos mágicos de muchos pueblos. 
+(IV) Por medio de las máscaras, se intentaba controlar 
+a los espíritus y demonios, asustar a los enemigos o 
+tener suerte en la caza. (V) La máscara empleada para 
+protegerse de gases tóxicos consiste en una careta para 
+protegerse contra determinados agentes agresivos 
+mediante filtrado del aire que se respira.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>II</a>
+		<a>I</a>
+		<a>IV</a>
+		<a>III</a>
+		<a>V</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>El tema central del texto es el uso ritual de la más- 
+cara, en el teatro, la religión y la magia. Por ello, se 
+elimina la oración V por el criterio de disociación, 
+ya que se refiere al uso industrial de la máscara. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

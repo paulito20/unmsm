@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Diversos autores refieren que, pese al gran crecimiento 
+que ha tenido la Psicología a lo largo de los a�os, 
+aún mantiene su condición de ciencia fragmentada 
+y ramificada, que limita la posibilidad de llegar a 
+un consenso sobre su estructura. Esta condición 
+fragmentada y ramificadade la Psicologia se	puede 
+visualizar solo en una de las siguientes situaciones: 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Dificultad en la comprensión del comporta- 
+	miento humano</a>
+		<a>Teorías psicológicas que poseen objetos de 
+	estudio diversos</a>
+		<a>Terapias psicológicas antagónicas con poca 
+	efectividad demostrada</a>
+		<a>Investigaciones psicológicas subjetivas 
+	carentes de cientificidad</a>
+		<a>Aumento de problemas psicológicos y 
+	psicosociales no resueltos</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>El MCM de dos numeros enteros positivos es 48 y la diferencia de los cuadrados de dichos numeros es 2160.Halle la suma de los dod numeros enteros.</q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>60</a>
+		<a>64</a>
+		<a>56</a>
+		<a>48</a>
+		<a>54</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La epistemología es una disciplina filosófica 
+que reflexiona sobre el quehacer científico y sus 
+distintas funciones, como la formulación de teorías 
+científicas. Por ello, la epistemología reconoce que 
+el objetivo fundamental de una teoría científica es 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>examinar casos.</a>
+		<a>ensayar fórmulas.</a>
+		<a>aplicar tecnología.</a>
+		<a>refutar hipótesis.</a>
+		<a>explicar hechos.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En  casa  círculo  de  la  figura  escriba  un  número 
+entero diferente del 1 al 9, de manera que en cada 
+tres  círculos  dispuestos  en  línea  recta  y  unidos 
+por flechas, los números sumen 18. ¿Qué número 
+debe ser escrito en el círculo sombreado? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>7</a>
+		<a>4</a>
+		<a>5</a>
+		<a>3</a>
+		<a>6</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

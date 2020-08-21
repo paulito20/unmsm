@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El etanodiol, conocido como glicol de etileno, es 
+poco volátil a temperatura ambiente y se utiliza 
+como anticongelante en los circuitos de refrigeración 
+de motores de combustión interna. Es también in- 
+grediente en líquidos para revelar fotografías, fluidos 
+para frenos, etc. Respecto de la molécula de este 
+compuesto, se puede afirmar que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

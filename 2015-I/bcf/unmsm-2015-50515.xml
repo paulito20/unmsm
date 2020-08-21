@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) El kiwi sirve como un potente laxante, pues 
+su contenido de magnesio y fibra soluble e in- 
+soluble le confiere fuertes propiedades laxantes. 
+(II) Debido a que contiene ácido fólico, el kiwi 
+colabora en la producción de glóbulos rojos y 
+en el fortalecimiento del sistema inmunológico. 
+(III) El kiwi sirve para reducir el colesterol y 
+también permite el buen control de glucemia 
+en las personas que tienen diabetes. (IV) Por su 
+abundancia de potasio y bajo aporte de sodio, 
+el kiwi resulta muy recomendable para aquellas 
+personas que sufren de hipertensión arterial.  
+(V) Según los expertos, el kiwi debe conservarse 
+en la refrigeradora para mantenerlo en condiciones 
+adecuadas antes de su consumo. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>IV</a>
+		<a>III</a>
+		<a>V</a>
+		<a>II</a>
+		<a>I</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>En el ejercicio se destacan las propiedades bené- 
+ficas del kiwi: En tal sentido, por disociación, se 
+elimina la quinta oración, ya que esta refiere a un 
+asunto distinto: la conservación adecuada del kiwi. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

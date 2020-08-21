@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Según la ley de la oferta y la demanda, si se au- 
+menta el precio de mercado de un bien, entonces 
+se incrementa la 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>cantidad ofertada y cae la cantidad de- 
+mandada.</a>
+		<a>oferta y aumenta la cantidad demandada.</a>
+		<a>cantidad ofertada y se mantiene la de- 
+manda.</a>
+		<a>cantidad demandada y la cantidad ofer- 
+tada. </a>
+		<a>demanda al igual que la cantidad ofer- 
+tada. 
+</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se desea cubrir toda la región sombreada 
+conformada por dos rectángulos con losetas de 
+20 cm×20 cm. Si cada loseta cuesta 10 nuevos 
+soles, ¿cuál será el costo total de las losetas? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>S/.4200</a>
+		<a>S/.4250</a>
+		<a>S/.3800</a>
+		<a>S/.4500</a>
+		<a>S/.4120</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el texto, el sentido de la palabra PURA es
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>limpia.</a>
+		<a>brillante.</a>
+		<a>casta.</a>
+		<a>clara.</a>
+		<a>cristalina</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>En el texto, la palabra PURA tiene el sentido de 
+LIMPIA.
+El autor plantea que el excremento de las vacas 
+es fuente natural de calor. Por ello,garantiza una
+llama limpia, pues carece de agentes químicos o 
+industriales contaminantes. 
+</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Según la doctrina difundida por Juan Calvino, 
+los individuos que poseían una fe intensa, eran 
+austeros y tenían éxito en los negocios estaban 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>controlados por sus pasiones.</a>
+		<a>condenados irremediablemente.</a>
+		<a>fuera del plan de salvación divina.</a>
+		<a>obligados a hacer buenas obras.</a>
+		<a>predestinados a la salvación.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

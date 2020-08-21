@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los ............... y ............... son características 
+topográficas propias de la región alto andina sur 
+del Perú. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>ca�ones - tablazos</a>
+		<a>acantilados - lagunas</a>
+		<a>volcanes - mesetas</a>
+		<a>manglares - llanuras</a>
+		<a>valles - manglares</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Después de la Reconquista, Espa�a hizo frente a 
+una grave crisis económica, producto de la refeu- 
+dalización, de modo que en el siglo xvi ya no era 
+el “taller y mercado” europeo; es decir, ya no era 
+productor ni vendedor de mercancías, reduciéndo- 
+se enormemente sus ingresos. Para remediar esta 
+crítica situación estableció una serie de impuestos. 
+Uno de ellos fue la media anata que pagaban los 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>favorecidos con un cargo público.</a>
+		<a>productores de vinos y aguardientes.</a>
+		<a>hacendados y obrajeros.</a>
+		<a>mineros y comerciantes.</a>
+		<a>comerciantes de esclavos.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

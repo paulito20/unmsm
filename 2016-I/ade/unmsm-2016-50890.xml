@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante el primer gobierno del presidente Ramón 
+Castilla, se iniciaron los pagos de nuestra deuda ex- 
+terna e interna; esto fue posible gracias a los ingresos 
+procedentes 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>de las salitreras del sur.</a>
+		<a>del ferrocarril central.</a>
+		<a>de ingresos de las aduanas.</a>
+		<a>de la explotación del caucho.</a>
+		<a>del guano de las islas.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

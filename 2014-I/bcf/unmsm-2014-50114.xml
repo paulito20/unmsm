@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Se podría hablar de “milagro griego”, en el sentido habitual de la expresión, si</q>
+	<q2></q2>
+	<as t="R" correcta="2">
+		<a>el siglo VI a. C. hubiera sido pacífico y de inmovilidad social.</a>
+		<a>los estudios de la ciencia prehistórica no se hubieran realizado.</a>
+		<a>la ciencia griega hubiese surgido al margen del saber oriental.</a>
+		<a>los sabios griegos hubieran aprendido las matemáticas de los egipcios.</a>
+		<a>la revolución cultural griega fuese posterior a la época del papiro. </a>
+	</as>	
+	<x>C</x>
+	<i></i>
+	<x2>Según el texto, la ciencia griega surge a partir del 
+contacto e influencia del saber que desarrollaron 
+las culturas orientales (Egipto y Mesopotamia). 
+Por lo tanto, se podría aceptar la tesis del “milagro 
+griego”, siempre y cuando el vasto conocimiento 
+griego hubiese surgido sin el aporte de dicho 
+saber oriental.</x2>
+	<i2></i2>
+	<v></v>
+</p>

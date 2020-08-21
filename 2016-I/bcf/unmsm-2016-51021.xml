@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Actualmente, los humanos vivimos en la superficie 
+exterior de un planeta esférico llamado Tierra, el 
+cual gira alrededor de una estrella muy grande 
+llamada Sol. En el futuro, tal vez muchos viviremos 
+en gigantescos hábitats espaciales girando perezosa- 
+mente y seremos mantenidos en su superficie inter- 
+na por la fuerza centrífuga. Entonces, en respuesta a 
+la pregunta “¿qué mantiene a la Tierra moviéndose 
+alrededor del Sol?”, un físico afirmará que ello es 
+debido a la fuerza 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>de gravedad el Sol.</a>
+		<a>de gravedad de la Tierra.</a>
+		<a>centrífuga de la Tierra. </a>
+		<a>centrípeta del Sol.</a>
+		<a>inercial de la Tierra.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

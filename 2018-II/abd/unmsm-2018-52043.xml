@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuantifique  los  diptongos  y  hiatos,  respectiva- 
+mente, del enunciado Después de concluir la cla- 
+se, Teófilo y Julio pidieron una bebida fría en la 
+cafetería. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Tres y cuatro</a>
+		<a>Cuatro y tres</a>
+		<a>Cinco y dos</a>
+		<a>Cinco y tres</a>
+		<a>Cuatro y dos</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

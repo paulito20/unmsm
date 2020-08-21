@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>
+	</q>En Sarajevo, hace casi un siglo, fueron asesinados 
+el príncipe Francisco Fernando, heredero del Im- 
+perio austrohúngaro, y su esposa. Este magnicidio 
+desencadenó la 
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>Segunda Guerra Mundial.</a>
+		<a>Primera Guerra Mundial.</a>
+		<a>guerra franco-prusiana.</a>
+		<a>guerra de los Treinta A�os.</a>
+		<a>revolución bolchevique.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

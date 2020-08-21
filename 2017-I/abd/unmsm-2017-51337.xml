@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Después de la Segunda Guerra Mundial, el mundo 
+se vio conmovido por numerosas luchas anticolo- 
+niales, tanto pacíficas como violentas contra las 
+potencias imperialistas. Estas se suscitaron en los 
+países de
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Oriente Medio.</a>
+		<a>Asia y África.</a>
+		<a>América Latina.</a>
+		<a>América Central.</a>
+		<a>África y América.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

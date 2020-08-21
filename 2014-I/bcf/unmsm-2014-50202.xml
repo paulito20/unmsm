@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Proceso que permite explicar la evolución, según 
+el modelo darwiniano. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Mutación</a>
+		<a>Selección natural</a>
+		<a>Sucesión primaria</a>
+		<a>Regresión</a>
+		<a>Sucesión secundaria</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

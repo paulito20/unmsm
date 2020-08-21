@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Uno de los siguientes enunciados resulta incompa- 
+tible con lo aseverado en el texto. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Según los descriptivistas, imponer normas 
+	a los científicos carece de sentido.</a>
+		<a>La dimensión interpretativa es la función 
+	excluyente en la filosofía de la ciencia.</a>
+		<a>Algunas tareas de la filosofía de la ciencia 
+	son a la vez descriptivo-normativas.</a>
+		<a>Segun la funcion normativa, se debe evaluar 
+a los científicos de acuerdo a normas. </a>
+		<a>En algunas tareas de la filosofía de la ciencia, 
+	domina la dimensión interpretativa.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

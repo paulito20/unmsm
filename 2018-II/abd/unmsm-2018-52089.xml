@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿cuál es la fuerza eléc- 
+trica  resultante  sobre  la  partícula  ubicada  en  el 
+vértice recto del triángulo?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>4 N</a>
+		<a>3 N</a>
+		<a>10 N</a>
+		<a>6 N</a>
+		<a>5 N</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

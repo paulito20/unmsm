@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Rosa, Lucía, María y Leonor ejercen, cada una, 
+diferentes profesiones: Fotografía, Medicina, 
+Enfermería y Derecho, no necesariamente en ese 
+- Rosa, Leonor y la enfermera son amigas. 
+- María,  Lucía, la fotógrafa y Rosa fueron al cine. 
+Si María no es médica ni enfermera,¿qué pro- 
+fesiones ejercen Rosa y Lucía respectivamente?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>Medicina y Fotografía</a>
+		<a>Enfermería y Derecho</a>
+		<a>Derecho y Fotografía</a>
+		<a>Medicina y Derecho</a>
+		<a>Medicina y Enfermería</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

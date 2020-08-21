@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Determine el valor de verdad (V o F) respecto del 
+número de oxidación del oxígeno. 
+I.   Es +2 al formar compuesto con el flúor. 
+II.  Es –1 cuando forma el peróxido de hidrógeno. 
+III. Al formar los hidróxidos, su valor es – 2. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>FVF</a>
+		<a>VFV</a>
+		<a>FFV</a>
+		<a>VVV</a>
+		<a>VVF</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

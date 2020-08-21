@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De una lámina de 10 cm de ancho y 14 cm de largo 
+se construye una caja abierta, cortando un cuadrado 
+de 2 cm de lado en cada esquina. El volumen de la 
+caja resultante es
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

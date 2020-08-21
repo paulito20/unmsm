@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Los hermanos Wright hicieron volar el primer 
+aeroplano controlable en un vuelo histórico que 
+duró solo doce segundos y recorrió poco más de 
+cuarenta metros. (II) Los primeros aviones estaban 
+hechos de madera y tela, lo que sin lugar a dudas 
+les confería una fabulosa liviandad, pero escasa 
+seguridad. (III) En su mayor parte, los aviones de 
+hoy están fabricados con metales y en especial 
+con aleaci�nes de aluminio, que es liviano y 
+se utiliza en las alas y en el cuerpo del avión. 
+(IV) La fibra de carbono, por el bajo costo que 
+implica, también se está usando con frecuencia 
+en la fabricación de los aviones. (V) En la 
+fabricación de aviones, se aplica la soldadura en 
+frío, que consiste en emplear fuertes pegamentos
+para adherir las partes, pero más utilizados son 
+los remaches, que sujetan el revestimiento a la 
+estructura del avión. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>I</a>
+		<a>IV</a>
+		<a>V</a>
+		<a>II</a>
+		<a>III</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>El ejercicio detalla principalmente los diversos 
+materiales que se han ido empleando en la fabri- 
+cación de los aviones. Por tal motivo, se disocia 
+la primera oración, ya que aborda otro asunto: el 
+vuelo histórico del primer aeroplano.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

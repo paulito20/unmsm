@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una urna no transparente contiene veinte esferas 
+numeradas con números enteros no repetidos del 
+1 al 20. ¿Cuántas esferas como mínimo se deberá 
+extraer  de  la  urna,  al  azar  para  tener  la  certeza 
+de  que  la  suma  de  dos  de  ellas  sea  siempre  un 
+número primo menor que 20? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>11</a>
+		<a>10</a>
+		<a>9</a>
+		<a>12</a>
+		<a>13</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la especie humana, la madre protege de manera 
+natural al feto de diversas enfermedades virales y 
+bacterianas. Este tipo de protección se relaciona 
+con la 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="">
+		<a>transferencia de antígenos.</a>
+		<a>inmunidad activa.</a>
+		<a>inmunidad pasiva.</a>
+		<a>lactancia materna.</a>
+		<a>inmunidad artificial.</a>
+	</as>	
+	<x>
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

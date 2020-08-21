@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El nivel de producto bruto interno (PBI) permite 
+calificar una situación de crecimiento o recesión 
+de una economía. Determine un rasgo económico 
+contundente con el PBI en recesión. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Descenso del sueldo promedio del empleado.</a>
+		<a>Incremento en el nivel promedio de produc- 
+	ción.</a>
+		<a>Aumento del sueldo promedio del empleado.</a>
+		<a>Incremento en el nivel promedio del inven- 
+	tario.</a>
+		<a>Variabilidad del sueldo promedio del em- 
+	pleado.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

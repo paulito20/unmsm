@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El proceso psicológico mediante el cual el cerebro 
+organiza e interpreta la estimulación sensorial se 
+denomina
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="">
+		<a>sensación.</a>
+		<a>percepción.</a>
+		<a>memoria.</a>
+		<a>atención.</a>
+		<a>imaginación.</a>
+	</as>	
+	<x>
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

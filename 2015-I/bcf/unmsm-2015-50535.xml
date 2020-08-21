@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el teatro, cuatro amigos ocupan cuatro asientos 
+consecutivos en una misma fila. Se observa lo 
+siguiente: 
+	Leopoldo no está sentado junto a Irma. 
+II.  Perico no está sentado junto a Nicole. 
+III. Nicole no está sentado junto a Leopoldo. 
+Entonces ¿quiénes no están sentados en los 
+extremos? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Leopoldo y Nicole</a>
+		<a>Leopoldo y Perico</a>
+		<a>Irma y Leopoldo</a>
+		<a>Perico e Irma</a>
+		<a>Perico y Nicole</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

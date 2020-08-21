@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) La pintura del Barroco mostró un naturalismo que 
+la alejaba de la perfección clásica. (II) El arte barroco 
+se ha identificado tradicionalmente con el absolutismo 
+que realzó el poder de los monarcas a través de la 
+magnificencia. (III) El arte pictórico barroco se ca- 
+racterizaba por la expresividad que reflejaba a veces 
+apasionados estados de ánimo. (IV) La temática de 
+la pintura barroca fue muy diversa y abarcó escenas 
+mitológicas, religiosas, etc. (V) Igualmente, este arte 
+jugaba con el contraste entre luces y sombras, cono- 
+cido como técnica del claroscuro.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>V</a>
+		<a>II</a>
+		<a>I</a>
+		<a>IV</a>
+		<a>III</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>El tema central del texto es características de la 
+pintura barroca. En ese sentido, se elimina la 
+oración (II) por disociación temática. Esta oración 
+aborda otro tema: la identificación política del arte 
+barroco. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

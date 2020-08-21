@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El empleo de nuevas técnicas agrícolas en la Baja 
+Edad Media produjo el aumento de la producción; 
+una de estas técnicas fue 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>el empleo del arado utilizando labradores.</a>
+		<a>el uso del buey como animal de tracción.</a>
+		<a>la ultilizacion de insecticidas más potentes.</a>
+		<a>la aplicación del guano como fertilizante.</a>
+		<a>el uso del caballo como animal de tracción.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

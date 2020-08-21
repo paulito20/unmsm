@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En  la  novela  Las  cuitas  del  joven  Werther,  del 
+alemán  J.  W.  Goethe,  se  relata  el  rechazo  de 
+Carlota  a  las  pretensiones  amorosas  de  Werther. 
+Esta historia de amor está vinculada con dos ras- 
+gos característicos del Romanticismo. Determine 
+cuáles son
+I.  La descripción de costumbres y usos del pue- 
+	blo alemán 
+II. La presencia de leyendas populares y de mitos 
+	europeos 
+III.  El  individualismo  y  la  admiración  por  la  na- 
+	turaleza 
+IV.  La  rememoración  doliente  y  nostálgica  del 
+	pasado 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>III y IV</a>
+		<a>II y IV</a>
+		<a>I y II</a>
+		<a>II y III</a>
+		<a>I y III</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el texto, el verbo REVISAR se usa como 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>consideración.</a>
+		<a>objeción.</a>
+		<a>observación.</a>
+		<a>repaso.</a>
+		<a>reajuste.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>En el texto, el verbo revisar significa ‘reajuste’. El 
+autor sostiene que la expectativa de crecimiento 
+del producto bruto interno (PBI) nacional se ha 
+reducido. 
+Debido a factores principalmente externos se ha 
+tenido que recalcular o reajustar el porcentaje de 
+crecimiento inicialmente proyectado. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

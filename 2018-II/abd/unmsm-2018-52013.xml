@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dos  embarcaciones  parten  simultáneamente  del 
+mismo  puerto  con  direcciones  N22°O  y  S68°O, 
+y  viajan  con  velocidades  constantes  de  24  km/h 
+y  32  km/h  respectivamente.  Calcule  la  distancia 
+que las separa al cabo de cinco horas. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>160 km</a>
+		<a>240 km</a>
+		<a>200 km</a>
+		<a>360 km</a>
+		<a>210 km</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

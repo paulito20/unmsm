@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuáles de los siguientes enunciados son incompa- 
+tibles con el texto? 
+I.	El resultado obtenido en Lima es sobresaliente 
+	si consideramos la difícil situación económica 
+	del país. 
+II.  La paralización del proyecto Conga trae desven- 
+	tajas en la economía regional de Cajamarca. 
+III. Nuestro país debe invertir en diversos proyectos 
+	de infraestructura a nivel nacional. 
+IV. Ayacucho es una de las regiones más ricas del 
+	país gracias a su tradición agropecuaria. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>II y IV</a>
+		<a>I y III</a>
+		<a>I y IV</a>
+		<a>I y II</a>
+		<a>III y IV</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

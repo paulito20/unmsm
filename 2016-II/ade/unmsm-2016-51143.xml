@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el proceso del tratamiento del agua potable 
+para obtener agua libre de iones (utilizada en aná- 
+lisis químicos y pruebas de laboratorio) se emplea  
+una solución de HCl. Calcule la normalidad de una 
+solución acuosa de HCl, cuya concentración es 
+36,5 % w/w y su densidad es 1,21 g/mL. 
+Datos: Peso atómico H: 1; Cl: 35,5 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>15,9</a>
+		<a>8,3</a>
+		<a>12,4</a>
+		<a>12,1</a>
+		<a>8,5</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

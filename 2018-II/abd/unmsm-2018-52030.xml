@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Calcule la suma de las cifras del número resultan- 
+te luego de efectuar la siguiente operación.
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>112</a>
+		<a>111</a>
+		<a>113</a>
+		<a>109</a>
+		<a>110</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

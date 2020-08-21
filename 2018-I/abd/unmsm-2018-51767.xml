@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Ana, Belén, Carla y Débora obtuvieron las califi- 
+caciones 13, 14, 15 y 16 en una examen, pero no 
+necesariamente en ese orden. Se sabe que todas 
+obtuvieron distintas calificaciones, que Ana no 
+obtuvo el menor ni el mayor de estos puntajes, 
+que Belén no obtuvo una calificación par, que la 
+calificación de Ana no es menor que la de Belén y 
+que la calificación de Débora es mayor que la de 
+Ana y Belén, pero no es mayor que la de Carla. 
+¿Cuánto suman las calificaciones de Ana y Belén? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>28</a>
+		<a>27</a>
+		<a>29</a>
+		<a>30</a>
+		<a>31</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

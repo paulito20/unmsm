@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El sistema endocrino está constituido por glándulas 
+endocrinas que producen hormonas que se liberan 
+hac�a la sangre y actúan de modo específico sobre 
+órganos blanco u objetivo. Por su parte, el sistema 
+circulatorio se encarga de transportar y distribuir 
+sustancias a todo el organismo. En el caso de la 
+siguiente figura, ¿cuál es la sustancia transportada? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Una hormona de naturaleza proteica.</a>
+		<a>Una hormona de naturaleza esteroidea.</a>
+		<a>Un anticuerpo que halla su antígeno.</a>
+		<a>Un nutriente captado por fagocitosis.</a>
+		<a>Un complejo enzima sustrato en formación.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

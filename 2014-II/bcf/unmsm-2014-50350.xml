@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Halle el dividendo de una división entera cuyo 
+cociente es el doble del resto máximo que es 18. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>684</a>
+		<a>708</a>
+		<a>702</a>
+		<a>700</a>
+		<a>864</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

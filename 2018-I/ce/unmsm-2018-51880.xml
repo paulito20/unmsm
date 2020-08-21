@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De la lectura puede deducirse que John Watson 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>se interesaba más por lo procedimental.</a>
+		<a>se inspiró en el positivismo lógico.</a>
+		<a>comprendía la filosofía de John Dewey.</a>
+		<a>solo había leído a los filósofos británicos.</a>
+		<a>tenía fe en la noción de conciencia.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>Del texto se concluye que John Watson en sus 
+estudios sobre psicología se interesó más por lo 
+procedimental. Según el autor, Watson redefinió a la 
+psicología como la ciencia del comportamiento. Este 
+nuevo enfoque implica que en lo metodológico se 
+debe considerar como objeto de estudio la conducta 
+y no la conciencia. Esto no supone negar la existen- 
+cia de esta, sino que resulta más conveniente para 
+la investigación psicológica analizar un fenómeno 
+observable, esto es, la conducta.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

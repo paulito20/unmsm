@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La velocidad media se aproxima a una velocidad 
+instantánea cuando en el movimiento de un cuerpo 
+los intervalos son muy peque�os. Entonces, si un 
+cuerpo se mueve con una velocidad invariable, sus 
+velocidades media e instantánea serán 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>diferentes.</a>
+		<a>aceleradas.</a>
+		<a>iguales.</a>
+		<a>desaceleradas.</a>
+		<a>diversas.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

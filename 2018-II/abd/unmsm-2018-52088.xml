@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una  haz  de  luz  ultravioleta  de  longitud  de  onda 
+de 3500 A incide sobre una superficie de potasio 
+produciendo  la  emisión  de  fotoelectrones.  Si  la 
+energía  máxima  del  fotoelectrón  es  de  1,6  eV, 
+¿cuál  es  la  función  de  trabajo  de  la  superficie  de 
+potasio?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>1,90 eV</a>
+		<a>2,20 eV</a>
+		<a>1,40 eV</a>
+		<a>1,60 eV</a>
+		<a>2,50 eV</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

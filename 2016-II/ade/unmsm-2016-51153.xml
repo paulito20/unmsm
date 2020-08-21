@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la naturaleza, las poblaciones pueden crecer 
+de manera exponencial hasta alcanzar su máxima 
+capacidad de carga (como lo hacen las especies de 
+vida corta y con muchas crías) o de forma sigmoidea 
+(como lo hacen los animales de vida larga y con 
+pocas crías). De acuerdo con lo expuesto, ¿cuál es 
+el organismo que tiene crecimiento exponencial? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Los gorriones</a>
+		<a>Los ratones</a>
+		<a>Las tortugas</a>
+		<a>Las moscas</a>
+		<a>Los elefantes</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

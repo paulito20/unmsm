@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Para una salida de campo en el curso de Geografía, 
+el profesor solicitó a sus estudiantes traer un mapa 
+topográfico.  Al  observar  en  el  mapa  la  distribu- 
+ción de las curvas de nivel del lugar, los alumnos 
+encontraron una gran separación entre las mismas. 
+Esto indica que la pendiente del terreno es 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>muy escarpada.</a>
+		<a>regularmente inclinada.</a>
+		<a>muy plana.</a>
+		<a>fuertemente inclinada.</a>
+		<a>muy perpendicular.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

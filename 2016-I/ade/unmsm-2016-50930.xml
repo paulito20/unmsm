@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El siguiente diagrama resume la red trófica que 
+Valeria observó en los totorales de los Pantanos de 
+Villa, en donde los organismos están simbolizados 
+con letras y sus relaciones tróficas con flechas. 
+Considerando la dirección del flujo de energía, 
+coloque verdadero (V) o falso (F) y marque la 
+alternativa correcta. 
+(  ) A y B obtienen mayor energía que los demás. 
+(  ) D obtendría mayor energía si esta proviene de 
+	A antes que de B. 
+(  ) C obtendría mayor cantidad de energía si esta 
+	proviene de Z. 
+(  ) Z obtendría mayor energía si esta proviene de 
+	E antes que de C. 
+(  ) E puede obtener energía tanto de B como de A. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>FFFVF</a>
+		<a>FVVVF</a>
+		<a>VVFVF</a>
+		<a>FFVVV</a>
+		<a>VVVVF</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

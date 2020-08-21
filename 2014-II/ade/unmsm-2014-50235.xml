@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La edad actual, en años, de mi abuelo es mayor 
+en 12 años que el cuadrado de la edad de JosÃ© 
+y el prÃ³ximo año serÃ¡ menor en 4 años que el 
+cuadrado de la edad de JosÃ©. Â¿CuÃ¡ntos años 
+tiene mi abuelo?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>74</a>
+		<a>76</a>
+		<a>70</a>
+		<a>73</a>
+		<a>78</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

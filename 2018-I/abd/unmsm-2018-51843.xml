@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La resistividad y la conductividad de un material 
+obedecen a una relación inversa con constante de 
+proporcionalidad igual a la unidad. En la figura se 
+muestra un resistor de 2 cm de longitud con un 
+área de sección transversal de 6 cm . La resistividad 
+del material del cual está hecho el resistor es de 
+4,6×10   Ω · m. Si la diferencia de potencial entre 
+los extremos es de 2 V, determine la corriente que 
+fluye por el resistor. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>2,6 A</a>
+		<a>0,32 A</a>
+		<a>2,76 A</a>
+		<a>0,76 A</a>
+		<a>0,13 A</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

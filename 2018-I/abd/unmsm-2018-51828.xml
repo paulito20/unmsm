@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Claudia Mamani, una empresaria del sector turismo, 
+paga cada año a la entidad recaudadora de 
+impuestos por los siguientes conceptos: el cargo de 
+gerente general, la propiedad inmobiliaria familiar 
+y la renta generada por su empresa. En conjunto, 
+los impuestos pagados son 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>temporales.</a>
+		<a>indirectos.</a>
+		<a>intermedios.</a>
+		<a>directos.</a>
+		<a>de emergencia.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

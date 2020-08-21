@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las edades de Ana y Juan hace x años eran 8 y 
+12 años respectivamente. Dentro de x años serÃ¡n 
+28 y 32 años respectivamente. Â¿CuÃ¡l es la edad 
+actual de Juan? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>22 años</a>
+		<a>18 años</a>
+		<a>32 años</a>
+		<a>20 años</a>
+		<a>24 años</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

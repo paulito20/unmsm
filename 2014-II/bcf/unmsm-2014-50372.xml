@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Determine tres enunciados con respecto a la obra 
+Ña Catita, de Manuel Ascensio Segura.
+I. Na catita es un personaje emblamatico
+que da vida al modelo de vieja chismosa 
+II.  La comedia emplea, profusamente, la replana 
+popular y está poblada de refranes. 
+III. En el texto, do�a Rufina desea casar a su hija 
+Juliana con un hombre adinerado. 
+IV.  La obra contiene elementos que son propios 
+del romanticismo peruano. 
+V. El propósito fundamental de la obra es criticar 
+el carácter humorístico de los lime�os. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>III, IV, V</a>
+		<a>I, III, V</a>
+		<a>II, III, IV</a>
+		<a>I, IV, V</a>
+		<a>I, II, III</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

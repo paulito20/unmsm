@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Qué alternativa muestra uso adecuado de los 
+signos de puntuación? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Las orcas se alimentan de mamíferos: 
+	delfines, focas, nutrias, y lobos marinos.</a>
+		<a>Desde la cárcel, donde está recluido, el líder 
+	opositor dio una amplia entrevista.</a>
+		<a>Desde otra posición, Allan Wagner expresó, 
+	su extra�eza por esa declaración.</a>
+		<a>En política lo nuevo, inexorablemente, 
+	nacerá; lo viejo, sucumbirá lentamente.</a>
+		<a>La Marca Perú, se publicita en pantallas 
+	gigantes, en la ciudad de Nueva York.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

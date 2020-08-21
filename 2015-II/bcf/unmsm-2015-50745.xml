@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Doce amigos almuerzan en un restaurante y acuer- 
+dan cancelar el consumo en partes iguales. Sin 
+embargo, tres de ellos no pueden pagar, por lo que 
+cada uno del resto de amigos paga S/.120 más. 
+¿Cuál fue el importe total del almuerzo? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>S/.4320</a>
+		<a>S/.10 800</a>
+		<a>S/.3600</a>
+		<a>S/.4350</a>
+		<a>S/.4500</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el segundo párrafo del texto, el sentido de la 
+palabra OBJETIVO es
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>invariable.</a>
+		<a>equívoco.</a>
+		<a>inexacto.</a>
+		<a>accesible.</a>
+		<a>impreciso.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Según el texto, para los escépticos, los datos que 
+provienen de los sentidos son muy imprecisos y 
+variables en las personas. Esto se opone a la su- 
+puesta objetividad del conocimiento sensible que 
+propugnan los realistas ingenuos. Por lo tanto, el 
+término objetivo tiene el sentido de invariable. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

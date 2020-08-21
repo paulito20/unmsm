@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuantifique los hiatos y diptongos del enunciado 
+La hidalguía de Mateo cautivó a los estudiantes 
+del aula número seis.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>Tres hiatos y tres diptongos</a>
+		<a>Dos hiatos y cuatro diptongos</a>
+		<a>Tres hiatos y dos diptongos</a>
+		<a>Un hiato y cuatro diptongos</a>
+		<a>Tres hiatos y un diptongo</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

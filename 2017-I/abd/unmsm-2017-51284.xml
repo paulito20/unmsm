@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Complete el siguiente cuadro escribiendo en las 
+casillas algunos de los números de 1 al 17, sin 
+repetirlos, de modo que la suma de los tres números 
+escritos en las filas, columnas y diagonales sea la 
+misma. Halle el valor de a+b. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>26</a>
+		<a>25</a>
+		<a>24</a>
+		<a>23</a>
+		<a>22</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

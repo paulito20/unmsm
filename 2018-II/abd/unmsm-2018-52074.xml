@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante  el  periodo  1985-1990,  la  economía  pe- 
+ruana reveló lo siguiente: disminución de la pro- 
+ducción,  espiral  inflacionaria,  aumento  del  des- 
+empleo  y,  por  tanto,  incremento  de  la  pobreza, 
+entre  otros  hechos  negativos.  Para  solucionar  el 
+diagnóstico,  la  ciencia  económica  precisa  sobre 
+todo de 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>un referente.</a>
+		<a>un método.</a>
+		<a>una crisis.</a>
+		<a>un agente.</a>
+		<a>un estímulo.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

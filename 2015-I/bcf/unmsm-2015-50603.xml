@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dos fuerzas, F 1  y F 2, cada una de 100 N de 
+magnitud, actúan sobre un punto, como se 
+muestra en la figura. Determine la magnitud de la 
+fuerza que equilibra estas dos fuerzas. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

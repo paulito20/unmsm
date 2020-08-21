@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Determine el valor de verdad (V) o falsedad (F) 
+de los siguientes enunciados relativos a la etapa 
+sensoriomotora. 
+	El niño comienza a desarrollar ciertas funciones 
+	cognitivas como la memoria. 
+II.  El niño descubre el mundo observÃ¡ndolo, 
+	tocando las cosas con las manos. 
+III. El niño ya ha logrado plenamente el dominio 
+	de la lengua de su comunidad. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>FFF</a>
+		<a>VVV</a>
+		<a>VFV</a>
+		<a>FVF</a>
+		<a>VVF</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

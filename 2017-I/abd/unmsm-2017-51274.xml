@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Según el texto y los gráficos sobre el comercio 
+electrónico, resulta incompatible sostener que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>los negocios de hardware de computadoras, 
+	juguetes y mu�ecas se encuentran en el 
+	último lugar de compras.</a>
+		<a>en relación con Latinoamérica, los usuarios 
+	peruanos que nunca compran nada es con- 
+	siderablemente mayor.</a>
+		<a>existe una asociación lineal directa entre 
+	los porcentajes de los tradicionalistas y el 
+	comercio electrónico.</a>
+		<a>los comercios electrónicos necesitan de una 
+	eficaz capacitación para extender su oferta 
+	a un mayor número de clientes.</a>
+		<a>la falta de conectividad a internet es una 
+	dificultad para el comercio electrónico en 
+	todas las regiones del país.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>Según el texto y los gráficos sobre el comercio 
+electrónico, resulta incompatible sostener que existe 
+una asociación lineal directa entre los porcentajes 
+de los tradicionalistas y el comercio electrónico. El 
+comercio electrónico en el Perú indica 31,5 % y 
+los consumidores tradicionalistas registran 26,1%. 
+Constataríamos una asociación lineal directa entre 
+ambos rubros si en el caso de Latinoamérica se diera 
+una misma tendencia proporcional al caso peruano. 
+Sin embargo, en Latinoamérica el comercio alcanza 
+un mayor porcentaje (54,8 %) y los consumidores 
+tradicionalistas, un menor rango proporcional con 
+respecto al Perú (18,8 %); por lo tanto, no se da una 
+asociación lineal directa, sino inversa.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

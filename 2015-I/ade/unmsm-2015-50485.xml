@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La fase de la actividad económica que antecede 
+a la distirbución se conoce como 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>productividad.</a>
+		<a>crecimiento.</a>
+		<a>consumo.</a>
+		<a>producción.</a>
+		<a>inversión.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

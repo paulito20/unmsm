@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A un hombre que laboraba como le�ador, mientras 
+talaba un árbol, se le introdujo una astilla con tierra. 
+Si a pocas horas del accidente se le realizara un 
+análisis de sangre, se observaría ............... en la 
+zona de infección. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>el incremento de los neutrófilos</a>
+		<a>la disminución de los eritrocitos</a>
+		<a>el incremento de los linfocitos B</a>
+		<a>la producción de plasmocitos</a>
+		<a>el incremento de anticuerpos</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

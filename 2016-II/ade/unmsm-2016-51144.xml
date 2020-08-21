@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La estequiometría es una herramienta indispen- 
+sable para los procesos químicos, pues permite 
+predecir la cantidad de productos que se obtie- 
+nen a partir de una cantidad dada de reactante 
+o indicar la cantidad necesaria de reactante(s) 
+para obtener cierta cantidad de producto. En este 
+contexto, se�ale la cantidad necesaria de aluminio, 
+en gramos, que reaccionará con suficiente canti- 
+dad de H S para producir 100 g de Al S  según 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>81,0</a>
+		<a>40,8</a>
+		<a>153,0</a>
+		<a>13,2</a>
+		<a>36,0</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

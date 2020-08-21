@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Al disolver 117 g de cloruro de sodio (NaCl) en 
+54 g de agua, se obtiene una solución en la cual 
+la fracción molar del soluto es
+Datos 
+P.A. Na=23 uma; Cl=35,5 uma 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>0,40</a>
+		<a>0,68</a>
+		<a>0,46</a>
+		<a>0,60</a>
+		<a>0,57</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

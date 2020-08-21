@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Álvaro, Benito, César y Darío poseen, cada uno, 
+un celular del mismo tama�o y forma, pero de 
+diferentes colores: negro, verde, azul y rojo. Al 
+apagarse las luces, cada uno cogió un celular que 
+no era el suyo. Después de esto, se determinó que 
+­ Darío se quedó con el celular azul porque su 
+  celular lo tomó César.
+­ Álvaro dice: “Si me prestan el celular azul, 
+  devuelvo su celular verde a César”.
+­ Benito se quedó con el celular rojo porque su 
+  verdadero due�o no devolvió el celular verde 
+  a su propietario.
+¿Quiénes son los due�os de los celulares negro y 
+rojo respectivamente? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>Darío y Benito</a>
+		<a>César y Álvaro</a>
+		<a>Benito y Álvaro</a>
+		<a>Darío y César</a>
+		<a>Darío y Álvaro</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

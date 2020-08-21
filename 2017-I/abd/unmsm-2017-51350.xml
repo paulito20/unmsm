@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cada a�o, la feria MISTURA abre sus puertas para 
+recibir al público. En el recinto ferial, consumidores, 
+productores y comerciantes interactúan para ubicar 
+a la gastronomía como tema económico central. A 
+través del evento, el consumidor que asiste intenta 
+satisfacer una necesidad 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>de subsistencia.</a>
+		<a>afectiva.</a>
+		<a>de protección.</a>
+		<a>cultural.</a>
+		<a>de ocio.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

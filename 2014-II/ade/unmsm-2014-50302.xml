@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los pinzones de Darwin tienen ciertas características 
+que diferencian a las distintas especies entre sí. Por 
+ejemplo, cada una de estas presenta el ............... 
+adaptado al ............... 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>cuello - tipo de vuelo</a>
+		<a>pico - alimento que come</a>
+		<a>alvéolo - estilo de vuelo</a>
+		<a>plumaje - tipo de vuelo</a>
+		<a>diafragma - alimento que come</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

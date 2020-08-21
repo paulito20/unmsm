@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el Perú, entre los a�os 2008 y 2009, cinco 
+cadenas de farmacias intercambiaron información 
+para elevar el nivel de precio de algunas medicinas, 
+según una investigación del INDECOPI. El acuerdo 
+entre ellas se tradujo, por un lado, en un aumento 
+de sus ganancias y, por otro lado, en un perjuicio 
+monetario del cliente. Según su nivel de participa- 
+ción en la mala práctica económica, cada una de 
+las distribuidoras fue multada con un monto deter- 
+minado. En otras palabras, en este caso específico, 
+INDECOPI penalizó 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>el cártel.</a>
+		<a>el monopolio.</a>
+		<a>el monopsonio.</a>
+		<a>el duopolio.</a>
+		<a>la competencia.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

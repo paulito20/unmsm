@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Tres obreros realizan juntos una misma obra. El 
+primer obrero haría solo la obra en 10 días; el 
+segundo, en 8 días; y el tercero, en 12 días. Si por 
+la obra se pagó S/.3700, ¿qué pago le corresponde 
+Luego, el pago se reparte proporcional a la canti- 
+dad de obra que realizan. 
+al segundo obrero? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>S/.1200</a>
+		<a>S/.1000</a>
+		<a>S/.1600</a>
+		<a>S/.1500</a>
+		<a>S/.1700</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

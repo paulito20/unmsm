@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante la temporada de verano, la Carretera Cen- 
+tral que une las regiones Lima y Junín está afectada 
+varios días por los huaicos. Así, los productos ali- 
+menticios naturales que llegan a Lima desde Junín 
+quedan apilados en los camiones estacionados, en 
+algún tramo de la carretera, a la espera de que se 
+reanude el tránsito. La secuencia económica que se 
+originará en los centros mayoristas de Lima por los 
+productos en la carretera afectada es la siguiente: 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

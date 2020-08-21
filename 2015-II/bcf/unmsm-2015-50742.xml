@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Juan dispone de una propina. Si utiliza S/.10 
+diarios de su propina, tendría dinero para 6 días 
+más, que si usara S/.15 diarios. ¿Cuánto dinero, 
+por día, tiene que gastar Juan de su propina, para 
+que le alcance durante 20 días? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>S/.8</a>
+		<a>S/.7,5</a>
+		<a>S/.8,5</a>
+		<a>S/.9,5</a>
+		<a>S/.9</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

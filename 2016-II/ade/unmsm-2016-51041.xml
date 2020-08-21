@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Suceder, ocurrir, acontecer, 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>acaecer</a>
+		<a>generar</a>
+		<a>causar</a>
+		<a>iniciar</a>
+		<a>pender</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Entre los términos suceder, ocurrir y acontecer existe 
+sinonimia. Por lo tanto, completa la serie verbal la 
+palabra acaecer (suceder, producirse un hecho), ya 
+que también es sinónimo de las anteriores. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

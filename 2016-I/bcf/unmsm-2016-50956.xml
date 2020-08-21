@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De un total de 120 personas encuestadas, 25 
+personas hablan inglés y francés, 40 solo hablan 
+francés y 20 no hablan ninguno de estos idiomas. 
+Obtenga el número de personas que habla solo uno 
+de estos idiomas.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>65</a>
+		<a>75</a>
+		<a>85</a>
+		<a>80</a>
+		<a>70</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

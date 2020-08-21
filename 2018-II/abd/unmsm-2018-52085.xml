@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En Ensayo sobre el Entendimiento humano, John 
+Locke  afirmó  que  la  mente  es  una  tabula  rasa, 
+por lo cual podemos concluir que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>FVVF</a>
+		<a>VVVV</a>
+		<a>VFFF</a>
+		<a>VVFF</a>
+		<a>VFVF</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

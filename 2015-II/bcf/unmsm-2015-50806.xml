@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La física de Aristóteles explica el fenómeno del 
+movimiento natural de acuerdo a 
+recomendando por ello material, formal, eficiente y final. Según dicho 
+enfoque, la causa eficiente se refiere 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>a aquello de lo que está hecho un objeto.</a>
+		<a>a aquello que un objeto es en esencia.</a>
+		<a>a la finalidad a la que tiende un objeto.</a>
+		<a>al agente de quien procede el movimiento.</a>
+		<a>al primer principio de todo lo existente.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

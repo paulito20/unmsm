@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Durante el a�o 2014, el Centro Comercial Mega 
+Plaza fue el lugar donde se vendieron más bienes 
+y servicios. Dentro de los productos que se ven- 
+dieron están los siguientes: zapatillas, pantalones, 
+polos, camisas, zapatos, comida, artefactos, mue- 
+bles, juguetes, etc. Se�ale los principales factores 
+que determinan la demanda de bienes y servicios. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>El precio del bien, el precio del petróleo y 
+	el ingreso del consumidor.</a>
+		<a>El precio del bien, el ingreso del consumidor 
+	y el precio de los bienes relacionados.</a>
+		<a>El tipo de cambio, el ingreso de los consu- 
+	midores y el precio del petróleo.</a>
+		<a>El tipo de cambio, la tasa de impuestos y 
+	el precio del petróleo.</a>
+		<a>La tasa de interés, el tipo de cambio y el 
+	Impuesto General a las Ventas.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

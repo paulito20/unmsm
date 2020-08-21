@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Se realiza análisis de sangre a un recién nacido, y 
+en él se detecta que hay anticuerpos IgG contra el 
+VIH. ¿Por qué el recién nacido presenta anticuer- 
+pos IgG contra el VIH? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>El sistema inmunológico del ni�o se activa 
+	inmediatamente después del parto.</a>
+		<a>La IgG está presente debido a que se ha 
+	roto la barrera primaria.</a>
+		<a>La IgG se produce desde el tercer mes de 
+	desarrollo embrionario.</a>
+		<a>Necesariamente, el ni�o ha tenido contacto 
+	con el virus VIH durante la gestación.</a>
+		<a>La IgG contra el VIH que tiene la ha reci- 
+	bido de la madre a través de la placenta.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

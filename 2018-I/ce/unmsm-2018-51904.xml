@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El equipo de fulbito Los Inseparables está formado 
+por nueve jugadores en iguales condiciones físicas y 
+deportivas, de los cuales solo seis inician el partido 
+y los tres restantes permanecen en la banca de 
+suplentes. Las camisetas de los jugadores están 
+numeradas con números del 2 al 10 y cualquiera 
+de ellos puede ser arquero del equipo.¡Cual es 
+la probabilidad de que el jugador con la camiseta 
+número 5 esté entre los que inician el partido? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

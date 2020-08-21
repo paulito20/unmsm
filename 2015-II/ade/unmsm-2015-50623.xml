@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el texto, el sentido de la palabra RÉGIMEN es
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>autoridad.</a>
+		<a>tratamiento.</a>
+		<a>orden.</a>
+		<a>sacrificio.</a>
+		<a>penitencia.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>En el último párrafo del texto se afirma, entre otras 
+cosas, que la medicina hipocrática ajustaba el ré- 
+gimen terapéutico a cada caso. En este contexto, 
+el término resaltado significa tratamiento, es decir, 
+el conjunto de medidas (dietas, medicamentos, 
+actividades, etc.) que debe seguir el paciente para 
+recuperar su salud. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

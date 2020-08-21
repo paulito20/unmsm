@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una fiesta con luces, los focos de luz roja se encienden 
+simultáneamente cada 18 segundos; similarmente, los 
+de luz violeta, cada 24 segundos y los de luz verde, 
+cada medio minuto. Si a las 10 p. m. coincidieron en 
+encenderse todos los focos, ¿cuántas veces volverán a 
+coincidir en el transcurso de la hora siguiente? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>6</a>
+		<a>10</a>
+		<a>12</a>
+		<a>8</a>
+		<a>14</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

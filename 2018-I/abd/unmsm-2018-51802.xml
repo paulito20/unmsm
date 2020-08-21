@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El sufijo -idad es una terminación de sustantivos 
+abstractos como claridad, debilidad, habilidad. A 
+partir de la explicación dada, se colige que tales 
+sustantivos se derivan a partir de un 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>adjetivo.</a>
+		<a>sustantivo.</a>
+		<a>adverbio.</a>
+		<a>pronombre.</a>
+		<a>verbo.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

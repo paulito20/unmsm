@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La  Ilustración  fue  el  movimiento  cultural  e  in- 
+telectual  más  importante  de  Europa  en  el  siglo  
+XVIII.  Los  pensadores  ilustrados  consideraban  
+que la razón iluminaría a todos los hombres para 
+alcanzar  la  libertad  y  la  felicidad.  Por  ello,  la 
+Ilustración  puede  considerarse  como  un  movi- 
+miento con pretensiones 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>internacionales.</a>
+		<a>desinteresadas.</a>
+		<a>caritativas.</a>
+		<a>antropológicas.</a>
+		<a>ecuménicas.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

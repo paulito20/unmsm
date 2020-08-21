@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la medición, con pipeta, de 10 mL de acetona 
+a 20 ºC y 1 atm, están involucradas 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>dos magnitudes fundamentales y una 
+derivada.</a>
+		<a>una magnitud fundamental y dos derivadas.</a>
+		<a>tres magnitudes fundamentales.</a>
+		<a>tres magnitudes derivadas.</a>
+		<a>dos magnitudes fundamentales y dos 
+derivadas.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

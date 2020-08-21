@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un comerciante vende tres productos diferentes, A, 
+B y C. El primer día vendió 6, 2 y 1 unidades de 
+A, B y C respectivamente; el segundo día, 5, 3 y 4 
+unidades de A, B y C respectivamente. El tercer día 
+vendió tantas unidades de A como el doble de B; 
+ese día vendió tantas unidades de B como las que 
+vendió el primer y segundo día juntos, y vendió tres 
+unidades de C. Si los ingresos por la venta de los 
+productos A, B y C en el primer, segundo y tercer 
+días fueron 35, 49 y 70 dólares, respectivamente, 
+¿cuánto recibió en total el comerciante por la venta 
+de una unidad de cada producto? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>10 dólares</a>
+		<a>15 dólares</a>
+		<a>12 dólares</a>
+		<a>13 dólares</a>
+		<a>14 dólares</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

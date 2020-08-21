@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El litoral peruano, a orillas de la cuenca del Pacífico, 
+integra el Cinturón de Fuego Circumpacífico, donde 
+ocurren más del 80 % de los sismos que afectan 
+a nuestro planeta. En el borde del litoral llamado 
+zona de subducción, la placa oceánica de Nazca se 
+introduce bajo la placa continental Sudamericana 
+a razón de 9 cm/a�o, lo que da lugar a procesos de 
+de formación de </q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>acantilados de paredes verticales.</a>
+		<a>cordilleras continentales andinas.</a>
+		<a>ríos de la vertiente del Pacífico.</a>
+		<a>zonas hundidas debajo del nivel del mar.</a>
+		<a>tablazos o terrazas marinas.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

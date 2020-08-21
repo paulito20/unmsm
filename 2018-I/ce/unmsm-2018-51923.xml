@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una oración subordinada expresa una idea que 
+complementa o modifica la oración principal y 
+puede cumplir distintas funciones. En ese sentido, en 
+el enunciado La CIA conjeturó que Rusia intervino 
+en las elecciones estaunidenses a favor de Donald 
+Trump, la oración subordinada desempe�a la 
+función de 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>adjetivo.</a>
+		<a>sustantivo.</a>
+		<a>adverbio.</a>
+		<a>conjunción.</a>
+		<a>preposición.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

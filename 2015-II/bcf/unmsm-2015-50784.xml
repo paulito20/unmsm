@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>José presenta las siguientes características en su 
+etapa evolutiva: está en la búsqueda de su iden- 
+tidad, su pensamiento se encuentra en un nivel 
+lógico formal, socialmente se ha integrado a sus 
+coetáneos, siente atracción por una de sus com- 
+pa�eras de aula y su cuerpo se ha transformado. 
+A partir de los cambios mencionados, podemos 
+sostener que José está en la 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>juventud.</a>
+		<a>adultez temprana.</a>
+		<a>adolescencia.</a>
+		<a>infancia.</a>
+		<a>ni�ez.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

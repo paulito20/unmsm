@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuando MarÃ­a naciÃ³, su padre tenÃ­a 26 años. Las 
+edades de ambos suman hoy 34 años mÃ¡s que la 
+de la madre, que tiene 54 años. Â¿QuÃ© edad tiene el 
+hijo de MarÃ­a que naciÃ³ cuando ella tenÃ­a 17 años? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>13 años</a>
+		<a>9 años</a>
+		<a>10 años</a>
+		<a>14 años</a>
+		<a>12 años</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

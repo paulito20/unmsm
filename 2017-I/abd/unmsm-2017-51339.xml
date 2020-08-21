@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El territorio peruano, con características monta�osas 
+y notables pendientes de la cordillera de los Andes, 
+con valles irrigados por ríos alimentados con abun- 
+dantes lluvias en verano, nos brinda un importante 
+potencial energético basado, principalmente, en el 
+aprovechamiento de sus recursos
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>geotermales.</a>
+		<a>eólicos.</a>
+		<a>hidroeléctricos.</a>
+		<a>hidrotermales.</a>
+		<a>fotovoltaicos.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

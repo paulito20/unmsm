@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>Un astronauta aluniza de emergencia sobre la 
+superficie de una de las cinco lunas mayores 
+del sistema joviano. Decide enviar el valor de la 
+aceleración de la gravedad local de la luna con la 
+esperanza de que entiendan el mensaje y lo ubiquen. 
+Para calcular el valor de g, construye un péndulo con 
+una cuerda (inextensible) de 1,8 m de longitud con 
+periodo de 6,28 s para una peque�a amplitud de 
+oscilación. Conociendo que el valor aproximado del 
+periodo depende proporcionalmente del cociente 
+entre la longitud del péndulo y el valor local de la 
+aceleración de la gravedad, determine dónde se 
+encuentra el astronauta.
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Europa</a>
+		<a>Ío</a>
+		<a>Ganímedes</a>
+		<a>Amaltea</a>
+		<a>Calisto</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

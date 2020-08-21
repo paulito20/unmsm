@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si en un determinado mes del a�o, el primer y 
+último día de dicho mes es lunes, ¿qué día será el 
+25 de agosto del mismo a�o? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Lunes</a>
+		<a>Miércoles</a>
+		<a>Jueves</a>
+		<a>Martes</a>
+		<a>Sábado</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>
+	</q>En un parque, usando una cuerda de 34 metros, 
+un jardinero diseña un rectÃ¡ngulo cuya diagonal 
+mide 13 metros. Si las longitudes de sus lados, en 
+metros, son a y b, halle la diferencia positiva de los 
+cuadrados de a y b.
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>255</a>
+		<a>105</a>
+		<a>128</a>
+		<a>119</a>
+		<a>187</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

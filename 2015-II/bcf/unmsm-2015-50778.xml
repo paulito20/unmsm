@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Seleccione la opción que presenta empleo correcto 
+de letras mayúsculas.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Hubo buenas relaciones comerciales entre 
+	los imperios Romano y Chino.</a>
+		<a>Carmela de la Merced representó, en el 
+	teatro, a la Caperucita roja.</a>
+		<a>Según el Antiguo Testamento, los israelitas 
+	huyeron de los Egipcios.</a>
+		<a>Alfonsina La Torre, apodada la Gitana, 
+	nació bajo el signo de Escorpio.</a>
+		<a>En esta semana Santa, en abril, probable- 
+	mente no leamos la Biblia.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

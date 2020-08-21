@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Mariella refiere lo siguiente: “Cuando llevé por 
+primera vez el curso de Psicología, me gustó mucho, 
+entendía todo lo que me explicaban, lo relacionaba 
+con mi vida y la vida de los demás. Me agradaba 
+escuchar los problemas de mis amigas, ellas decían 
+que era buena consejera. Cuando terminé el colegio, 
+mis padres no me dejaron postular a Psicología, 
+me inscribieron en otra carrera a la cual ingresé, 
+pero nunca me gustó. No terminé de estudiar, 
+desaprobaba los cursos, luego me puse a vender 
+ropa en un mercado y no quise saber nada de los 
+estudios”. A partir del relato, se puede decir que el 
+comportamiento de los padres de Mariella influyó 
+principalmente en
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>su vocación laboral.</a>
+		<a>sus relaciones sociales.</a>
+		<a>su proyecto de vida.</a>
+		<a>sus habilidades ocupacionales.</a>
+		<a>su interés vocacional.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

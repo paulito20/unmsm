@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Elija la alternativa que contiene una oración desi- 
+derativa.
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Ojalá hoy el sol brille como nunca.</a>
+		<a>Por favor, regrese temprano a casa.</a>
+		<a>Usted dijo que nos atendería.</a>
+		<a>La vecina nos saludó alegremente.</a>
+		<a>¡Cómo me hacen enojar estos chicos!</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

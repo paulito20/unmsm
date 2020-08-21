@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dos personas, Carlos y Esteban, ingresan al banco 
+por diferentes raz�nes: el primero intenta depositar 
+dinero de lo recibido por sus a�os de servicio labo- 
+ral; el segundo quiere averiguar las condiciones de 
+un préstamo para ampliar su negocio. Así, las tasas 
+de interés que deberían ser materia de preocupación 
+por parte de ambos usuarios son las siguientes: 
+............... y .............., respectivamente. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>activa - pasiva</a>
+		<a>pasiva - activa</a>
+		<a>nominal - real</a>
+		<a>pasiva - nominal</a>
+		<a>real - activa</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

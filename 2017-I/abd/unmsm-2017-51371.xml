@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El adenosín trifosfato (ATP) es la molécula energéti- 
+ca utilizada por todas las células para poder cumplir 
+con sus funciones; la fosforilación oxidativa es uno 
+de los procesos metabólicos para formar ATP que 
+tiene lugar en las mitocondrias. Pero los eritrocitos 
+no tienen mitocondria. ¿Qué otro proceso usan estas 
+células para generar ATP y poder vivir por 120 días 
+en el torrente sanguíneo? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Fermentación alcohólica</a>
+		<a>Ciclo de Calvin-Benson</a>
+		<a>Gluconeogénesis</a>
+		<a>Fermentación láctica</a>
+		<a>Fermentación aeróbica</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

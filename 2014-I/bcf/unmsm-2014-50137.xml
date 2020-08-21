@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>Máximo le dice a Félix: “Dame 5 de tus fichas y 
+	tendremos la misma cantidad”; Félix le responde: 
+	“Si me das 10 de las tuyas, tendré el triple de las 
+	que te quedan”.</q0>
+	<g0></g0>
+	<q>¿Cuántas fichas tiene Félix?</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>30</a>
+		<a>25</a>
+		<a>40</a>
+		<a>45</a>
+		<a>35</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2>Tema: Planteo de ecuaciones
+	Analisis y procedimiento
+	Se pide el numero de fichas de Felix.
+	De la 1.° condicion
+		Maximo				Felix
+		 x-5	 darme 5	 x+5
+			   tendremos la
+			  misma cantidad
+			 (diferencia=10)
+	De la 2.° condicom 
+		(x+5)+10=3[(x-5)-10]
+			x+15=3x-45
+				x=30
+	Por lo tanto,N.° de fichas de Felix = 35.</x2>
+	<i2></i2>
+	<v></v>
+</p>

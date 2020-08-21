@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>En la figura, el área del cuadrado ABCD es 120 m  y EF es diametro.Halle e area del circulo.</q>
+	<q2></q2>
+	<as t="R" correcta="1">
+		<a>300π m2</a>
+		<a>150π m2</a>
+		<a>125π m2</a>
+		<a>250π m2</a>
+		<a>225π m2</a>
+	</as>	
+	<x>B</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

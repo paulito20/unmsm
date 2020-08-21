@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Solón impulsó importantes reformas para mejorar 
+la situación de los campesinos atenienses, dictó 
+leyes “tanto para el hombre del pueblo como para 
+el rico” y llegó a suprimir la esclavitud por deudas. 
+Por esto, es considerado un gran 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>legislador.</a>
+		<a>arconte.</a>
+		<a>heliasta.</a>
+		<a>tirano.</a>
+		<a>eupátrida.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

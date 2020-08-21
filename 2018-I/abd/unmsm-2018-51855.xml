@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuando la solución acuosa de una celda electrolítica 
+es electrolizada, se produce la conducción eléctrica 
+debido a que ocurren reacciones redox en los elec- 
+trodos. Es muy probable que durante la electrólisis 
+del bromuro de sodio acuoso se produzcan dos 
+reacciones anódicas y dos catódicas. Si la solución 
+alrededor del ánodo toma color rojo, se podría 
+afirmar que la semirreacción en el 
+
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

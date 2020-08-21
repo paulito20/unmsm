@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Respecto  de  la  
+función  del  catalizador,  determine  la  verdad  (V) 
+o falsedad (F) de las siguientes afirmaciones. 
+I.  Aumenta la velocidad de la reacción directa. 
+II. Disminuye la energía de activación. 
+III. Incrementa la cantidad de CO2 producido. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>VVF</a>
+		<a>FVF</a>
+		<a>VFF</a>
+		<a>VFV</a>
+		<a>FVV</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

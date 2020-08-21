@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>La suma de las edades de un padre y su hijo es 42 
+	a�os; si la edad del padre es numéricamente igual 
+	al cuadrado de la del hijo,</q0>
+	<g0></g0>
+	<q>¿dentro de cuántos a�os 
+	la edad del padre será el cuádruple de la de su hijo? </q>
+	<q2></q2>
+	<as t="R" correcta="3">
+		<a>6</a>
+		<a>7</a>
+		<a>8</a>
+		<a>4</a>
+		<a>12</a>
+	</as>	
+	<x>D</x>
+	<i></i>
+	<x2>Tema: Problemas sobre edades
+	Análisis y procedimiento 
+	Se pide el número de a�os que debe transcurrir 
+	para que se cumpla la condición. 
+	
+	Del dato
+		Edad del padre: x2
+		Además x +x=42  →  x=6 
+		
+		Entonces, en lo pedido 
+		
+						  +4
+			Actualidad 			Futuro
+	Padre: 		36				4×(10)
+	Hijo:		 6				1×(10)
+	Diferencia  30 		= 		  30
+
+	Por lo tanto,el tiempo que debe transcurrir es 4 a�os.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

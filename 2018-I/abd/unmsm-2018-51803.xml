@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En ciertos contextos, se puede emplear un 
+hiperónimo para hacer referencia a una palabra 
+mencionada antes en el enunciado. ¿En cuál de las 
+siguientes opciones, la referencia se fija mediante 
+un hiperónimo resaltado en negritas? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>El hombre nacido en nuestra tierra piensa 
+	siempre en la naturaleza. Como peruano, 
+	considera la historia de los paisajes naturales.</a>
+		<a>Mi tío siempre va a ese lugar donde conoció 
+	a la mujer de su vida. En efecto, esa hermosa 
+	alameda le trae gratos recuerdos.</a>
+		<a>El biólogo de la Universidad hace expe- 
+	rimentos en el laboratorio. El científico 
+	espera hallar algo relevante para la teoría 
+	genética.</a>
+		<a>Ese individuo suele ser cordial, respetuoso 
+	y algo solemne. Las damas mayores dirían 
+	de él que es un verdadero caballero.</a>
+		<a>Se ha comprado un automóvil muy funcio- 
+	nal y de aspecto elegante. Cuando lo veas, 
+	felicítalo por su nuevo carro.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

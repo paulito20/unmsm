@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) El oso de anteojos (Tremarctos ornatus) cono- 
+cido como oso frontino, oso andino u oso sud- 
+americano es una especie de mamífero carnívoro 
+de la familia Urside. (II) El oso de anteojos solo 
+vive en la región andina amazónica de América 
+del Sur en un hábitat cada vez más amenazado 
+por la expansión humana. (III) En el Perú, el oso 
+de anteojos habita diversos ecosistemas ubicados 
+entre los 500 y los 4500 m s. n. m. (IV) Los osos 
+de anteojos prefieren vivir en los bosques húme- 
+dos y de neblinas situados en las ecorregiones de 
+la selva alta y el páramo, por lo que rara vez se 
+los puede observar. (V) Algunos investigadores 
+consideran que actualmente alrededor de 18 000 
+osos de anteojos viven en estado silvestre en toda 
+la cordillera de los Andes.</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>V</a>
+		<a>IV</a>
+		<a>I</a>
+		<a>II</a>
+		<a>III</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>El ejercicio desarrolla como tema central las ca- 
+racterísticas del hábitat del oso de anteojos. Por 
+tal razón, se elimina el primer enunciado, por el 
+criterio de disociación, ya que dicha oración alude 
+a un tema diferente: la definición biológica del oso 
+de anteojos.</x2>
+	<i2></i2>
+	<v></v>
+</p>

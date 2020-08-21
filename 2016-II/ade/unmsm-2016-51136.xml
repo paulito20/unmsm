@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la naturaleza, un ejemplo del movimiento de 
+partículas cargadas cuya trayectoria es afectada por 
+un campo magnético es la aurora polar, fenómeno 
+en forma de brillo o luminiscencia que se observa 
+en el cielo nocturno en las zonas polares. Con esta 
+ilustración, calcule el radio de la órbita de un protón 
+que entra perpendicularmente a un campo magné- 
+tico uniforme 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>2,0 cm</a>
+		<a>4,0 cm</a>
+		<a>3,0 cm</a>
+		<a>5,0 cm</a>
+		<a>6,0 cm</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

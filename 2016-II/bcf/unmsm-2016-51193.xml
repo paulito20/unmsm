@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Janeth tiene un terreno como se muestra en el 
+gráfico, el cual está conformado por una semicircun- 
+ferencia y cuatro rectángulos congruentes situados 
+alrededor del cuadrado ABCD. Si la región ABCD 
+tiene un área de 144 m2 y cada rectángulo y el 
+cuadrado ABCD tiene igual perímetro, halle el área 
+del semicírculo. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

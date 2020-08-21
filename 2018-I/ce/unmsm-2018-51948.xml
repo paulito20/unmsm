@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En los siglos xv y xvi se produjo la expansión europea 
+hac�a África, Asia y América. Los portugueses y los 
+espa�oles desempe�aron roles fundamentales en 
+esta empresa. Una de las consecuencias de este 
+proceso fue 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>el desarrollo de una revolución industrial en 
+	Portugal.</a>
+		<a>el colapso político de los imperios del Lejano 
+	Oriente.</a>
+		<a>el confinamiento del Islam al Medio Oriente.</a>
+		<a>la crisis demográfica que afectó al Nuevo 
+	Mundo.</a>
+		<a>la difusión de las ideas ilustradas en Espa�a.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

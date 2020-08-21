@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un universitario acude a la consulta psicológica por 
+sentirse afectado emocionalmente cada vez que 
+expone delante de sus compa�eros. Después de 
+varias entrevistas, el psicólogo concluye que el 
+universitario tiene temores que ha reprimido desde 
+su etapa escolar; por lo tanto, decide utilizar en el 
+tratamiento una técnica denominada asociación 
+libre, que consiste en que el paciente exprese todas 
+sus ideas, emociones, pensamientos e imágenes tal 
+y como se le presentan, sin restricciones ni orde- 
+namientos, para así determinar qué cosas, dentro 
+de esas manifestaciones, reflejan un conflicto. En 
+este caso, el psicólogo está utilizando una técnica 
+terapéutica basada en el enfoque 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>conductual.</a>
+		<a>humanista.</a>
+		<a>cognitivo.</a>
+		<a>biosocial.</a>
+		<a>psicoanalítico.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si se comprimiera todo el contenido de ozono 
+de la atmósfera dentro de una banda de gas a 
+temperatura y presión a nivel del mar, el estrato 
+resultante sería de ..... mm de espesor. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>2</a>
+		<a>5</a>
+		<a>6</a>
+		<a>7</a>
+		<a>3</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un intrépido deportista decide nadar entre la cos- 
+ta  del  Callao  y  la  isla  San  Lorenzo.  Después  de 
+recorrer más de la mitad de la distancia, comien- 
+za a sufrir dolor en los músculos de las piernas y 
+a  sentirlas  acalambradas.  Su  entrenador  atribuye 
+los síntomas al acúmulo de lactato en los múscu- 
+los. ¿Qué le recomendaría hacer para evitar estos 
+síntomas? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Incrementar el ejercicio y usar un algodón con 
+	alcohol</a>
+		<a>Detener el ejercicio e incrementar la glucosa 
+	sanguínea</a>
+		<a>Detener el ejercicio e incrementar el oxígeno 
+	sanguíneo</a>
+		<a>Incrementar el piruvato para evitar la fermen- 
+	tación láctica</a>
+		<a>Interrumpir el ejercicio e incrementar el ácido 
+	pirúvico</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

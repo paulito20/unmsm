@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El autor estaría en desacuerdo con la afirmación 
+de que el comportamiento humano carece de 
+inocencia debido 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>al instinto.</a>
+		<a>a la razón.</a>
+		<a>al análisis.</a>
+		<a>a la reflexión.</a>
+		<a>a la deducción.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Según el autor, nuestro comportamiento es me- 
+diado por la razón y la reflexión, dejando de lado 
+nuestros instintos, algo que más bien ocurre en los 
+animales. Por lo tanto, no estaría de acuerdo con 
+que se afirme que los instintos son los que guían 
+nuestro accionar. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

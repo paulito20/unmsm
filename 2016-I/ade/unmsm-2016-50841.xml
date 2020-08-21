@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cinco mujeres, al ser interrogadas por un delito que 
+cometió una de ellas, manifestaron lo siguiente: 
+	Bertha: Fue Elsa 
+	Ana: Fue Bertha 
+	Elsa: Bertha miente 
+	María: Yo no fui 
+	Karla: Yo fui 
+Si solo una de ellas dice la verdad, ¿quién cometió 
+el delito? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Bertha</a>
+		<a>Ana</a>
+		<a>María</a>
+		<a>Elsa</a>
+		<a>Karla</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

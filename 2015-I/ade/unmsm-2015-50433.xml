@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Amílcar empaqueta un regalo para cada una de 
+sus cuatro hermanas, tomando en cuenta el color 
+de preferencia de cada una de ellas, en cuatro 
+cajas idénticas. En una de ellas coloca una cartera 
+de color blanco; en otra, una de color rojo, y en 
+cada una de las otras dos, una de color marrón. 
+Luego, las cierra y, al etiquetarlas con el color de 
+las carteras que contiene cada caja, se equivoca en 
+todas. Para etiquetarlas correctamente, ¿cuántas 
+cajas se debe abrir como mínimo y cuál o cuáles 
+de ellas?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>1 y la caja etiquetada con “cartera de color 
+	rojo”.</a>
+		<a>1 y la caja etiquetada con “cartera de color 
+	marrón”.</a>
+		<a>2 y las cajas etiquetadas con “cartera de 
+	color marrón”.</a>
+		<a>1 y la caja etiquetada con “cartera de color 
+	blanco”.</a>
+		<a>2 y la caja etiquetada con “cartera de color 
+	marrón” y la “de color rojo”.</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

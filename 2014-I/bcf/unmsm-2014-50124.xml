@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>	
+	<q0></q0>
+	<g0></g0>
+	<q>Se infiere que, respecto de la organización de la vida mental, el asociacionanismo propugna el </q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>casualidad.</a>
+		<a>necesidad.</a>
+		<a>racionalidad.</a>
+		<a>inmanencia.</a>
+		<a>trascendencia.</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2>Se infiere que, respecto a la organización de la vida
+	mental,el asociacionista propugna el concepto de casualidad. 
+	En la lectura, tanto lo planteado por el empirismo 
+	como lo argumentado por el escepticismo 
+	refutan la existencia de una lógica necesaria en 
+	las leyes asociativas que rigen nuestro mundo 
+	mental; ambos se�alan, por el contrario, que 
+	dichas asociaciones son producto, netamente, de 
+	combinaciones accidentales, es decir, puramente 
+	casuales. </x2>
+	<i2></i2>
+	<v></v>
+</p>

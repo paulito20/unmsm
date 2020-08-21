@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Elmer cumple 61 años el mismo dÃ­a en que Rosita 
+cumple 17 años. A partir de esa fecha, Â¿dentro 
+de cuÃ¡ntos años la edad de Elmer serÃ¡ el triple 
+de la de Rosita?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>9</a>
+		<a>3</a>
+		<a>5</a>
+		<a>12</a>
+		<a>10</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Muchas moléculas de interés biológico tienen en 
+su estructura aldehídos y cetonas; la mayoría de  
+los aldehídos aromáticos son los responsables  
+de los olores de las diversas partes de las plantas, 
+como por ejemplo el cinamaldehído presente en la 
+canela. Su estructura es 
+Respecto al cinamaldehído, marque la secuencia 
+correcta de V (verdadero) o F (falso) de las siguien- 
+tes proposiciones: 
+I.    Según IUPAC, es el 3-fenilprop-2-enal. 
+II.  Tienen en su estructura al grupo carbonilo. 
+III. Es un derivado del fenol. 
+IV.  Según IUPAC, es el 3-fenil-2-etenal. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>VVFF</a>
+		<a>FVVF</a>
+		<a>FVVV</a>
+		<a>VVVF</a>
+		<a>VFFF</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

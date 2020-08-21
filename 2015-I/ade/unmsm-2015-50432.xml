@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Tania, Norma, Pedro, Fredy, Darío y Rocío se 
+ubican simétricamente en seis asientos alrededor 
+de una mesa circular. Tania no está al lado de 
+Norma ni de Pedro. Fredy no está al lado de 
+Rocío ni de Pedro. Darío está junto y a la derecha 
+de Norma, pero Norma no está al lado de Rocío 
+ni de Fredy. ¿Quién está ubicado junto y a la 
+izquierda de Fredy?
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>Darío</a>
+		<a>Rocío</a>
+		<a>Norma</a>
+		<a>Pedro</a>
+		<a>Tania</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

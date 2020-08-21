@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Señale la alternativa donde todas las palabras deben escribirse con tilde.</q>
+	<q2></q2>
+	<as t="R" correcta="1">
+		<a>Campus, album, lapsus</a>
+		<a>Escuter,forceps,item</a>
+		<a>Examen,torax, yoquey</a>
+		<a>Referendum,joven, arbol</a>
+		<a>Ganster, herpes, superavit</a>
+	</as>	
+	<x>B</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El largo de una cancha de fútbol de forma rectan- 
+gular mide 125 m. Si la longitud de su diagonal es 
+150 m, ¿cuál es el ancho de la cancha de fútbol? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

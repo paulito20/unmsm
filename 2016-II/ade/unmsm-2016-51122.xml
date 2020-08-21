@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Deter minados escenarios naturales del Perú 
+presentan ca�ones o pongos. En su formación, 
+intervienen ciertos factores geográficos como el 
+clima, el relieve, las precipitaciones pluviales, la 
+orientación de los vertientes, entre otros. Al respecto, 
+¿cuál de los escenarios naturales indica la presencia 
+de ca�ones o pongos? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>El clima seco o desértico de las cuencas 
+	hidrográficas de la vertiente occidental</a>
+		<a>El relieve de la vertiente oriental mucho más 
+	accidentado y cubierto de foresta</a>
+		<a>La inclinacion de la vertiente occidental 
+más accidentes y cubierta de foresta</a>
+		<a>El clima tropical lluvioso de las cuencas 
+	hidrográficas de la vertiente oriental</a>
+		<a>El declive del flanco occidental de marcada 
+	aridez climática y escasa vegetación</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La intervención de los Estados Unidos de América 
+en Vietnam tuvo como propósito 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>apoyar las guerrillas insurgentes.</a>
+		<a>reunificar Vietnam del Norte y del Sur.</a>
+		<a>la descolonización de Indochina.</a>
+		<a>frenar la influencia de Camboya.</a>
+		<a>impedir la influencia comunista.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

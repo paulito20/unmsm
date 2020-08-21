@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Según Francisco Miró Quesada, la lógica matemática 
+es un sistema que 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>ha sido abandonado por la tradición 
+	filosófica occidental.</a>
+		<a>posee un lenguaje formal que admite los tres 
+	principios clásicos.</a>
+		<a>excluye totalmente las formas del pensa- 
+	miento racional.</a>
+		<a>carece de sentido y validez para el uso 
+	científico actual.</a>
+		<a>privilegia el principio de no contradicción 
+	sobre los otros dos.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

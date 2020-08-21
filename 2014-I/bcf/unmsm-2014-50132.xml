@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>De 80 profesores de la Facultad de Matemáticas, 
+	50 no practican ni fulbito ni atletismo; 18 practican 
+	fulbito; 5 practican fulbito y atletismo.</q0>
+	<g0></g0>
+	<q>¿Cuántos 
+	practican solo uno de estos deportes?</q>
+	<q2></q2>
+	<as t="R" correcta="4">
+		<a>12</a>
+		<a>18</a>
+		<a>30</a>
+		<a>20</a>
+		<a>25</a>
+	</as>	
+	<x>E</x>
+	<i></i>
+	<x2> Tema: Planteo de ecuaciones 
+	Análisis y procedimiento 
+	Nos piden el número de personas que practican 
+	solo uno de estos deportes. 
+	Del enunciado, podemos plantear e siquiente
+	diagrama.
+						Total:80
+			fulbito atletismo
+			  x		5	y		No practican
+							50
+			Practican
+				ambos
+	Por lo tanto, el número de personas que practican 
+	solo uno de los deportes es x+y=25. 
+	
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

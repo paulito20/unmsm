@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Sobre los vértices consecutivos de un octágono 
+regular, se colocan, respectivamente, fichas nume- 
+radas como se muestra en la figura. ¿Cuántas fichas 
+deben cambiar de posición, como mínimo, para que 
+el producto de los dos números que se encuentran 
+en los extremos de las diagonales mayores sea el 
+mismo?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>6</a>
+		<a>2</a>
+		<a>3</a>
+		<a>4</a>
+		<a>5</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

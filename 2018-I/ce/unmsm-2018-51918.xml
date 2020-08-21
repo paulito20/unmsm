@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Lea el siguiente texto y precise la cantidad de 
+palabras que deben llevar tilde. 
+Una persona que conozca diversas lenguas no tiene 
+por que ser un eximio lingüista. Lo que si es seguro 
+es que quien disponga de un saber lingüistico estara 
+en condiciones de comprender mucho mejor los 
+habitos de un pais.
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Tres</a>
+		<a>Cinco</a>
+		<a>Cuatro</a>
+		<a>Seis</a>
+		<a>Siete</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

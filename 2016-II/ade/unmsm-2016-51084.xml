@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un equipo de investigación conformado por los 
+profesores A, B y C obtuvo 100 datos numéricos: 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>11,1</a>
+		<a>22,2</a>
+		<a>10,0</a>
+		<a>11,0</a>
+		<a>11,2</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

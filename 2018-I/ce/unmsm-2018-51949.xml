@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el Tratado de Versalles, las condiciones im- 
+puestas a los países perdedores de la Primera 
+Guerra Mundial fueron muy drásticas; perdieron 
+territorios, colonias, poderío militar y se les exigió 
+una importante reparación monetaria. Una de las 
+consecuencias inmediatas de estas condiciones fue
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>la irrupción de Francia como potencia mundial.</a>
+		<a>la desaparición paulatina del partido nazi.</a>
+		<a>la descolonización de África, Asia y Oceanía.</a>
+		<a>la crisis económica alemana de los a�os 
+	veinte.</a>
+		<a>la decadencia geopolítica del Imperio britá- 
+	nico.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En  muchas  tareas  diarias  es  necesario  arrastrar 
+objetos. Esto puede ser más o menos difícil según 
+las fuerzas de rozamiento entre las superficies en 
+contacto. Después de investigar la fuerza necesa-
+ria  para  arrastrar  un  bloque  sobre  una  superficie 
+horizontal,  un  estudiante  aplicó  al  bloque  una  
+fuerza  horizontal  F y  verificó  que  este  se  dete- 
+nía.  En  esta  situación,  podemos  afirmar  que  el  
+módulo  de  la  fuerza  de  fricción  estática  entre  el  
+bloque y la superficie de apoyo es 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>mayor que el módulo de la fuerza F .</a>
+		<a>igual al módulo del peso del bloque.</a>
+		<a>mayor que el módulo del peso del bloque.</a>
+		<a>menor que el módulo del peso del bloque.</a>
+		<a>igual al módulo de la fuerza F .</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

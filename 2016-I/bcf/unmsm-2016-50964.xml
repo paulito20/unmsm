@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cada fin de semana, Pedro viaja a Ica o a Piura. 
+El pasaje de ida y vuelta a Piura cuesta S/.240 y 
+el de ida y vuelta a Ica cuesta la mitad. Si en las 
+últimas 9 semanas ha gastado en pasajes S/.1200, 
+¿cuántas veces viajó y volvió de Ica? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>6</a>
+		<a>4</a>
+		<a>7</a>
+		<a>5</a>
+		<a>8</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

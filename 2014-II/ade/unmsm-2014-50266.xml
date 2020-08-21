@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Marque la alternativa que presenta oración 
+compuesta por subordinación sustantiva.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>El sofá que trajiste es de cuero.</a>
+		<a>Ella visitó la iglesia donde se casó.</a>
+		<a>Aunque llore, Olga no saldrá de aquí.</a>
+		<a>Temo que pierdas tu reloj nuevo.</a>
+		<a>Antes de que amanezca, saldremos.</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

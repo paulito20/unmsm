@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>El Perú no puede aplicar la pena de muerte puesto 
+que ha suscrito </q>
+	<q2></q2>
+	<as t="R" correcta="1">
+		<a>el acuerdo de la Corte Internacional de La Haya.</a>
+		<a>el Pacto de San José de Costa Rica.</a>
+		<a>la Declaración de los Derechos Humanos.</a>
+		<a>la Carta Democrática Interamericana.</a>
+		<a>los principios de las Naciones Unidas.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>Tema: Derechos humanos 
+
+Análisis y argumentación 
+La Convención Americana sobre Derechos Hu- 
+manos, denominada Pacto de San José de Costa 
+Rica, es un tratado de carácter regional suscrito 
+el 22 de noviembre de 1969. El Estado peruano 
+ratificó la convención el 28 de julio de 1978, en la 
+cual se compromete a respetar el derecho a la vida 
+y a no ampliar otras causales para la aplicación de 
+la pena de muerte.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

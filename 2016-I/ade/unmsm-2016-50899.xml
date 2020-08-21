@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si se estima un déficit de USD 1693 millones en 
+la balanza comercial (BC), la relación entre ex- 
+portación (X) e importación (M) se expresa en la 
+siguiente fórmula: 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>BC=1693 – M</a>
+		<a>X – M= – 1693</a>
+		<a>BC=X – 1693</a>
+		<a>BC+M=1693</a>
+		<a>X – BC=1693</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

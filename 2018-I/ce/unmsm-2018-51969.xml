@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las ondas primaria y secundaria, P y S, parten 
+simultáneamente desde el hipocentro de un sismo. 
+El hipocentro es el lugar debajo de la superficie 
+terrestre donde se genera el sismo. Las ondas P 
+viajan aproximadamente 1,73 veces más rápido 
+que las S. Ahora bien, es cierto lugar de la costa 
+peruana tiene lugar un mismo y es registrado por 
+sismógrafo ubicado sobre la superficie terrestre. El 
+sismógrafo registra que las ondas S y P llegan con 
+una diferencia de 14,6 s. Si se sabe, además, que 
+la onda S tiene una rapidez de 5 km/s, determine 
+la distancia del hipocentro al sismógrafo. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>73 km</a>
+		<a>100 km</a>
+		<a>34,6 km</a>
+		<a>299,29 km</a>
+		<a>173 km</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

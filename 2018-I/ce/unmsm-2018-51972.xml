@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Julián tiene la misión de colgar un banderola y 
+debe subir verticalmente por una escalera de 12 m 
+de longitud. El peso de Julián y sus herramientas 
+es de 750 N. Como su jefe le pide hacer la tarea lo 
+más rápido posible, Julián hace un máximo esfuerzo 
+y sube por la escalera en 15 s sin aceleración. Un 
+profesor de Física ve la escena, registra los datos 
+y decide calcular la potencia liberada por Julián. 
+Determine el resultado obtenido por el profesor. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>937,5 w</a>
+		<a>500 w</a>
+		<a>9000 w</a>
+		<a>600 w</a>
+		<a>750 w</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

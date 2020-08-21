@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un depósito tiene tres llaves. La llave A puede 
+llenarlo en 3 minutos, la llave B puede hacerlo en 
+6 minutos y la llave del desagüe puede vaciarlo en 
+18 minutos. Si el depósito se encuentra vacío y el 
+desagüe abierto, ¿en cuánto tiempo se llenará el de- 
+pósito si se abren simultáneamente las llaves A y B? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+		<a></a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

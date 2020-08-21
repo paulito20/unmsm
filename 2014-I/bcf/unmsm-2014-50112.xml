@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Resulta incompatible con el texto afirmar que</q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>la cultura griega responde a un largo proceso histórico.</a>
+		<a>las matemáticas griegas tuvieron antecedentes en Egipto.</a>
+		<a>el siglo VI a. C. legó datos del auge de la cultura griega.</a>
+		<a>la ciencia griega es un milagro histórico inexplicable.</a>
+		<a>sabios griegos visitaron y conocieron ciudades orientales.</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2>Según el texto, el “milagro griego” (desarrollo menos ilustrado.  
+	de la ciencia, el arte y la filosofía) tuvo como 
+	antecedente el saber que desar rollaron las 
+	culturas orientales, tales como Egipto y Mesopotamia. Por lo tanto, es erróneo sostener</x2>
+	<i2></i2>
+	<v></v>
+</p>

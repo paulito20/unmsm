@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La figura mostrada representa una rejilla hecha 
+de alambre. Desplazándose solo por la rejilla, ¿de 
+cuántas maneras diferentes podrá trasladarse una 
+hormiga que se encuentra en el punto A hasta el 
+punto M siguiendo las direcciones indicadas? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>28</a>
+		<a>30</a>
+		<a>26</a>
+		<a>24</a>
+		<a>32</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

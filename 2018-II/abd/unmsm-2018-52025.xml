@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>José salió de su casa, entre las 7 p.m. y las 7:30 
+p.m.,  cuando  las  agujas  de  su  reloj  formaban  un  
+ángulo de 100°. Si regresó a su casa en el instante 
+en  el  que  las  agujas  de  su  reloj  formaban  un  án- 
+gulo  de  110°  por  última  vez    en  ese  mismo  día, 
+¿cuánto tiempo estuvo fuera de casa?     
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>4 horas y 40 minutos</a>
+		<a>4 horas y 20 minutos</a>
+		<a>3 horas y 20 minutos</a>
+		<a>3 horas y 40 minutos</a>
+		<a>4 horas y 30 minutos</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

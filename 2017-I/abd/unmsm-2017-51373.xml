@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Fabiana es una ni�a que gusta de cultivar plantas, 
+pero está intrigada por la alimentación de estas. No 
+llega a entender cómo logran crecer en su maceta 
+solo con agua. Su madre trata de explicarle que 
+las plantas tambien utilizan las minerales 
+que están en la tierra y aprovechan la energía del 
+sol para elaborar sus propios alimentos. Se�ale el 
+mecanismo de incorporación de sales minerales 
+que emplean las células de la raíz de una planta. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>transporte pasivo</a>
+		<a>difusión facilitada</a>
+		<a>transporte activo</a>
+		<a>libre difusión</a>
+		<a>ósmosis</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

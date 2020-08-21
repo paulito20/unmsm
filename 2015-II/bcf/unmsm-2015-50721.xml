@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Los líquenes son organismos que resultan de la 
+relación simbiótica entre un hongo y un organismo 
+capaz de hacer fotosíntesis. (II) La simbiosis es la 
+asociación de forma equilibrada de dos o más 
+organismos de distintas especies. (III) Los líquenes 
+se comportan como un solo organismo en el que 
+cada una de sus partes constitutivas es depen- 
+diente de la otra. (IV) Los líquenes sobreviven en 
+medios inhóspitos como las regiones árticas y los 
+desiertos. (V) Los líquenes viven sobre el suelo 
+natural, los árboles y las piedras. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>V</a>
+		<a>III</a>
+		<a>II</a>
+		<a>I</a>
+		<a>IV</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>El ejercicio, básicamente, explica las características 
+de los líquenes. Por tal razón, se elimina la segunda 
+oración, pues menciona un tema impertinente: la 
+definición de la simbiosis.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si pudiéramos ser capaces de dar la valoración 
+adecuada a los agentes estresantes, entonces 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>lograríamos evitar las enfermedades.</a>
+		<a>podríamos controlar el estrés crónico.</a>
+		<a>crecería la imprevisibilidad del mundo.</a>
+		<a>experimentaríamos el buen estrés.</a>
+		<a>sucumbiríamos ante el estrés crónico.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>Si conocemos apropiadamente las causas del estrés, 
+entonces podríamos controlar el estrés crónico. 
+Puesto que la mayoría de los factores desencade- 
+nantes son de origen cultural, la comprensión de 
+su naturaleza permite sobrellevarlo. La elección 
+del fármaco apropiado, técnicas de relajación, los 
+ejercicios físicos, la práctica de la solidaridad y las 
+actividades religiosas permiten combatir el estrés. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

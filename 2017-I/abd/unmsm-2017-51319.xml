@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El neoclasicismo, movimiento literario que surgió 
+en Francia y se propagó por toda Europa, implicó 
+principalmente 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>una identificación con la literatura barroca.</a>
+		<a>una revalorización de la cultura grecolatina.</a>
+		<a>un retor no a los valores propios del 
+	Medioveo.</a>
+		<a>un rechazo total a los principios de la 
+	Ilustración.</a>
+		<a>una transformación de las unidades teatrales.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

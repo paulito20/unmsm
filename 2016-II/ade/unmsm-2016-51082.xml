@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una carrera de 200 m planos, Alberto le da a 
+José una ventaja de 40 m para llegar simultánea- 
+mente a la meta, y en una carrera de 100 m planos, 
+José le da a Luis una ventaja de 10 m. Sabiendo 
+que las velocidades de los 3 es constante en todas 
+las carreras, ¿cuántos metros de ventaja debe darle 
+Alberto a Luis en una carrera de 400 m planos para 
+llegar simultáneamente a la meta? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>110 m</a>
+		<a>288 m</a>
+		<a>122 m</a>
+		<a>112 m</a>
+		<a>108 m</a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

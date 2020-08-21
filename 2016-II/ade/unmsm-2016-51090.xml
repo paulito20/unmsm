@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál es el precio de un cajón de madera con tapa 
+superior en forma de un paralelepípedo, cuyas 
+dimensiones son 60 cm×40 cm×50 cm, si el metro 
+cuadrado de madera cuesta 18 euros? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>26,64 euros</a>
+		<a>25,53 euros</a>
+		<a>27,75 euros</a>
+		<a>26,33 euros</a>
+		<a>27,42 euros</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

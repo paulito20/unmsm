@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>A un paciente se le receta tomar una pastilla del 
+tipo A cada 8 horas y dos pastillas del tipo B cada 
+7 horas. Si empieza su tratamiento tomando los 
+dos tipos de pastillas simultáneamente, ¿en cuántas 
+horas como mínimo habrá tomado 18 pastillas? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>35</a>
+		<a>42</a>
+		<a>32</a>
+		<a>56</a>
+		<a>40</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

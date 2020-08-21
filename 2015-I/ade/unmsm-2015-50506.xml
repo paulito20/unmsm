@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el cruce de una planta dihíbrida heterocigota 
+con otra de línea pura con caracteres dominantes, 
+los tipos de gametos para cada progenitor serán, 
+respectivamente, 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>4 y 1.</a>
+		<a>2 y 1.</a>
+		<a>4 y 2.</a>
+		<a>2 y 4.</a>
+		<a>2 y 2.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

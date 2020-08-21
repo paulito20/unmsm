@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Elija la secuencia que muestra el emparejamiento 
+correcto entre la palabra destacada y el cambio 
+morfológico que experimenta.    
+I. 	Compraron un portapapeles.
+II.  Recibió un trato inhumano. 
+III. Celebraron su quincea�ero. 
+IV.  Iremos al cine el sábado. 
+a.   Derivación 
+b.  Composición 
+c.   Acortamiento 
+d.  Parasíntesis 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>Ia, IIb, IIIc, IVd</a>
+		<a>Ib, IIa, IIId, IVc</a>
+		<a>Id, IIc, IIIb, IVa</a>
+		<a>Ib, IIc, IIId, IVa</a>
+		<a>Ic, IIb, IIIa, IVd</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

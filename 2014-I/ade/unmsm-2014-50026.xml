@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>Del total de estudiante de un colegio, el 20% son nias. Si el 50% de las niñas y el 40% de los niños trabajan para ayudar a sus padres,<q0>
+	<g0></g0>
+	<q>Â¿que porcentaje de estudiantes de ese colegio no trabaja?</q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>58%</a>
+		<a>62%</a>
+		<a>42%</a>
+		<a>70%</a>
+		<a>56%</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

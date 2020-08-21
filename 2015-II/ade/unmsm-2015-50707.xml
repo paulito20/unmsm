@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>De las características generales de los seres vivos, 
+marque verdadero (V) o falso (F) según corres- 
+ponda e indique la secuencia correcta. 
+(  ) Todos los individuos se desplazan de un lugar 
+	a otro. 
+(  ) Son capaces de responder a diversos estímulos. 
+(  ) Los multicelulares crecen en número y masa. 
+(  ) La mayoría tiene una organización específica. 
+(  ) Todos tienen la capacidad de adaptarse a 
+	cambios. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>VVFFF</a>
+		<a>FVVVV</a>
+		<a>FVVFV</a>
+		<a>VVVFF</a>
+		<a>FFVFF</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

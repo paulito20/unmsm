@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q> Gracias a la mayéutica, Sócrates procuraba que 
+aquel con quien dialogaba descubriera la verdad 
+por sí mismo. Pero antes, con fines preparatorios,
+practicaba ............... a fin de que su interlocutor 
+se percatara ............... 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>el sarcasmo - de su inferioridad ante él.</a>
+		<a>la ironía - de sus propias limitaciones.</a>
+		<a>el cuestionamiento - de la diferencia entre 
+ellos.</a>
+		<a>la crítica - del temperamento del filósofo.</a>
+		<a>la duda - de la dificultad del tema.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

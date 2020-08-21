@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuál de los siguientes enunciados resulta incom- 
+patible con el texto? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Los postulantes, en la actualidad, pueden 
+	evaluar una amplia oferta.</a>
+		<a>El incremento de universidades se debe a 
+	un marco jurídico propicio.</a>
+		<a>Las nuevas universidades son evaluadas 
+	considerando el mercado laboral.</a>
+		<a>Se recomienda una universidad porque se 
+	la considera de calidad.</a>
+		<a></a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>Resulta incompatible con el texto afirmar que el
+incremento de universidades se debe a un marco 
+juridico de universidades se debe a un marco 
+juridico propicio. Segun el texto, dicho incremento 
+no se dio debido a un factor jurídico, sino económi- 
+co: la liberalización de la educación superior. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

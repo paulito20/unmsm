@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El promedio de 56 números es 39, siendo 50 y 
+55 dos de los números. Si se eliminan ambos 
+números, el promedio de los restantes es 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>36,5</a>
+		<a>38,5</a>
+		<a>36</a>
+		<a>37,5</a>
+		<a>38</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

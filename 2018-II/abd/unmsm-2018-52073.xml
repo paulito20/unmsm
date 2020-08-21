@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Los  ríos  de  la  vertiente  occidental  o  del  Pacífico 
+se  caracterizan  por  tener  un  régimen  irregular, 
+debido  a  la  carencia  de  precipitaciones  en  gran 
+parte de los meses del a�o; esto ocasiona que al- 
+gunos ríos de poco caudal, en periodo de estiaje, 
+pierdan  su  recorrido  superficial  y  no  logren  des- 
+embocar  en  el  océano.  Cuando  esto  sucede,  se 
+conocen como ríos 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>arreicos.</a>
+		<a>exorreicos.</a>
+		<a>endorreicos.</a>
+		<a>irregulares.</a>
+		<a>regulares.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

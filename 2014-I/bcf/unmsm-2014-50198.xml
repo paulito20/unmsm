@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Con respecto a la densidad de una sustancia, marque 
+con V (verdadero) o F (falso) los siguientes enuncia- 
+dos y señale la secuencia correcta. 
+I.	 Mide el grado de fluidez de sus molÃ©culas. 
+II.  Es independiente del tamaño de la muestra. 
+III. Es igual al producto de la masa y el volumen.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>FVV</a>
+		<a>FVF</a>
+		<a>FFV</a>
+		<a>VFF</a>
+		<a>VVV</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

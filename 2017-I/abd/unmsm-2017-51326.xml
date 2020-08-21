@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Respecto del funcionamiento cerebral, el lado 
+izquierdo del cerebro controla el lenguaje y regula 
+también el uso preferente de la mano derecha. Asi- 
+mismo, el lado derecho ejerce control sobre el modo 
+en que percibimos la interrelación de las cosas en 
+el espacio. Lo anterior se explica por el principio de 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>diferenciación neuronal.</a>
+		<a>integración hemisférica.</a>
+		<a>organización cerebral.</a>
+		<a>especialización neural.</a>
+		<a>lateralización hemisférica.</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

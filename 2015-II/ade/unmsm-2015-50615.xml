@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) Cuanto más elevado es el lugar que ocupa la 
+especie en la escala del reino vegetal, más comple- 
+jo es su proceso metabólico. (II) La reproducción 
+de las plantas implica un proceso que involucra 
+a diversas especies animales. (III) El primer acto 
+del proceso reproductivo de las plantas es la 
+polinización, cuyo objetivo es su germinación. 
+(IV) El proceso reproductivo de las plantas es po- 
+sible gracias al transporte del grano de polen de 
+las antenas de los insectos a los estigmas. (V) En 
+el proceso reproductivo de las plantas, el viento 
+cumple con transportar los granos de polen. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>III</a>
+		<a>II</a>
+		<a>V</a>
+		<a>IV</a>
+		<a>I</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>El tema central del ejercicio es la reproducción 
+de las plantas. Por tal razón, se debe eliminar la 
+primera oración. Esta refiere a un asunto distinto: 
+el metabolismo de las plantas.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

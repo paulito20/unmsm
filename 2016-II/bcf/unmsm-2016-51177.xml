@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuánto costará cercar 36 m ? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>640 soles</a>
+		<a>600 soles</a>
+		<a>740 soles</a>
+		<a>880 soles</a>
+		<a>840 soles</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

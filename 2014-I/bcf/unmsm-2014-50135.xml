@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>Si </q0>
+	<g0></g0>
+	<q> y</q>
+	<g></g>
+	<q2>, halle el valor de xy.</q2>
+	<as t="R" correcta="2">
+		<a>10</a>
+		<a>16</a>
+		<a>12</a>
+		<a>14</a>
+		<a>15</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>Tema: Situaciones algebraicas
+	Análisis y procedimiento 
+	Se pide el valor de xy.
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>
+
+ 

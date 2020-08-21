@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El ángulo de elevación con que se observa la parte 
+superior de un edificio, es de 45º como se muestra 
+en la figura. Sobre el borde del edificio hay una 
+antena, cuya parte superior se observa desde el 
+mismo lugar, con un ángulo de elevación cuya 
+tangente es 1,2. ¿Cuál es la longitud de la antena?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>36 m</a>
+		<a>24 m</a>
+		<a>18 m</a>
+		<a>30 m</a>
+		<a></a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

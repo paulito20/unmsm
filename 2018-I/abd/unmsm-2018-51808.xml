@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Pepito, un bebÃ© de cinco meses de edad, vive con 
+sus padres, pero ellos por razónes laborales salen de 
+casa desde las seis de la mañana hasta las nueve de 
+la noche. Durante ese tiempo, el niño queda bajo el 
+cuidado de la empleada del hogar. Cuando regresa, 
+la madre quiere cargar a su hijo para acariciarlo, 
+pero el niño llora y no quiere separarse de su 
+cuidadora. El vÃ­nculo emocional que tiene el bebÃ© 
+con la empleada del hogar se denomina 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>contacto.</a>
+		<a>amor.</a>
+		<a>apego.</a>
+		<a>empatÃ­a.</a>
+		<a>cariño.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

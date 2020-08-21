@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una caja hay 25 bolas blancas, 19 negras, 
+14 azules, 12 rojas y 11 amarillas. ¿Cuál es el menor 
+número de bolas que se deben extraer al azar para 
+tener la seguridad de haber extraído 15 bolas de 
+un mismo color? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>66</a>
+		<a>65</a>
+		<a>52</a>
+		<a>64</a>
+		<a>67</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

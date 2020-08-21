@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Carlos pactó un encuentro con su enamorada, pero 
+ella no llegó. En el siguiente encuentro, él le entregó 
+una tarjeta que decía: 
+La otra noche te esperé bajo la lluvia dos horas, 
+mil horas... 
+En este enunciado, el enamorado emplea la figura 
+literaria conocida como 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>metáfora.</a>
+		<a>hipérbaton.</a>
+		<a>hipérbole.</a>
+		<a>anáfora.</a>
+		<a>epíteto.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

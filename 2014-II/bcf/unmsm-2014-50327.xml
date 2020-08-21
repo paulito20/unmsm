@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Las principales deducciones de los hallazgos de 
+polen preservado en sedimentos lacustres fueron: 
+I.    En la isla de Pascua se dio la existencia mile- 
+	naria de palmeras gigantes. 
+II.  Antes de la llegada de los polinesios, hubo un 
+	equilibrio ecológico en la isla. 
+III. Los enfrentamientos tribales en la isla se ca- 
+	racterizan por un sentido religioso. 
+IV.  La intensa tala de bosques se inició mucho 
+	antes de la llegada de los polinesios. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>I y IV</a>
+		<a>I y II</a>
+		<a>II y III</a>
+		<a>II y IV</a>
+		<a>III y IV</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>El biogeógrafo John Flenley realizó hallazgos de 
+polen preservados en sedimentos lacustres. Esto 
+probó que la isla de Pascua estuvo cubierta por 
+un bosque de palmeras antes de la llegada de los 
+polinesios. Por lo tanto, las principales deducciones 
+que se derivan son las siguientes: 
+I.    En la isla de Pascua se dio la existencia mile- 
+	naria de palmeras gigantes, pero luego fueron 
+	depredadas por los polinesios al llegar a la isla. 
+II.  Antes de la llegada de los polinesios, hubo un 
+	equilibrio ecológico en la isla, ya que de este 
+	modo la isla era copiosa en vegetación. 
+Son incorrectas: 
+III. Los enfrentamientos tribales en la isla se 
+	caracterizan por un sentido religioso. Esta 
+	afirmación no corresponde a la investigación 
+	de Flenley. 
+IV.  La intensa tala de bosques se inició mucho 
+	antes de la llegada de los polinesios. Esto es 
+	erróneo, porque la tesis sostiene que ocurrió 
+	recién con la llegada de ellos. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

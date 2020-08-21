@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Ricardo compró siete lapiceros por cuatro soles y 
+vendió cinco lapiceros por tres soles. Si el resto lo
+vendió por cinco soles, entonces 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>perdió cuatro soles.</a>
+		<a>ganó ocho soles.</a>
+		<a>perdió ocho soles.</a>
+		<a>ni ganó ni perdió.</a>
+		<a>ganó cuatro soles.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

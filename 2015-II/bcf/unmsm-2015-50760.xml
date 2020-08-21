@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Una urna U contiene 3 bolas blancas y 4 bolas 
+rojas, y otra urna V contiene 4 bolas blancas y
+5 bolas rojas. Se extrae, al azar, una bola de una 
+de las dos urnas. ¿Cuál es la probabilidad de que 
+la bola extraída sea roja? 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>71/63</a>
+		<a>71/126</a>
+		<a>9/16</a>
+		<a>3/4</a>
+		<a>2/9</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

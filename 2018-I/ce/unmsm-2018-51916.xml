@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Determine el valor de verdad (V 0 F) de los 
+siguientes enunciados relativos a la lengua estándar. 
+I.	Frente a las variedades regionales, la lengua 
+	estándar es la única que tiene una gramática 
+	constituida. 
+II.  La pureza lingüística es una cualidad inherente a 
+	toda lengua estándar de alcance verdaderamente 
+	nacional. 
+III. El progreso social está garantizado cuando 
+	la lengua estándar sustituye a las lenguas 
+	originarias. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="4">
+		<a>VFF</a>
+		<a>FVF</a>
+		<a>FFV</a>
+		<a>FVV</a>
+		<a>FFF</a>
+	</as>	
+	<x>E.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>(I) El bambú es un arbusto perteneciente al 
+grupo de las gramíneas y por su alta resistencia 
+es conocido como “el acero vegetal”. (II) Los 
+brotes del bambú son muy cotizados por su alto 
+contenido nutricional y su excelente sabor. (III) El 
+bambú tiene un efecto remineralizante, ya que 
+protege de la osteoporosis que fragiliza los huesos 
+durante el periodo de la menopausia. (IV) Dado 
+que tiene propiedades químicas antibacterianas, 
+desodorantes y de coloración, el bambú es útil 
+como materia prima en diversos laboratorios. 
+(V) El bambú, también, es utilizado en el ecodise�o 
+de ropa interior tejida y ropa de cama. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>V</a>
+		<a>II</a>
+		<a>III</a>
+		<a>IV</a>
+		<a>I</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>El tema principal del ejercicio gira en torno a los 
+diversos usos comerciales que tiene el bambú. 
+Por lo tanto, por disociación, se elimina la prime- 
+ra oración, ya que aborda un tema diferente: la 
+naturaleza del bambú. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

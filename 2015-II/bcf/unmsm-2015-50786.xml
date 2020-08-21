@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un problemas de convivencia en el Perú es la 
+delincuencia,que va desde delitos menores o 
+comunes hasta bandas organizadas y delitos 
+financieros. Los factores básicos que influyen en 
+su ocurrencia son, principalmente, de carácter 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>cultural, educativo y religioso.</a>
+		<a>ideológico, racial y geográfico.</a>
+		<a>comunicacional, urbano y biológico.</a>
+		<a>demogratico, psicologo y arginal.</a>
+		<a>social, económico y político.</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

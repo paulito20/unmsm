@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Si el Estado descriminalizara la asistencia al suicida, 
+probablemente 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>el autor estaría de acuerdo con los argumen- 
+	tos a favor de la eutanasia.</a>
+		<a>un enfermo terminal tendría más opciones 
+	de lograr una muerte programada.</a>
+		<a>para compensar, tendría que criminalizar 
+	otra vez los intentos de suicidio.</a>
+		<a>la autonomía del enfermo terminal estaría 
+	libre de toda limitación del Estado.</a>
+		<a>ya nadie podría asistir al enfermo terminal 
+	por compasión, sino por interés.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>Si el Estado descriminalizara la asistencia suicida, 
+probablemente, un enfermo terminal tendría más 
+opciones de lograr una muerte programada. Según 
+el texto, la penalización de la asistencia suicida limita 
+las posibilidades del paciente terminal de decidir so- 
+bre su muerte. Es de suponer que la despenalización 
+de esta ayuda aumentaría las opciones del enfermo 
+terminal de “programar” su muerte. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

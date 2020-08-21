@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El  presidente  de  la  República  quiere  celebrar  un 
+tratado internacional con otros países de América 
+Latina; sin embargo, un grupo político de oposi- 
+ción  en  el  Congreso  manifiesta  que  no  lo  puede 
+hacer. ¿Cuál de los siguientes enunciados es ver- 
+dadero de acuerdo con nuestra Constitución? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Solo  el  Congreso  puede  suscribir  tratados  in- 
+	ternacionales y no el jefe de Estado.</a>
+		<a>Para todo tratado siempre se requiere la acep- 
+	tación del Tribunal Constitucional.</a>
+		<a>El Consejo Nacional de la Magistratura elije a 
+	los jueces y fiscales para los convenios.</a>
+		<a>El  presidente  de  la  República  está  autorizado 
+	constitucionalmente a celebrar tratados.</a>
+		<a>El   Ministerio   Público   formula   dictámenes 
+	aprobatorios para los tratados internacionales.</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Dadas las condiciones de serio peligro que com- 
+portaban las actividades proselitistas en el VRAEM 
+durante las últimas elecciones generales, varios par- 
+tidos políticos solicitaron a las autoridades castrenses 
+de esa zona declarada en emergencia, designar a 
+personal militar operativo para que difundan entre 
+los ciudadanos residentes en localidades alejadas 
+sus programas y planes de gobierno. ¿La solicitud 
+formulada se ajusta a lo establecido por la Consti- 
+tución Política? 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Sí, los militares también tienen igual derecho 
+	al voto y a la participación ciudadana.</a>
+		<a>No, los militares no pueden participar en 
+	actos proselitistas ni actividades partidarias.</a>
+		<a>Sí, pueden realizar este tipo de actividades 
+	con la autorización del Ministerio de Defensa.</a>
+		<a>Sí, pueden realizar actos cívicos bajo la 
+	supervisión del Jurado Nacional de Elec- 
+	ciones.</a>
+		<a>No, solo pueden hacerlo con el permiso 
+	del Comandante Supremo de las Fuerzas 
+	Armadas.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>El metanal, también conocido como formaldehído 
+(HCHO), en solución acuosa al 40 %, se conoce 
+como formol. Este es utilizado como antiséptico y 
+conservante de tejidos animales. 
+Calcule el peso, en gramos, del metanal obtenido al 
+hacer reaccionar 1,5 mol de metanol con suficiente 
+cantidad de oxígeno según 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>45</a>
+		<a>30</a>
+		<a>1,5</a>
+		<a>15</a>
+		<a>60</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

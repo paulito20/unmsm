@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La dieta nutricional de Juan se compone general- 
+mente de carbohidratos, lípidos, proteínas, vitami- 
+nas y minerales. Si, por un problema de salud, a 
+Juan se le retira quirúrgicamente la vesícula biliar, 
+el médico le restringirá en la dieta, sobre todo, el 
+consumo de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>arroz blanco.</a>
+		<a>mantequilla.</a>
+		<a>verduras.</a>
+		<a>carne de pescado.</a>
+		<a>frutas.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

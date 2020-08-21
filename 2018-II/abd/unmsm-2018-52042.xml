@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En  el  proceso  de  la  comunicación,  el  lenguaje 
+puede cumplir diversas funciones según los mati- 
+ces predominantes. En el enunciado ¡Qué alegría 
+me da volver a verte!, predomina la función
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>expresiva.</a>
+		<a>apelativa.</a>
+		<a>metalingüística</a>
+		<a>poética.</a>
+		<a>fáctica</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En el texto siguiente, indique las palabras que deben 
+escribirse con mayúscula inicial por su condición: 
+“Desde los inicios del imperio incaico hasta nuestros 
+días, nuestro país representa una de las zonas con 
+mayor diversidad lingüística en el continente. En la 
+actualidad, se calcula que hay cerca de 47 lenguas 
+indígenas. La mayoría de estas es hablada en la 
+amazonía, mientras que un grupo reducido se 
+emplea en los andes como es el caso del quechua 
+y del aimara”. 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Andes - Quechua - Aimara</a>
+		<a>Incaico - Andes - Continente </a>
+		<a>Imperio - Incaico - Amazonía</a>
+		<a>Imperio - Amazonía - Andes </a>
+		<a>Amazonía - Quechua - Aimara</a>
+	</as>	
+	<x>D.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

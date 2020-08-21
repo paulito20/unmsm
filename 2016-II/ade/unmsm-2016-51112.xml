@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Para mantener el monopolio comercial con sus 
+colonias en América, Espa�a estableció una flota 
+de galeones con el fin de 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>evitar el contrabando de los ingleses.</a>
+		<a>defenderse de piratas y corsarios.</a>
+		<a>mejorar la producción de oro y plata.</a>
+		<a>agilizar la exportación e importación.</a>
+		<a>generar mayores ingresos para la Corona.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

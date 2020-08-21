@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Ante el incremento de muertes y casos de enfer- 
+medad, el Ministerio de Salud (MINSA) declaró 
+en alerta epidemiológica al departamento de La 
+Libertad. El estado de mortandad y morbidez fue 
+causado por agentes infecciosos, ultramicroscópicos 
+y acelulares que afectan a todo tipo de organismos 
+y no pueden realizar ninguna función fuera de la 
+célula hospedera. ¿A qué patógenos corresponde 
+la anterior descripción?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="3">
+		<a>Bacteriófagos</a>
+		<a>Bacterias</a>
+		<a>Hongos</a>
+		<a>Virus</a>
+		<a>Parásitos</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

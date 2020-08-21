@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Calcule el número de moles de átomos de hidró- 
+geno presentes en 72 gramos de agua. 
+Datos: H=1 uma; O=16 uma 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>8</a>
+		<a>4</a>
+		<a>2</a>
+		<a>16</a>
+		<a>32</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

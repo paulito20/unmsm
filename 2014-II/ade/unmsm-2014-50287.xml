@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Determine la energía de un fotón cuya frecuencia </q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="4">
+		<a>2,21 eV</a>
+		<a>2,37 eV</a>
+		<a>2,73 eV</a>
+		<a>2,45 eV</a>
+		<a>2,07 eV</a>
+	</as>	
+	<x>E.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

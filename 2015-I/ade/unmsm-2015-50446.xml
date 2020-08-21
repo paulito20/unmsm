@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En la figura, OA=6 cm y la circunferencia está 
+inscrita en el sector circular AOB. Si P, T y Q 
+son puntos de tangencia, halle el perímetro de la 
+región sombreada.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="2">
+		<a>4(2+p)cm</a>
+		<a>(2+4p)cm</a>
+		<a>6(2+p)cm</a>
+		<a>(3+2p)cm</a>
+		<a>8(1+p)cm</a>
+	</as>	
+	<x>C.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Cuando los grandes centros comerciales venden 
+alimentos, vestidos, calzados, bebidas, tabaco y 
+textiles a sus clientes, con el compromiso de pago 
+a futuro, les están otorgando un crédito 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>de consumo.</a>
+		<a>de inversión.</a>
+		<a>de capitalización.</a>
+		<a>sin intereses.</a>
+		<a>ilimitado.</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

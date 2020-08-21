@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Indique  los  procesos  psicológicos  que  favorecen 
+la  formación  de  aprendizajes  cognitivos  al  inte- 
+ractuar con el mundo exterior 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Aprendizaje y memoria.</a>
+		<a>Sensación y percepción.</a>
+		<a>Sensación y atención.</a>
+		<a>Percepción y memoria.</a>
+		<a>Percepción y atención.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

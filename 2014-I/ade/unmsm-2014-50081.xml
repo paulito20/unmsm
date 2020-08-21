@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Un movil que describe una trayectoria circular de radio 2,0m desarrolla un movimiento uniformente variado.En un instate dado, su aceleracion centripeta tiene un modulo de 2,0m/s2. Si 4,0s despues su rapidez angular es 9,0rad/s,determine el modulo de la aceleracion angular.</q>
+	<q2></q2>
+	<as t="R" correcta="0">
+		<a>2,0 rad/s2</a>
+		<a>4,0 rad/s2</a>
+		<a>1,0 rad/s2</a>
+		<a>3,0 rad/s2</a>
+		<a>6,0rad/s2</a>
+	</as>	
+	<x>A</x>
+	<i></i>
+	<x2></x2>
+	<i2></i2>
+	<v></v>
+</p>

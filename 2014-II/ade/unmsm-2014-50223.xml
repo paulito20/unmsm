@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Cuáles fueron los factores causales de la acele- 
+ración del proceso evolutivo que posibilitaron el 
+surgimiento de las capacidades cognitivas propias 
+del Homo sapiens?
+I.   La evolución biológica de un nuevo modo de 
+    identificar y entenderse con los miembros de 
+    la misma especie. 
+II.  La interacción sociocultural durante el proceso 
+	que produjo formas simbólicas de comunica- 
+	ción. 
+III. El desarrollo de las formas simbólicas de 
+	comunicación a velocidades muy superiores 
+	a las de la evolución biológica. 
+IV.  El proceso evolutivo continuo que ocurre 
+	integralmente en el desarrollo de todas las 
+	especies biológicas. 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="0">
+		<a>I, II y III</a>
+		<a>I, III y IV</a>
+		<a>II, III y IV</a>
+		<a>solo I y III</a>
+		<a>I, II y IV</a>
+	</as>	
+	<x>A.
+	</x>
+	<i></i>
+	<x2>Según el texto, entre los factores que aceleran 
+el proceso evolutivo del surgimiento de las ca- 
+pacidades cognitivas del Homo sapiens están la 
+evolución biológica de una nueva forma inten- 
+cional de identificarse y entenderse entre los inte- 
+grantes de la misma especie, y el rápido desarrollo 
+de las formas simbólicas de comunicación, que 
+depende de la interacción sociocultural, mas no 
+de la evolución biológica normal (común a otras 
+especies). Todos estos factores se presentaron 
+exclusivamente en el Homo sapiens. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>La Revolución francesa abarcó desde 1789 a 1815 
+y se desarrolló en varios periodos como la Asamblea 
+Constituyente, la Convención, el Directorio, el 
+Consulado y el Imperio. El periodo del Consulado 
+es importante porque
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>puso término al sistema político, social y 
+	económico imperante en Francia.</a>
+		<a>consolidó los derechos de propiedad, 
+	libertad individual e igualdad de derechos.</a>
+		<a>aprobó la declaración de los derechos 
+	naturales del hombre y del ciudadano.</a>
+		<a>anuló los derechos y privilegios de los 
+	se�ores feudales due�os de las tierras.</a>
+		<a>elaboró una Constitución que convirtió a 
+	Francia en una monarquía constitucional.</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

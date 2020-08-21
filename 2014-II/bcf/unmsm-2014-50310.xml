@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Estéril, árido, yermo,... 
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="1">
+		<a>híbrido</a>
+		<a>infructuoso</a>
+		<a>molesto</a>
+		<a>opresivo</a>
+		<a>triste</a>
+	</as>	
+	<x>B.
+	</x>
+	<i></i>
+	<x2>Las palabras que conforman la serie son sinonimos,
+se refieren a lo que es improductivo. Por ende, el 
+vocablo que completa la serie es infructuoso, 
+que significa ineficaz o inútil. z
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

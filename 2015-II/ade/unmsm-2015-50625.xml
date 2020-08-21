@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Uno de los siguientes enunciados es incompatible 
+con el sistema de Hipócrates.
+	</q>
+	<q2>	
+	</q2>
+	<as t="R" correcta="3">
+		<a>Los temperamentos pueden ser explicados 
+por los cuatro humores.</a>
+		<a>La flema, que incluye a las lágrimas, 
+vuelve al cuerpo frío y húmedo. </a>
+		<a>La relación entre el cuerpo y el entorno 
+era un principio de la terapia. </a>
+		<a>Algunas enfermedades son explicadas por 
+causas sobrenaturales. </a>
+		<a>Los componentes del cuerpo humano
+están vinculados entre sí. </a>
+	</as>	
+	<x>D.
+	</x>
+	<i></i>
+	<x2>En las últimas líneas del texto, se sostiene que, 
+según la medicina hipocrática, la salud y las 
+enfer medades humanas se deben a causas 
+naturales. Por lo tanto, es incorrecto sostener que 
+algunas enfermedades se explican por factores 
+sobrenaturales. 
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

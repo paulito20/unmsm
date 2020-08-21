@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Uno de los siguientes enunciados es incompatible con el texto.</q>
+	<q2></q2>
+	<as t="R" correcta="1">
+		<a>El asociacionismo simplifica la inteligencia en elementos mínimos.</a>
+		<a>Hume sostiene que la ciencia es un saber lógicamente necesario.</a>
+		<a>Aristóteles redujo el asociacionanismo a un principio de memoria. </a>
+		<a>El asociacionanismo radical es la propuesta escéptica de Hume.</a>
+		<a>Según Hume, la relación causa y efecto se funda en la costumbre.</a>
+	</as>	
+	<x>B</x>
+	<i></i>
+	<x2>El enunciado incorrecto con el texto es “Hume 
+	sostiene que la ciencia es un saber lógicamente 
+	necesario”. 
+	David Hume, de postura radical, se�ala que es 
+	la costumbre la que produce las asociaciones en 
+	nuestro pensamiento; por ende, no existe una 
+	lógica necesaria en su generación, sino que estas 
+	se dan de forma puramente aleatoria (casual). </x2>
+	<i2></i2>
+	<v></v>
+</p>
