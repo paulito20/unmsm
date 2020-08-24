@@ -3,8 +3,8 @@
 <p>
     <q0></q0>
     <g0></g0>
-    <q>El producto de las edades de Jose,Julio y Carlos es 36. La suma de estas edades es el menor numero primo e dos
-       digitos.Jose es mayor que Julio, pero menor que Carlos.Halle la suma de las edades de Julio y Jose.</q>
+    <q>El producto de las edades de José, Julio y Carlos es 36. La suma de estas edades es el menor número primo de dos
+       dígitos. José es mayor que Julio, pero menor que Carlos. Halle la suma de las edades de Julio y Jose.</q>
     <q2></q2>
     <as t="R" correcta="0">
         <a>5</a>

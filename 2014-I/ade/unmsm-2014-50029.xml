@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-    <q0>En una fista, se observa que, en un determinado instante, el numero de arejas que bailan es la mitad del numero
-        de parejas que no bailan y el numero de mujeres que no bailan es el cudruple del numero de hombres que bailan.
+    <q0>En una fista, se observa que, en un determinado instante, el número  de arejas que bailan es la mitad del numero
+        de parejas que no bailan y el número  de mujeres que no bailan es el cudruple del número  de hombres que bailan.
         Si en total hay 120 personas.</q0>
     <g0></g0>
     <q>¿cuantos hombres hay en dicha fiesta?</q>
