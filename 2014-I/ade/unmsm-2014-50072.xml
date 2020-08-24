@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>A mediados del siglo XVII, con un discurso mesianico andino-amazonico,...............dirigo,dede la ceja de Selva,una importancia insurreccion anticoloniial.</q>
-	<q2></q2>
-	<as t="R" correcta="4">
-		<a>Manco Inca</a>
-		<a>Jose Gabriel Tupac Amaru</a>
-		<a>Tupac Catari</a>
-		<a>Mateo Pumacahua</a>
-		<a>Juan Santos Atahualpa</a>
-	</as>	
-	<x>E</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>A mediados del siglo XVII, con un discurso mesianico andino-amazonico,...............dirigo, dede la ceja de
+       Selva,una importancia insurrección anticoloniial.</q>
+    <q2></q2>
+    <as t="R" correcta="4">
+        <a>Manco Inca</a>
+        <a>Jose Gabriel Tupac Amaru</a>
+        <a>Tupac Catari</a>
+        <a>Mateo Pumacahua</a>
+        <a>Juan Santos Atahualpa</a>
+    </as>
+    <x>E</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

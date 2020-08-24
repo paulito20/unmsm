@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Marque la serie conformada exclusivamente por sustantivos colectivos</q>
-	<q2></q2>
-	<as t="R" correcta="1">
-		<a>Arboles, recua,tinieblas</a>
-		<a>Batallon, arboleda,manada</a>
-		<a>Colegiaturas,troyanos,jauria</a>
-		<a>Mejicanos,bebes, perrera</a>
-		<a>Plumaje,chicas, papeleria</a>
-	</as>	
-	<x>B</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Marque la serie conformada exclusivamente por sustantivos colectivos</q>
+    <q2></q2>
+    <as t="R" correcta="1">
+        <a>Arboles, recua,tinieblas</a>
+        <a>Batallon, arboleda,manada</a>
+        <a>Colegiaturas,troyanos,jauria</a>
+        <a>Mejicanos,bebes, perrera</a>
+        <a>Plumaje, chicas, papeleria</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

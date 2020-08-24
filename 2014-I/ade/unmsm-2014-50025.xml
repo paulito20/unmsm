@@ -1,20 +1,22 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Distribuya los numeros 1,2,3,6,7,9,11 y 13 en los circulos de la figura,de tal manera que las suma de los tres numeros colocados, en cada lado del cuadrado, sumen 18,19,20 y 21.Halle la suma de los numeros que han sido ubicados en los circulos sombreados.</q>
-	<q2></q2>
-	<as t="R" correcta="4">
-		<a>29</a>
-		<a>25</a>
-		<a>28</a>
-		<a>21</a>
-		<a>26</a>
-	</as>	
-	<x>E</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Distribuya los numeros 1,2,3,6,7,9,11 y 13 en los circulos de la figura, de tal manera que las suma de los tres
+       numeros colocados, en cada lado del cuadrado, sumen 18,19,20 y 21.Halle la suma de los numeros que han sido
+       ubicados en los circulos sombreados.</q>
+    <q2></q2>
+    <as t="R" correcta="4">
+        <a>29</a>
+        <a>25</a>
+        <a>28</a>
+        <a>21</a>
+        <a>26</a>
+    </as>
+    <x>E</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

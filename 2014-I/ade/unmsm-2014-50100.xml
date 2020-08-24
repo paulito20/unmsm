@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0>En un pleito de paternida,un hombre desea utilizar el grupo sanquineo como prueba para saber que el niño podria ser un hijo.</q0>
-	<g0></g0>
-	<q>Â¿Cual es la unica combinacion que negaria esta posibilidad?</q>
-	<q2></q2>
-	<as t="R" correcta="3">
-		<a>Madre A;padre O;hijo B.</a>
-		<a>Madre AB; padre A, hijo O.</a>
-		<a>Madre A;padre B;hijo O.</a>
-		<a>Madre AB;padre O;hijo AB</a>
-		<a>Madre B;padre O;hijo A</a>
-	</as>	
-	<x>D</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0>En un pleito de paternida,un hombre desea utilizar el grupo sanquineo como prueba para saber que el niño podria
+        ser un hijo.</q0>
+    <g0></g0>
+    <q>¿Cuál es la única combinación que negaria esta posibilidad?</q>
+    <q2></q2>
+    <as t="R" correcta="3">
+        <a>Madre A;padre O;hijo B.</a>
+        <a>Madre AB; padre A, hijo O.</a>
+        <a>Madre A;padre B;hijo O.</a>
+        <a>Madre AB;padre O;hijo AB</a>
+        <a>Madre B;padre O;hijo A</a>
+    </as>
+    <x>D</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

@@ -1,20 +1,23 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>El autor del texto se centra en</q>
-	<q2></q2>
-	<as t="R" correcta="0">
-		<a>las matematicas como lenguaje ideal de la ciencia</a>
-		<a>el dialogo eficaz de los cientificos naturalistas</a>
-		<a>la actual comunicacion cientifica internacional</a>
-		<a>la moderna matematica universalmente valida</a>
-		<a>la sistematizacion del conocimiento cientifico</a>
-	</as>	
-	<x>A</x>
-	<i></i>
-	<x2>El autor del texto sse centra en sustentar que la matematica es el lenguaje idoneo para la ciencia. En el texto se plantea la imortancia de unacomunicacion precisa y objetiva dentro del ambito cientifico y,de este modo, evitar las confusiones o errores. Por lo tanto, es necesario contar con enunciados formulados en lenguaje matematico, el cual, por su propia naturaleza, permite la exactitud en la transmision del conocimiento.</x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>El autor del texto se centra en</q>
+    <q2></q2>
+    <as t="R" correcta="0">
+        <a>las matemáticas como lenguaje ideal de la ciencia</a>
+        <a>el diálogo eficaz de los científicos naturalistas</a>
+        <a>la actual comunicación científica internacional</a>
+        <a>la moderna matemática universalmente válida</a>
+        <a>la sistematización del conocimiento científico</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2>El autor del texto se centra en sustentar que la matemática es el lenguaje idóneo para la ciencia. En el texto
+        se plantea la importancia de una comunicación precisa y objetiva dentro del ámbito científico y, de este modo,
+        evitar las confusiones o errores. Por lo tanto, es necesario contar con enunciados formulados en lenguaje
+        matemático, el cual, por su propia naturaleza, permite la exactitud en la transmisión del conocimiento.</x2>
+    <i2></i2>
+    <v></v>
 </p>

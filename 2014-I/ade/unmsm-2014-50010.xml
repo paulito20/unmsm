@@ -1,20 +1,22 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Cabe inferir que, en materia religiosa,Vallejo demostro a la vez</q>
-	<q2></q2>
-	<as t="R" correcta="0">
-		<a>avidez e incertidumbre</a>
-		<a>compromiso e indiferencia</a>
-		<a>devocion y desinteres</a>
-		<a>tradicionalidad y ateismo</a>
-		<a>fervor e intransigencia</a>
-	</as>	
-	<x>A</x>
-	<i></i>
-	<x2>Segun el texto,Vallejo crecio en un hogar cristino rodeado de una familia muy devota,que motivo en el un marcado interes por la religion, pero con ciertas dudas y modificaciones que perdurarori hasta su muerte.Cabe inferir que, en materia religiosa,Vallejo demostro, a la vez, avidez e incertidumbre</x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Cabe inferir que, en materia religiosa, Vallejo demostró a la vez</q>
+    <q2></q2>
+    <as t="R" correcta="0">
+        <a>avidez e incertidumbre</a>
+        <a>compromiso e indiferencia</a>
+        <a>devoción y desinteres</a>
+        <a>tradicionalidad y ateismo</a>
+        <a>fervor e intransigencia</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2>Según el texto, Vallejo crecio en un hogar cristiano rodeado de una familia muy devota, que motivó en él un
+        marcado interés por la religion, pero con ciertas dudas y modificaciones que perduraron hasta su muerte. Cabe
+        inferir que, en materia religiosa, Vallejo demostró, a la vez, avidez e incertidumbre.</x2>
+    <i2></i2>
+    <v></v>
 </p>

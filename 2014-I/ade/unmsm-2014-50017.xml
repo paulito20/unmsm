@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Entre MENTE y COGNICION, el autor establece una relación de</q>
-	<q2></q2>
-	<as t="R" correcta="3">
-		<a>antitesis</a>
-		<a>dependencia</a>
-		<a>diferencia</a>
-		<a>equivalencia</a>
-		<a>simbiosis</a>
-	</as>	
-	<x>D</x>
-	<i></i>
-	<x2>En el txto se planta que tener mente equivale a poseer fenomenos mentales, lo que a su vez para el autor supone tener cognicion o procesos cognitvos.</x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Entre MENTE y COGNICIÓN, el autor establece una relación de</q>
+    <q2></q2>
+    <as t="R" correcta="3">
+        <a>antítesis</a>
+        <a>dependencia</a>
+        <a>diferencia</a>
+        <a>equivalencia</a>
+        <a>simbiosis</a>
+    </as>
+    <x>D</x>
+    <i></i>
+    <x2>En el texto se plantea que tener mente equivale a poseer fenómenos mentales, lo que a su vez para el autor
+        supone tener cognición o procesos cognitivos.</x2>
+    <i2></i2>
+    <v></v>
 </p>

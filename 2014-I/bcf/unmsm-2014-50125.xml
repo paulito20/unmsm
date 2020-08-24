@@ -5,7 +5,7 @@
 	<g0></g0>
 	<q>Si Carla es mayor que Félix, Lilia y Eduardo tienen 
 	la misma edad, Lilia es menor que Félix, Lucía y 
-	Eduardo han nacido en el mismo mes y a�o; es
+	Eduardo han n�cido en el mismo mes y a�o; es
 	siempre cierto que</q>
 	<q2></q2>
 	<as t="R" correcta="2">
@@ -27,7 +27,7 @@ De los datos
 • Lilia es menor que Félix: F > Li 
 Hasta aquí obtenemos 
 	C > F > Li=E 
-Último dato: Lucía y Eduardo han nacido en el 
+Último dato: Lucía y Eduardo han n�cido en el 
 mismo mes y a�o. 
 		C   > F  >   Li  =  E 
 			Lu 	 E=Li 

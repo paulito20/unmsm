@@ -1,20 +1,28 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>(I)Las nueces previenen enfermedades del sistema circulatorio que afectan el corazón y las arterias gracias a su riqueza en acido oleico y alfalinoleica.(II)La nuez reduce hasta en 50% el riesgo de sufrir enfermedades cardiovasculares,como infartoal miocardio o angina de pecho.(III)La nuez es mucho mejor que el aceite de oliva para reducir el colesterol, aumentar la elasticidad arterial, prevenir la formacion de coagulos y rebajar la tension arterial.(IV)Ingerir cinco nueces por semana es un buen habito para cuidar el corazón.(V)Como la mayoria de frutos secos, las nueces proporcionan una cantidad elevada de calorias, por lo que no debe abusarse de ellas en caso de obesidad</q>
-	<q2></q2>
-	<as t="R" correcta="2">
-		<a>III</a>
-		<a>IV</a>
-		<a>V</a>
-		<a>II</a>
-		<a>I</a>
-	</as>	
-	<x>C</x>
-	<i></i>
-	<x2>El tema central,destacado en el texto, es la revencion de enfermedades cardiacas mediante el consumo de nueces. Por lo tanto, el enunciado V se elimina por contradiccion, ya que destaca un aspecto negativo de su consumo.</x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Identifique y excluya la oración que resulta prescindible o incoherente con el texto:</q>
+    <g>./../../preguntas/preu/unmsm/2014/ade/unmsm-2014-50005.png</g>
+    <q2></q2>
+    <as t="R" correcta="2">
+        <a>III</a>
+        <a>IV</a>
+        <a>V</a>
+        <a>II</a>
+        <a>I</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <t>Eliminación de oraciones</t>
+    <x2>El tema central, destacado en el texto, es la prevención de enfermedades cardiacas mediante el consumo de
+        nueces. Por lo tanto, el enunciado V se elimina por contradicción, ya que destaca un aspecto negativo de su
+        consumo.</x2>
+    <i2></i2>
+    <v1>https://www.youtube.com/watch?v=lX-ba0qYqlM</v1>
+    <v2>https://www.youtube.com/watch?v=cHeeBY0Vcfo</v2>
+    <v3>https://www.youtube.com/watch?v=u5HbhQig1VI</v3>
+    <v4>https://www.youtube.com/watch?v=_3h5LmqIN2M</v4>
+    <v5>https://www.youtube.com/watch?v=DxvF1fkJfL4</v5>
 </p>

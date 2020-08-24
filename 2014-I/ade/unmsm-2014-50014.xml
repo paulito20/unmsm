@@ -1,20 +1,23 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Se infiere del texto que el lenguaje cientifico alcanza su maximo rigor cuando se expresa en</q>
-	<q2></q2>
-	<as t="R" correcta="1">
-		<a>entidades abstractas</a>
-		<a>enunciados formalizados</a>
-		<a>conceptos verificables</a>
-		<a>teoremas elementales</a>
-		<a>descripciones esenciales</a>
-	</as>	
-	<x>B</x>
-	<i></i>
-	<x2>Se refiere del texto que el lenguaje cientifico alcanza su maximo rigor cuando se expresa en enunciados matematicamente formalizados.El conocimiento cientifico se expresa mejor de forma matematica, ya que esta se caracteriza por su rigor y verificabilidad. Por lo tanto, se deduce que, en la ciencia, el lenguaje ideal para enunciar sus planteamientos sea el producto de la formalizacion matematica.</x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Se infiere del texto que el lenguaje científico alcanza su máximo rigor cuando se expresa en</q>
+    <q2></q2>
+    <as t="R" correcta="1">
+        <a>entidades abstractas</a>
+        <a>enunciados formalizados</a>
+        <a>conceptos verificables</a>
+        <a>teoremas elementales</a>
+        <a>descripciones esenciales</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2>Se refiere del texto que el lenguaje científico alcanza su máximo rigor cuando se expresa en enunciados
+        matemáticamente formalizados. El conocimiento científico se expresa mejor de forma matemática, ya que esta se
+        caracteriza por su rigor y verificabilidad. Por lo tanto, se deduce que, en la ciencia, el lenguaje ideal para
+        enunciar sus planteamientos sea el producto de la formalización matemática.</x2>
+    <i2></i2>
+    <v></v>
 </p>

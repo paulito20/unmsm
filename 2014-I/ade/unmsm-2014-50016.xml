@@ -1,20 +1,23 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Â¿Cual de los siquientes enunciados expresa la idea principal del texto?</q>
-	<q2></q2>
-	<as t="R" correcta="2">
-		<a>El pensamiento distinque entre organismos simples y complejos.</a>
-		<a>Los organismos complejo fueron precedidos por los simples.</a>
-		<a>Un cerebro complejo no es suficiente paa generar mente.</a>
-		<a>El comportamiento es propio de los organismos pluricelulares.</a>
-		<a>La mayoria de las acciones de los organismos son espontaneos.</a>
-	</as>	
-	<x>C</x>
-	<i></i>
-	<x2>El autor explicaa  principalmente las condiciones esenciales que determinan la existencia de la mente o cognicion en los organismos.En el texto se precisa que la complejidad de los circuitos neuronales no es suficiente para asegurar que un organismo tenga mente.Lo decisivo esta en la capacidad del organismo para representar y sistentizar imagenes.</x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de los siquientes enunciados expresa la idea principal del texto?</q>
+    <q2></q2>
+    <as t="R" correcta="2">
+        <a>El pensamiento distinque entre organismos simples y complejos.</a>
+        <a>Los organismos complejo fueron precedidos por los simples.</a>
+        <a>Un cerebro complejo no es suficiente para generar mente.</a>
+        <a>El comportamiento es propio de los organismos pluricelulares.</a>
+        <a>La mayoría de las acciones de los organismos son espontáneos.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2>El autor explica principalmente las condiciones esenciales que determinan la existencia de la mente o cognición
+        en los organismos. En el texto se precisa que la complejidad de los circuitos neuronales no es suficiente para
+        asegurar que un organismo tenga mente. Lo decisivo está en la capacidad del organismo para representar y
+        sistematizar imágenes.</x2>
+    <i2></i2>
+    <v></v>
 </p>

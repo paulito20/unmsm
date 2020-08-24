@@ -1,20 +1,22 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Un cilindro circular recto y tronco de cono de revolucion tienen igual volumen.La altura del cilindro es un tercio de la altura del tronco. Si los radios de las bses de las bases del tronco miden 2m y4m, halle la medida del radio de cilindro.</q>
-	<q2></q2>
-	<as t="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
-		<a></a>
-		<a></a>
-	</as>	
-	<x>A</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Un cilindro circular recto y tronco de cono de revolución tienen igual volumen. La altura del cilindro es un
+       tercio de la altura del tronco. Si los radios de las bses de las bases del tronco miden 2m y4m, halle la medida
+       del radio de cilindro.</q>
+    <q2></q2>
+    <as t="R" correcta="0">
+        <a></a>
+        <a></a>
+        <a></a>
+        <a></a>
+        <a></a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

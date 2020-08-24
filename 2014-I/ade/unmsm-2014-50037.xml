@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0>Se tiene una lamina de forma rectangular cuyas dimensiones son 60cm de ancho y 70cm de largo.Cortandola e laminas rectangulares de 20cm de ancho y 30cm de largo,</q0>
-	<g0></g0>
-	<q>Â¿cuantas de estas laminas,como maximo, se pueden obtener?</q>
-	<q2></q2>
-	<as t="R" correcta="1">
-		<a>6</a>
-		<a>7</a>
-		<a>8</a>
-		<a>9</a>
-		<a>5</a>
-	</as>	
-	<x>B</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0>Se tiene una lamina de forma rectangular cuyas dimensiones son 60cm de ancho y 70cm de largo.Cortandola e
+        laminas rectangulares de 20cm de ancho y 30cm de largo,</q0>
+    <g0></g0>
+    <q>¿cuantas de estas laminas, como maximo, se pueden obtener?</q>
+    <q2></q2>
+    <as t="R" correcta="1">
+        <a>6</a>
+        <a>7</a>
+        <a>8</a>
+        <a>9</a>
+        <a>5</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

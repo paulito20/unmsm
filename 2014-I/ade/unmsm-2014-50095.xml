@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>A la etapa de las enfermedades infecciosas comprendida entre el ingreso del agente patogeno al organismo y la aparicion de los primeros sintomas se le denomina</q>
-	<q2></q2>
-	<as t="R" correcta="2">
-		<a>transmision.</a>
-		<a>invasion.</a>
-		<a>incubacion.</a>
-		<a>absorcion.</a>
-		<a>recuperacion.</a>
-	</as>	
-	<x>C</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>A la etapa de las enfermedades infecciosas comprendida entre el ingreso del agente patogeno al organismo y la
+       aparición de los primeros sintomas se le denomina</q>
+    <q2></q2>
+    <as t="R" correcta="2">
+        <a>transmision.</a>
+        <a>invasion.</a>
+        <a>incubacion.</a>
+        <a>absorcion.</a>
+        <a>recuperacion.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Una grua levanta,verticalmente,un automovil de 2000kg de masa.Calcule la tension del cable si el peso es levantado con una rapidez que disminuye 5,0m/s en cada segundo.(Dato:g=10m/s2)</q>
-	<q2></q2>
-	<as t="R" correcta="0">
-		<a>1,0x104N</a>
-		<a>2,0x104N</a>
-		<a>3,0x104N</a>
-		<a>2,0x103N</a>
-		<a>4,0x103N</a>
-	</as>	
-	<x>A</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Una grua levanta,verticalmente,un automovil de 2000kg de masa.Calcule la tensión del cable si el peso es
+       levantado con una rapidez que disminuye 5,0m/s en cada segundo.(Dato:g=10m/s2)</q>
+    <q2></q2>
+    <as t="R" correcta="0">
+        <a>1,0x104N</a>
+        <a>2,0x104N</a>
+        <a>3,0x104N</a>
+        <a>2,0x103N</a>
+        <a>4,0x103N</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

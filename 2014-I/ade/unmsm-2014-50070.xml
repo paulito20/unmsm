@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Al organismo del Estado que se encarga de ejercer el control de las instituciones financieras,generalmente se le conoce como</q>
-	<q2></q2>
-	<as t="R" correcta="3">
-		<a>Banco Central de Reserva.</a>
-		<a>Bolsa de Valores de Lima.</a>
-		<a>Misterio de Economia y Finanzas.</a>
-		<a>Superintendencia de Banca y Seguros.</a>
-		<a>Comision Nacional Supervisora de Empresas y Valores.</a>
-	</as>	
-	<x>D</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Al organismo del Estado que se encarga de ejercer el control de las instituciones financieras,generalmente se le
+       conoce como</q>
+    <q2></q2>
+    <as t="R" correcta="3">
+        <a>Banco Central de Reserva.</a>
+        <a>Bolsa de Valores de Lima.</a>
+        <a>Misterio de Economia y Finanzas.</a>
+        <a>Superintendencia de Banca y Seguros.</a>
+        <a>Comisión Nacional Supervisora de Empresas y Valores.</a>
+    </as>
+    <x>D</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

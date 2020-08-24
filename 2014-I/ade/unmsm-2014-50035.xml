@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0>La edad de Juan es numericamente igual al cuadrado de la edad de Jesus sera el cuadrado de la edad de Jesus,</q0>
-	<g0></g0>
-	<q>Â¿cuantos años tiene Juan?</q>
-	<q2></q2>
-	<as t="R" correcta="4">
-		<a>56</a>
-		<a>58</a>
-		<a>46</a>
-		<a>78</a>
-		<a>61</a>
-	</as>	
-	<x>E</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0>La edad de Juan es numericamente igual al cuadrado de la edad de Jesus sera el cuadrado de la edad de Jesus,</q0>
+    <g0></g0>
+    <q>¿cuantos años tiene Juan?</q>
+    <q2></q2>
+    <as t="R" correcta="4">
+        <a>56</a>
+        <a>58</a>
+        <a>46</a>
+        <a>78</a>
+        <a>61</a>
+    </as>
+    <x>E</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

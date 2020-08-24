@@ -1,20 +1,23 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>En el texto, el verbo TRANSFORMAR se puede reemplazar por</q>
-	<q2></q2>
-	<as t="R" correcta="4">
-		<a>modificar</a>
-		<a>revetir</a>
-		<a>moldear</a>
-		<a>mutar</a>
-		<a>traducir</a>
-	</as>	
-	<x>E</x>
-	<i></i>
-	<x2>En el texto, el verbo transformar se puede reemplazar por traducir.En la primera linea del texto se indica que el paso final en la formalizacion de una teoria cientifica es transformarla en lenguaje matematico. Transformar se entiende entonces como pasar de un lenguaje impreso a otro de mayor exactitud, esto implica realizar una traduccion.</x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>En el texto, el verbo TRANSFORMAR se puede reemplazar por</q>
+    <q2></q2>
+    <as t="R" correcta="4">
+        <a>modificar</a>
+        <a>revetir</a>
+        <a>moldear</a>
+        <a>mutar</a>
+        <a>traducir</a>
+    </as>
+    <x>E</x>
+    <i></i>
+    <x2>En el texto, el verbo transformar se puede reemplazar por traducir. En la primera línea del texto se indica que
+        el paso final en la formalización de una teoría científica es transformarla en lenguaje matemático. Transformar
+        se entiende entonces como pasar de un lenguaje impreso a otro de mayor exactitud, esto implica realizar una
+        traduccion.</x2>
+    <i2></i2>
+    <v></v>
 </p>

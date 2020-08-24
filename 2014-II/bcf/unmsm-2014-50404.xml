@@ -12,9 +12,9 @@ puente de hidrógeno:
 	</q2>
 	<as t="R" correcta="4">
 		<a>I,II,III</a>
-		<a>II,III,V</a>
-		<a>I,IV,V</a>
-		<a>II,IV,V</a>
+		<a>II,III, V</a>
+		<a>I,IV, V</a>
+		<a>II,IV, V</a>
 		<a>II,III,IV</a>
 	</as>	
 	<x>E.

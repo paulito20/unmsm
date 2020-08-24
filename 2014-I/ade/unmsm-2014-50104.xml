@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0>Si parte de la secuencia del ARNm que sera utilizado para sintetizar del molde una proteina es AUG-CCG-ACG-GAA,</q0>
-	<g0></g0>
-	<q>¿cual debe ser la secuencia del molde de ADN que le dio origen?</q>
-	<q2></q2>
-	<as t="R" correcta="4">
-		<a>5´UAC-GGC-UGC-CUU3´</a>
-		<a>5´TAC-GGC-TGC-CIT3´</a>
-		<a>3´UAC-GGC-UGC-CUU5´</a>
-		<a>3´ATC-GGC-AGC-CAA5´</a>
-		<a>3´TAC-GGC-TGC-CIT5´</a>
-	</as>	
-	<x>E</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0>Si parte de la secuencia del ARNm que sera utilizado para sintetizar del molde una proteina es AUG-CCG-ACG-GAA,</q0>
+    <g0></g0>
+    <q>�cual debe ser la secuencia del molde de ADN que le dio origen?</q>
+    <q2></q2>
+    <as t="R" correcta="4">
+        <a>5´UAC-GGC-UGC-CUU3´</a>
+        <a>5´TAC-GGC-TGC-CIT3´</a>
+        <a>3´UAC-GGC-UGC-CUU5´</a>
+        <a>3´ATC-GGC-AGC-CAA5´</a>
+        <a>3´TAC-GGC-TGC-CIT5´</a>
+    </as>
+    <x>E</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

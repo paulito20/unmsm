@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>El incremento de un tipo de impuesto indirecto ocasiona, para quien lo paga,</q>
-	<q2></q2>
-	<as t="R" correcta="3">
-		<a>el aumento de su ingreso nominal.</a>
-		<a>la disminucion de su ingreso legal.</a>
-		<a>la disminucion de su renta bruta.</a>
-		<a>la disminucion de su ingreso real.</a>
-		<a>la afectacion de su ganancia neta.</a>
-	</as>	
-	<x>D</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>El incremento de un tipo de impuesto indirecto ocasiona, para quien lo paga,</q>
+    <q2></q2>
+    <as t="R" correcta="3">
+        <a>el aumento de su ingreso nominal.</a>
+        <a>la disminución de su ingreso legal.</a>
+        <a>la disminución de su renta bruta.</a>
+        <a>la disminución de su ingreso real.</a>
+        <a>la afectación de su ganancia neta.</a>
+    </as>
+    <x>D</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

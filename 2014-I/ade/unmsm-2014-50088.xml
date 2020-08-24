@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Para la reaccion CaCO3(s)+calor CaO(s)+CO2(g), la expresion de equilibrio es</q>
-	<q2></q2>
-	<as t="R" correcta="2">
-		<a>Kc=[Cao][CO2]/[CaCO3]</a>
-		<a>Kc=[CaO]/[CaCO3]</a>
-		<a>Kp=pCO2</a>
-		<a>Kp=pCaOxpCO2/pCaCO3</a>
-		<a>Kc=k[CaCO3]</a>
-	</as>	
-	<x>C</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Para la reacción CaCO3(s)+calor CaO(s)+CO2(g), la expresión de equilibrio es</q>
+    <q2></q2>
+    <as t="R" correcta="2">
+        <a>Kc=[Cao][CO2]/[CaCO3]</a>
+        <a>Kc=[CaO]/[CaCO3]</a>
+        <a>Kp=pCO2</a>
+        <a>Kp=pCaOxpCO2/pCaCO3</a>
+        <a>Kc=k[CaCO3]</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

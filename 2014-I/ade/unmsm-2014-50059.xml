@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Señale la alternativa donde se presenta una oracion enunciativa segun la actitud del hablante.</q>
-	<q2></q2>
-	<as t="R" correcta="3">
-		<a>Por favor,no haga ruido en el aula.</a>
-		<a>Espero que el proximo año vuelvas.</a>
-		<a>Problamente no nos clasificaremos.</a>
-		<a>El Huascaran es una cumbre elevada.</a>
-		<a>Dime quien es el reponsable del proyecto.</a>
-	</as>	
-	<x>D</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Señale la alternativa donde se presenta una oración enunciativa segun la actitud del hablante.</q>
+    <q2></q2>
+    <as t="R" correcta="3">
+        <a>Por favor,no haga ruido en el aula.</a>
+        <a>Espero que el proximo año vuelvas.</a>
+        <a>Problamente no nos clasificaremos.</a>
+        <a>El Huascaran es una cumbre elevada.</a>
+        <a>Dime quien es el reponsable del proyecto.</a>
+    </as>
+    <x>D</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

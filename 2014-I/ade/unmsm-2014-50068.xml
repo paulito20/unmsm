@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Las estructuras subcorticales que regulen las emciones conforan el sistema</q>
-	<q2></q2>
-	<as t="R" correcta="4">
-		<a>nervioso somatico</a>
-		<a>nervioso simpatico</a>
-		<a>endocrino</a>
-		<a>nervioso parasimpatico</a>
-		<a>limbico</a>
-	</as>	
-	<x>E</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Las estructuras subcorticales que regulen las emciones conforan el sistema</q>
+    <q2></q2>
+    <as t="R" correcta="4">
+        <a>nervioso somatico</a>
+        <a>nervioso simpatico</a>
+        <a>endocrino</a>
+        <a>nervioso parasimpatico</a>
+        <a>limbico</a>
+    </as>
+    <x>E</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Con respecto a la verdad(V)o falsedad(F)de las siquientes afirmaciones sobre la novela Doña Barbar,de Romulo Galejos,marque la alternativa que contiene la secuencia correcta.</q>
-	<q2></q2>
-	<as t="R" correcta="1">
-		<a>El tema central de la obra es lucha por las tierrs comunales.</a>
-		<a>La novela es lineal, presenta un orden logico y cronologico.</a>
-		<a>Doña Barbara derrota a Mister Danger y salva a su hija Marisela.</a>
-		<a>Esta novela es representativa del regionalismo hispanoamericano.</a>
-		<a></a>
-	</as>	
-	<x>B</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Con respecto a la verdad(V)o falsedad(F)de las siquientes afirmaciones sobre la novela Doña Barbar, de Romulo
+       Galejos,marque la alternativa que contiene la secuencia correcta.</q>
+    <q2></q2>
+    <as t="R" correcta="1">
+        <a>El tema central de la obra es lucha por las tierrs comunales.</a>
+        <a>La novela es lineal, presenta un orden logico y cronologico.</a>
+        <a>Doña Barbara derrota a Mister Danger y salva a su hija Marisela.</a>
+        <a>Esta novela es representativa del regionalismo hispanoamericano.</a>
+        <a></a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

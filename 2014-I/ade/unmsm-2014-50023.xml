@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0>En la figura se muestra un solido de madera que tiene la forma de un paralelepipedo rectangular.Un carpintero requiere dividir este solidoen 18 cubitos equivalentes, siquiendo las lineas marcadas.</q0>
-	<g0></g0>
-	<q>Â¿Cuantos cortes como minimo debera realizar?</q>
-	<q2></q2>
-	<as t="R" correcta="2">
-		<a>6</a>
-		<a>7</a>
-		<a>5</a>
-		<a>4</a>
-		<a>3</a>
-	</as>	
-	<x>C</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0>En la figura se muestra un solido de madera que tiene la forma de un paralelepipedo rectangular.Un carpintero
+        requiere dividir este solidoen 18 cubitos equivalentes, siquiendo las lineas marcadas.</q0>
+    <g0></g0>
+    <q>¿Cuantos cortes como minimo debera realizar?</q>
+    <q2></q2>
+    <as t="R" correcta="2">
+        <a>6</a>
+        <a>7</a>
+        <a>5</a>
+        <a>4</a>
+        <a>3</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

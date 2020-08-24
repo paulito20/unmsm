@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>La posicion filosofica que considera los rasgos fisicos y biologicos como los caracteres distintivos del hombre se denomina</q>
-	<q2></q2>
-	<as t="R" correcta="1">
-		<a>darwinismo</a>
-		<a>naturalismo</a>
-		<a>fenomenismo</a>
-		<a>evolucionismo</a>
-		<a>empirismo</a>
-	</as>	
-	<x>B</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>La posición filosofica que considera los rasgos fisicos y biologicos como los caracteres distintivos del hombre
+       se denomina</q>
+    <q2></q2>
+    <as t="R" correcta="1">
+        <a>darwinismo</a>
+        <a>naturalismo</a>
+        <a>fenomenismo</a>
+        <a>evolucionismo</a>
+        <a>empirismo</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

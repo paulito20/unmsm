@@ -1,23 +1,27 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-  <q0></q0>
-  <g0></g0>
-  <q>Identifique y excluya la oración que resulta prescindible o incoherente con el texto:</q>
-  <g>./../../preguntas/preu/unmsm/2014/ade/unmsm-2014-50003.png</g>
-  <q2></q2>
-  <as t="R" correcta="0">
-    <a>IV</a>
-    <a>I</a>
-    <a>V</a>
-    <a>III</a>
-    <a>II</a>
-  </as>
-  <x>A</x>
-  <i></i>
-  <t>Eliminación de oraciones</t>
-  <x2>El ejercicio nos cuenta, primordialmente, acerca del uso, hace unos siglos atras ,de la cuchara y el tenedor. Por
-      lo tanto, el enunciado IV se elimina por disociación, y que se centra en el material de su fabricación.</x2>
-  <i2></i2>
-  <v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Identifique y excluya la oración que resulta prescindible o incoherente con el texto:</q>
+    <g>./../../preguntas/preu/unmsm/2014/ade/unmsm-2014-50003.png</g>
+    <q2></q2>
+    <as t="R" correcta="0">
+        <a>IV</a>
+        <a>I</a>
+        <a>V</a>
+        <a>III</a>
+        <a>II</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <t>Eliminación de oraciones</t>
+    <x2>El ejercicio nos cuenta, primordialmente, acerca del uso, hace unos siglos atras , de la cuchara y el tenedor.
+        Por lo tanto, el enunciado IV se elimina por disociación, y que se centra en el material de su fabricación.</x2>
+    <i2></i2>
+    <v1>https://www.youtube.com/watch?v=WdJ6tBkPIUA</v1>
+    <v2>https://www.youtube.com/watch?v=uSHvvWgbGJQ</v2>
+    <v3>https://www.youtube.com/watch?v=fTJg40auUHw</v3>
+    <v4>https://www.youtube.com/watch?v=CGiyet5Ulv4</v4>
+    <v5>https://www.youtube.com/watch?v=rcPq97wO6P4</v5>
 </p>

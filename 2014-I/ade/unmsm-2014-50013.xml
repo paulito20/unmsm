@@ -1,20 +1,23 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Resulta incompatible con lo planteado por el autor afirmar que</q>
-	<q2></q2>
-	<as t="R" correcta="0">
-		<a>el uso del lenguaje matematico incorpora la vaquedad.</a>
-		<a>el lenguaje matematico tiene un poder descriptivo preciso.</a>
-		<a>la geometria euclideana se formulo a partir de axiomas claros.</a>
-		<a>el teorema de Pitagoras fue descubierto no solo por los griegos.</a>
-		<a>los términos tecnicos son necesarios en las descripciones.</a>
-	</as>	
-	<x>A</x>
-	<i></i>
-	<x2>Resulta incorrecto con lo planteado por el autor afirmar que el uso del lenguaje matematico incorpora la vaquedad, ya que la tesis propuesta por el señala claramente que el lenguaje matematico se utiliza para evitar la ambiquedad o imprecision(vaquedad)linguistica, por el contrario , su objetivo es precisar el conocimiento y para su difusion.</x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Resulta incompatible con lo planteado por el autor afirmar que</q>
+    <q2></q2>
+    <as t="R" correcta="0">
+        <a>el uso del lenguaje matemático incorpora la vaguedad.</a>
+        <a>el lenguaje matemático tiene un poder descriptivo preciso.</a>
+        <a>la geometría euclideana se formuló a partir de axiomas claros.</a>
+        <a>el teorema de Pitágoras fue descubierto no solo por los griegos.</a>
+        <a>los términos técnicos son necesarios en las descripciones.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2>Resulta incorrecto con lo planteado por el autor afirmar que el uso del lenguaje matemático incorpora la
+        vaguedad, ya que la tesis propuesta por él señala claramente que el lenguaje matemático se utiliza para evitar
+        la ambigüedad o imprecisión (vaguedad) lingüística, por el contrario, su objetivo es precisar el conocimiento y
+        para su difusion.</x2>
+    <i2></i2>
+    <v></v>
 </p>

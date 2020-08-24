@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>El gasto de energia que realiza la celula para desplazar iones y moleculas contra su gradiente de concentracion es denominado</q>
-	<q2></q2>
-	<as t="R" correcta="2">
-		<a>presion osmotica</a>
-		<a>difusion</a>
-		<a>transporte activo</a>
-		<a>osmosis</a>
-		<a>difusion facilitada</a>
-	</as>	
-	<x>C</x>
-	<i></i>
-	<x2></x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>El gasto de energia que realiza la celula para desplazar iones y moleculas contra su gradiente de concentración
+       es denominado</q>
+    <q2></q2>
+    <as t="R" correcta="2">
+        <a>presión osmotica</a>
+        <a>difusion</a>
+        <a>transporte activo</a>
+        <a>osmosis</a>
+        <a>difusión facilitada</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
 </p>

@@ -1,21 +1,27 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Identifique y excluya la oración que resulta prescindible o incoherente con el texto:</q>
-        <g>./../../preguntas/preu/unmsm/2014/ade/unmsm-2014-50004.png</g>
-	<q2></q2>
-	<as t="R" correcta="1">
-		<a>II</a>
-		<a>IV</a>
-		<a>III</a>
-		<a>I</a>
-		<a>V</a>
-	</as>	
-	<x>B</x>
-	<i></i>
-	<x2>El ejercicio desarrolla como eje tematico la influencia de la ciencia y tecnología en la sociedad. Por ello, el enunciado IV se elimina por disociación,debido a que aborda,unicamente su origen temporal.</x2>
-	<i2></i2>
-	<v></v>
+    <q0></q0>
+    <g0></g0>
+    <q>Identifique y excluya la oración que resulta prescindible o incoherente con el texto:</q>
+    <g>./../../preguntas/preu/unmsm/2014/ade/unmsm-2014-50004.png</g>
+    <q2></q2>
+    <as t="R" correcta="1">
+        <a>II</a>
+        <a>IV</a>
+        <a>III</a>
+        <a>I</a>
+        <a>V</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <t>Eliminación de oraciones</t>
+    <x2>El ejercicio desarrolla como eje tematico la influencia de la ciencia y tecnología en la sociedad. Por ello, el
+        enunciado IV se elimina por disociación, debido a que aborda,únicamente su origen temporal.</x2>
+    <i2></i2>
+    <v1>https://www.youtube.com/watch?v=mHQ2HMwJx40</v1>
+    <v2>https://www.youtube.com/watch?v=T-BFBEg7U-E</v2>
+    <v3>https://www.youtube.com/watch?v=ngdWX23IFlk</v3>
+    <v4>https://www.youtube.com/watch?v=y10RFu-xy2Y</v4>
+    <v5>https://www.youtube.com/watch?v=-6VHkd5uK3k</v5>
 </p>
